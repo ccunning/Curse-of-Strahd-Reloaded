@@ -1,26 +1,26 @@
 _An adventure for five 7th-level characters._
 
-In this arc, upon returning from Castle Ravenloft in [[Arc P - Ravenloft Heist]], the players learn that the Abbot of the Abbey of St. Markovia plans to seize Baroness Anna Krezkova’s heart before nightfall. Meanwhile, the mutated werewolf Kiril Stoyanovich hunts the players down, even as Commander Vladimir Horngaard gathers his revenant knights to execute a warrant for their deaths. Can the players redeem the Abbot, overthrow Kiril, and light the beacon of Argynvostholt—or will their efforts to return light to the Barovian valley come to a gruesome and bloody end?
+In this arc, upon returning from [[Places/Castle Ravenloft|Castle Ravenloft]] in [[Arc P - Ravenloft Heist]], the players learn that the [[NPCs/Abbot of the Abbey of Saint Markovia|Abbot of the Abbey]] of St. [[NPCs/Saint Markovia|Markovia]] plans to seize [[NPCs/Anna Krezkova|Baroness Anna Krezkova]]’s heart before nightfall. Meanwhile, the mutated werewolf [[NPCs/Kiril Stoyanovich|Kiril Stoyanovich]] hunts the players down, even as Commander [[NPCs/Vladimir Horngaard|Vladimir Horngaard]] gathers his [[NPCs/Revenant|revenant]] knights to execute a warrant for their deaths. Can the players redeem the [[NPCs/Abbot of the Abbey of Saint Markovia|Abbot]], overthrow [[NPCs/Kiril Stoyanovich|Kiril]], and light the [[Places/Beacon of Argynvostholt|beacon of Argynvostholt]]—or will their efforts to return light to the Barovian valley come to a gruesome and bloody end?
 # Q1. Flight From Ravenloft
-Depending on their means of escape, players who flee from Castle Ravenloft following [[Arc P - Ravenloft Heist]] can attempt to rest for the night in a number of different locations.
+Depending on their means of escape, players who flee from [[Places/Castle Ravenloft|Castle Ravenloft]] following [[Arc P - Ravenloft Heist]] can attempt to rest for the night in a number of different locations.
 ## Q1a. The Teleportation Brazier
-Players who escape Castle Ravenloft via the teleportation brazier in <span class="citation">K78. Brazier Room (p. 82)</span> can teleport to the locations described in [[Arc P - Ravenloft Heist#P11e. Brazier Room|Arc P - Ravenloft Heist]]. From there, they can find shelter as follows:
+Players who escape Castle Ravenloft via the teleportation brazier in <span class="citation">K78. [[Places/Brazier Room|Brazier Room]] (p. 82)</span> can teleport to the locations described in [[Arc P - Ravenloft Heist#P11e. Brazier Room|Arc P - Ravenloft Heist]]. From there, they can find shelter as follows:
 
-***Village of Barovia.*** If the players teleport to the graveyard in the village of Barovia, Ismark Kolyanovich is happy to let them rest in the guest rooms of the burgomaster's mansion. Though surprised to learn that Ireena has joined the players in their quest to defeat Strahd, he is comforted by the fact that Ireena has grown in strength, confidence, and will through her time at the players' side.
+***[[Places/Village of Barovia|Village of Barovia]].*** If the players teleport to the graveyard in the village of [[Places/Barovia|Barovia]], [[NPCs/Ismark Kolyanovich|Ismark Kolyanovich]] is happy to let them rest in the guest rooms of the burgomaster's mansion. Though surprised to learn that [[NPCs/Ireena Kolyana|Ireena]] has joined the players in their quest to defeat [[NPCs/Strahd von Zarovich|Strahd]], he is comforted by the fact that [[NPCs/Ireena Kolyana|Ireena]] has grown in strength, confidence, and will through her time at the players' side.
 
-***Town of Vallaki.*** If the players teleport to the coffin-maker's shop in the town of Vallaki, they can find shelter at the Blue Water Inn, St. Andral's Church, or (if they are on friendly terms with Lady Fiona Wachter and do not disclose their assault on Castle Ravenloft) Wachterhaus.
+***Town of [[Places/Vallaki|Vallaki]].*** If the players teleport to the coffin-maker's shop in the town of [[Places/Vallaki|Vallaki]], they can find shelter at the [[Places/Blue Water Inn|Blue Water Inn]], [[Places/St. Andral's Church|St. Andral's Church]], or (if they are on friendly terms with [[NPCs/Lady Fiona Wachter|Lady Fiona Wachter]] and do not disclose their assault on Castle Ravenloft) [[Places/Wachterhaus|Wachterhaus]].
 
-***Village of Krezk.*** If the players teleport to the Shrine of the White Sun in the village of Krezk, they can find shelter at the Krezkovs' cottage, which is as described in [[Arc K - The Fallen Abbey#K1a. The Krezkovs’ Cottage|Arc K - The Fallen Abbey]]. The Krezkovs are heartened if the players share that they have obtained the *Icon of Dawn's Grace* from St. Markovia's crypt in Castle Ravenloft and hope to use it to cleanse the Abbot's madness. If the players are joined by Emil Toranescu, Baron Dmitri Krezkov angrily recognizes him as "the wolf that stole his sister," Zuleika, and insists that Emil sleep outside unless convinced otherwise.
+***[[Places/Village of Krezk|Village of Krezk]].*** If the players teleport to the [[Places/Shrine of the White Sun|Shrine of the White Sun]] in the [[Places/Village of Krezk|village of Krezk]], they can find shelter at the Krezkovs' cottage, which is as described in [[Arc K - The Fallen Abbey#K1a. The Krezkovs’ Cottage|Arc K - The Fallen Abbey]]. The Krezkovs are heartened if the players share that they have obtained the *[[Items/Icon of Dawn's Grace|Icon of Dawn's Grace]]* from St. [[NPCs/Saint Markovia|Markovia]]'s crypt in Castle Ravenloft and hope to use it to cleanse the Abbot's madness. If the players are joined by [[NPCs/Emil Toranescu|Emil Toranescu]], [[NPCs/Baron Dmitri Krezkov|Baron Dmitri Krezkov]] angrily recognizes him as "the wolf that stole his sister," [[NPCs/Zuleika Toranescu|Zuleika]], and insists that [[NPCs/Emil Toranescu|Emil]] sleep outside unless convinced otherwise.
 
-> [!lore]+ **Dmitri & Emil**
-> Dmitri doesn't seriously believe that Emil kidnapped Zuleika or forced her to join the werewolf pack against her will. However, Dmitri resents Emil for "luring" Zuleika away from Krezk with tall tales of the "gift" of lycanthropy, which Dmitri believes is a curse. If challenged, Dmitri grits his teeth, and spits, "He convinced my sister that it was a *gift* to be a monster—a *beast*. He filled her head with lies and mad tales, and took her from me—from all of us."
+> [!lore]+ **[[NPCs/Baron Dmitri Krezkov|Dmitri]] & Emil**
+> Dmitri doesn't seriously believe that Emil kidnapped [[NPCs/Zuleika Toranescu|Zuleika]] or forced her to join the [[Factions/Werewolf Pack|werewolf pack]] against her will. However, Dmitri resents Emil for "luring" Zuleika away from Krezk with tall tales of the "gift" of lycanthropy, which Dmitri believes is a curse. If challenged, Dmitri grits his teeth, and spits, "He convinced my sister that it was a *gift* to be a monster—a *beast*. He filled her head with lies and mad tales, and took her from me—from all of us."
 
-***Van Richten's Tower.*** If the players teleport to Van Richten's Tower, they can take shelter in the tower itself, or travel to the village of Krezk. The journey from the tower to Krezk is three-and-one-half miles long and takes one hour and ten minutes.
+***[[Places/Van Richten's Tower|Van Richten's Tower]].*** If the players teleport to [[Places/Van Richten's Tower|Van Richten's Tower]], they can take shelter in the tower itself, or travel to the village of Krezk. The journey from the tower to Krezk is three-and-one-half miles long and takes one hour and ten minutes.
 
-***Ruins of Berez.*** If the players teleport to Marina's Monument in Berez, they can take shelter in <span class="citation">U2. Ulrich Mansion (p. 162)</span> or <span class="citation">U4. Churchyard (p. 164)</span>, their arrival hidden by the thick fog that clings to the swamp.
+***Ruins of [[Places/Berez|Berez]].*** If the players teleport to [[Places/Marina's Monument|Marina's Monument]] in [[Places/Berez|Berez]], they can take shelter in <span class="citation">U2. Ulrich Mansion (p. 162)</span> or <span class="citation">U4. Churchyard (p. 164)</span>, their arrival hidden by the thick fog that clings to the swamp.
 
 > [!abstract]+ **Ruins of Berez**
-> Should the players attempt to explore the other structures within Berez, those ruins are largely as described in <span class="citation">U1. Abandoned Cottages (p. 162)</span>, <span class="citation">U4. Churchyard (p. 164)</span>, and <span class="citation">U5. Marina's Monument (p. 164)</span>. However, the abandoned cottages house four witches as detailed below, Lazlo Ulrich's ghost does not appear in the Ulrich mansion, and Baba Lysaga's goat pen is as described in [[Arc I - The Walls of Krezk#I4c. The Scrying Spell|I4c. The Scrying Spell]].
+> Should the players attempt to explore the other structures within Berez, those ruins are largely as described in <span class="citation">U1. Abandoned Cottages (p. 162)</span>, <span class="citation">U4. Churchyard (p. 164)</span>, and <span class="citation">U5. [[Places/Marina's Monument|Marina's Monument]] (p. 164)</span>. However, the abandoned cottages house four witches as detailed below, [[NPCs/Lazlo Ulrich|Lazlo Ulrich]]'s ghost does not appear in the Ulrich mansion, and [[NPCs/Baba Lysaga|Baba Lysaga]]'s [[Items/Goat Pen|goat pen]] is as described in [[Arc I - The Walls of Krezk#I4c. The Scrying Spell|I4c. The Scrying Spell]].
 
 If the players attempt to take shelter in <span class="citation">U1. Abandoned Cottages (p. 162)</span>, they are attacked by two **Barovian hexwitches** and two **Barovian bogwitches**, who are as described in [[Arc P - Ravenloft Heist#P9c. Cauldron Room|Arc P - Ravenloft Heist]]. The tumult attracts the attention of the seven **scarecrows** standing guard in the marsh, which arrive three rounds after combat begins.
 
@@ -28,7 +28,7 @@ If the players attempt to take shelter in <span class="citation">U1. Abandoned C
  > [!combat]- **Combat - The Ruins of Berez**  
 > **Combat Level**: Mild (first wave), Bruising (second wave)
 > **Expected Character Level**: 7
-> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
+> **Allies:** Ireena Kolyana (CR 2), [[NPCs/Ezmerelda d'Avenir|Ezmerelda d'Avenir]] (CR 4)
 > **Expected HP Consumption:** 4% (first wave), 29% (first wave), for a total of 33%
 > 
 > ### **Enemies:**
@@ -50,59 +50,59 @@ If the players attempt to take shelter in <span class="citation">U1. Abandoned C
 The players can also travel from Berez to the town of Vallaki, Van Richten's Tower, or the village of Krezk:
 
 * The journey from Berez to Vallaki is four-and-one-half miles long and takes one hour and thirty minutes.
-* The journey from Berez to Lake Baratok is seven miles long and takes two hours and twenty minutes. 
+* The journey from Berez to [[Places/Lake Baratok|Lake Baratok]] is seven miles long and takes two hours and twenty minutes. 
 * The journey from Berez to Krezk is eight-and-three-quarter miles long and takes three hours.
 
-***Old Svalich Road.*** If the players teleport to Marina's Monument in Berez, they can make camp on or near the Old Svalich Road. If they do, they experience the <span class="citation">Strahd Zombies (p. 31)</span> random encounter one hour after making camp, but with eight **zombies** instead of **Strahd zombies**.
+***[[Places/Old Svalich Road|Old Svalich Road]].*** If the players teleport to Marina's Monument in Berez, they can make camp on or near the Old [[Places/Svalich Woods|Svalich]] Road. If they do, they experience the <span class="citation">[[NPCs/Strahd von Zarovich|Strahd]] Zombies (p. 31)</span> random encounter one hour after making camp, but with eight **zombies** instead of **Strahd zombies**.
 
-***Wizard of Wines.*** If the players teleport to the Wizard of Wines, the Martikovs are glad to give them a place to sleep for the night. When the players depart the next morning, Davian sends two **swarms of ravens** to accompany them to their destination. (The ravens depart when the players next arrive at Vallaki, Krezk, or Argynvostholt, whichever comes first.)
+***[[Places/Wizard of Wines|Wizard of Wines]].*** If the players teleport to [[Places/Wizard of Wines|the Wizard of Wines]], the Martikovs are glad to give them a place to sleep for the night. When the players depart the next morning, [[NPCs/Davian Martikov|Davian]] sends two **swarms of ravens** to accompany them to their destination. (The ravens depart when the players next arrive at Vallaki, Krezk, or [[Places/Argynvostholt|Argynvostholt]], whichever comes first.)
 
-***Tsolenka Pass.*** If the players teleport to Tsolenka Pass, they can sleep in the guard tower there. The petrified **vrocks** don't attack players who bypass the gatehouse from the east side of the portcullis.
+***[[Places/Tsolenka Pass|Tsolenka Pass]].*** If the players teleport to [[Places/Tsolenka Pass|Tsolenka Pass]], they can sleep in the guard tower there. The petrified **vrocks** don't attack players who bypass the gatehouse from the east side of the [[Places/Portcullis|portcullis]].
 
 The players can also travel from the guard tower to the town of Vallaki, Van Richten's Tower, or the village of Krezk:
 
 * The journey from the tower to Krezk is eleven miles long and takes three hours and forty minutes.
-* The journey from the tower to Lake Baratok is ten-and-one-half miles long and takes three hours and thirty minutes.
+* The journey from the tower to [[Places/Lake Baratok|Lake Baratok]] is ten-and-one-half miles long and takes three hours and thirty minutes.
 * The journey from the tower to Vallaki is thirteen and one-quarter miles long and takes four hours and thirty minutes.
 ## Q1b. The Pillarstone
-Players who escape Castle Ravenloft by descending the southeastern cliff of the Pillarstone of Ravenloft land just north of the village of Barovia, a short distance from the northern edge of <span class="citation">E6. Cemetery (p. 48)</span>. They can find shelter in the village as described in [[#Q1a. The Teleportation Brazier]].
+Players who escape Castle Ravenloft by descending the southeastern cliff of the [[Places/Pillarstone of Ravenloft|Pillarstone of Ravenloft]] land just north of [[Places/Village of Barovia|the village of Barovia]], a short distance from the northern edge of <span class="citation">E6. Cemetery (p. 48)</span>. They can find shelter in the village as described in [[#Q1a. The Teleportation Brazier]].
 ## Q1c. The Drawbridge
 Players who escape Castle Ravenloft by crossing the western chasm can find shelter as follows:
 
-***Old Svalich Road.*** The players can make camp on or near the Old Svalich Road as described in [[#Q1a. The Teleportation Brazier]].
+***[[Places/Old Svalich Road|Old Svalich Road]].*** The players can make camp on or near the Old [[Places/Svalich Woods|Svalich]] Road as described in [[#Q1a. The Teleportation Brazier]].
 
 ***Town of Vallaki.*** The journey from Castle Ravenloft to Vallaki is eleven and one-quarter miles long and takes three hours and forty-five minutes. Players can find shelter in Vallaki as described in [[#Q1a. The Teleportation Brazier]].
 
-***Village of Barovia.*** The journey from Castle Ravenloft to Barovia is thirteen-and-one-quarter miles long and takes four hours and thirty minutes. Players can find shelter in Barovia as described in [[#Q1a. The Teleportation Brazier]].
+***Village of [[Places/Barovia|Barovia]].*** The journey from Castle Ravenloft to Barovia is thirteen-and-one-quarter miles long and takes four hours and thirty minutes. Players can find shelter in Barovia as described in [[#Q1a. The Teleportation Brazier]].
 
-***Tser Pool Encampment.*** The journey from Castle Ravenloft to Tser Pool is twelve miles long and takes four hours. Arturi Radanavich is no longer present, having departed three days prior without forewarning.
+***[[Places/Tser Pool Encampment|Tser Pool Encampment]].*** The journey from Castle Ravenloft to [[Places/Tser Pool Encampment|Tser Pool]] is twelve miles long and takes four hours. [[NPCs/Arturi Radanavich|Arturi Radanavich]] is no longer present, having departed three days prior without forewarning.
 
-If visited, Madam Eva declines to read the players' fortunes a second time, and merely warns them that they have entered the "final threshold of the path they have chosen." If the players inform her that they have learned her true name (Katarina), Madam Eva wryly congratulates them on their perceptiveness and can share the information regarding her relationship with Varushka in [[Arc O - Dinner with the Devil]]. 
+If visited, [[NPCs/Madam Eva|Madam Eva]] declines to read the players' fortunes a second time, and merely warns them that they have entered the "final threshold of the path they have chosen." If the players inform her that they have learned her true name ([[NPCs/Katarina|Katarina]]), [[NPCs/Madam Eva|Madam Eva]] wryly congratulates them on their perceptiveness and can share the information regarding her relationship with [[NPCs/Varushka|Varushka]] in [[Arc O - Dinner with the Devil]]. 
 
-If the players suggest that she is associated with the Ladies of the Fanes, Madam Eva's gaze tightens and she stonily warns the players "not to invoke the names of the ancient, lest they rouse undesired attentions." (Madam Eva doesn't explain further.)
+If the players suggest that she is associated with the [[Factions/Ladies of the Fanes|Ladies of the Fanes]], Madam Eva's gaze tightens and she stonily warns the players "not to invoke the names of the ancient, lest they rouse undesired attentions." (Madam Eva doesn't explain further.)
 # Q2. Dmitri's Plea
 ## Q2a. A Dark Omen
-At dawn on the first day after the players raid Castle Ravenloft, a snow-white feather descends from the Abbey of Saint Markovia and lands on the kitchen windowsill of the Krezkovs' cottage. Anna and Dmitri recognize the feather as a promised message from the Abbot signaling that he intends to collect Anna's heart at dusk. 
+At dawn on the first day after the players raid Castle Ravenloft, a snow-white feather descends from [[Places/Abbey of Saint Markovia|the Abbey of Saint Markovia]] and lands on the [[Places/Kitchen|kitchen]] windowsill of the Krezkovs' cottage. [[NPCs/Anna Krezkova|Anna]] and Dmitri recognize the feather as a promised message from the Abbot signaling that he intends to collect Anna's heart at dusk. 
 
 If the players aren't already in Krezk, Dmitri sets out for Vallaki accompanied by two Krezkian **guards**, hoping to find the players there.
 
 * If the players are traveling to Krezk from Berez, Tsolenka Pass, Van Richten's Tower, or a section of the Old Svalich Road west of Vallaki, they encounter Dmitri and his companions at <span class="citation">R. Raven River Crossroads (p. 40)</span>. 
-* Otherwise, Dmitri and his companions arrive in Vallaki two hours after dawn, whereupon they leave a message with the guards at the western gate and travel to the Blue Water Inn, hoping to find the players there.
+* Otherwise, Dmitri and his companions arrive in Vallaki two hours after dawn, whereupon they leave a message with the guards at the western gate and travel to the [[Places/Blue Water Inn|Blue Water Inn]], hoping to find the players there.
 
-If the players slept at the Krezkovs' cottage the night before, they are awoken by the sound of quiet sobs from the kitchen, where Anna attempts to reassure Dmitri that "everything will be alright," while a tearful Dmitri desperately vows that he "won't let anything happen" to her.
+If the players slept at the Krezkovs' cottage the night before, they are awoken by the sound of quiet sobs from the [[Places/Kitchen|kitchen]], where Anna attempts to reassure Dmitri that "everything will be alright," while a tearful Dmitri desperately vows that he "won't let anything happen" to her.
 
-Regardless of where he encounters the players, an anxious Dmitri informs them that the Abbot intends to collect Anna's heart at dusk, and will likely lay waste to Krezk unless Anna makes the journey to the Abbey of Saint Markovia by that time. If the players don't offer to do so, Dmitri begs them to intercede on Anna's behalf—"if not for us, then for our children."
+Regardless of where he encounters the players, an anxious Dmitri informs them that the Abbot intends to collect Anna's heart at dusk, and will likely lay waste to Krezk unless Anna makes the journey to [[Places/Abbey of Saint Markovia|the Abbey of Saint Markovia]] by that time. If the players don't offer to do so, Dmitri begs them to intercede on Anna's behalf—"if not for us, then for our children."
 ## Q2b. The Old Svalich Road
 ### Journey to Vallaki
 #### The Raven Guard
-If the players slept east of Vallaki after escaping Castle Ravenloft, such as in the village of Barovia or at the Tser Pool encampment, they awake to find four **swarms of ravens** standing watch from nearby rooftops or trees. The ravens, which have heard of the players' heroics from the Keepers of the Feather, accompany the players as an honor guard until they reach the town of Vallaki.
+If the players slept east of Vallaki after escaping Castle Ravenloft, such as in the village of Barovia or at the Tser Pool encampment, they awake to find four **swarms of ravens** standing watch from nearby rooftops or trees. The ravens, which have heard of the players' heroics from [[Factions/Keepers of the Feather|the Keepers of the Feather]], accompany the players as an honor guard until they reach the town of Vallaki.
 #### The Wolves' Ambush
-One hour before the players reach Vallaki, they encounter three corpses scattered across the road, as described in <span class="citation">Corpse (p. 30)</span>. Two of the corpses belong to Barovian adults killed by dire wolves, while the third resembles whichever player has displeased Strahd the most.
+One hour before the players reach Vallaki, they encounter three corpses scattered across the road, as described in <span class="citation">Corpse (p. 30)</span>. Two of the corpses belong to Barovian adults killed by dire [[NPCs/Wolves|wolves]], while the third resembles whichever player has displeased Strahd the most.
 
-If the third corpse melts away, or when the players first move to depart the corpses, they are attacked by six **dire wolves**, as described in <span class="citation">Dire Wolves (p. 30)</span>, accompanied by two **scarecrows**, which are as described in <span class="citation">Scarecrows (p. 31)</span>. The wolves and scarecrows fight to the death, as do the swarms of ravens, which fight fiercely to defend the players.
+If the third corpse melts away, or when the players first move to depart the corpses, they are attacked by six **dire [[NPCs/Wolves|wolves]]**, as described in <span class="citation">Dire Wolves (p. 30)</span>, accompanied by two **scarecrows**, which are as described in <span class="citation">Scarecrows (p. 31)</span>. The wolves and scarecrows fight to the death, as do the swarms of ravens, which fight fiercely to defend the players.
 
 > [!combat]- **Balancing the Old Svalich Road**
-> This combat encounter is a **bruising** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 37% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **bruising** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally ([[NPCs/Ezmerelda d'Avenir|Ezmerelda]] d’Avenir), and will consume approximately 37% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * Three Players. Reduce the number of dire wolves to 5, and the number of scarecrows to one.
 > * Four Players. Reduce the number of scarecrows to one.
@@ -121,14 +121,14 @@ If the third corpse melts away, or when the players first move to depart the cor
 > |-|-|-|-|-|
 > | Dire Wolf | 5 | 6 | 6 | 6 |
 > | Scarecrow | 1 | 1 | 2 | 3 |
-> | Swarm of Ravens | 4 | 4  4 | 4 |
+> | [[NPCs/Swarm|Swarm]] of Ravens | 4 | 4  4 | 4 |
 
 #### Arrival in Vallaki
-Upon the players' arrival at Vallaki, the guards at the gate inform them that Baron Dmitri Krezkov of Krezk is awaiting them at the Blue Water Inn. If they venture there, the players can find Baron Krezkov in the taproom, sitting anxiously at the bar with an untouched drink as Danika attempts to comfort him. The scene then unfolds as described in [[#Q2a. A Dark Omen]].
+Upon the players' arrival at Vallaki, the guards at the gate inform them that Baron Dmitri Krezkov of Krezk is awaiting them at the Blue Water Inn. If they venture there, the players can find Baron Krezkov in the taproom, sitting anxiously at the bar with an untouched drink as [[NPCs/Danika Dorakova|Danika]] attempts to comfort him. The scene then unfolds as described in [[#Q2a. A Dark Omen]].
 ## Journey to Krezk
-As the players journey to Krezk, they again encounter the **revenant** standing guard at the bridge over the Raven River, as described in [[Arc I - The Walls of Krezk#I1. The Road to Krezk|Arc I - The Walls of Krezk]]. The revenant greets the players warmly, but warns them, as a shadow crosses its face, that "dark tidings" are alight on the wind, and that it may be recalled from its post sooner than expected.
+As the players journey to Krezk, they again encounter the **[[NPCs/Revenant|revenant]]** standing guard at the bridge over the Raven River, as described in [[Arc I - The Walls of Krezk#I1. The Road to Krezk|Arc I - The Walls of Krezk]]. The revenant greets the players warmly, but warns them, as a [[NPCs/Shadow|shadow]] crosses its face, that "dark tidings" are alight on the wind, and that it may be recalled from its post sooner than expected.
 
-The revenant isn't sure what the dark tidings are, but can share that Commander Vladimir Horngaard is enraged by the players' assault on Castle Ravenloft. The revenant doesn't know how Vladimir might have learned of the players' actions, but suggests that he may have learned it from the **phantom warriors** that serve as his eyes and ears in the Ethereal Plane.
+The revenant isn't sure what the dark tidings are, but can share that Commander [[NPCs/Vladimir Horngaard|Vladimir Horngaard]] is enraged by the players' assault on Castle Ravenloft. The revenant doesn't know how Vladimir might have learned of the players' actions, but suggests that he may have learned it from the **phantom warriors** that serve as his eyes and ears in the [[Places/Ethereal Plane|Ethereal Plane]].
 
 As the players depart, the revenant wishes them well, solemnly bidding them farewell and adding, almost wistfully, "May the Morninglord shelter you in the light of His grace."
 # Q3. Return to Krezk
@@ -139,7 +139,7 @@ Anna and Dmitri, two **nobles** with Strength scores of 14 (+2) and wielding a *
 > [!abstract]+ **Emil Helps Out**
 > If Emil is present, the players can convince him to assist them in confronting the Abbot by referencing his obligations as the Krezkovs’ brother-in-law and succeeding on a DC 10 Charisma (Persuasion) check. (Emil, who dislikes Dmitri for his “cowardice" and “resignation" to his family’s curse, and for Dmitri’s efforts to make Zuleika avoid Emil and feel ashamed of her lycanthropy, feels no obligation to assist the Krezkovs initially.)
 >
-> The players make the check with advantage if they argue that Zuleika would want him to help her brother. The players succeed automatically if they inform Emil that the Abbot used the appearance of his wife, Zuleika, to manipulate Ilya into killing Kala (Emil’s niece).
+> The players make the check with advantage if they argue that Zuleika would want him to help her brother. The players succeed automatically if they inform Emil that the Abbot used the appearance of his wife, Zuleika, to manipulate [[NPCs/Ilya Krezkov|Ilya]] into killing [[NPCs/Kala Krezkova|Kala]] (Emil’s niece).
 ## Q3a. Return to the Abbey
 As the players ascend <span class="citation">S5. Winding Road (p. 147)</span>, the shard of divinity in the *Icon of Dawn’s Grace* speaks to them, asking:
 
@@ -149,7 +149,7 @@ As the players ascend <span class="citation">S5. Winding Road (p. 147)</span>, t
 
 Regardless of the players’ answers, the shard warns them that the Abbot, like all creatures of celestial creation, is likely to be zealous, inflexible, and utterly devoted to his perceived cause. “Tread carefully, and ready your steel," the shard whispers telepathically. “For the Morninglord’s rays flare only brighter when they perceive darkness before them."
 ### The North Gate
-The players are met at <span class="citation">S6. North Gate (p. 147)</span> by Otto and Zygfrek Belview. If the players agreed to investigate Cyrus’s “perfection" in [[Arc K - The Fallen Abbey#The Eavesdroppers|Arc K - The Fallen Abbey]], Otto (excitedly) and Zygfrek (anxiously) ask the players whether they’ve seen Cyrus since departing the Abbey, and how the Abbot’s “perfection" has transformed him. “Is he strong?" Otto hee-haws happily. “Is he beautiful?" Zygfrek whispers, her voice trembling.
+The players are met at <span class="citation">S6. North Gate (p. 147)</span> by [[NPCs/Otto and Zygfrek Belview|Otto and Zygfrek Belview]]. If the players agreed to investigate [[NPCs/Cyrus Belview|Cyrus]]’s “perfection" in [[Arc K - The Fallen Abbey#The Eavesdroppers|Arc K - The Fallen Abbey]], [[NPCs/Otto and Zygfrek Belview|Otto]] (excitedly) and [[NPCs/Zygfrek|Zygfrek]] (anxiously) ask the players whether they’ve seen [[NPCs/Cyrus Belview|Cyrus]] since departing the Abbey, and how the Abbot’s “perfection" has transformed him. “Is he strong?" Otto hee-haws happily. “Is he beautiful?" [[NPCs/Zygfrek|Zygfrek]] whispers, her voice trembling.
 
 If the players share the truth of Cyrus’s situation, Otto and Zygfrek are horrified, with Zygfrek falling silent and clutching her cloak around her while Otto angrily demands the players recant their “lie." “The Abbot would never lie to us!" Otto howls, with tears beading at the corners of his eyes.
 
@@ -157,13 +157,13 @@ The players can convince Otto and Zygfrek that they are telling the truth with a
 
 Otto and Zygfrek are glad to bring the players to the Abbot if asked to do so, though Zygfrek prefers to linger by the cliffside if told of the Abbot’s duplicity. 
 ### The Courtyard
-Upon entering <span class="citation">S12. Courtyard (p. 150)</span>, the players encounter Clovin Belview, who is delivering bowls of cold porridge to the Belviews in the padlocked stone sheds. Clovin greets the players and informs them that the Abbot is in the asylum, located in <span class="citation">S15. Madhouse (p. 151)</span>, tending and ministering to Clovin’s family therein.
+Upon entering <span class="citation">S12. Courtyard (p. 150)</span>, the players encounter [[NPCs/Clovin Belview|Clovin Belview]], who is delivering bowls of cold porridge to [[Factions/The Belviews|the Belviews]] in the padlocked stone sheds. Clovin greets the players and informs them that the Abbot is in the asylum, located in <span class="citation">S15. Madhouse (p. 151)</span>, tending and ministering to Clovin’s family therein.
 
 If the players agreed to investigate Cyrus’s “perfection" in [[Arc K - The Fallen Abbey#The Eavesdroppers|Arc K - The Fallen Abbey]], Clovin eagerly asks the players whether they’ve seen Cyrus since departing the Abbey. “Is he well?" he asks, adding, “Has he taken to his new form?" 
 
 If the players share the truth of Cyrus’s situation, Clovin’s face briefly falls, and then becomes cold and carefully composed. “I see," he notes, even as the infant head upon his shoulder begins to wail. 
 
-Regardless of his own disappointment, Clovin is determined to make good on his promise should the players bring news of Cyrus. If they do, before bringing them to the Abbot, he brings them to a wooden stand covered with black cloth in the southeast corner of the <span class="citation">S17. Loft and Belfry (p. 152)</span>. From the stand hang two sets of *wings of flying* with animal-bone frames. (The Abbot crafted the wings as part of his original experiments with the Belviews, but abandoned them long ago.) They have the following changes:
+Regardless of his own disappointment, Clovin is determined to make good on his promise should the players bring news of Cyrus. If they do, before bringing them to the Abbot, he brings them to a wooden stand covered with black cloth in the southeast corner of the <span class="citation">S17. Loft and Belfry (p. 152)</span>. From the stand hang two sets of *wings of flying* with animal-bone frames. (The Abbot crafted the wings as part of his original experiments with [[Factions/The Belviews|the Belviews]], but abandoned them long ago.) They have the following changes:
 
 * The wings are artificial wings, rather than cloaks, and animate when activated instead of transforming.
 * A set of wings animates for 1 minute, rather than 1 hour
@@ -174,16 +174,16 @@ Regardless of his own disappointment, Clovin is determined to make good on his p
 The players can find the Abbot in the Abbey’s asylum, which is largely as described in <span class="citation">S15. Madhouse (p. 151)</span>. However, the players overhear the following conversation as they approach and enter this area:
 
 <div class="description">
-<p>A handsome young man in monk’s robes stands halfway down the hall, a prayer book tucked beneath one arm—the Abbot. Before him stands a dainty woman wearing a tattered gown, her head bowed in silent acquiescence—Vasilka. The flesh golem stands behind them, its grotesque form towering above them in the shadows.</p>
+<p>A handsome young man in monk’s robes stands halfway down the hall, a prayer book tucked beneath one arm—the Abbot. Before him stands a dainty woman wearing a tattered gown, her head bowed in silent acquiescence—[[Items/Vasilka|Vasilka]]. The [[Items/Flesh Golem|flesh golem]] stands behind them, its grotesque form towering above them in the shadows.</p>
 <p>"I’ve told you not to sully yourself with the unclean," the Abbot scolds her, his voice harsh. “Especially not today, of all days. Have you forgotten the operation you’re to undergo tonight? One iota of blight from these creatures could bring damnation to the land you’re meant to serve."</p>
-<p>"I’m sorry," Vasilka whispers, trembling. “I didn’t think—"</p>
+<p>"I’m sorry," [[Items/Vasilka|Vasilka]] whispers, trembling. “I didn’t think—"</p>
 <p>"No," the Abbot says coldly. “You didn’t."</p>
 </div>
 
 Unless the players interrupt, the conversation proceeds as follows:
 
 * The Abbot sighs, rubs his temples, and places a fatherly hand on Vasilka’s shoulder. “Fear not," he says softly. “The Morninglord’s forgiveness and grace are eternal, so long as we remember our proper places." 
-* The Abbot gestures to the flesh golem and the Belviews in the cells, adding: “Theirs is here. And yours is . . . ?" 
+* The Abbot gestures to the [[Items/Flesh Golem|flesh golem]] and the Belviews in the cells, adding: “Theirs is here. And yours is . . . ?" 
 * Vasilka’s head bows deeper as she replies, “In the hall, waiting to be wed."
 * The Abbot smiles, nods, and squeezes her shoulder. “Good. So long as you remember that, you cannot be led astray."
 
@@ -210,7 +210,7 @@ Unless the players interrupt, the following exchange then occurs:
 
 * The Abbot instructs Vasilka: “Step aside, foolish creature. Do not allow their words to cloud your mind and obscure your duties."
 * Vasilka shakes her head silently. The Abbot’s expression darkens, and he asks Vasilka whether she is defying him. She hesitates, then slowly nods her head, tears falling from the corners of her eyes.
-* A shadow crosses the Abbot’s face, and his eyes narrow. “Then you are defective—and must be disposed of." Read:
+* A [[NPCs/Shadow|shadow]] crosses the Abbot’s face, and his eyes narrow. “Then you are defective—and must be disposed of." Read:
 
 <div class="description">
 <p>The Abbot’s hand lashes forward, gripping Vasilka around the throat and lifting her into the air. A shroud of radiant shadows swirls in his palm, then congeals into a platinum mace that glitters cruelly. “Perhaps I was too patient with you," he intones lifelessly, “too compassionate. I can always start again, with better parts and training."</p>
@@ -257,10 +257,10 @@ In combat, the Abbot prefers to fight in the Abbey’s courtyard, but might be l
 > If the players gave Vasilka’s flower garland to the **flesh golem** in [[Arc K - The Fallen Abbey]], it joins them in battle against the Abbot when the Abbot enters his second phase.
 
 ![[Ithuriel.png]]
-<span class="credit">"Ithuriel" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"[[NPCs/Ithuriel|Ithuriel]]" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 <div class="statblock">
-<h2>Ithuriel, the Dawnbringer</h2>
+<h2>[[NPCs/Ithuriel|Ithuriel]], the Dawnbringer</h2>
 <em>Medium Celestial, Lawful Evil</em>
 <hr>
 <strong>Armor Class</strong> 17 (natural armor)
@@ -410,7 +410,7 @@ Shortly after the Abbot is defeated, if the *Icon of Dawn’s Grace* is present,
 <p>Small motes of golden light begin to glimmer across the beast’s still form. Slowly, they come together to form an orb of golden flame that hovers above the Abbot’s chest.</p>
 </div>
 
-The *Icon of Dawn’s Grace* begins to shine with golden light, and the shard of divinity within asks the players to touch the *Icon* to the orb. “He has suffered greatly, and lost himself in the mists and shadows," the shard says mournfully. “But perhaps he is not so far gone as to be lost forever."
+The *Icon of Dawn’s Grace* begins to shine with golden light, and the shard of divinity within asks the players to touch the *Icon* to the orb. “He has suffered greatly, and lost himself in the [[Places/Mists|mists]] and shadows," the shard says mournfully. “But perhaps he is not so far gone as to be lost forever."
 
 If the players touch the *Icon* to the orb, their spirits are transported to a demiplane within the Abbot’s soul. Read:
 
@@ -467,7 +467,7 @@ If Ezmerelda is shown the card, she shares that it is “odd" for the Shepherd t
 > [!lore]+ **The Shepherd**
 > The Tarokka card is a message sent by the spirit of Saint Markovia. While she cannot enter the Abbot’s soul herself, she hopes that the players will conjure her so that she may speak with the Abbot on their behalf.
 
-The players can successfully persuade the Abbot to reunite with the shard of divinity by making any reasonable argument, such as directly rebutting the Dark Powers’ whispers or if they mention St. Markovia’s seance, or by succeeding on a DC 15 Charisma (Persuasion) check.
+The players can successfully persuade the Abbot to reunite with the shard of divinity by making any reasonable argument, such as directly rebutting [[Factions/Dark Powers|the Dark Powers]]’ whispers or if they mention St. Markovia’s seance, or by succeeding on a DC 15 Charisma (Persuasion) check.
 
 > [!abstract]+ **Redemption Failed**
 > If the players attempt to persuade the Abbot here without first summoning St. Markovia and fail, the darkness grows deeper and more oppressive, while the Abbot curls further into himself, his wings seeming to wither and crack. “Do you not see?" he whispers, his voice barely audible. “Even you cannot deny my damnation. It is ended."
@@ -487,7 +487,7 @@ Alternatively, the players can also use the card to call forth the spirit of St.
 Markovia greets the players warmly, thanking them for their summons. She can share the following information if asked:
 
 * The angel the players call “Abbot" was once among the greatest servants of the Morninglord. It was he who chose her as the Morninglord’s prophet.
-* It breaks her heart to see the Abbot reduced to such a state, but she is grateful for the players’ efforts to rescue him. “He has sinned," she murmurs, “but only because he was lost in the mists. The dark powers that rule this land have clouded his mind and led him astray from his true path. It is thanks to you that he has an opportunity to be otherwise again." (Markovia doesn’t know anything more about the “dark powers" that rule Barovia, except that they aren’t Strahd, and either control the Mists or are the Mists themselves.)
+* It breaks her heart to see the Abbot reduced to such a state, but she is grateful for the players’ efforts to rescue him. “He has sinned," she murmurs, “but only because he was lost in the [[Places/Mists|mists]]. [[Factions/Dark Powers|The dark powers]] that rule this land have clouded his mind and led him astray from his true path. It is thanks to you that he has an opportunity to be otherwise again." (Markovia doesn’t know anything more about the “dark powers" that rule Barovia, except that they aren’t Strahd, and either control the Mists or are the Mists themselves.)
 
 If the players permit her to, Markovia approaches the Abbot. Read:
 
@@ -543,11 +543,11 @@ Ithuriel can also share the following information if asked:
 
 Before the players depart, Ithuriel freely offers them healing through the use of his ***healing touch***, and offers them the use of his *raise dead* feature should they require it. “My abilities are sorely limited following my rebirth," he says, plucking three snow-white feathers from his wings, “but should you require rebirth of your own, you need merely speak my name while you hold this feather aloft, and I shall be there."
 
-> [!info]+ **The Icon of Dawn's Grace**
+> [!info]+ **The [[Items/Icon of Dawn's Grace|Icon of Dawn's Grace]]**
 > The *Icon of Dawn's Grace* retains its magical abilities but loses its sentience as the shard of Ithuriel's consciousness is transferred to the redeemed Abbot.
 
 > [!info]+ **Ithuriel’s Feathers**
-> If a player speak’s Ithuriel’s name while holding one of his feathers aloft, the feather burns up into radiant embers. Ithuriel then flies to the players’ location, arriving within five minutes if the players are in the western portion of the valley (e.g., the Wizard of Wines, Yester Hill, or Lake Baratok), fifteen minutes if the players are in the central portion of the valley (e.g., Vallaki, Berez, or Mt. Ghakis), and thirty minutes if the players are in the eastern portion of the valley (e.g., the village of Barovia, Castle Ravenloft, or Tser Pool).
+> If a player speak’s Ithuriel’s name while holding one of his feathers aloft, the feather burns up into radiant embers. Ithuriel then flies to the players’ location, arriving within five minutes if the players are in the western portion of the valley (e.g., the Wizard of Wines, [[Places/Yester Hill|Yester Hill]], or Lake Baratok), fifteen minutes if the players are in the central portion of the valley (e.g., Vallaki, Berez, or Mt. Ghakis), and thirty minutes if the players are in the eastern portion of the valley (e.g., the village of Barovia, Castle Ravenloft, or Tser Pool).
 >
 > Once summoned, Ithuriel lingers only long enough to cast *raise dead* and provide the players with words of faith and encouragement for the trials they face ahead. If requested, he is also glad to provide one or more uses of his ***healing touch*** feature. 
 >
@@ -568,7 +568,7 @@ Before the players depart, Ithuriel freely offers them healing through the use o
 >
 > ***Morale.*** In a fight, Ithuriel would seek to calm his foe, but would not hesitate to forcefully defend an innocent threatened by enemies of ill intent.
 ## Q3d. St. Markovia’s Gratitude
-When the players first descend the switchback road and enter the village of Krezk after defeating the Abbot, whether they redeem the Abbot or not, St. Markovia calls them to the Shrine of the White Sun. Read:
+When the players first descend the switchback road and enter the village of Krezk after defeating the Abbot, whether they redeem the Abbot or not, St. Markovia calls them to the [[Places/Shrine of the White Sun|Shrine of the White Sun]]. Read:
 
 <div class="description">
 <p>A warm, pleasant breeze rustles through the pines as a woman’s voice, gentle and kind, whispers into your ears: “Find me at the Shrine of the White Sun, by the water’s edge. As you have healed this place, allow me to bring you healing in turn."</p>
@@ -591,7 +591,7 @@ Markovia invites each player to fill a single waterskin from the waters of the p
 > [!item]+ **Water of the White Sun**
 > As an action, a player can drink the full contents of a waterskin containing water from the blessed pool. When they do, they immediately gain the benefits of a long rest, as well as the benefit of a *lesser restoration* spell. 
 ### Cleansing of the White Sun
-Once the players have filled their waterskins from the pool, if the players redeemed the Abbot and any player has received a vestige’s boon and condition after reaching Stage Three of an amber shard’s corruption, St. Markovia addresses that player personally. Read:
+Once the players have filled their waterskins from the pool, if the players redeemed the Abbot and any player has received a vestige’s boon and condition after reaching Stage Three of an [[Items/Amber Shard|amber shard]]’s corruption, St. Markovia addresses that player personally. Read:
 
 <div class="description">
 <p>"You carry a great weight upon your shoulders," she says, her eyes sorrowful as they seek to meet yours. “That you have chosen to bear it makes it no less heavy. If you would discard the yoke of the power you have chained yourself to, I can aid you in doing so while the water’s magic lingers."</p>
@@ -623,7 +623,7 @@ If the player truthfully agrees to do so, the whisper replies:
 <p>The light in the void flickers brighter, its surface glimmering, and then <em>flares</em> with a pure, piercing light. The shadow shrieks, its tendrils writhing as the light burns them away—until nothing remains but the light, shining and pulsating to the beat of your heart.</p>
 </div>
 
-The player then loses all stages of amber corruption, including any conditions or boons gained from that corruption.
+The player then loses all stages of [[Items/Amber Corruption|amber corruption]], including any conditions or boons gained from that corruption.
 
 Before the players depart, as St. Markovia’s visage begins to fade from the surface of the pool, she warns any cleansed player that the shadow has been cleansed from their soul, but can return if reinvited. “Just as night follows day," she warns, “so too does darkness pursue our hearts. You must be stalwart, vigilant, and brave, for darkness is not so easily removed a second time. Do you understand?"
 
@@ -631,21 +631,21 @@ Regardless of the player’s answer, Markovia wishes them luck and bids them far
 # Q4. The Revenant's Warning
 Shortly after the players defeat the Abbot, the **revenant** from the Raven River Crossroads travels to Krezk and requests an audience with them. A **guard** named Harkus Grejenko is dispatched to locate the players and summon them to speak with the revenant.
 
-If the players do so, the revenant gravely informs them that it has received a message from a **phantom warrior** of Argynvostholt, and shares the following information:
+If the players do so, the revenant gravely informs them that it has received a message from a **phantom warrior** of [[Places/Argynvostholt|Argynvostholt]], and shares the following information:
 
-* Commander Vladimir Horngaard has commanded all knights of the Order of the Silver Dragon to return to Argynvostholt no later than tomorrow noon.
+* Commander Vladimir Horngaard has commanded all [[Factions/Knights of the Order|knights of the Order]] of the Silver Dragon to return to Argynvostholt no later than tomorrow noon.
 * Commander Horngaard is enraged following the players’ recent incursion into Castle Ravenloft, and seeks their deaths, so that they shall meddle with Strahd von Zarovich no further.
 * Commander Horngaard is expected to issue his knights a new command: to seek out the players’ destruction, at any cost.
 
-The revenant apologizes sincerely to the players “for the harm it may be forced to visit upon them if they meet again." If the players share or indicate that they have been to Argynvostholt, it asks whether they have spoken with Sir Godfrey Gwilym and learned of the mission he sought to fulfill. If told that the players have recovered the skull of Argynvost in accordance with the dragon’s wishes, the revenant urges the players to fulfill the dragon’s prophecy before Commander Horngaard “releases his full wrath upon them."
+The revenant apologizes sincerely to the players “for the harm it may be forced to visit upon them if they meet again." If the players share or indicate that they have been to Argynvostholt, it asks whether they have spoken with [[NPCs/Sir Godfrey Gwilym|Sir Godfrey Gwilym]] and learned of the mission he sought to fulfill. If told that the players have recovered the skull of [[NPCs/Argynvost|Argynvost]] in accordance with the dragon’s wishes, the revenant urges the players to fulfill the dragon’s prophecy before Commander Horngaard “releases his full wrath upon them."
 
 The revenant, bound to obey Vladimir’s orders, can’t be convinced to remain in Krezk, and departs once it has conveyed its message.
 # Q5. Pack Attack
 
 > [!abstract]+ **Does the Pack Attack?**
-> This scene only occurs if (1) the players took the *Holy Symbol* from the werewolf den, therefore indicating that someone had stolen from Mother Night’s shrine, or (2) the players failed to disguise their scents (e.g., using *pass without trace*) while infiltrating the werewolf den in [[Arc L - The Den of Wolves]], thereby allowing Kiril to detect that outsiders had entered the den.
+> This scene only occurs if (1) the players took the *Holy Symbol* from the [[Places/Werewolf Den|werewolf den]], therefore indicating that someone had stolen from [[NPCs/Mother Night|Mother Night]]’s shrine, or (2) the players failed to disguise their scents (e.g., using *pass without trace*) while infiltrating the [[Places/Werewolf Den|werewolf den]] in [[Arc L - The Den of Wolves]], thereby allowing Kiril to detect that outsiders had entered the den.
 ## Q5a. The Pack Arrives
-At nightfall on the day the players confront the Abbot, if the players have not yet defeated him, Kiril Stoyanovich rouses the werewolf pack—including eighteen **wolves** and eight **werewolves**—and leads them to the ruins of Berez. There, he consults with Baba Lysaga, who uses her magic to discern the players’ current location. Kiril then leads his pack to that location, hoping to kill and eat the intruders that infiltrated the den previously.
+At nightfall on the day the players confront the Abbot, if the players have not yet defeated him, Kiril Stoyanovich rouses the [[Factions/Werewolf Pack|werewolf pack]]—including eighteen **wolves** and eight **[[NPCs/Werewolves|werewolves]]**—and leads them to the ruins of Berez. There, he consults with [[NPCs/Baba Lysaga|Baba Lysaga]], who uses her magic to discern the players’ current location. Kiril then leads his pack to that location, hoping to kill and eat the intruders that infiltrated the den previously.
 
 ***Outside the Walls.*** If the players have made camp at Van Richten’s Tower or Argynvostholt, they are awoken by a chorus of howls led by a deep, terrible roar.
 
@@ -657,7 +657,7 @@ When the players first approach the pack, read:
 
 If Emil Toranescu is accompanying the players, his hand tightens into a fist at his side, his fingernails lengthening into claws. “Kiril," he whispers.
 
-***Within the Walls.*** If the players are resting in Krezk or Vallaki, Kiril arrives outside the gates with the pack, then demands that the guards bring him “the outsiders—the vermin that trampled through his den." A terrified guard then delivers the message to the Krezkovs’ cottage (if in Krezk) or the Blue Water Inn (if in Vallaki), hoping to find the players there. (If the players aren’t there, Baron Krezkov or Urwin Martikov delivers the message themselves.) 
+***Within the Walls.*** If the players are resting in Krezk or Vallaki, Kiril arrives outside the gates with the pack, then demands that the guards bring him “the outsiders—the vermin that trampled through his den." A terrified guard then delivers the message to the Krezkovs’ cottage (if in Krezk) or the Blue Water Inn (if in Vallaki), hoping to find the players there. (If the players aren’t there, Baron Krezkov or [[NPCs/Urwin Martikov|Urwin Martikov]] delivers the message themselves.) 
 
 When the players first approach the pack, read:
 
@@ -665,10 +665,10 @@ When the players first approach the pack, read:
 <p>More than two dozen wolves emerge from the thick, souplike fog that clings to the earth outside, their golden eyes glinting in the faint moonlight.</p>
 </div>
 
-The wolves bare their teeth at the players, but don’t immediately attack. A player with a passive Wisdom (Perception) score of 12 or greater notices that the wolves appear surprisingly ill-fed, with some wolves’ ribs showing through their hides. If Emil Toranescu is with them, a player with a passive DC 13 Wisdom (Insight) score notices that the wolves seem to regard him with apprehension and surprise. If Bianca Stoyanovich is still alive, she is standing stiffly to the side of the pack, pale-faced and silent.
+The wolves bare their teeth at the players, but don’t immediately attack. A player with a passive Wisdom (Perception) score of 12 or greater notices that the wolves appear surprisingly ill-fed, with some wolves’ ribs showing through their hides. If Emil Toranescu is with them, a player with a passive DC 13 Wisdom (Insight) score notices that the wolves seem to regard him with apprehension and surprise. If [[NPCs/Bianca Stoyanovich|Bianca Stoyanovich]] is still alive, she is standing stiffly to the side of the pack, pale-faced and silent.
 
 > [!info]+ **The Starving Wolves**
-> Due to his gluttony and pride, Kiril has claimed the first—and, by far, the largest—share of each meal the pack has hunted since Emil’s disappearance. As a result, the other members of the pack, other than Bianca, have suffered from ill nutrition and deprivation for the past several weeks, forcing them to survive off rabbits, rats, and other small game while losing notable amounts of weight.
+> Due to his gluttony and pride, Kiril has claimed the first—and, by far, the largest—share of each meal the pack has hunted since Emil’s disappearance. As a result, the other members of the pack, other than [[NPCs/Bianca Stoyanovich|Bianca]], have suffered from ill nutrition and deprivation for the past several weeks, forcing them to survive off rabbits, rats, and other small game while losing notable amounts of weight.
 
 Shortly after the players approach the wolves, or when they first call out for Kiril, read:
 
@@ -697,7 +697,7 @@ When the players first approach Kiril, or vice-versa, read:
 </div>
 
 > [!info]+ **Kiril’s Keys**
-> Players who scrutinize Kiril’s neck notice two keys hanging from a chain around his neck. The chain snaps when Kiril enters his second phase (see below), allowing the players to retrieve them. If retrieved, the keys can unlock the *silverthorn collars* imprisoning Ilya and Zuleika in the werewolf den.
+> Players who scrutinize Kiril’s neck notice two keys hanging from a chain around his neck. The chain snaps when Kiril enters his second phase (see below), allowing the players to retrieve them. If retrieved, the keys can unlock the *silverthorn collars* imprisoning [[NPCs/Ilya Krezkov|Ilya]] and Zuleika in the werewolf den.
 
 The beast is Kiril in his first phase (see below). If Ezmerelda is present, her eyes widen, and she hisses to the players that she recognizes his fur pattern. “The bastard’s bigger than he was two years ago," she whispers through gritted teeth, “but that’s the Black Terror." (Ezmerelda can quietly remind the players, if asked, that the Black Terror was the moniker of the werewolf that bit off her leg.)
 
@@ -709,7 +709,7 @@ Like a cat playing with its prey, Kiril is in no immediate hurry to kill the pla
 </div>
 
 > [!abstract]+ **Imprisoned Emil**
-> If the players failed to rescue Emil from Castle Ravenloft, when Kiril feels that the time has come for the conversation to end, he commands the wolves flanking him to kill the players. Players who point out the wolves’ obvious hunger and succeed on a DC 18 Charisma (Persuasion) check can convince the pack to stand back while the players deal with Kiril directly. Otherwise, the wolves and werewolves (excepting Kiril) then attack. Kiril attacks the players as soon as the rest of the pack has been defeated or slain.
+> If the players failed to rescue Emil from Castle Ravenloft, when Kiril feels that the time has come for the conversation to end, he commands the wolves flanking him to kill the players. Players who point out the wolves’ obvious hunger and succeed on a DC 18 Charisma (Persuasion) check can convince the pack to stand back while the players deal with Kiril directly. Otherwise, the wolves and [[NPCs/Werewolves|werewolves]] (excepting Kiril) then attack. Kiril attacks the players as soon as the rest of the pack has been defeated or slain.
 
 At a suitable point in the conversation, if he is present, Emil challenges Kiril for the leadership of the pack. Unless the players interrupt, the following exchange then occurs:
 
@@ -870,7 +870,7 @@ Kiril then attacks.
 > As a Huge creature, Kiril is able to land on Medium or smaller creatures, and can leap while grappling creatures with his claws or bite attacks
 
 > [!warning] **Dragging Grappled Creatures**
-> Remember that Kiril's second phase, as a Huge creature, isn't slowed while grappling and dragging a Medium or smaller creature, as noted in <span class="citation">Moving a Grappled Target (Player's Handbook, p. 195)</span>.
+> Remember that Kiril's second phase, as a Huge creature, isn't slowed while grappling and dragging a Medium or smaller creature, as noted in <span class="citation">Moving a Grappled Target ([[Items/Player's Handbook|Player's Handbook]], p. 195)</span>.
 
 ## Q5c. Kiril Vanquished
 
@@ -911,7 +911,7 @@ Emil is also happy to ask Zuleika to release the players from the *Oath of the N
 # Q6. Return to Argynvostholt
 
 > [!lore]+ **Vladimir’s Command**
-> When the players retrieve Argynvost’s skull from Castle Ravenloft, Vladimir Horngaard learns of it through his **phantom warrior** spies, who have heard of the players’ exploits through contacts in the Ethereal Plane. After interrogating Sir Godfrey Gwilym and learning of the players’ intent to place the skull in Argynvost’s mausoleum, Vladimir relocates to <span class="citation">Q15. Cemetery (p. 134)</span>, where he waits for the players to return to Argynvostholt.
+> When the players retrieve [[NPCs/Argynvost|Argynvost]]’s skull from Castle Ravenloft, Vladimir Horngaard learns of it through his **phantom warrior** spies, who have heard of the players’ exploits through contacts in the [[Places/Ethereal Plane|Ethereal Plane]]. After interrogating [[NPCs/Sir Godfrey Gwilym|Sir Godfrey Gwilym]] and learning of the players’ intent to place the skull in [[Places/Argynvost’s Mausoleum|Argynvost’s mausoleum]], Vladimir relocates to <span class="citation">Q15. Cemetery (p. 134)</span>, where he waits for the players to return to Argynvostholt.
 ## Q6a. Return to the Foyer
 When the players first return to Argynvostholt after retrieving Argynvost’s skull in [[Arc P - Ravenloft Heist]], if they approach Argynvostholt’s cemetery by passing through <span class="citation">Q3. Dragon’s Foyer (p. 132)</span>, they encounter a number of **revenants** depending on the time of their return. After the players escape Castle Ravenloft:
 
@@ -945,21 +945,21 @@ The revenants then attack.
 > | 3 | Reduce the number of revenants in the foyer by one, to a minimum of one. |
 > | 4 | Reduce the number of revenants in the foyer by one, to a minimum of one. ||
 
-In combat, the revenants attack with their longswords as described in <span class="citation">Q13. Chapel of Morning (p. 134)</span>. A player with a passive Wisdom (Perception) score of 13 or greater notices that, each time a revenant attacks, its cheeks are streaked with tears. In addition, a player who succeeds on a DC 13 Wisdom (Insight) check notices that the revenants don’t appear to be moving of their own volition, but move jerkily, as though the black wires are controlling their movements directly.
+In combat, the revenants attack with their longswords as described in <span class="citation">Q13. [[Places/Chapel of Morning|Chapel of Morning]] (p. 134)</span>. A player with a passive Wisdom (Perception) score of 13 or greater notices that, each time a revenant attacks, its cheeks are streaked with tears. In addition, a player who succeeds on a DC 13 Wisdom (Insight) check notices that the revenants don’t appear to be moving of their own volition, but move jerkily, as though the black wires are controlling their movements directly.
 
 A player can attempt a DC 15 Charisma (Persuasion) check to convince the revenants to fight back against the wires’ control. The check is made with advantage if the players share that they’ve recovered Argynvost’s skull from Castle Ravenloft and intend to restore it to his mausoleum. If the check succeeds, the revenants make attacks and Dexterity saving throws with disadvantage, and grant advantage on any attacks made against them.
 
 When the players defeat the last revenant, it warns them that Commander Horngaard is waiting for them in the cemetery. “May the Morninglord protect you," it rasps before collapsing.
 
 > [!abstract]+ **Vladimir's Command**
-> Vladimir Horngaard has forbidden Godfrey from speaking with the players. If he attempts to do so while bound in the chapel, black wires manifest to bind his tongue and jaw.
+> Vladimir Horngaard has forbidden Godfrey from speaking with the players. If he attempts to do so while bound in the [[Places/Chapel of Morning|chapel]], black wires manifest to bind his tongue and jaw.
 
 
 ## Q6b. Return to the Cemetery
-When the players first return to <span class="citation">Q15. Cemetery (p. 134)</span> after retrieving Argynvost’s skull in [[Arc P - Ravenloft Heist]], they find the cemetery apparently empty, with the stone door to <span class="citation">Q16. Dragon’s Mausoleum (p. 134)</span> hanging open. 
+When the players first return to <span class="citation">Q15. Cemetery (p. 134)</span> after retrieving Argynvost’s skull in [[Arc P - Ravenloft Heist]], they find the cemetery apparently empty, with the stone door to <span class="citation">Q16. [[Places/Dragon’s Mausoleum|Dragon’s Mausoleum]] (p. 134)</span> hanging open. 
 
 > [!abstract]+ **Teleporting Players**
-> When the players first return to the cemetery, Vladimir is waiting for them inside of Argynvost’s mausoleum. If a player teleports into the mausoleum without first entering the cemetery, Vladimir attacks them on sight, throwing them out of the mausoleum using his ***greatsword*** attack if possible.
+> When the players first return to the cemetery, Vladimir is waiting for them inside of [[Places/Argynvost’s Mausoleum|Argynvost’s mausoleum]]. If a player teleports into the mausoleum without first entering the cemetery, Vladimir attacks them on sight, throwing them out of the mausoleum using his ***greatsword*** attack if possible.
 
 The first time the players enter the cemetery, if they’re not using stealth or fail a group DC 19 Dexterity (Stealth) check, Vladimir hears their approach and exits the mausoleum to address them. Read:
 
@@ -1157,9 +1157,9 @@ The players may then provide Vladimir with any good reason to accept Argynvost�
 </div>
 
 > [!info]+ **Vladimir’s Greatsword**
-> Players who later investigate Vladimir’s remains can recover his greatsword and holy symbol, which are as described in <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>.
+> Players who later investigate Vladimir’s remains can recover his greatsword and holy symbol, which are as described in <span class="citation">Q36. Dragon’s [[Places/Audience Hall|Audience Hall]] (p. 138)</span>.
 
-As Vladimir dies, any remaining **phantom warriors** haunting Argynvostholt or its cemetery dissolve into mist, and any character cursed by Vladimir’s ***oathbind*** feature is freed from its constraints. In addition, the spirits of any **revenants** of the Order of the Silver Dragon are freed from the corpses they inhabit, including Sir Godfrey Gwilym. Read:
+As Vladimir dies, any remaining **phantom warriors** haunting Argynvostholt or its cemetery dissolve into mist, and any character cursed by Vladimir’s ***oathbind*** feature is freed from its constraints. In addition, the spirits of any **revenants** of the [[Factions/Order of the Silver Dragon|Order of the Silver Dragon]] are freed from the corpses they inhabit, including Sir Godfrey Gwilym. Read:
 
 <div class="description">
 <p>From the chapel, you hear the clattering of chains and feel the brush of a whispering wind. Slowly, a new ghostly silhouette takes form in the fog below the dragon’s shadow—humanoid, this time, tall, and clad in gleaming armor.</p>
@@ -1176,14 +1176,14 @@ Argynvost’s spirit can share the following information if asked, or as appropr
 * He has long waited for one who might restore his remains to their rightful place, so that his spirit might be empowered to speak with his knights once again. “I am grateful that my patience was not in vain," he rumbles. “Even my hope had waned to a flicker—but you rekindled it to a roaring flame."
 * Although his spirit lay dormant for centuries, he was awoken several weeks ago by the sound of distant dragonsong—a harmony from the planes beyond—that Barovia had not heard since the descent of the Mists. “A grand alignment approaches us," he murmurs. “I know not what it portends, but the great veils are shifting."
 
-If asked, Argynvost can also share any and all of the information regarding events that occurred in [[History of Barovia#The Founding Era (1 BC–345 BC)|The Founding Era]] or during the [[History of Barovia#Birth of Barovia|Birth of Barovia]], excepting any information regarding the origins of King Barov’s *Brightblade*, Baba Lysaga’s history with the Von Zarovich clan, the birth of Sergei, and the origins of the Wizard of Wines (though Argynvost can share his strong suspicions that the winery’s founders had strong ties to—or were descended from—the indigenous people of the valley itself).
+If asked, Argynvost can also share any and all of the information regarding events that occurred in [[History of Barovia#The Founding Era (1 BC–345 BC)|The Founding Era]] or during the [[History of Barovia#Birth of Barovia|Birth of Barovia]], excepting any information regarding the origins of King Barov’s *[[Items/Brightblade|Brightblade]]*, Baba Lysaga’s history with the Von Zarovich clan, the birth of Sergei, and the origins of the Wizard of Wines (though Argynvost can share his strong suspicions that the winery’s founders had strong ties to—or were descended from—the indigenous people of the valley itself).
 
-If any player still possesses an amber shard, Godfrey warns them to "beware how fiercely you gaze into the abyss," adding: "Each moment you linger draws you closer to its edge."
+If any player still possesses an [[Items/Amber Shard|amber shard]], Godfrey warns them to "beware how fiercely you gaze into the abyss," adding: "Each moment you linger draws you closer to its edge."
 
-If he has reason to believe the players hold an interest in journeying to the Amber Temple, Godfrey can also share the following information:
+If he has reason to believe the players hold an interest in journeying to [[Places/Amber Temple|the Amber Temple]], Godfrey can also share the following information:
 
-* Several weeks ago, a dusk elf named Kasimir Velikov visited the manor and spoke with Godfrey, seeking information regarding the history, location, and contents of the Amber Temple. 
-* Godfrey warned him to avoid the darkness that lay within the temple, but believes that Kasimir may have gleaned some information nonetheless by canvassing the ruins of Argynvostholt.
+* Several weeks ago, a dusk elf named [[NPCs/Kasimir Velikov|Kasimir Velikov]] visited the manor and spoke with Godfrey, seeking information regarding the history, location, and contents of [[Places/Amber Temple|the Amber Temple]]. 
+* Godfrey warned him to avoid the darkness that lay within the temple, but believes that [[NPCs/Kasimir Velikov|Kasimir]] may have gleaned some information nonetheless by canvassing the ruins of Argynvostholt.
 * Godfrey did not ask Kasimir’s purpose in seeking out the Temple, but does not believe that he bore any ill intent. “Even so, I knew all too well of the allure the Temple poses," he says. “I could sense the magic, intelligence, and desperation within him. Such individuals are the Temple’s most vulnerable prey."
 * The Amber Temple is located near the peak of Mt. Ghakis, at the end of a trail now long-lost to the ages. “I sense the elf has rediscovered it, however," Godfrey says solemnly. “Seek him out, and he may guide you to the place you seek."
 
@@ -1196,11 +1196,11 @@ As the conversation draws to a close, or if the players request a boon for resto
 
 Once Argynvost has blessed a player’s weapon, he notes that they have “a long and difficult path ahead of them," and asks if they truly understand the evil they now face. “You will face trials unbeknownst to most mortals," he rumbles, “and endure things that should never be endured. Are you prepared to do so?"
 
-If the players assent, or if they request his aid in doing so, Argynvost looks up toward the shadowed beacon of Argynvostholt. “I cannot accompany you on your journey," he says solemnly, “but perhaps I can light the way." Read:
+If the players assent, or if they request his aid in doing so, Argynvost looks up toward the shadowed [[Places/Beacon of Argynvostholt|beacon of Argynvostholt]]. “I cannot accompany you on your journey," he says solemnly, “but perhaps I can light the way." Read:
 
 <div class="description">
 <p>Motes of silver light begin to emanate from Argynvost’s ghostly scales. “My knights have earned their rest," he says, “but I have not fulfilled my debt, nor atoned for my failure." His wings flex wider as silver flames wisp across their span. “As that flame burns within you, so too shall my spirit burn atop the beacon of Argynvostholt, bringing light and hope to this dark land."</p>
-<p>His gaze, steady and solemn, returns to yours. “Will you bear the legacy of the Order of the Silver Dragon in my stead?" he asks quietly.</p>
+<p>His gaze, steady and solemn, returns to yours. “Will you bear the legacy of the [[Factions/Order of the Silver Dragon|Order of the Silver Dragon]] in my stead?" he asks quietly.</p>
 </div>
 
 If one or more players agrees to do so, Argynvost then asks if they will take the oath of the Order of the Silver Dragon. If they do so, he recites the oath in full, pausing after each phrase as appropriate to allow them to repeat after him:
@@ -1230,13 +1230,13 @@ Continue with the following, modifying the text as necessary to reflect each non
 
 <div class="description">
 <p>Time itself seems to hold its breath as countless reflections shimmer in the depths of that radiance, each one illuminated by the silver light above.</p>
-<p>In those reflections, you see the light fall first upon a walled and lonely town—Vallaki—its glimmers dancing across the surface of the once-dark Lake Zarovich nearby. The light finds its way into the taproom of the Blue Water Inn, where Brom and Bray Martikov press their faces against the windowglass as Urwin and Danika gaze into the distance with awe. Shadows of silver and white fall upon Muriel Vinshaw, her eyes rekindling with a brilliant spark as she leans forward from her seat upon the taproom counter, while Nikolai and Karl Wachter gape at the windows from their barstools. At a table not far away, Victor Vallakovich’s hand twitches hesitantly toward Stella Wachter’s—who takes his hand in hers and squeezes it tight.</p>
-<p>The light twists through Vallaki’s narrow alleyways, finding its way to a muddy street before an old, run-down hovel where Milivoj and his siblings, who cling joyfully to his legs and arms, look up into the sky as if seeing it for the first time. Nearby, more of Milivoj’s siblings, playing in the mud with the altar boy Yeska, fall still in wonderment while a watchful Father Lucian clutches the sunburst around his neck with a fierce and reverent joy.</p>
-<p>The light falls upon a hilltop beyond Vallaki’s walls, piercing through the smoke that drifts lazily from the campfires below until it finds a wide-eyed Arrigal, a half-whittled statuette dropping from his hands as Arabelle, curled up against Luvash’s chest, watches the light with quiet satisfaction. She reaches out to Van Richten beside her, lifting his chin with her small, gentle hand, until his eyes behold the light and well with unshed tears.</p>
-<p>The light travels east, until it finds the village of Barovia beyond the mountains, where the shadow of Castle Ravenloft has, if only for a heartbeat, withdrawn in loathing and fear. Ismark, wielding a hammer instead of a sword, looks up from a half-built wall and pounds a proud fist against his chest. Parriwimple, carrying a pile of lumber with Bildrath in the street nearby, points into the sky with rapt fascination, and a small, fragile smile touches the corners of his uncle’s lips. In a candlelit kitchen not far away, Father Donavich and Mary look up from a table with eyes wide and hopeful while, just upstairs, Doru’s arms wrap tenderly around Gertruda’s waist, her slender hand clasping his clawed one against her heart.</p>
-<p>The light travels west, too, illuminating the village of Krezk, and the snow-capped abbey that stands far above. It finds Kala and Ilya Krezkov, who throw themselves, ruddy-cheeked and laughing, into the fresh-fallen snow that dusts the shores of Krezk’s sacred pool, while Dmitri and Anna watch the skies from the old gazebo nearby, two familiar wolves curled quietly in the snow beside them. On the high mountain spur that overlooks the village, amidst a quiet, snowy garden, Otto, Zygfrek, and Clovin Belview watch the light from their perch atop an old stone wall. Behind them, Ithuriel, Vasilka, and a silent golem look up from the flourishing vegetation, the flowers in Vasilka’s hands painted a pearlescent and joyful silver.</p>
-<p>The light travels south, touching rows of wooden posts laden with green-growing vines, each one groaning with the weight of the grapes that peek forth from their leaves. It finds Davian Martikov, whose hand wraps tightly around the locket that hangs from his belt; Claudiu, who looks up into the sky from the shadows of the vineyard and stares; and Elvir, who clutches the hilt of his shortsword as solemn understanding blooms across his face.</p>
-<p>The light finds the dark and twisted rooftops of Castle Ravenloft, where Sasha Ivliskova stands alone, her face twisted with the pain of sudden hope. It finds a lonely cairn amidst the Svalich Woods, where Kavan’s spirit lifts his head in remembrance and sorrow. And it finds, at long last, the sagging doorstep of an old and tired manor, where Lady Fiona Wachter holds a trembling hand to her face as tears spill across her cheeks.</p>
+<p>In those reflections, you see the light fall first upon a walled and lonely town—Vallaki—its glimmers dancing across the surface of the once-dark [[Places/Lake Zarovich|Lake Zarovich]] nearby. The light finds its way into the taproom of the Blue Water Inn, where Brom and Bray [[Factions/Martikov family|Martikov]] press their faces against the windowglass as [[NPCs/Urwin Martikov|Urwin]] and [[NPCs/Danika Dorakova|Danika]] gaze into the distance with awe. Shadows of silver and white fall upon [[NPCs/Muriel Vinshaw|Muriel Vinshaw]], her eyes rekindling with a brilliant spark as she leans forward from her seat upon the taproom counter, while Nikolai and [[NPCs/Karl Wachter|Karl Wachter]] gape at the windows from their barstools. At a table not far away, [[NPCs/Victor Vallakovich|Victor Vallakovich]]’s hand twitches hesitantly toward Stella Wachter’s—who takes his hand in hers and squeezes it tight.</p>
+<p>The light twists through Vallaki’s narrow alleyways, finding its way to a muddy street before an old, run-down hovel where [[NPCs/Milivoj|Milivoj]] and his siblings, who cling joyfully to his legs and arms, look up into the sky as if seeing it for the first time. Nearby, more of [[NPCs/Milivoj|Milivoj]]’s siblings, playing in the mud with the altar boy Yeska, fall still in wonderment while a watchful [[NPCs/Father Lucian Petrovich|Father Lucian]] clutches the sunburst around his neck with a fierce and reverent joy.</p>
+<p>The light falls upon a hilltop beyond Vallaki’s walls, piercing through the smoke that drifts lazily from the campfires below until it finds a wide-eyed [[NPCs/Arrigal|Arrigal]], a half-whittled statuette dropping from his hands as [[NPCs/Arabelle|Arabelle]], curled up against [[NPCs/Luvash|Luvash]]’s chest, watches the light with quiet satisfaction. She reaches out to Van Richten beside her, lifting his chin with her small, gentle hand, until his eyes behold the light and well with unshed tears.</p>
+<p>The light travels east, until it finds the village of Barovia beyond the mountains, where the shadow of Castle Ravenloft has, if only for a heartbeat, withdrawn in loathing and fear. [[NPCs/Ismark Kolyanovich|Ismark]], wielding a hammer instead of a sword, looks up from a half-built wall and pounds a proud fist against his chest. [[NPCs/Parriwimple|Parriwimple]], carrying a pile of lumber with Bildrath in the street nearby, points into the sky with rapt fascination, and a small, fragile smile touches the corners of his uncle’s lips. In a candlelit kitchen not far away, [[NPCs/Father Donavich|Father Donavich]] and Mary look up from a table with eyes wide and hopeful while, just upstairs, [[NPCs/Doru|Doru]]’s arms wrap tenderly around [[NPCs/Gertruda|Gertruda]]’s waist, her slender hand clasping his clawed one against her heart.</p>
+<p>The light travels west, too, illuminating the village of Krezk, and the snow-capped abbey that stands far above. It finds [[NPCs/Kala Krezkova|Kala]] and Ilya Krezkov, who throw themselves, ruddy-cheeked and laughing, into the fresh-fallen snow that dusts the shores of Krezk’s sacred pool, while Dmitri and Anna watch the skies from the old gazebo nearby, two familiar wolves curled quietly in the snow beside them. On the high mountain spur that overlooks the village, amidst a quiet, snowy garden, Otto, Zygfrek, and [[NPCs/Clovin Belview|Clovin Belview]] watch the light from their perch atop an old stone wall. Behind them, Ithuriel, Vasilka, and a silent golem look up from the flourishing vegetation, the flowers in Vasilka’s hands painted a pearlescent and joyful silver.</p>
+<p>The light travels south, touching rows of wooden posts laden with green-growing vines, each one groaning with the weight of the grapes that peek forth from their leaves. It finds [[NPCs/Davian Martikov|Davian Martikov]], whose hand wraps tightly around the locket that hangs from his belt; [[NPCs/Claudiu|Claudiu]], who looks up into the sky from the shadows of the vineyard and stares; and Elvir, who clutches the hilt of his shortsword as solemn understanding blooms across his face.</p>
+<p>The light finds the dark and twisted rooftops of Castle Ravenloft, where [[NPCs/Sasha Ivliskova|Sasha Ivliskova]] stands alone, her face twisted with the pain of sudden hope. It finds a lonely cairn amidst the Svalich Woods, where [[NPCs/Kavan|Kavan]]’s spirit lifts his head in remembrance and sorrow. And it finds, at long last, the sagging doorstep of an old and tired manor, where [[NPCs/Lady Fiona Wachter|Lady Fiona Wachter]] holds a trembling hand to her face as tears spill across her cheeks.</p>
 <p>And then—the instant passes, the reflections vanish, and the day slowly returns. The distant song, too, fades, leaving tones of lingering sorrow, remembrance, and defiance that soon vanish into silence. The beacon of Argynvostholt, however, still shines bright, bathing the woods and valleys below with a lustrous silver radiance.</p>
 <p>
 </div>
@@ -1256,4 +1256,4 @@ All creatures that oppose Strahd, including the players, then gain the effects o
 
 Once Kiril is defeated, the players can easily free Ilya and Zuleika from their *silverthorn collars* using the keys from the chain around Kiril’s neck.
 
-If the players rescued Emil from Castle Ravenloft, Emil and Zuleika are glad to allow them to take any treasure from Mother Night's shrine without incurring the goddess's curse. ("Most of what you see was seized by Kiril," Emil says sadly, "stolen from its rightful owners beyond the mists in his many bloody raids. We have no more right to it than you do.") In addition to the treasure described in <span class="citation">Z7. Shrine of Mother Night (p. 204)</span>, the hoard also contains one diamond worth 300 gp.
+If the players rescued Emil from Castle Ravenloft, Emil and Zuleika are glad to allow them to take any treasure from [[NPCs/Mother Night|Mother Night]]'s shrine without incurring the goddess's curse. ("Most of what you see was seized by Kiril," Emil says sadly, "stolen from its rightful owners beyond the mists in his many bloody raids. We have no more right to it than you do.") In addition to the treasure described in <span class="citation">Z7. Shrine of Mother Night (p. 204)</span>, the hoard also contains one diamond worth 300 gp.

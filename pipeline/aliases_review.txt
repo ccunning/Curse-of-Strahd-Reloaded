@@ -1,0 +1,747 @@
+========================================================================
+PHASE 2 — ALIAS CLUSTER REVIEW
+Curse of Strahd: Reloaded entity pipeline
+========================================================================
+
+How to correct this output:
+  SPLIT bad merge  → remove aliases from aliases.json entry; add new key.
+  MERGE missing    → add the canonical_hint to an existing entry's aliases.
+  RENAME canonical → change the top-level key in aliases.json.
+  BAD HINT (★)    → canonical_hint looks like a description; rename the key.
+
+Pipeline summary:
+  Lowercase dropped    : 48  (generic creatures, not proper names)
+  Wikilink merges      : 7
+  Exact merges         : 5
+  Prefix merges        : 30
+  Embedding merges     : 15
+  LLM merges           : 37
+  Total entities       : 446
+
+Breakdown by confidence:
+  wikilink     : 7
+  exact        : 4
+  prefix       : 22
+  embedding    : 12
+  llm_yes      : 20
+  singleton    : 381
+
+────────────────────────────────────────────────────────────────────────
+## WIKILINK — high confidence (shared source anchors)  [7]
+
+  [place] Catacombs  (2 files, 5 records)  [merged: Central Catacombs, Central Crypts, P12. Catacombs]
+      = Central Catacombs
+      = Central Crypts
+      = K84. Catacombs
+      = P12. Catacombs
+
+  [NPC] Father Lucian Petrovich  (5 files, 5 records)  [merged: Father Lucian]
+      = Father Lucian
+
+  [place] Chapel of Morning  (2 files, 3 records)  [merged: Chapel, Chapel Balcony]
+      = Chapel
+      = Chapel Balcony
+
+  [place] Luna River  (2 files, 3 records)  [merged: Luna River Crossroads]
+      = Luna River Crossroads
+
+  [place] Dungeons  (1 file, 2 records)  [merged: P11. Dungeons]
+      = Dungeon Hall
+      = P11. Dungeons
+
+  [place] P10. Garrison  (1 file, 2 records)  [merged: Garrison]
+      = Garrison
+
+  [place] The Shroud of Mist  (1 file, 2 records)  [merged: Shroud of Mist]
+      = Shroud of Mist
+
+────────────────────────────────────────────────────────────────────────
+## EXACT MATCH — high confidence  [4]
+
+  [NPC] Abbot of the Abbey of Saint Markovia  (4 files, 5 records)  [merged: Abbot, Abbot of Saint Markovia, The Abbot…]
+      = Abbot
+      = Abbot of Saint Markovia
+      = Abbot of the Abbey
+      = Ithuriel, Restored
+      = Ithuriel, the Dawnbringer
+      = Ithuriel, the Fallen Star
+      = The Abbot
+      = The Abbot of St. Markovia
+      = The Abbot's mortal guise
+      = The Abbot/Ithuriel
+
+  [item] The Tome of Strahd  (5 files, 5 records)  [merged: Tome of Strahd]
+      = Tome of Strahd
+
+  [item] Keeper's Whistle  (2 files, 2 records)  [merged: Keeper's whistle]
+
+  [NPC] The Devourer  (2 files, 2 records)  [merged: Devourer]
+      = Devourer
+      = the corrupted Dreamer
+
+────────────────────────────────────────────────────────────────────────
+## PREFIX/SUBSTRING — review recommended  [22]
+
+  [NPC] Strahd von Zarovich  (20 files, 32 records)  [merged: King Barov von Zarovich I, Rahadin, Rahadin von Zarovich…]
+      = Count Strahd
+      = Count Strahd von Zarovich
+      = King Barov von Zarovich I
+      = Rahadin
+      = Rahadin von Zarovich
+      = Sergei
+      = Sergei von Zarovich
+      = Strahd
+      = The Gentleman
+      = The Mage
+
+  [NPC] Ireena Kolyana  (14 files, 14 records)  [merged: Ireena, Ireena Strazni]
+      = Ireena
+      = Ireena Strazni
+
+  [NPC] Erasmus van Richten  (9 files, 13 records)  [merged: Dr. Rudolph van Richten, Erasmus, Rudolph van Richten…]
+      = Dr. Rudolph van Richten
+      = Erasmus
+      = Rudolph van Richten
+      = Van Richten
+      = the son
+
+  [NPC] Ezmerelda d'Avenir  (11 files, 12 records)  [merged: Eggsmerelda, Ezmerelda]
+      = Eggsmerelda
+      = Ezmerelda
+      = Ezmerelda d’Avenir
+
+  [place] Vallaki  (10 files, 11 records)  [merged: Town of Vallaki, Vallaki Streets]
+      = Burgomaster Kolyan Indirovich's Town
+      = Streets
+      = The Town of Vallaki
+      = Town of Vallaki
+      = Vallaki Streets
+
+  [NPC] Urwin Martikov  (9 files, 10 records)  [merged: Urwin]
+      = Urwin
+      = Urwin First
+
+  [NPC] Kasimir Velikov  (8 files, 9 records)  [merged: Kasimir]
+      = Kasimir
+      = Kasimir's cold-weather clothing
+      = Kasimir's hands
+      = Kasimir's spellbook
+      = ring of warmth
+      = the dusk elf scholar
+      = the scholar
+
+  [NPC] Muriel Vinshaw  (6 files, 8 records)  [merged: Muriel]
+      = Muriel
+      = blue-winged raven
+
+  [NPC] Ludmilla  (6 files, 7 records)  [merged: Ludmilla Vilisevic]
+      = Ludmilla Vilisevic
+
+  [NPC] Zuleika Toranescu  (6 files, 6 records)  [merged: Zuleika, Zuleika Krezkova]
+      = Zuleika
+      = Zuleika Krezkova
+      = werewolf cleric
+
+  [NPC] Morgantha  (4 files, 5 records)  [merged: Morgantha Stormreaver, Morgantha, Dream Peddler]
+      = Morgantha Stormreaver
+      = Morgantha the Hags
+      = Morgantha, Dream Peddler
+      = Night Hag Morgantha
+
+  [NPC] Volenta  (5 files, 5 records)  [merged: Volenta Popofsky]
+      = Volenta Popofsky
+
+  [NPC] Anastrasya Karelova  (4 files, 4 records)  [merged: Anastrasya]
+      = Anastrasya
+
+  [NPC] Kavan  (3 files, 4 records)  [merged: Kavan the Blood-Drinker]
+      = Kavan the Blood-Drinker
+      = chieftain of his tribe
+
+  [NPC] Tatyana Federovna  (4 files, 4 records)  [merged: Tatyana]
+      = Tatyana
+
+  [place] Tser Pool Encampment  (4 files, 4 records)  [merged: Tser Pool]
+      = Tser Pool
+
+  [NPC] Belladonna Sunbane  (2 files, 3 records)  [merged: Bella, Bella Sunbane]
+      = Bella
+      = Bella Sunbane
+      = Bella, Night Hag
+      = Belladonna
+
+  [place] Forest Fane  (3 files, 3 records)  [merged: Forest Fane at Yester Hill]
+      = Forest Fane at Yester Hill
+      = the huntress's holy place
+
+  [place] Mists  (3 files, 3 records)  [merged: Mists of Ravenloft]
+      = Mists of Ravenloft
+      = The Mists
+
+  [NPC] Walter, the Graveborn  (2 files, 3 records)  [merged: Walter, Walter Durst]
+      = Walter
+      = Walter Durst
+
+  [faction] Martikov family  (2 files, 2 records)  [merged: Martikov]
+      = Martikov
+
+  [NPC] Offalia Wormwiggle  (2 files, 2 records)  [merged: Offalia]
+      = Offalia
+      = Offalia, Night Hag
+
+────────────────────────────────────────────────────────────────────────
+## EMBEDDING — review recommended  [12]
+
+  [NPC] Lady Fiona Wachter  (11 files, 18 records)  [merged: Fiona Wachter, Lady Wachter, Nikolai Wachter…]
+      = Burgomistress Fiona Wachter
+      = Fiona
+      = Fiona Wachter
+      = Lady Fiona
+      = Lady Wachter
+      = Nikolai Wachter
+      = Stella
+      = Stella Wachter
+      = Wachtercult
+      = the friend
+      = the girl
+
+  [NPC] Victor Vallakovich  (8 files, 11 records)  [merged: Baron Valentin Vallakovich, Baron Vallakovich, Baron Vargas Vallakovich]
+      = Baron
+      = Baron Valentin Vallakovich
+      = Baron Vallakovich
+      = Baron Vargas Vallakovich
+      = Vargas Vallakovich
+      = Victor
+      = the Baron
+      = the son
+      = the young man
+
+  [place] Abbey of Saint Markovia  (5 files, 5 records)  [merged: Abbey of St. Markovia]
+      = Abbey
+      = Abbey of St. Markovia
+      = The Abbey of Saint Markovia
+
+  [NPC] Baron Dmitri Krezkov  (5 files, 5 records)  [merged: Dmitri Krezkov]
+      = Dmitri
+      = Dmitri Krezkov
+      = The Baron of Krezk
+
+  [place] Mount Ghakis  (5 files, 5 records)  [merged: Mt. Ghakis]
+      = Mt. Ghakis
+      = R6. Mt. Ghakis
+      = the roc of Mount Ghakis
+
+  [NPC] Rosavalda "Rose" Durst  (4 files, 5 records)  [merged: Elisabeth Durst, Rose Durst]
+      = Elisabeth Durst
+      = Rosavalda Durst
+      = Rose
+      = Rose Durst
+
+  [NPC] Anna Krezkova  (3 files, 3 records)  [merged: Baroness Anna Krezkova]
+      = Anna
+      = Baroness Anna Krezkova
+
+  [NPC] Saint Markovia  (3 files, 3 records)  [merged: St. Markovia]
+      = Markovia
+      = St. Markovia
+      = The spirit of St. Markovia
+
+  [NPC] Werewolves  (3 files, 3 records)  [merged: Werewolf]
+      = Werewolf
+
+  [NPC] Speaker of the Gallows  (2 files, 2 records)  [merged: Gallows Speaker]
+      = Gallows Speaker
+
+  [item] Tarokka Cards  (2 files, 2 records)  [merged: Tarokka deck]
+      = Tarokka Deck
+      = Tarokka deck
+
+  [place] The Vampyr’s Sarcophagus  (1 file, 2 records)  [merged: The Vampyr's Sarcophagus]
+      = The Vampyr's Sarcophagus
+      = Vampyr's Sarcophagus
+
+────────────────────────────────────────────────────────────────────────
+## LLM ADJUDICATED — review recommended  [20]
+
+  [place] Barovia  (7 files, 8 records)  [merged: Village of Barovia]
+      = The Land of Barovia
+      = The Village of Barovia
+      = Valley of Barovia
+      = Village of Barovia
+      = the valley
+
+  [place] Svalich Woods  (8 files, 8 records)  [merged: Svalich Wood]
+      = Svalich
+      = Svalich Wood
+
+  [NPC] Madam Eva  (7 files, 7 records)  [merged: Madame Eva]
+      = Eva
+      = Madame Eva
+
+  [NPC] Argynvost  (5 files, 6 records)  [merged: Lord Argynvost]
+      = Argynvosth
+      = Lord Argynvost
+
+  [place] Village of Krezk  (6 files, 6 records)  [merged: Krezk]
+      = Abbot's Monastery
+      = Clergy of the Abbot
+      = Krezk
+
+  [NPC] Cyrus Belview  (5 files, 5 records)  [merged: Belviews]
+      = Belviews
+      = Cyrus
+
+  [NPC] Father Donavich  (4 files, 4 records)  [merged: Donavich]
+      = Donavich
+
+  [NPC] Vladimir Horngaard  (4 files, 4 records)  [merged: Commander Vladimir Horngaard]
+      = Commander Vladimir
+      = Commander Vladimir Horngaard
+      = Vladimir Horngaard, Knight of Death
+      = Vladimir Horngaard, Vengeful Revenant
+
+  [item] Amber Shard  (2 files, 3 records)  [merged: Elisabeth's Amber Shard]
+      = Elisabeth's Amber Shard
+      = Misshapen Statue
+
+  [NPC] Greater Strix  (2 files, 3 records)  [merged: The Strix]
+      = Strix
+      = The Strix
+
+  [NPC] Ithuriel  (3 files, 3 records)  [merged: Ithuriel, the Dawnbringer]
+      = Abbot
+      = Ithuriel, the Dawnbringer
+
+  [NPC] Burgomaster Kolyan Indirovich  (2 files, 2 records)  [merged: Kolyan Indirovich]
+      = Kolyan Indirovich
+
+  [NPC] Prince Erevan Löwenhart  (2 files, 2 records)  [merged: Erevan]
+      = Erevan
+
+  [NPC] Shambling Mound  (2 files, 2 records)  [merged: Flesh Mound]
+      = Flesh Mound
+      = flesh mound
+
+  [item] Katarina's Necklace  (1 file, 2 records)  [merged: Katarina’s Locket]
+      = Katarina's half-necklace
+      = Katarina’s Locket
+      = Locket
+
+  [NPC] Khirad, the Star of Secrets  (2 files, 2 records)  [merged: Khirad]
+      = Khirad
+      = Star of Secrets
+
+  [NPC] Mongrelfolk Otto  (2 files, 2 records)  [merged: Otto]
+      = Mongrelfolk Otto and Zygfrek
+      = Otto
+      = Otto & Zygfrek
+      = Zygfrek Belview
+
+  [NPC] Thornboldt "Thorn" Durst  (2 files, 2 records)  [merged: Thorn Durst]
+      = Thorn
+      = Thorn Durst
+      = Thornboldt Durst
+
+  [NPC] Vilnius, First Prisoner  (2 files, 2 records)  [merged: Vilnius]
+      = Vilnius
+      = Vilnius's spirit
+
+  [NPC] Zorya, Pseudodragon Spirit  (2 files, 2 records)  [merged: Zorya]
+      = Zorya
+      = Zorya the pseudodragon
+
+────────────────────────────────────────────────────────────────────────
+## SINGLETONS (no alias merges)  [381]
+
+  [NPC] (163 entities)
+    Izek Strazni  ← Arc C - Into the Valley.md
+    Baba Lysaga  ← Arc C - Into the Valley.md
+    Danika Dorakova  ← Arc C - Into the Valley.md
+    Escher  ← Arc C - Into the Valley.md
+    Doru  ← Arc J - The Stolen Gem.md
+    Emil Toranescu  ← Arc L - The Den of Wolves.md
+    Sasha Ivliskova  ← Arc H - The Lost Soul.md
+    Exethanter  ← Arc S - A Sword of Sunlight.md
+    Gertruda  ← Arc O - Dinner with the Devil.md
+    Kiril Stoyanovich  ← Arc L - The Den of Wolves.md
+    Rictavio  ← Arc C - Into the Valley.md
+    Sir Godfrey Gwilym  ← Arc J - The Stolen Gem.md
+    Varushka  ← Arc O - Dinner with the Devil.md
+    Arrigal  ← Arc E - The Missing Vistana.md
+    Arturi Radanavich  ← Arc C - Into the Valley.md
+    Beucephalus  ← Arc P - Ravenloft Heist.md
+    Davian Martikov  ← Arc J - The Stolen Gem.md
+    Franz  ← Arc C - Into the Valley.md
+    Ilya Krezkov  ← Arc I - The Walls of Krezk.md
+    Ismark Kolyanovich  ← Arc Q - A Shining Beacon.md
+    Khazan  ← Arc E - The Missing Vistana.md
+    King Dostron  ← Arc J - The Stolen Gem.md
+    Leo Dilisnya  ← Arc H - The Lost Soul.md
+    Livius Martikov  ← Arc J - The Stolen Gem.md
+    Milivoj  ← Arc D - St. Andral's Feast.md
+    Anton Konstantinovich  ← Arc O - Dinner with the Devil.md
+    Arabelle  ← Arc E - The Missing Vistana.md
+    Bianca Stoyanovich  ← Arc L - The Den of Wolves.md
+    Brother Marek  ← Arc M - The Dragon's Manor.md
+    Dezdrelda Konstaninova  ← Arc O - Dinner with the Devil.md
+    Elder Burebis  ← Character Creation.md
+    Elric Martikov  ← Arc J - The Stolen Gem.md
+    Gadof Blinsky  ← Arc E - The Missing Vistana.md
+    Gustav Durst  ← Arc A - Escape From Death House.md
+    Ismark Antonovich  ← Arc O - Dinner with the Devil.md
+    Katarina  ← Arc O - Dinner with the Devil.md
+    Lief Lipsiege  ← Arc O - Dinner with the Devil.md
+    Luvash  ← Arc E - The Missing Vistana.md
+    Patrina Velikovna  ← Arc S - A Sword of Sunlight.md
+    Pidlwick II  ← Arc O - Dinner with the Devil.md
+    Seeker  ← Arc O - Dinner with the Devil.md
+    Skeletal Rider  ← Arc C - Into the Valley.md
+    Stanimir  ← Arc C - Into the Valley.md
+    Wensencia  ← Arc I - The Walls of Krezk.md
+    Adrian Martikov  ← Arc J - The Stolen Gem.md
+    Alek Tyminski  ← Arc O - Dinner with the Devil.md
+    Alexei  ← Arc E - The Missing Vistana.md
+    Ba'Al Verzi Avenger  ← Non-Player Characters.md
+    Baba Zelenna  ← History of Barovia.md
+    Baroness Lydia Petrovna  ← Non-Player Characters.md
+    Barov von Zarovich II  ← History of Barovia.md
+    Barovian Scouts  ← Arc C - Into the Valley.md
+    Barovian witches  ← Arc P - Ravenloft Heist.md
+    Bluetspur  ← Arc S - A Sword of Sunlight.md
+    Brom Martikov  ← Arc C - Into the Valley.md
+    Chernovog  ← History of Barovia.md
+    Chief Diegia  ← Arc S - A Sword of Sunlight.md
+    Claudiu  ← Arc J - The Stolen Gem.md
+    Clovin Belview  ← Arc K - The Fallen Abbey.md
+    Coryllus  ← Arc S - A Sword of Sunlight.md
+    Crawling Claws  ← Arc P - Ravenloft Heist.md
+    Cult Fanatic  ← Arc H - The Lost Soul.md
+    Dag Tomescu  ← Arc J - The Stolen Gem.md
+    Dahlver-Nar, He of the Many Teeth  ← Amber Shards.md ★ BAD HINT
+    Dalvan Olensky  ← Arc C - Into the Valley.md
+    Delban, the Star of Ice and Hate  ← Amber Shards.md ★ BAD HINT
+    Diavola  ← Arc O - Dinner with the Devil.md
+    Diona  ← Arc S - A Sword of Sunlight.md
+    Dorina  ← Arc S - A Sword of Sunlight.md
+    DragnaCarta  ← A DM's Guide to Curse of Strahd.md
+    Drasha  ← Arc A - Escape From Death House.md
+    Dreamer  ← History of Barovia.md
+    Drizlash, the Nine-Eyed Spider  ← Amber Shards.md ★ BAD HINT
+    Druid Assailant  ← Arc J - The Stolen Gem.md
+    Duras  ← Arc S - A Sword of Sunlight.md
+    Durst children  ← Session Zero.md
+    Eliza  ← Arc C - Into the Valley.md
+    Elvir Martikov  ← Arc J - The Stolen Gem.md
+    Ernst Larnak  ← Arc F - Lady Wachter's Wish.md
+    Father Petrovich  ← Arc J - The Stolen Gem.md
+    Fekre, Queen of Poxes  ← Amber Shards.md ★ BAD HINT
+    Fyodor  ← Arc H - The Lost Soul.md
+    Great Taar Haak, the Five-Headed Destroyer  ← Amber Shards.md ★ BAD HINT
+    Heinrich Stolt  ← Arc S - A Sword of Sunlight.md
+    Henrik  ← Arc P - Ravenloft Heist.md
+    Huntress  ← History of Barovia.md
+    Imp  ← Arc H - The Lost Soul.md
+    Jakarion  ← Arc S - A Sword of Sunlight.md
+    Kala Krezkova  ← Arc K - The Fallen Abbey.md
+    Karl Wachter  ← Arc F - Lady Wachter's Wish.md
+    Klara  ← History of Barovia.md
+    Kretyana Dolvof  ← Arc K - The Fallen Abbey.md
+    Lazlo Ulrich  ← Arc Q - A Shining Beacon.md
+    Lesser Strix  ← Arc J - The Stolen Gem.md
+    Lich  ← Adventure Summary.md
+    Lorelei  ← Arc S - A Sword of Sunlight.md
+    Lorghoth the Decayer  ← Arc J - The Stolen Gem.md
+    Lovina Wachter  ← History of Barovia.md
+    Lugdana  ← History of Barovia.md
+    Mad Mary  ← Non-Player Characters.md
+    Madame Irene Radanavich  ← History of Barovia.md
+    Majesto  ← Arc H - The Lost Soul.md
+    Marina Ulrich  ← History of Barovia.md
+    Martin  ← Arc J - The Stolen Gem.md
+    Marzena Belview  ← Arc K - The Fallen Abbey.md
+    Mathilda  ← Arc E - The Missing Vistana.md
+    Meda  ← Arc S - A Sword of Sunlight.md
+    Minodora Taltos  ← Arc M - The Dragon's Manor.md
+    Mordenkainen  ← Quill's Letter.md
+    Mother Night  ← History of Barovia.md
+    Myrtle  ← Arc H - The Lost Soul.md
+    Nardag  ← Arc S - A Sword of Sunlight.md
+    Needle Blight  ← Arc J - The Stolen Gem.md
+    Neferon  ← Arc S - A Sword of Sunlight.md
+    Night Hag  ← Arc H - The Lost Soul.md
+    Norganas, the Finger of Oblivion  ← Amber Shards.md ★ BAD HINT
+    Nothic  ← Arc S - A Sword of Sunlight.md
+    Otto and Zygfrek Belview  ← Arc K - The Fallen Abbey.md
+    Parriwimple  ← Non-Player Characters.md
+    Patrina, Vengeful Wraith  ← Non-Player Characters.md ★ BAD HINT
+    Phase Spiders  ← Arc H - The Lost Soul.md
+    Queen Ravenovia  ← History of Barovia.md
+    Quill  ← Quill's Letter.md
+    Revenant  ← Arc C - Into the Valley.md
+    Roc  ← Adventure Summary.md
+    Roc of Mount Ghakis  ← Arc J - The Stolen Gem.md
+    Saint Andral  ← History of Barovia.md
+    Sangzor  ← Arc R - Trials of the Mountain.md
+    Savid  ← Arc E - The Missing Vistana.md
+    Savnok, the Inscrutable  ← Amber Shards.md ★ BAD HINT
+    Seriach, the Hell Hound Whisperer  ← Amber Shards.md ★ BAD HINT
+    Shadow  ← Arc P - Ravenloft Heist.md
+    Shami-Amourae, the Lady of Delights  ← Amber Shards.md ★ BAD HINT
+    Silvia  ← Arc J - The Stolen Gem.md
+    Skennis  ← Arc L - The Den of Wolves.md
+    Stefania Martikov  ← Arc J - The Stolen Gem.md
+    Storm Giant  ← Adventure Summary.md
+    Svarog  ← Arc J - The Stolen Gem.md
+    Swarm  ← Arc C - Into the Valley.md
+    Sykane, the Soul Hungerer  ← Amber Shards.md ★ BAD HINT
+    Szoldar Szoldarovich  ← Arc E - The Missing Vistana.md
+    Tarakamedes, the Grave Wyrm  ← Amber Shards.md ★ BAD HINT
+    Tenebrous  ← Arc S - A Sword of Sunlight.md
+    The Nightmare Three  ← Arc H - The Lost Soul.md
+    The Poisoned Mages  ← Arc S - A Sword of Sunlight.md
+    The Vampyr  ← Arc S - A Sword of Sunlight.md
+    Tree Blight  ← Adventure Summary.md
+    Vasili von Holtz  ← History of Barovia.md
+    Vaund the Evasive  ← Amber Shards.md
+    Vistana Arabelle  ← Strahd von Zarovich.md
+    Weaver  ← History of Barovia.md
+    Willemina Rikalova  ← Arc C - Into the Valley.md
+    Wintersplinter  ← Adventure Summary.md
+    Wolves  ← Arc C - Into the Valley.md
+    Yan  ← Arc E - The Missing Vistana.md
+    Yog the Invincible  ← Amber Shards.md
+    Yolanda  ← Arc J - The Stolen Gem.md
+    Yrrga, the Eye of Shadows  ← Amber Shards.md ★ BAD HINT
+    Zantras, the Kingmaker  ← Amber Shards.md ★ BAD HINT
+    Zhudun, the Corpse Star  ← Arc S - A Sword of Sunlight.md ★ BAD HINT
+    Zrin-Hala, the Howling Storm  ← Amber Shards.md ★ BAD HINT
+    Zsolt  ← Arc E - The Missing Vistana.md
+    Zygfrek  ← Arc K - The Fallen Abbey.md
+
+  [place] (102 entities)
+    Amber Temple  ← Arc H - The Lost Soul.md
+    Castle Ravenloft  ← Arc J - The Stolen Gem.md
+    Argynvostholt  ← Arc J - The Stolen Gem.md
+    Blue Water Inn  ← Arc C - Into the Valley.md
+    Soldav  ← Arc J - The Stolen Gem.md
+    Yester Hill  ← Arc J - The Stolen Gem.md
+    Tsolenka Pass  ← Arc J - The Stolen Gem.md
+    Wachterhaus  ← Arc F - Lady Wachter's Wish.md
+    Whispering Wall  ← Arc J - The Stolen Gem.md
+    Wizard of Wines  ← Arc J - The Stolen Gem.md
+    Berez  ← Arc J - The Stolen Gem.md
+    Lake Zarovich  ← Arc C - Into the Valley.md
+    Old Bonegrinder  ← Arc H - The Lost Soul.md
+    St. Andral's Church  ← Arc C - Into the Valley.md
+    Werewolf Den  ← Strahd von Zarovich.md
+    Kitchen  ← Arc M - The Dragon's Manor.md
+    Lake Baratok  ← Arc E - The Missing Vistana.md
+    Marina's Monument  ← Arc I - The Walls of Krezk.md
+    Old Svalich Road  ← Arc A - Escape From Death House.md
+    River Ivlis Crossroads  ← Arc C - Into the Valley.md
+    Tser Falls  ← Arc C - Into the Valley.md
+    Van Richten's Tower  ← Arc E - The Missing Vistana.md
+    Vistani Encampment  ← Arc E - The Missing Vistana.md
+    A gloomy, fog-enshrouded village/valley located within the Mists.  ← Arc B - Welcome to Barovia.md ★ BAD HINT
+    Amber Vault  ← Arc S - A Sword of Sunlight.md
+    Arasek Stockyard  ← Arc D - St. Andral's Feast.md
+    Argynvost’s Mausoleum  ← Arc M - The Dragon's Manor.md
+    Audience Hall  ← Arc P - Ravenloft Heist.md
+    Baba Lysaga's Hut  ← History of Barovia.md
+    Balinok Mountains  ← History of Barovia.md
+    Baron's Mansion  ← Arc G - The Strazni Siblings.md
+    Barovian Church  ← History of Barovia.md
+    Beacon of Argynvostholt  ← Arc M - The Dragon's Manor.md
+    Bell Tower  ← Arc P - Ravenloft Heist.md
+    Brazier Room  ← Arc P - Ravenloft Heist.md
+    Butler's Quarters  ← Arc P - Ravenloft Heist.md
+    Carnival of Wonders  ← Arc D - St. Andral's Feast.md
+    Castle Commons  ← Arc P - Ravenloft Heist.md
+    Castle Crypts  ← Arc P - Ravenloft Heist.md
+    Cave of Eyes  ← Arc P - Ravenloft Heist.md
+    Children’s Room  ← Arc A - Escape From Death House.md
+    Coffin Maker's Shop  ← Arc D - St. Andral's Feast.md
+    Collapsed Ceiling  ← Arc M - The Dragon's Manor.md
+    Coven's Quarters  ← Arc P - Ravenloft Heist.md
+    Creeping Hut  ← Non-Player Characters.md
+    Cult Headquarters  ← Arc H - The Lost Soul.md
+    Daggerford  ← Arc A - Escape From Death House.md
+    Dragon Gargoyle  ← Arc M - The Dragon's Manor.md
+    Dragon's Vault  ← Arc M - The Dragon's Manor.md
+    Dragon’s Mausoleum  ← Arc M - The Dragon's Manor.md
+    Dusk Elf Hovels  ← Arc E - The Missing Vistana.md
+    Elevator Hall  ← Arc P - Ravenloft Heist.md
+    Ethereal Plane  ← Arc H - The Lost Soul.md
+    Fanes of Barovia  ← Arc U - Dreams of Dawn.md
+    Front Courtyard  ← Arc P - Ravenloft Heist.md
+    Grand Conjunction  ← History of Barovia.md
+    Great Entry  ← Arc P - Ravenloft Heist.md
+    Guest Suite  ← Arc P - Ravenloft Heist.md
+    Hall of Bones  ← Arc P - Ravenloft Heist.md
+    Hall of Faith  ← Arc P - Ravenloft Heist.md
+    Hall of Heroes  ← Arc P - Ravenloft Heist.md
+    Highharvesttide  ← Arc A - Escape From Death House.md
+    King's Hall  ← Arc P - Ravenloft Heist.md
+    King’s Apartments  ← Arc P - Ravenloft Heist.md
+    Knights’ Quarters  ← Arc M - The Dragon's Manor.md
+    Lecture Hall  ← Arc S - A Sword of Sunlight.md
+    Leyline beneath Wachterhaus  ← Arc H - The Lost Soul.md
+    Library  ← Arc A - Escape From Death House.md
+    Main Foyer  ← Arc P - Ravenloft Heist.md
+    Master Suite  ← Arc A - Escape From Death House.md
+    Mount Baratok  ← Arc K - The Fallen Abbey.md
+    Nightmare’s Bridle  ← Arc A - Escape From Death House.md
+    North Crypts  ← Arc P - Ravenloft Heist.md
+    North Tower Vestibule  ← Arc P - Ravenloft Heist.md
+    Parlor  ← Arc M - The Dragon's Manor.md
+    Patrina Velikovna's Manor  ← History of Barovia.md
+    Pillarstone of Ravenloft  ← Strahd von Zarovich.md
+    Portcullis  ← Arc A - Escape From Death House.md
+    Prison  ← Arc A - Escape From Death House.md
+    Reliquary  ← Arc A - Escape From Death House.md
+    Ritual Chamber  ← Arc A - Escape From Death House.md
+    Scaffolding  ← Arc E - The Missing Vistana.md
+    Secret Room  ← Arc A - Escape From Death House.md
+    Sergei's Wedding  ← Arc O - Dinner with the Devil.md
+    Servants’ Quarters  ← Arc M - The Dragon's Manor.md
+    Servants’ Wing  ← Arc P - Ravenloft Heist.md
+    Shrine of Temptation  ← Arc S - A Sword of Sunlight.md
+    Shrine of the White Sun  ← Running the Adventure.md
+    South Crypts  ← Arc P - Ravenloft Heist.md
+    St. Andral's Feast  ← Character Creation.md
+    Swamp Fane  ← History of Barovia.md
+    The Black Carriage  ← Arc P - Ravenloft Heist.md
+    The Mass Grave  ← Arc M - The Dragon's Manor.md
+    The Mountain Fane  ← Arc H - The Lost Soul.md
+    The Three Fanes  ← Arc H - The Lost Soul.md
+    Torture Chamber  ← Arc P - Ravenloft Heist.md
+    Treasury  ← Arc P - Ravenloft Heist.md
+    Upstairs Gallery  ← Arc M - The Dragon's Manor.md
+    Vladimir’s Bedroom  ← Arc M - The Dragon's Manor.md
+    Watchtower  ← Arc C - Into the Valley.md
+    Wine Cellar  ← Arc P - Ravenloft Heist.md
+    Wine Storage  ← Arc M - The Dragon's Manor.md
+
+  [item] (83 entities)
+    Amber Shards  ← Arc F - Lady Wachter's Wish.md
+    Sunsword  ← Arc M - The Dragon's Manor.md
+    Heart of Sorrow  ← Arc P - Ravenloft Heist.md
+    Holy Symbol of Ravenkind  ← Arc J - The Stolen Gem.md
+    Icon of Dawn's Grace  ← Arc K - The Fallen Abbey.md
+    Dragon's Scale  ← Arc A - Escape From Death House.md
+    Sunrise Medallion  ← Arc A - Escape From Death House.md
+    Angel's Feather  ← Arc A - Escape From Death House.md
+    Brightblade  ← Arc M - The Dragon's Manor.md
+    Broken Blade  ← Arc A - Escape From Death House.md
+    Crumpled Page  ← Arc A - Escape From Death House.md
+    Curse of Strahd: Reloaded  ← A DM's Guide to Curse of Strahd.md
+    Electrum Coin  ← Arc A - Escape From Death House.md
+    Monster Manual  ← Session Zero.md
+    Raven's Feather  ← Arc A - Escape From Death House.md
+    Sigil of the Sun  ← Arc O - Dinner with the Devil.md
+    Silverthorn Collar  ← Arc L - The Den of Wolves.md
+    Stone Crest  ← Arc A - Escape From Death House.md
+    Tattered Banner  ← Arc A - Escape From Death House.md
+    Teleportation Circle  ← Arc H - The Lost Soul.md
+    Wanderer's Scarf  ← Arc A - Escape From Death House.md
+    Wolf's Tooth  ← Arc A - Escape From Death House.md
+    Amber Corruption  ← Arc S - A Sword of Sunlight.md
+    Amulet of Knight’s Passage  ← Arc M - The Dragon's Manor.md
+    Amulet of Ravenloft  ← Arc P - Ravenloft Heist.md
+    Arc A - Escape From Death House  ← Using This Guide.md
+    Argynvost's skull  ← Arc P - Ravenloft Heist.md
+    Barovian Relics  ← Arc A - Escape From Death House.md
+    Black Carriage  ← Arc U - Dreams of Dawn.md
+    Bloodthorn  ← History of Barovia.md
+    Bracelet of Warding  ← Arc M - The Dragon's Manor.md
+    Broom of Animated Attack  ← Arc P - Ravenloft Heist.md
+    Brown Mold  ← Arc J - The Stolen Gem.md
+    Campaign Contract  ← Session Zero.md
+    Cape of the Mountebank  ← Arc P - Ravenloft Heist.md
+    Character Creation  ← Using This Guide.md
+    Charm of Mass Heroism  ← Arc H - The Lost Soul.md
+    Clairvoyance Stone  ← Arc P - Ravenloft Heist.md
+    Crystal of Alarm  ← Arc L - The Den of Wolves.md
+    Curse of Strahd  ← Using This Guide.md
+    Daern’s instant fortress  ← Arc P - Ravenloft Heist.md
+    Driftglobe  ← Arc P - Ravenloft Heist.md
+    Drusilla  ← Arc E - The Missing Vistana.md
+    Dungeon Master's Guide  ← Using This Guide.md
+    Ethereal Entities  ← Arc H - The Lost Soul.md
+    Flesh Golem  ← History of Barovia.md
+    Gargoyles  ← Arc E - The Missing Vistana.md
+    Giant Skull  ← History of Barovia.md
+    Goat Pen  ← History of Barovia.md
+    Gulthias Staff  ← Arc J - The Stolen Gem.md
+    Gulthias tree  ← Arc J - The Stolen Gem.md
+    Hag Eye  ← History of Barovia.md
+    Heartstone  ← Arc H - The Lost Soul.md
+    History of Barovia  ← Using This Guide.md
+    Holy Symbol of Ravenloft  ← Adventure Summary.md
+    Huntress's sacred spear  ← Arc J - The Stolen Gem.md
+    Khazan's Staff  ← Arc P - Ravenloft Heist.md
+    Lore of Barovia  ← Using This Guide.md
+    Mist Talisman  ← History of Barovia.md
+    Moon-touched Rapier  ← Arc M - The Dragon's Manor.md
+    Pearls of Power  ← Arc P - Ravenloft Heist.md
+    Player's Handbook  ← Using This Guide.md
+    Potion of Superior Healing  ← Arc P - Ravenloft Heist.md
+    Session Zero  ← Using This Guide.md
+    Shield Guardian  ← Arc S - A Sword of Sunlight.md
+    Soul Leech  ← Arc H - The Lost Soul.md
+    Spirit Mirror  ← Arc H - The Lost Soul.md
+    Staff of Frost  ← Arc S - A Sword of Sunlight.md
+    Svarog's wand  ← Arc J - The Stolen Gem.md
+    Talisman of Echoes  ← Arc E - The Missing Vistana.md
+    Tarokka reading  ← Arc J - The Stolen Gem.md
+    The Chiming Clock  ← Arc O - Dinner with the Devil.md
+    The Hags' Contract  ← Arc H - The Lost Soul.md
+    The Oath Celestial  ← Arc M - The Dragon's Manor.md
+    The Stolen Sword  ← Arc S - A Sword of Sunlight.md
+    Three Fanes  ← Adventure Summary.md
+    Twilight Crest  ← Arc J - The Stolen Gem.md
+    Vampyr  ← History of Barovia.md
+    Van Richten's Guide to Ravenloft  ← Using This Guide.md
+    Van Richten's Weapons Cache  ← Arc C - Into the Valley.md
+    Vasilka  ← Arc K - The Fallen Abbey.md
+    Winter Wolf  ← Arc J - The Stolen Gem.md
+    Xanathar's Guide to Everything  ← Using This Guide.md
+
+  [faction] (33 entities)
+    Keepers of the Feather  ← Arc C - Into the Valley.md
+    Vistani  ← Arc O - Dinner with the Devil.md
+    Dark Powers  ← Arc O - Dinner with the Devil.md
+    Forest Folk  ← Arc J - The Stolen Gem.md
+    Mountain Folk  ← Arc J - The Stolen Gem.md
+    First Folk  ← Arc J - The Stolen Gem.md
+    Ladies of the Fanes  ← Character Creation.md
+    Order of the Silver Dragon  ← Arc M - The Dragon's Manor.md
+    Rozana  ← Arc J - The Stolen Gem.md
+    The Bonegrinder Coven  ← Arc H - The Lost Soul.md
+    Amber Vestiges  ← Lore of Barovia.md
+    Barovian Refugees  ← Lore of Barovia.md
+    Ba’al Verzi  ← Arc H - The Lost Soul.md
+    Brides of Strahd  ← Lore of Barovia.md
+    Cult Fanatics  ← Arc H - The Lost Soul.md
+    Cult of Chernovog  ← History of Barovia.md
+    Death House  ← Strahd von Zarovich.md
+    Dusk Elves  ← History of Barovia.md
+    Ezra  ← Lore of Barovia.md
+    Glossary  ← A DM's Guide to Curse of Strahd.md
+    House Wachter  ← Adventure Summary.md
+    Knights of the Order  ← Arc M - The Dragon's Manor.md
+    Non-Player Characters  ← A DM's Guide to Curse of Strahd.md
+    Radanavich Clan  ← History of Barovia.md
+    Ravenous (NPC group)  ← Arc O - Dinner with the Devil.md
+    Society of Amber  ← Arc S - A Sword of Sunlight.md
+    Strahd's First Followers  ← Arc A - Escape From Death House.md
+    The Belviews  ← Arc K - The Fallen Abbey.md
+    Vallakians  ← Lore of Barovia.md
+    Vampire Spawn  ← History of Barovia.md
+    Werewolf Pack  ← Lore of Barovia.md
+    Wights  ← History of Barovia.md
+    Witches of Mother Night  ← Lore of Barovia.md
+
+========================================================================
+END — edit aliases.json, then run: python3 pipeline/assemble.py
+========================================================================

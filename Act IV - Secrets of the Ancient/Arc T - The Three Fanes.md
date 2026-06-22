@@ -1,40 +1,40 @@
 *An adventure for five 9th-level characters.*
 
-In this arc, upon claiming the broken hilt of the *Sunsword* from the depths of the Amber Temple, the players must return to the Shrine of the Rozana at Soldav to commune with the Ladies of the Fanes. To cleanse the Fanes of Strahd’s corruption, they learn, certain individuals must bury the Wizard of Wine’s enchanted gems at the center of each Fane: Urwin and Davian Martikov at the Swamp Fane; Dr. Rudolph van Richten and Arturi Radanavich at the Forest Fane; and Lady Fiona Wachter at the Mountain Fane. And when Exethanter decodes the *Tome of Strahd*, he delivers a terrible warning: that unless the players can cleanse the Fanes by the zenith of the Grand Conjunction, Strahd will finally escape the Mists—while killing every creature in Barovian in the process.
+In this arc, upon claiming the broken hilt of the *[[Items/Sunsword|Sunsword]]* from the depths of [[Places/Amber Temple|the Amber Temple]], the players must return to the Shrine of the [[Factions/Rozana|Rozana]] at [[Places/Soldav|Soldav]] to commune with the [[Factions/Ladies of the Fanes|Ladies of the Fanes]]. To cleanse the Fanes of [[NPCs/Strahd von Zarovich|Strahd]]’s corruption, they learn, certain individuals must bury the Wizard of Wine’s enchanted gems at the center of each Fane: [[NPCs/Urwin Martikov|Urwin]] and [[NPCs/Davian Martikov|Davian Martikov]] at the [[Places/Swamp Fane|Swamp Fane]]; Dr. Rudolph van Richten and [[NPCs/Arturi Radanavich|Arturi Radanavich]] at the [[Places/Forest Fane|Forest Fane]]; and [[NPCs/Lady Fiona Wachter|Lady Fiona Wachter]] at [[Places/The Mountain Fane|the Mountain Fane]]. And when [[NPCs/Exethanter|Exethanter]] decodes the *[[Items/The Tome of Strahd|Tome of Strahd]]*, he delivers a terrible warning: that unless the players can cleanse the Fanes by the zenith of the [[Places/Grand Conjunction|Grand Conjunction]], [[NPCs/Strahd von Zarovich|Strahd]] will finally escape the [[Places/Mists|Mists]]—while killing every creature in Barovian in the process.
 
-For the reconsecrations to work, however, the players must first help Urwin and Davian Martikov end their feud, help Dr. Rudolph van Richten and Arturi Radanavich lift their curses, and help Lady Fiona Wachter find the courage and hope to defy Strahd’s rule. To make matters worse, the swamp witch Baba Lysaga has captured the Martikovs of the winery and imprisoned them in Berez, Strahd’s forces are hunting for Arturi and Van Richten both, and an emissary from Castle Ravenloft has seized power in Vallaki by taking Lady Wachter’s children as hostages. Can the players reignite the *Sunsword*, rescue the Martikovs, free Vallaki from Strahd’s rule, and reconsecrate the Fanes before the zenith of the Grand Conjunction arrives?
+For the reconsecrations to work, however, the players must first help [[NPCs/Urwin Martikov|Urwin]] and [[NPCs/Davian Martikov|Davian]] [[Factions/Martikov family|Martikov]] end their feud, help Dr. Rudolph van Richten and [[NPCs/Arturi Radanavich|Arturi Radanavich]] lift their curses, and help [[NPCs/Lady Fiona Wachter|Lady Fiona Wachter]] find the courage and hope to defy Strahd’s rule. To make matters worse, the swamp witch [[NPCs/Baba Lysaga|Baba Lysaga]] has captured the Martikovs of the winery and imprisoned them in [[Places/Berez|Berez]], Strahd’s forces are hunting for Arturi and Van Richten both, and an emissary from [[Places/Castle Ravenloft|Castle Ravenloft]] has seized power in [[Places/Vallaki|Vallaki]] by taking Lady Wachter’s children as hostages. Can the players reignite the *[[Items/Sunsword|Sunsword]]*, rescue the Martikovs, free [[Places/Vallaki|Vallaki]] from Strahd’s rule, and reconsecrate the Fanes before the zenith of the [[Places/Grand Conjunction|Grand Conjunction]] arrives?
 
 > [!warning]+ **Pending Changes**
 > The arc below is fully compatible with existing versions of prior arcs. However, Chapter [[#T4. The Monster Hunter]], as well as associated sections of the guide in [[Arc C - Into the Valley]], [[Arc E - The Missing Vistana]], [[Arc K - The Fallen Abbey]], and [[Arc L - The Den of Wolves]] are expected to undergo significant revision **after** the core guide is complete, with the following changes:
 >
 > * Arturi Radanavich will be removed from the campaign.
-> * Ezmerelda d’Avenir was born Ezmerelda Radanavich, changing her name after the Radanavich clan was slaughtered.
-> * Ezmerelda was not present when Van Richten killed the Radanaviches, and was therefore the sole survivor of the massacre. (Ezmerelda was subsequently found by the Vistani of <span class="citation">N9. Vistani Camp (p. 119)</span>, and was raised as a “younger sister" of Luvash and Arrigal until she left Barovia at age fifteen.)
-> * Ezmerelda believes that Strahd von Zarovich, or his servants, were responsible for the deaths of her extended family, and, when she departed Barovia, sought Van Richten’s mentorship to avenge them.
+> * [[NPCs/Ezmerelda d'Avenir|Ezmerelda]] d’Avenir was born [[NPCs/Ezmerelda d'Avenir|Ezmerelda]] Radanavich, changing her name after [[Factions/Radanavich Clan|the Radanavich clan]] was slaughtered.
+> * Ezmerelda was not present when Van Richten killed the Radanaviches, and was therefore the sole survivor of the massacre. (Ezmerelda was subsequently found by the [[Factions/Vistani|Vistani]] of <span class="citation">N9. [[Factions/Vistani|Vistani]] Camp (p. 119)</span>, and was raised as a “younger sister" of [[NPCs/Luvash|Luvash]] and [[NPCs/Arrigal|Arrigal]] until she left [[Places/Barovia|Barovia]] at age fifteen.)
+> * Ezmerelda believes that Strahd von Zarovich, or his servants, were responsible for the deaths of her extended family, and, when she departed [[Places/Barovia|Barovia]], sought Van Richten’s mentorship to avenge them.
 > * Two years into her training, upon learning of Ezmerelda’s goals, Van Richten consulted with the seer Inarin Alstar, and learned of the curse that lay upon him. 
 > * Driven by fear for Ezmerelda’s safety, and guilt for his role in her family’s deaths, Van Richten scorned her goals and informed her that she would never be worth anything as a monster hunter.
 > * Van Richten’s ploy worked, and the two parted ways shortly thereafter. Van Richten then immediately began preparing to return to Barovia, intending to slay Strahd von Zarovich before Ezmerelda could do so—and die in penance if necessary.
-> * When the players first return to the Luna River Crossroads after completing [[Arc S - A Sword of Sunlight]], they are met by Alexei, who pleads with them to accompany him to the Vistani camp. 
-> * At the Vistani camp, the players encounter Escher, who is searching for Rudolph van Richten, and can help the Vistani drive Escher off.
-> * After dealing with Escher, the players learn that Arabelle was recently wounded when a pack of ghouls attacked; while Van Richten has done his best to stabilize her, she is slowly dying of the ghouls’ venom.
-> * Players who attempt to heal Arabelle hear Madam Radanavich’s curse (“Live you always among monsters, and see everyone you love die beneath their claws."), which prevents Arabelle from healing and worsens her wounds. Van Richten can also share that his curse is responsible for Arabelle’s condition—for, despite his best efforts, he allowed himself to feel affection toward her, and so hastened her demise.
+> * When the players first return to the [[Places/Luna River|Luna River Crossroads]] after completing [[Arc S - A Sword of Sunlight]], they are met by [[NPCs/Alexei|Alexei]], who pleads with them to accompany him to the Vistani camp. 
+> * At the Vistani camp, the players encounter [[NPCs/Escher|Escher]], who is searching for Rudolph van Richten, and can help the Vistani drive [[NPCs/Escher|Escher]] off.
+> * After dealing with Escher, the players learn that [[NPCs/Arabelle|Arabelle]] was recently wounded when a pack of ghouls attacked; while Van Richten has done his best to stabilize her, she is slowly dying of the ghouls’ venom.
+> * Players who attempt to heal [[NPCs/Arabelle|Arabelle]] hear Madam Radanavich’s curse (“Live you always among monsters, and see everyone you love die beneath their claws."), which prevents Arabelle from healing and worsens her wounds. Van Richten can also share that his curse is responsible for Arabelle’s condition—for, despite his best efforts, he allowed himself to feel affection toward her, and so hastened her demise.
 > * Van Richten shares the truth of the Radanavich massacre. Ezmerelda responds as she and Arturi respond below.
 > * Arabelle whispers the following prophecy: “When blood of two is blood of one / and broken wheels meet fiery tongues / the dead shall halt their endless war / and blight the living nevermore." (To lift Van Richten’s curse, Ezmerelda and Van Richten must complete the Vistani blood rite, rendering Van Richten a Radanavich, then burn the wreckage of the Radanavich caravan.)
 > * The remainder of the chapter otherwise proceeds largely as described below.
 # T1. Return to Soldav
 ## T1a. The Narrow Road
-The players’ return to Soldav is three-and-a-half miles long and takes two hours and twenty minutes. The players face no obstacles during the return journey.
+The players’ return to [[Places/Soldav|Soldav]] is three-and-a-half miles long and takes two hours and twenty minutes. The players face no obstacles during the return journey.
 
 > [!warning]+ **Distance Patch**
-> A prior version of [[Arc R - Trials of the Mountain]] stated that the journey from Soldav to the Amber Temple is one mile long. This distance has been updated for newer campaigns only.
+> A prior version of [[Arc R - Trials of the Mountain]] stated that the journey from Soldav to [[Places/Amber Temple|the Amber Temple]] is one mile long. This distance has been updated for newer campaigns only.
 
 The players can gain access to Soldav as described in [[Arc R - Trials of the Mountain#R5a. The Twin Falls|R5a. The Twin Falls]]. Upon entering [[Arc R - Trials of the Mountain#R5b. The Tunnel|R5b. The Tunnel]], they are met by Como and two **scouts** guarding the secret door.
 
-Como is glad to see the players, and anxiously asks for news of Diona and her companions. (Como, who had previously hoped to court Meda, is especially dismayed to hear of her fate.)
+Como is glad to see the players, and anxiously asks for news of [[NPCs/Diona|Diona]] and her companions. (Como, who had previously hoped to court [[NPCs/Meda|Meda]], is especially dismayed to hear of her fate.)
 
-Como is glad to lead the players to [[#T1b. The Shrine of the Rozana]] to speak with Elder Burebis regarding the *rite of channelled divinity*, or to lead them to [[Arc R - Trials of the Mountain#R5d. Chief's Longhouse|R5d. Chief’s Longhouse]] if they wish to rest after their time at the Amber Temple. (When the players arrive at the longhouse, Oroles is stacking firewood near the hearth while Diegia is out settling a minor dispute regarding the ownership of a baby goat. Oroles is glad to hear of Diona’s good health, but mourns the fates of Meda and Duras. “They knew the risks," he says, “but our people are worse for their loss.")
+Como is glad to lead the players to [[#T1b. The Shrine of the Rozana]] to speak with [[NPCs/Elder Burebis|Elder Burebis]] regarding the *rite of channelled divinity*, or to lead them to [[Arc R - Trials of the Mountain#R5d. Chief's Longhouse|R5d. Chief’s Longhouse]] if they wish to rest after their time at the Amber Temple. (When the players arrive at the longhouse, Oroles is stacking firewood near the hearth while Diegia is out settling a minor dispute regarding the ownership of a baby goat. Oroles is glad to hear of [[NPCs/Diona|Diona]]’s good health, but mourns the fates of [[NPCs/Meda|Meda]] and [[NPCs/Duras|Duras]]. “They knew the risks," he says, “but our people are worse for their loss.")
 ## T1b. The Shrine of the Rozana
-When the players return to the Shrine of the Rozana, they find it largely as described in [[Arc R - Trials of the Mountain#R5f. The Shrine of the Rozana]|R5f. The Shrine of the Rozana]]. However, when the players first greet or look for Elder Burebis, read:
+When the players return to the Shrine of the [[Factions/Rozana|Rozana]], they find it largely as described in [[Arc R - Trials of the Mountain#R5f. The Shrine of the Rozana]|R5f. The Shrine of the Rozana]]. However, when the players first greet or look for [[NPCs/Elder Burebis|Elder Burebis]], read:
 
 <div class="description">
 <p>Several heartbeats pass before, with the sound of a rasping sigh, Elder Burebis’s face emerges from the mass of roots upon the wall. His eyes flicker weakly open, his gray-blue flesh now sunken and pale.</p>
@@ -63,9 +63,9 @@ If the players enter the tunnel to the Cavern of Lights, read:
 </div>
 
 > [!lore]+ **The Butterfly**
-> The butterfly carving represents the Dreamer, the fourth and youngest sister of the Rozana. However, no living soul in Soldav knows this—not even Burebis. (Some, including Oroles, speculate that it represents the Tauta, who were “reborn" upon their arrival in the valley, as a butterfly is reborn from its chrysalis.) 
+> The butterfly carving represents the [[NPCs/Dreamer|Dreamer]], the fourth and youngest sister of the Rozana. However, no living soul in Soldav knows this—not even Burebis. (Some, including Oroles, speculate that it represents the Tauta, who were “reborn" upon their arrival in the valley, as a butterfly is reborn from its chrysalis.) 
 >
-> If the players later return to the Shrine of the Rozana and ask about the butterfly, Burebis shares only that he once asked his mentor, the Seeker, who the butterfly belonged to. However, the Seeker declined to tell him, noting only that it belonged to a story that had found its end. (“I had never known her to dwell in sorrow," Burebis rumbles thoughtfully, “but I’ve always thought I heard an echo of grief in her voice.")
+> If the players later return to the Shrine of the Rozana and ask about the butterfly, Burebis shares only that he once asked his mentor, the [[NPCs/Seeker|Seeker]], who the butterfly belonged to. However, the [[NPCs/Seeker|Seeker]] declined to tell him, noting only that it belonged to a story that had found its end. (“I had never known her to dwell in sorrow," Burebis rumbles thoughtfully, “but I’ve always thought I heard an echo of grief in her voice.")
 
 If the players carry out the *rite of conjured divinity* within the Cavern of Lights, read:
 
@@ -76,16 +76,16 @@ If the players carry out the *rite of conjured divinity* within the Cavern of Li
 </div>
 
 > [!info]+ **Communing with the Ladies**
-> The players can use the *rite of conjured divinity* to summon the spirit of the Huntress, the Weaver, or both. Any attempts to summon the spirits of the Seeker or Dreamer have no effect. (The Seeker cannot be summoned because she is physically incarnated as Madam Eva; the Dreamer cannot be summoned because she is sealed within the Heart of Sorrow at Castle Ravenloft.)
+> The players can use the *rite of conjured divinity* to summon the spirit of the [[NPCs/Huntress|Huntress]], the [[NPCs/Weaver|Weaver]], or both. Any attempts to summon the spirits of the Seeker or [[NPCs/Dreamer|Dreamer]] have no effect. (The Seeker cannot be summoned because she is physically incarnated as [[NPCs/Madam Eva|Madam Eva]]; the Dreamer cannot be summoned because she is sealed within [[Items/Heart of Sorrow|the Heart of Sorrow]] at [[Places/Castle Ravenloft|Castle Ravenloft]].)
 >
-> Once summoned, the spirits of the Huntress and Weaver can communicate only through telepathic emotions and visual images, which are displayed as shifting auroras on the walls. The goddesses can also communicate using short messages of three words or less, but no more than three times each per day. (Due to their weakened, vestige-like state, the Huntress and Weaver currently struggle to convey complex thoughts through words.)
+> Once summoned, the spirits of the [[NPCs/Huntress|Huntress]] and [[NPCs/Weaver|Weaver]] can communicate only through telepathic emotions and visual images, which are displayed as shifting auroras on the walls. The goddesses can also communicate using short messages of three words or less, but no more than three times each per day. (Due to their weakened, vestige-like state, the Huntress and Weaver currently struggle to convey complex thoughts through words.)
 
 > [!info]+ **The Ladies’ Messages**
 > The Huntress and Weaver might use the following short phrases to communicate when unable to answer player questions using their auroras:
 >
 > * “THE HUNTER": Referring to Dr. Rudolph van Richten
 > * “THE HUNTED": Referring to Arturi Radanavich
-> * “THE OLD RAVEN": Referring to Davian Martikov
+> * “THE OLD RAVEN": Referring to Davian [[Factions/Martikov family|Martikov]]
 > * “THE WATER’S KEEPER": Referring to Urwin Martikov
 > * “THE WIDOW": Referring to Lady Fiona Wachter
 
@@ -95,8 +95,8 @@ Once summoned, the Huntress and/or Weaver are glad to answer the players’ ques
 * **Where is the Seeker?** A woman kneels before a raven, which becomes mist and flows into her chest; raven’s wings then sprout from the woman’s shoulders. (The image is joined by a sense of loneliness and longing.)
 * **What does the butterfly represent?** A grave marked by falling snow, joined by a sense of grief and loss. (The Ladies refuse to elaborate.)
 * **What are the Fanes?** A powerful, fast-flowing river that meets another, casting great sprays of water where they join. (*The rivers represent leylines. Their intersection represents an intersection of leylines, and the power they channel.*)
-* **What do the Fanes look like? / Where are the Fanes?** Three circles of standing stones: one amidst a bog (the Swamp Fane, overlaid on the spider carving); one atop a flat, terraced hill surrounded by trees (the Forest Fane, overlaid on the wolf carving); and one along a mountain spur, just beneath a grassy promontory (the Mountain Fane, overlaid on the raven carving). 
-* **What happened to the Fanes / How did the Fanes become corrupted?** A tall, gaunt shadow standing amidst a circle of standing stones, one hand clutching a dagger and the other bleeding onto the ground, with the blood rising to swallow the stones whole. (*The shadow is Strahd. The blood represents the ritual he used to desecrate the Fanes and “become the Land."*)
+* **What do the Fanes look like? / Where are the Fanes?** Three circles of standing stones: one amidst a bog (the [[Places/Swamp Fane|Swamp Fane]], overlaid on the spider carving); one atop a flat, terraced hill surrounded by trees (the [[Places/Forest Fane|Forest Fane]], overlaid on the wolf carving); and one along a mountain spur, just beneath a grassy promontory ([[Places/The Mountain Fane|the Mountain Fane]], overlaid on the raven carving). 
+* **What happened to the Fanes / How did the Fanes become corrupted?** A tall, gaunt [[NPCs/Shadow|shadow]] standing amidst a circle of standing stones, one hand clutching a dagger and the other bleeding onto the ground, with the blood rising to swallow the stones whole. (*The [[NPCs/Shadow|shadow]] is Strahd. The blood represents the ritual he used to desecrate the Fanes and “become the Land."*)
 * **How can we reconsecrate the Fanes?** Three pinecone-shaped gems: one that glows with viridian light (the Weaver’s gem, overlaid on the spider carving); one that glows with emerald light (the Huntress’s gem, overlaid on the wolf carving); one that glows with sage-green light (the Seeker’s gem, overlaid on the raven carving).
 * **What do we do with the gems?** Two dueling ravens cease their feud and bury the viridian gem at the center of a circle of standing stones amidst a bog (overlaid on the spider carving); an old, silver-furred fox drives away a horde of rats chasing a weary sparrow as a fire burns behind them, then becomes a sparrow itself, the two sparrows burying the emerald gem at the center of a circle of standing stones atop a flat, terraced hill (overlaid on the wolf carving); an old, proud she-cat with three kittens sleeping at her paws casts off the bat whose wings cover its eyes and turns her gaze into the sunrise, then buries the sage-green gem at the center of a circle of standing stones along a low mountain spur (overlaid on the raven carving).
 * **Where is the third gem?** A great crater atop a mountain peak. (*The players can recognize the peak as the peak of Mt. Ghakis.*)
@@ -118,21 +118,21 @@ Once summoned, the Huntress and/or Weaver are glad to answer the players’ ques
 > [!info]+ **Reconsecrating the Fanes**
 > For the players to reconsecrate the Fanes, the following events must come to pass
 >
-> * Davian and Urwin Martikov must reconcile and bury the viridian gem at the center of the Swamp Fane, which lies across the Luna River from Berez.
-> * Arturi Radanavich and Rudolph van Richten must lift their curses and bury the emerald gem at the center of the Forest Fane, which stands around the Gulthias Tree at Yester Hill.
-> * Lady Fiona Wachter must deny Strahd’s authority, find hope for the future, and bury the sage-green gem at the center of the Mountain Fane, which lies at the base of Old Bonegrinder’s hill.
+> * Davian and Urwin Martikov must reconcile and bury the viridian gem at the center of the Swamp Fane, which lies across the [[Places/Luna River|Luna River]] from [[Places/Berez|Berez]].
+> * Arturi Radanavich and Rudolph van Richten must lift their curses and bury the emerald gem at the center of the Forest Fane, which stands around [[Items/Gulthias tree|the Gulthias Tree]] at [[Places/Yester Hill|Yester Hill]].
+> * Lady Fiona Wachter must deny Strahd’s authority, find hope for the future, and bury the sage-green gem at the center of the Mountain Fane, which lies at the base of [[Places/Old Bonegrinder|Old Bonegrinder]]’s hill.
 
 > [!info]+ **The Fanes**
 > |Lady|Symbol|Fane|Fane Location|Gem|Gem Location|Quest|
 > |---|---|---|---|---|---|---|
-> |Weaver|Spider|Swamp|Berez|Viridian|Baba Lysaga's Hut|Reconcile Davian and Urwin Martikov|
-> |Huntress|Wolf|Forest|Yester Hill|Emerald|Blue Water Inn (Claudiu Martikov)|Lift Van Richten's Curse|
-> |Seeker|Raven|Mountain|Old Bonegrinder|Sage|Roc's Nest|Convince Lady Wachter to Defy Strahd|
+> |Weaver|Spider|Swamp|Berez|Viridian|[[Places/Baba Lysaga's Hut|Baba Lysaga's Hut]]|Reconcile Davian and Urwin Martikov|
+> |Huntress|Wolf|Forest|[[Places/Yester Hill|Yester Hill]]|Emerald|[[Places/Blue Water Inn|Blue Water Inn]] ([[NPCs/Claudiu|Claudiu]] Martikov)|Lift Van Richten's Curse|
+> |Seeker|Raven|Mountain|[[Places/Old Bonegrinder|Old Bonegrinder]]|Sage|[[NPCs/Roc|Roc]]'s Nest|Convince Lady Wachter to Defy Strahd|
 
 > [!abstract]+ **Burebis’s Death**
-> As the players prepare to depart Soldav for [[#T1d. The Roc’s Nest]], Elder Burebis dies. When he does, the clouds over Soldav, as well as Burebis’s enchantments protecting Soldav’s location from its enemies, immediately dissipate. Although the Mountain Folk are disturbed by the clouds’ disappearance and mourn Burebis’s loss, Chief Diegia and Oroles insist (if the players ask) that Soldav is “more than capable of taking care of itself" in the players’ absence.
+> As the players prepare to depart Soldav for [[#T1d. The Roc’s Nest]], Elder Burebis dies. When he does, the clouds over Soldav, as well as Burebis’s enchantments protecting Soldav’s location from its enemies, immediately dissipate. Although the [[Factions/Mountain Folk|Mountain Folk]] are disturbed by the clouds’ disappearance and mourn Burebis’s loss, [[NPCs/Chief Diegia|Chief Diegia]] and Oroles insist (if the players ask) that Soldav is “more than capable of taking care of itself" in the players’ absence.
 ## T1d. The Roc’s Nest
-If the players ask Chief Diegia’s family how to reach the peak of Mt. Ghakis, Como is happy to serve as their guide. (If the players previously befriended him in [[Arc R - Trials of the Mountain]], Scorilo gruffly insists on accompanying them as well, noting that “someone has to keep my brother from getting killed.") Como warns the players, however, that the roc of Mt. Ghakis is believed to nest atop the mountain, and asks, anxiously, whether they intend to anger or harm it.
+If the players ask [[NPCs/Chief Diegia|Chief Diegia]]’s family how to reach the peak of Mt. Ghakis, Como is happy to serve as their guide. (If the players previously befriended him in [[Arc R - Trials of the Mountain]], Scorilo gruffly insists on accompanying them as well, noting that “someone has to keep my brother from getting killed.") Como warns the players, however, that the [[NPCs/Roc|roc]] of Mt. Ghakis is believed to nest atop the mountain, and asks, anxiously, whether they intend to anger or harm it.
 
 The journey from Soldav to the peak of Mt. Ghakis is four-and-a-half miles long and takes approximately three hours. As the players make the journey, read:
 
@@ -143,7 +143,7 @@ The journey from Soldav to the peak of Mt. Ghakis is four-and-a-half miles long 
 <p>At the basin’s center, a small, pale green light shimmers faintly from its place nestled amidst two oak boughs.</p>
 </div>
 
-The light is the third gem of the Wizard of Wines winery, stolen by the roc ten years ago at Madam Eva’s behest.
+The light is the third gem of [[Places/Wizard of Wines|the Wizard of Wines]] winery, stolen by the roc ten years ago at [[NPCs/Madam Eva|Madam Eva]]’s behest.
 
 If the players approach or attempt to retrieve the gem, the **roc** of Mt. Ghakis descends atop the gem to confront them. Read:
 
@@ -153,7 +153,7 @@ If the players approach or attempt to retrieve the gem, the **roc** of Mt. Ghaki
 </div>
 
 ![[The_Roc_of_Mt._Ghakis_no_Strahd_hires.jpg]]
-<span class="credit">"The Roc of Mount Ghakis" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"The [[NPCs/Roc of Mount Ghakis|Roc of Mount Ghakis]]" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 The roc won’t let the players take the gem unless they prove themselves worthy of doing so. The players can prove themselves worthy using the following methods, or in any other reasonable way:
 
@@ -184,7 +184,7 @@ Once the players prove themselves, the roc is glad to confirm the following info
 * Its nest lies upon the peak of Mt. Ghakis.
 * It is no friend of Strahd’s.
 * If the players previously encountered it as a raven by the Luna River in [[Arc M - The Dragon's Manor]], it was the raven they encountered.
-* It stole the third enchanted gem from the Wizard of Wines winery at Madam Eva’s behest—to keep it safe from Strahd, and to await the day when the saviors the Seeker foretold would come to find it.
+* It stole the third enchanted gem from [[Places/Wizard of Wines|the Wizard of Wines]] winery at Madam Eva’s behest—to keep it safe from Strahd, and to await the day when the saviors the Seeker foretold would come to find it.
 * It can’t (and won’t) follow the players to the valley below to aid them in their fight against Strahd. (Its place is Mt. Ghakis.) However, it can transport them down from the mountain to a destination of their choice.
 
 If the players don’t ask the roc for a ride, it bows its head and lowers a wing to the ground toward them, then tilts its head inquisitively, as if inviting them to climb it. 
@@ -198,19 +198,19 @@ The roc is willing to fly the players to any single location in Barovia except C
 >
 > ***Vallaki to Berez.*** The journey from Vallaki to Berez is four and one-half miles long and takes one and one-half hours.
 
-> [!abstract]+ **Kasimir’s Departure**
-> When the players descend the mountain, Kasimir shares that he must return to the dusk elf encampment at <span class="citation">N9. Vistani Camp (p. 119)</span> to see that his people are protected. “When Patrina first appeared in my dreams, I never believed myself the one who would wield the weapon of sunlight against Zarovich," he says. “I knew that I would uncover it—guard it, if needed, until it found its rightful hand. But my place is with my people, and it is time I returned to them."
+> [!abstract]+ **[[NPCs/Kasimir Velikov|Kasimir]]’s Departure**
+> When the players descend the mountain, [[NPCs/Kasimir Velikov|Kasimir]] shares that he must return to the dusk elf encampment at <span class="citation">N9. Vistani Camp (p. 119)</span> to see that his people are protected. “When [[NPCs/Patrina Velikovna|Patrina]] first appeared in my dreams, I never believed myself the one who would wield the weapon of sunlight against Zarovich," he says. “I knew that I would uncover it—guard it, if needed, until it found its rightful hand. But my place is with my people, and it is time I returned to them."
 > 
-> Before Kasimir departs, he asks, thoughtfully: “The Vistani have a tradition—the blood rite, they call it—by which a man may become Vistani himself, though he was not born amongst their wagons. When we came to the valley, I shared the blood rite with the man who brought us here; I let Kasimir of Othrondil die, and was reborn as Kasimir Velikov, blood-brother of the Vistani." He pauses, then continues: “But Patrina could never let go of the past. While I sought to move forward, she could only ever look back. I can’t help but wonder, though—if she had completed the blood rite as I did, and so became Vistani, would she have fallen down the dark path she did?"
+> Before Kasimir departs, he asks, thoughtfully: “The Vistani have a tradition—the blood rite, they call it—by which a man may become Vistani himself, though he was not born amongst their wagons. When we came to the valley, I shared the blood rite with the man who brought us here; I let Kasimir of Othrondil die, and was reborn as Kasimir Velikov, blood-brother of the Vistani." He pauses, then continues: “But [[NPCs/Patrina Velikovna|Patrina]] could never let go of the past. While I sought to move forward, she could only ever look back. I can’t help but wonder, though—if she had completed the blood rite as I did, and so became Vistani, would she have fallen down the dark path she did?"
 > 
 > Kasimir is grateful for any thoughts and insights the players might share.
 
 > [!abstract]+ **Urwin’s Plea**
-> Following his family’s kidnapping at Baba Lysaga’s hands in [[#T3. The Witch of Berez]], Urwin Martikov sent raven messengers to the following locations to await the players’ return: the woods near <span class="citation">Chapter 12: The Wizard of Wines (p. 173)</span>; the woods near <span class="citation">I. Black Carriage (p. 37)</span>; <span class="citation">P. Luna River Crossroads (p. 40)</span>; and <span class="citation">R. Raven River Crossroads (p. 40)</span>. Each messenger bears the following letter, which is tied to its leg in the form of a small parchment scroll:
+> Following his family’s kidnapping at [[NPCs/Baba Lysaga|Baba Lysaga]]’s hands in [[#T3. The Witch of Berez]], Urwin Martikov sent raven messengers to the following locations to await the players’ return: the woods near <span class="citation">Chapter 12: The Wizard of Wines (p. 173)</span>; the woods near <span class="citation">I. [[Items/Black Carriage|Black Carriage]] (p. 37)</span>; <span class="citation">P. Luna River Crossroads (p. 40)</span>; and <span class="citation">R. Raven River Crossroads (p. 40)</span>. Each messenger bears the following letter, which is tied to its leg in the form of a small parchment scroll:
 >
 > ---
 >
-> Emergency—please come to Blue Water Inn. —Urwin
+> Emergency—please come to [[Places/Blue Water Inn|Blue Water Inn]]. —Urwin
 >
 > ---
 >
@@ -218,8 +218,8 @@ The roc is willing to fly the players to any single location in Barovia except C
 > 
 > If spoken to using a *speak with animals* spell, a raven shares that the winery was attacked by a “great evil," and that its flock speaks of a lone survivor who fled to the “home of blue water." (The raven, which didn’t witness the attack personally, is referring to Baba Lysaga and the Blue Water Inn, respectively.)
 
-> [!info]+ **Victor’s Plea**
-> Shortly after the players descend the mountain (e.g., as they conclude their investigation of the Wizard of Wines), if the players befriended or assisted him in [[Arc H - The Lost Soul]], one of them receives the following *sending* from Victor Vallakovich: *I need your help. Lady Wachter has betrayed us, the town has gone mad, and I can’t reach Stella. When will you return?*
+> [!info]+ **[[NPCs/Victor Vallakovich|Victor]]’s Plea**
+> Shortly after the players descend the mountain (e.g., as they conclude their investigation of the Wizard of Wines), if the players befriended or assisted him in [[Arc H - The Lost Soul]], one of them receives the following *sending* from [[NPCs/Victor Vallakovich|Victor Vallakovich]]: *I need your help. Lady Wachter has betrayed us, the town has gone mad, and I can’t reach Stella. When will you return?*
 >
 > If the players ask for further information, Victor replies with the following additional *sending*: *Too much to share like this. Come to my family’s home. Don’t let the gate guards see you.*
 ## T2a. The Wizard of Wines
@@ -230,21 +230,21 @@ If the players return to <span class="citation">Chapter 12: The Wizard of Wines 
 </div>
 
 > [!lore]+ **Baba Lysaga’s Revenge**
-> After learning of the players’ victory in [[Arc J - The Stolen Gem]], the swamp witch Baba Lysaga resolved to punish them for their defiance, and began crafting more **scarecrows** and **strix** to aid in her endeavor. After hearing of the players’ exploits in [[Arc P - Ravenloft Heist]] and observing Argynvost’s beacon following the events of [[Arc Q - A Shining Beacon]], Lysaga put her foul plan into motion.
+> After learning of the players’ victory in [[Arc J - The Stolen Gem]], the swamp witch Baba Lysaga resolved to punish them for their defiance, and began crafting more **scarecrows** and **strix** to aid in her endeavor. After hearing of the players’ exploits in [[Arc P - Ravenloft Heist]] and observing [[NPCs/Argynvost|Argynvost]]’s beacon following the events of [[Arc Q - A Shining Beacon]], Lysaga put her foul plan into motion.
 >
-> While the players lingered upon Mt. Ghakis, Baba Lysaga rode her creeping hut down the Luna River, to Luna Lake, then rampaged through the Svalich Woods until she reached the Wizard of Wines vineyard. She, along with her freshly crafted scarecrows and strix, assaulted the winery in the dead of night, first plucking Martin and Viggo from their beds, then imprisoning the other Martikovs in silver cages as they fought in vain to rescue the children. Only the teenage Claudiu escaped, carrying the Winery’s sole remaining enchanted gem and fleeing alone through the night sky to Vallaki, where he sought refuge at the Blue Water Inn.
+> While the players lingered upon Mt. Ghakis, Baba Lysaga rode her [[Places/Creeping Hut|creeping hut]] down the Luna River, to Luna Lake, then rampaged through the [[Places/Svalich Woods|Svalich Woods]] until she reached the Wizard of Wines vineyard. She, along with her freshly crafted scarecrows and strix, assaulted the winery in the dead of night, first plucking [[NPCs/Martin|Martin]] and Viggo from their beds, then imprisoning the other Martikovs in silver cages as they fought in vain to rescue the children. Only the teenage [[NPCs/Claudiu|Claudiu]] escaped, carrying the Winery’s sole remaining enchanted gem and fleeing alone through the night sky to Vallaki, where he sought refuge at the Blue Water Inn.
 >
 > Now, Baba Lysaga lurks in the depths of Berez, waiting for the players to come rescue their beloved feathered friends—and finally die at her hands.
 
 > [!abstract]+ **Investigating the Trail**
-> A player who succeeds on a DC 13 Wisdom (Survival) check identifies enormous gouges and trenches pockmarking the wet earth in a rough “trail." The trail, which was left by Baba Lysaga’s creeping hut, leads south through the Svalich Woods to Luna Lake, then north beneath Tsolenka Pass along the Luna River, until ending in <span class="citation">Chapter 10: The Ruins of Berez (p. 161)</span>. If the players follow the trail, their journey to Berez is eight and one-half miles long and takes five and one-third hours.
+> A player who succeeds on a DC 13 Wisdom (Survival) check identifies enormous gouges and trenches pockmarking the wet earth in a rough “trail." The trail, which was left by Baba Lysaga’s [[Places/Creeping Hut|creeping hut]], leads south through the [[Places/Svalich Woods|Svalich Woods]] to Luna Lake, then north beneath [[Places/Tsolenka Pass|Tsolenka Pass]] along the Luna River, until ending in <span class="citation">Chapter 10: The Ruins of Berez (p. 161)</span>. If the players follow the trail, their journey to Berez is eight and one-half miles long and takes five and one-third hours.
 
 A total of seven **scarecrows** stands silently still around the winery. They attack any creature that attempts to enter the winery.
 
 > [!combat]- **Combat - The Wizard of Wines**  
 > **Combat Level**: Mild
 > **Expected Character Level**: 9
-> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
+> **Allies:** [[NPCs/Ireena Kolyana|Ireena Kolyana]] (CR 2), Ezmerelda d'Avenir (CR 4)
 > **Expected HP Consumption:** 18%
 > 
 > ### **Enemies:**
@@ -257,9 +257,9 @@ A total of seven **scarecrows** stands silently still around the winery. They at
 If the players enter the winery, they find it empty. If they ascend to the second floor, they find that the wall between the two <span class="citation">W19. Sleeping Quarters (p. 179)</span> has been reduced to splinters and rubbles, and that the rooms’ shared southern wall has been marked with the following message, engraved in scorched, blackened wood: “*A Mother Never Forgets.*"
 ## T2b. The Town of Vallaki
 ### Town Gates
-If the players return to Vallaki, they find each gate guarded by two **guards**, two **cultists** loyal to Lady Wachter, and one **cult fanatic**. Players who previously met the cult fanatics Andrej, Boris, and Miruna in [[Arc H - The Lost Soul]] recognize them at the western Sunset Gate, the Northern Zarovich Gate, and the Eastern Morning Gate, respectively.
+If the players return to Vallaki, they find each gate guarded by two **guards**, two **cultists** loyal to Lady Wachter, and one **[[NPCs/Cult Fanatic|cult fanatic]]**. Players who previously met the [[Factions/Cult Fanatics|cult fanatics]] Andrej, Boris, and Miruna in [[Arc H - The Lost Soul]] recognize them at the western Sunset Gate, the Northern Zarovich Gate, and the Eastern Morning Gate, respectively.
 
-If the players attempt to enter through the gates, the guards solemnly inform them that they are under strict orders to forbid the players from entering Vallaki. The cult fanatics can further share that these orders have been issued by Burgomistress Lady Fiona Wachter, for unknown reasons. A player who succeeds on a DC 15 Charisma (Intimidation) check can convince the guards to allow them to pass. Otherwise, the guards and cultists attack if the players defy their command and attempt to enter Vallaki anyway. 
+If the players attempt to enter through the gates, the guards solemnly inform them that they are under strict orders to forbid the players from entering Vallaki. The [[Factions/Cult Fanatics|cult fanatics]] can further share that these orders have been issued by Burgomistress Lady Fiona Wachter, for unknown reasons. A player who succeeds on a DC 15 Charisma (Intimidation) check can convince the guards to allow them to pass. Otherwise, the guards and cultists attack if the players defy their command and attempt to enter Vallaki anyway. 
 
 If the players kill any guards or cultists, the guards and cultists fight to the death, attempting to kill the players in return. Otherwise, the guards and cultists use nonlethal tactics, surrendering if three or more guards and/or cultists are knocked unconscious.
 
@@ -267,23 +267,23 @@ If the players kill any guards or cultists, the guards and cultists fight to the
 > Vallaki’s guard patrols are largely as described in <span class="citation">Town Gates (p. 95)</span>. However, an additional six **cultists** loyal to Lady Wachter patrol the walls alongside the **guards**.
 
 > [!lore]+ **The Long Arm of Castle Ravenloft**
-> Following the players’ exploits in [[Arc Q - A Shining Beacon]], and upon learning of the players’ close relationship to Lady Fiona Wachter following [[Arc F - Lady Wachter's Wish]] and [[Arc H - The Lost Soul]], Strahd sent an emissary from Castle Ravenloft to bring Lady Wachter—and Vallaki—to heel. Hoping to spread fear and despair in advance of the Grand Conjunction, Strahd commanded his emissary to “break the town’s spirit"—by any means necessary. (If Volenta Popofsky, Ludmilla Vilisevic, or Anastrasya Karelova are still alive, Strahd designated one of them as his emissary. Otherwise, he turned his fanatical Vistani **spy** Eliza into a **vampire spawn** and designated her as his emissary instead. If neither Volenta, Ludmilla, Anastrasya, nor Eliza survive, Strahd instead chose the **vampire spawn** Helga, who is as described in <span class="citation">K32. Maid in Hell (p. 64)</span>.
+> Following the players’ exploits in [[Arc Q - A Shining Beacon]], and upon learning of the players’ close relationship to Lady Fiona Wachter following [[Arc F - Lady Wachter's Wish]] and [[Arc H - The Lost Soul]], Strahd sent an emissary from Castle Ravenloft to bring Lady Wachter—and Vallaki—to heel. Hoping to spread fear and despair in advance of the Grand Conjunction, Strahd commanded his emissary to “break the town’s spirit"—by any means necessary. (If [[NPCs/Volenta|Volenta Popofsky]], [[NPCs/Ludmilla|Ludmilla Vilisevic]], or [[NPCs/Anastrasya Karelova|Anastrasya Karelova]] are still alive, Strahd designated one of them as his emissary. Otherwise, he turned his fanatical Vistani **spy** [[NPCs/Eliza|Eliza]] into a **[[Factions/Vampire Spawn|vampire spawn]]** and designated her as his emissary instead. If neither [[NPCs/Volenta|Volenta]], [[NPCs/Ludmilla|Ludmilla]], [[NPCs/Anastrasya Karelova|Anastrasya]], nor [[NPCs/Eliza|Eliza]] survive, Strahd instead chose the **[[Factions/Vampire Spawn|vampire spawn]]** Helga, who is as described in <span class="citation">K32. Maid in Hell (p. 64)</span>.
 >
-> Upon arriving at Wachterhaus, Strahd’s emissary presented Lady Wachter with a signed and sealed proclamation from Castle Ravenloft designating the emissary as Strahd’s official “voice" in Vallaki. A reluctant Lady Wachter invited the emissary into her home and allowed the emissary to place a coffin in <span class="citation">N4q. Storage Room (p. 114)</span>. 
+> Upon arriving at [[Places/Wachterhaus|Wachterhaus]], Strahd’s emissary presented Lady Wachter with a signed and sealed proclamation from Castle Ravenloft designating the emissary as Strahd’s official “voice" in Vallaki. A reluctant Lady Wachter invited the emissary into her home and allowed the emissary to place a coffin in <span class="citation">N4q. Storage Room (p. 114)</span>. 
 >
-> That night, the emissary used a *potion of waking slumber*, brewed by the coven of **Barovian witches** in Castle Ravenloft, to place Stella, Nikolai, and Karl Wachter within an unconscious trance. The emissary’s accomplices, two loyal **vampire spawn**, then secretly guided Lady Wachter’s three children out of Wachterhaus to <span class="citation">N5. Arasek Stockyard (p. 115)</span>, killed Gunther and Yelena Arasek, and locked the Wachter children in a warehouse adjoining <span class="citation">N6. Coffin Maker’s Shop (p. 116)</span>.
+> That night, the emissary used a *potion of waking slumber*, brewed by the coven of **[[NPCs/Barovian witches|Barovian witches]]** in Castle Ravenloft, to place Stella, Nikolai, and [[NPCs/Karl Wachter|Karl Wachter]] within an unconscious trance. The emissary’s accomplices, two loyal **vampire spawn**, then secretly guided Lady Wachter’s three children out of [[Places/Wachterhaus|Wachterhaus]] to <span class="citation">N5. [[Places/Arasek Stockyard|Arasek Stockyard]] (p. 115)</span>, killed Gunther and Yelena Arasek, and locked the Wachter children in a warehouse adjoining <span class="citation">N6. Coffin Maker’s Shop (p. 116)</span>.
 >
 > The following morning, the emissary presented Lady Wachter with a list of edicts to issue—and warned her that, although her children were “in a safe place," they would remain so only during Lady Wachter’s “good behavior." Recognizing that the emissary intended her children to serve as hostages, Lady Wachter has obediently followed the emissary’s commands ever since. 
 >
-> Thus far, Lady Wachter has ordered that the players be barred from Vallaki and that posters be placed across town naming them enemies of Vallaki. She has also restricted Vallakians from leaving town, ordered that Father Lucian Petrovich be arrested for “treason," and commanded that the Blue Water Inn be closed for “harboring enemies of Vallaki." If the players befriended him, when the toymaker Gadof Blinsky began selling dolls shaped like the players, Lady Wachter also had Blinsky thrown in the stocks.
+> Thus far, Lady Wachter has ordered that the players be barred from Vallaki and that posters be placed across town naming them enemies of Vallaki. She has also restricted [[Factions/Vallakians|Vallakians]] from leaving town, ordered that [[NPCs/Father Lucian Petrovich|Father Lucian Petrovich]] be arrested for “treason," and commanded that the Blue Water Inn be closed for “harboring enemies of Vallaki." If the players befriended him, when the toymaker [[NPCs/Gadof Blinsky|Gadof Blinsky]] began selling dolls shaped like the players, Lady Wachter also had Blinsky thrown in the stocks.
 >
-> Rumors speak of a group of Vallakian guards who visited Wachterhaus to speak out against Lady Wachter’s new edicts—and who vanished, presumed to be dead or spirited away to Castle Ravenloft. It’s also common knowledge that swarms of bats now sleep somewhere in Vallaki, flying out into the streets to spy for the Burgomistress each night. As such, although some Vallakians chafe under the new regime, none dare stand up to it.
+> Rumors speak of a group of Vallakian guards who visited Wachterhaus to speak out against Lady Wachter’s new edicts—and who vanished, presumed to be dead or spirited away to Castle Ravenloft. It’s also common knowledge that swarms of bats now sleep somewhere in Vallaki, flying out into the streets to spy for the Burgomistress each night. As such, although some [[Factions/Vallakians|Vallakians]] chafe under the new regime, none dare stand up to it.
 
 > [!item]+ **Potion of Waking Slumber**
 > A creature that drinks this potion must succeed on a DC 17 Wisdom saving throw or fall asleep for one hour. While asleep in this way, it hears and obeys any commands provided to it in a language that it understands.
 
 > [!info]+ **Securing the Hostages**
-> The hostages’ location is concealed by a *beacon of private sanctum* (see below), which Strahd’s emissary obtained from Baba Lysaga and deployed in Arasek Stockyard. (This is why Victor has been unable to reach Stella using his *sending* spell.)
+> The hostages’ location is concealed by a *beacon of private sanctum* (see below), which Strahd’s emissary obtained from Baba Lysaga and deployed in [[Places/Arasek Stockyard|Arasek Stockyard]]. (This is why Victor has been unable to reach Stella using his *sending* spell.)
 
 > [!item]+ **Beacon of Private Sanctum**
 > *Wondrous item, rare*
@@ -296,27 +296,27 @@ If the players pass <span class="citation">N1. St. Andral’s Church (p. 97)</sp
 
 <div class="description">
 <p>A dark-haired woman wearing a gray robe stands on the church steps, a small crowd encircling her from below. An unfamiliar poster has been posted on the church doors behind her.</p>
-<p>"The silver light is a message from Ezra, She Who Dwells in the Mists," the woman proclaims. “We must not surrender to darkness, nor lose ourselves to fantasies of a golden dawn. We must bend with the wind and seek solace in the mist, for only there may we endure what must be endured."</p>
+<p>"The silver light is a message from [[Factions/Ezra|Ezra]], She Who Dwells in the [[Places/Mists|Mists]]," the woman proclaims. “We must not surrender to darkness, nor lose ourselves to fantasies of a golden dawn. We must bend with the wind and seek solace in the mist, for only there may we endure what must be endured."</p>
 </div>
 
-If the players previously encountered her in [[Arc H - The Lost Soul]], they recognize her as the **cult fanatic** Ruxandra, a loyal follower of Lady Wachter. (The “silver light" Ruxandra refers to is the lit beacon of Argynvostholt.) If inspected, the poster reads: “BEWARE: ARMED AND DANGEROUS. REPORT ANY SIGHTINGS TO THE BURGOMISTRESS," and features a rough sketch and description of the players.
+If the players previously encountered her in [[Arc H - The Lost Soul]], they recognize her as the **[[NPCs/Cult Fanatic|cult fanatic]]** Ruxandra, a loyal follower of Lady Wachter. (The “silver light" Ruxandra refers to is the lit [[Places/Beacon of Argynvostholt|beacon of Argynvostholt]].) If inspected, the poster reads: “BEWARE: ARMED AND DANGEROUS. REPORT ANY SIGHTINGS TO THE BURGOMISTRESS," and features a rough sketch and description of the players.
 
 > [!abstract]+ **Ruxandra’s Sermon**
-> If the players continue to listen to her sermon, Ruxandra preaches to the crowd that, “as Ezra teaches us, to want is to wound ourselves. When we struggle, we harm only ourselves and those we love. To find peace, we must surrender, opening ourselves to what *is*, rather than what *cannot be*. In dreams, we shall find only bitterness; only through acceptance may we find solace and comfort."
+> If the players continue to listen to her sermon, Ruxandra preaches to the crowd that, “as [[Factions/Ezra|Ezra]] teaches us, to want is to wound ourselves. When we struggle, we harm only ourselves and those we love. To find peace, we must surrender, opening ourselves to what *is*, rather than what *cannot be*. In dreams, we shall find only bitterness; only through acceptance may we find solace and comfort."
 
-If Milivoj is alive and in Vallaki, add:
+If [[NPCs/Milivoj|Milivoj]] is alive and in Vallaki, add:
 
 <div class="description">
-<p>A dozen yards away, Milivoj kneels amidst the churchyard, a small pile of weeds beneath his muddy gloves and a brown cloak draped across his shoulders. He glares silently at the woman from afar.</p>
+<p>A dozen yards away, [[NPCs/Milivoj|Milivoj]] kneels amidst the churchyard, a small pile of weeds beneath his muddy gloves and a brown cloak draped across his shoulders. He glares silently at the woman from afar.</p>
 </div>
 
 If the players make themselves known to him, Milivoj greets them with anxious gratitude. He can share the following information:
 
 * Three days ago, Lady Wachter began issuing new edicts, which she claims “bear the authority of Castle Ravenloft."
-* Her first edict was to imprison Father Lucian for “treason" against Vallaki and Castle Ravenloft. (Milivoj doesn’t know where Lucian is being imprisoned.)
+* Her first edict was to imprison [[NPCs/Father Lucian Petrovich|Father Lucian]] for “treason" against Vallaki and Castle Ravenloft. (Milivoj doesn’t know where Lucian is being imprisoned.)
 * With Father Lucian imprisoned, the church has closed down, though Milivoj has done his best to maintain the grounds and interior. He’s also invited Yeska to live with his family.
 * Since the church’s closure, a small group of Vallakians have begun using the church’s front steps to preach the religion of Ezra, the Goddess of the Mists. (Milivoj’s mouth twists in distaste at the name. “Father Lucian’s sermons always encouraged us to dream of a brighter future," he spits. “But this ‘Ezra’ seems to just want everyone to sit down and shut up.")
-* Lady Wachter has also issued other edicts. She’s shut down the Blue Water Inn, forbidden most Vallakians from leaving the walls, and (if the players have previously befriended Gadof Blinsky) thrown the local toymaker into the stocks. (Milivoj, who has always found Blinsky Toys to be fairly creepy, isn’t sure how he feels about the latter.) Lady Wachter has also put up posters warning of the players and asking that any sightings be reported to Wachterhaus.
+* Lady Wachter has also issued other edicts. She’s shut down the Blue Water Inn, forbidden most Vallakians from leaving the walls, and (if the players have previously befriended [[NPCs/Gadof Blinsky|Gadof Blinsky]]) thrown the local toymaker into the stocks. (Milivoj, who has always found Blinsky Toys to be fairly creepy, isn’t sure how he feels about the latter.) Lady Wachter has also put up posters warning of the players and asking that any sightings be reported to Wachterhaus.
 * Rumor has it that a group of Vallakian guards went to Wachterhaus to protest Lady Wachter’s edicts, and that all of them were either killed or sent to Castle Ravenloft. 
 * Every night, bats fill the streets of Vallaki, with many hanging from roofs or eavesdropping through windows. Nobody knows where they sleep during the day.
 
@@ -324,14 +324,14 @@ Milivoj asks the players to convince Lady Wachter to free Father Lucian from imp
 ### The Blue Water Inn
 If the players pass or approach <span class="citation">N2. Blue Water Inn (p. 98)</span>, they find the tavern evidently deserted. A large sign has been hammered into the front door, and reads: “CLOSED BY ORDER OF THE BURGOMISTRESS." (The door is unlocked.)
 
-If the players enter the inn during the day, they find <span class="citation">N2c. Taproom (p. 100)</span> and <span class="citation">N2e. Kitchen (p. 101)</span> empty, but hear Danika’s voice drifting across <span class="citation">N2j. Great Balcony (p. 102)</span>, originating from <span class="citation">N2o. Boys’ Bedroom (p. 102)</span>.
+If the players enter the inn during the day, they find <span class="citation">N2c. Taproom (p. 100)</span> and <span class="citation">N2e. [[Places/Kitchen|Kitchen]] (p. 101)</span> empty, but hear [[NPCs/Danika Dorakova|Danika]]’s voice drifting across <span class="citation">N2j. Great Balcony (p. 102)</span>, originating from <span class="citation">N2o. Boys’ Bedroom (p. 102)</span>.
 
-A player who succeeds on a DC 10 Wisdom (Perception) check overhears Danika saying: “—know you want to go outside, but I need you to stay out of trouble right now, and that means staying inside. Okay?" A moment later, Brom and Bray’s voices murmur something unintelligible, and Danika replies: “I knew I could count on you to understand. Now play quietly, okay?" She then exits <span class="citation">N2o. Boys’ Bedroom (p. 102)</span>.
+A player who succeeds on a DC 10 Wisdom (Perception) check overhears [[NPCs/Danika Dorakova|Danika]] saying: “—know you want to go outside, but I need you to stay out of trouble right now, and that means staying inside. Okay?" A moment later, Brom and Bray’s voices murmur something unintelligible, and Danika replies: “I knew I could count on you to understand. Now play quietly, okay?" She then exits <span class="citation">N2o. Boys’ Bedroom (p. 102)</span>.
 
 > [!info]+ **Yeska’s Second Home**
 > If Milivoj is dead or imprisoned in Castle Ravenloft, Yeska is a guest at the Blue Water Inn, and has received a cot in <span class="citation">N2o. Boys’ Bedroom (p. 102)</span> while he waits and hopes for Father Lucian to be set free. If the players speak with him, he asks that they “bring Father Lucian back" while fighting back tears.
 
-***Speaking to Danika.*** Danika is grateful to see the players, and insists on preparing them hot tea and reheated potato soup in the kitchen. Though she hopes to learn of the players’ recent exploits, she can also share the following information if asked:
+***Speaking to Danika.*** Danika is grateful to see the players, and insists on preparing them hot tea and reheated potato soup in the [[Places/Kitchen|kitchen]]. Though she hopes to learn of the players’ recent exploits, she can also share the following information if asked:
 
 * Urwin is currently away from the inn, gathering information from a flock of ravens passing through the eastern woods. He should return within the hour. 
 * The Blue Water Inn is currently closed, by order of Lady Wachter for “harboring traitors against Vallaki and Castle Ravenloft." It hasn’t had any customers for two days.
@@ -343,21 +343,21 @@ Danika can also share concerning news regarding the Wizard of Wines winery:
 
 * Two nights ago, the witch of Berez, Baba Lysaga, attacked the Wizard of Wines atop a living hut, which shattered the winery’s upper walls in the dead of night.
 * Claudiu, Stefenia and Dag’s eldest teenage son, escaped alone, and is staying in <span class="citation">N2n. Private Guest Room (p. 102)</span>. The rest of the Martikov clan was captured and spirited away—presumably to Berez.
-* Claudiu brought with him the Winery’s final enchanted gem, which Urwin and Danika took for safekeeping. (The gem is hidden in the locked chest in <span class="citation">N2h. Ravens’ Loft (p. 101)</span>. If Izek Strazni previously found the chest in [[Arc G - The Strazni Siblings]], the Martikovs have relocated it to <span class="citation">N2q. Secret Attic (p. 103)</span>.)
+* Claudiu brought with him the Winery’s final enchanted gem, which Urwin and Danika took for safekeeping. (The gem is hidden in the locked chest in <span class="citation">N2h. Ravens’ Loft (p. 101)</span>. If [[NPCs/Izek Strazni|Izek Strazni]] previously found the chest in [[Arc G - The Strazni Siblings]], the Martikovs have relocated it to <span class="citation">N2q. Secret Attic (p. 103)</span>.)
 * Urwin’s raven spies have been working to track the Martikovs into Berez. Urwin hopes to have more information when he returns in an hour.
-* Last night, Claudiu tried to sneak out of the Blue Water Inn to fly to Berez. Urwin stopped him, and brought him back to the inn. (Danika and Urwin agree that fifteen-year-old Claudiu is too young and inexperienced to be allowed to take field missions for the Keepers of the Feather, and that Baba Lysaga would surely capture or slaughter him if she found him there.)
+* Last night, Claudiu tried to sneak out of the Blue Water Inn to fly to Berez. Urwin stopped him, and brought him back to the inn. (Danika and Urwin agree that fifteen-year-old Claudiu is too young and inexperienced to be allowed to take field missions for [[Factions/Keepers of the Feather|the Keepers of the Feather]], and that Baba Lysaga would surely capture or slaughter him if she found him there.)
 
-> [!abstract]+ **Where’s Muriel?**
-> If the players ask for the location of Muriel Vinshaw, Danika can share that Muriel has been dispatched to the eastern Svalich Wood on an assignment to recruit flocks of ravens to aid the Keepers of the Feather. “Urwin thinks a storm is coming," Danika says softly. “I don’t doubt that he’s right."
+> [!abstract]+ **Where’s [[NPCs/Muriel Vinshaw|Muriel]]?**
+> If the players ask for the location of [[NPCs/Muriel Vinshaw|Muriel Vinshaw]], Danika can share that Muriel has been dispatched to the eastern Svalich Wood on an assignment to recruit flocks of ravens to aid [[Factions/Keepers of the Feather|the Keepers of the Feather]]. “Urwin thinks a storm is coming," Danika says softly. “I don’t doubt that he’s right."
 
 ***Speaking with Claudiu.*** If the players seek to speak with Claudiu, they can find him sitting on the bed in <span class="citation">N2n. Private Guest Room (p. 102)</span> and staring silently out the southern window. Claudiu, who is shocked and despondent following Baba Lysaga’s attack, can share the following information if asked:
 
-* Two nights ago, he and his brothers, Martin and Viggo, were asleep in their beds in <span class="citation">W19. Sleeping Quarters (p. 179)</span> at the Wizard of Wines winery, when a pair of enormous living tree roots broke through the wall and grabbed Martin and Viggo.
+* Two nights ago, he and his brothers, [[NPCs/Martin|Martin]] and Viggo, were asleep in their beds in <span class="citation">W19. Sleeping Quarters (p. 179)</span> at the Wizard of Wines winery, when a pair of enormous living tree roots broke through the wall and grabbed Martin and Viggo.
 * When “Uncle Adrian," “Uncle Elvir," “Mom" (Stefania), “Dad" (Dag), and “Grandpa Davian" joined the fight, a pair of giant scarecrow-like birds—**strix**—filled them with silver needles, preventing them from transforming, while a marching platoon of **scarecrows** used their leering glares to paralyze them from below.
 * The roots belonged to an enormous living tree stump, upon which sat a run-down hut. The hut, the birds, and the scarecrows were commanded by a cackling old woman—the witch Baba Lysaga—who oversaw the fight from a flying giant’s skull that she rode through the air.
 * During the attack, Claudiu saw a familiar green light seeping from the hut’s doorway—a light he recognized as belonging to one of the Winery’s stolen enchanted gems. (If asked, Claudiu shares his belief that the stolen gem is hidden somewhere within the hut.)
 * Claudiu escaped with the Winery’s final enchanted gem in the chaos, but all of his family members were captured. “I ran away," he growls, stifling a hiccuping sob as his hands curl into trembling fists. “They were in trouble, and all I could think of was *running away*." (Claudiu doesn’t know where his family was taken, but believes them to be in Berez.)
-* Claudiu has begged Danika and Urwin to allow him to travel to Berez to rescue his family. However, when he attempted to leave in secret last night, Urwin and a **swarm of ravens** met him in the southern Svalich Wood and ordered him to return to the Blue Water Inn. (Frustrated, and loathing himself for his cowardice and passivity, Claudiu obeyed.)
+* Claudiu has begged Danika and Urwin to allow him to travel to Berez to rescue his family. However, when he attempted to leave in secret last night, Urwin and a **[[NPCs/Swarm|swarm]] of ravens** met him in the southern Svalich Wood and ordered him to return to the Blue Water Inn. (Frustrated, and loathing himself for his cowardice and passivity, Claudiu obeyed.)
 
 Claudiu demands that the players rescue his family—and, more quietly, asks that they take him with them when they do. “I ran away once," he says fiercely. “I can’t run away again." (If pressed, Claudiu reluctantly admits that he hasn’t been officially inducted into the Keepers of the Feather, that he’s only fifteen years old, and that although his father Dag has been training him in the use of a shortsword and crossbow, he’s yet to master either.)
 
@@ -432,12 +432,12 @@ Urwin is surprised if the players invite him to travel to Berez with them, and a
 >
 > Urwin pleads with the players to share the gem’s location—and thief, if they know its identity. He is shocked to learn that the gem was hidden at the peak of Mt. Ghakis—but begins laughing with a deep, disbelieving chuckle upon learning that it was taken by the roc of Mt. Ghakis. “Madness," he croaks in bewildered delight, wiping a tear from his eye. “Everything else in the world has gone insane. Why not this?"
 ### Vallakovich Manor
-If the players visit <span class="citation">N3. Burgomaster’s Mansion (p. 103)</span>, Victor Vallakovich greets them at the door and ushers them to <span class="citation">N3t. Victor’s Workroom (p. 109)</span> to “talk in private," hissing that “*her* spies could be listening" (referring to Lady Wachter). (If Vargas Vallakovich died in [[Arc R - Trials of the Mountain]], Victor leads the players to <span class="citation">N3l. Library (p. 107)</span>, which he has adopted as his own study since his father’s death.)
+If the players visit <span class="citation">N3. Burgomaster’s Mansion (p. 103)</span>, Victor Vallakovich greets them at the door and ushers them to <span class="citation">N3t. Victor’s Workroom (p. 109)</span> to “talk in private," hissing that “*her* spies could be listening" (referring to Lady Wachter). (If [[NPCs/Baron Vargas Vallakovich|Vargas Vallakovich]] died in [[Arc R - Trials of the Mountain]], Victor leads the players to <span class="citation">N3l. [[Places/Library|Library]] (p. 107)</span>, which he has adopted as his own study since his father’s death.)
 
 > [!abstract]+ **Vargas’s Death**
-> If Vargas Vallakovich died in [[Arc R - Trials of the Mountain]], both Victor and Vargas’s wife, Lydia Petrovna, have struggled to adapt to his death. Although Victor stands to inherit Vargas’s lands and titles when he comes of age—thereby preserving the family’s wealth and status—both Victor and his mother have found it difficult to accustom themselves to a world without Vargas in it. 
+> If [[NPCs/Baron Vargas Vallakovich|Vargas Vallakovich]] died in [[Arc R - Trials of the Mountain]], both Victor and Vargas’s wife, Lydia Petrovna, have struggled to adapt to his death. Although Victor stands to inherit Vargas’s lands and titles when he comes of age—thereby preserving the family’s wealth and status—both Victor and his mother have found it difficult to accustom themselves to a world without Vargas in it. 
 >
-> Though Victor bore no great love for his father, and despised him in many respects, Vargas was a constant in his life; “without Father," he can share quietly, “this place feels . . . empty." Meanwhile, Lydia—who once loved Vargas, and did her best to love him as he grew ever-more despotic and permissive of Izek’s cruelty—has largely withdrawn to <span class="citation">N3p. Bridal Gown (p. 108)</span>, reflecting upon the man she married and the monster he became.
+> Though Victor bore no great love for his father, and despised him in many respects, Vargas was a constant in his life; “without Father," he can share quietly, “this place feels . . . empty." Meanwhile, Lydia—who once loved Vargas, and did her best to love him as he grew ever-more despotic and permissive of [[NPCs/Izek Strazni|Izek]]’s cruelty—has largely withdrawn to <span class="citation">N3p. Bridal Gown (p. 108)</span>, reflecting upon the man she married and the monster he became.
 
 Victor can share the following information with the players:
 
@@ -464,7 +464,7 @@ The balding man is the fisherman Bluto Krogarov. The stocky man is Gadof Blinsky
 > [!lore]+ **The Prisoners in the Stocks**
 > If the players previously befriended him, Gadof Blinsky—who has few other acquaintances—regards them as treasured friends. When Lady Wachter first issued her proclamations warning of the players two days ago, a horrified Blinsky marched to Wachterhaus and pleaded for her to remove them. When Lady Wachter solemnly shared that the players had been banned from Vallaki, Blinsky grew agitated, and was subsequently arrested and placed in the stocks for “trespassing and contempt." (Lady Wachter, who would have preferred to let Blinsky go free, felt the punishment was necessary to prevent Strahd’s emissary from making a meal of him instead.)
 >
-> When Lady Wachter issued her edict forbidding most Vallakians from venturing outside of the town walls, Bluto marched to the North Gate and demanded that he be allowed to pass in order to continue his livelihood at Lake Zarovich. A brief struggle ensued, after which Bluto was locked in the stocks for “insubordination and disorderly conduct."
+> When Lady Wachter issued her edict forbidding most Vallakians from venturing outside of the town walls, Bluto marched to the North Gate and demanded that he be allowed to pass in order to continue his livelihood at [[Places/Lake Zarovich|Lake Zarovich]]. A brief struggle ensued, after which Bluto was locked in the stocks for “insubordination and disorderly conduct."
 
 Each proclamation reads “BEWARE: ARMED AND DANGEROUS. REPORT ANY SIGHTINGS TO THE BURGOMISTRESS," and features a rough sketch and description of the players.
 
@@ -481,7 +481,7 @@ If the players visit Wachterhaus, proceed to [[#T5. A Light in the Dark]].
 
 The first night the players spend away from Mt. Ghakis after completing [[Arc S - A Sword of Sunlight]], Strahd scries or tracks them as described in [[Arc R - Trials of the Mountain#R3b. The Tyrant’s First Trial|Arc R - Trials of the Mountain]]. 
 
-Upon locating them, he dismisses Beucephalus into the Ethereal Plane, then attempts to drive the players into the open or obtain an invitation into their resting place, as described in [[Arc R - Trials of the Mountain#Strahd’s Greeting|The Tyrant’s First Trial]]. If he successfully does so, Strahd congratulates the players for avoiding him during their stay on Mt. Ghakis (e.g., due to Soldav’s protective enchantments and the roc’s protection). “Nevertheless," he says coldly, “such cowardice violated the rules of our game—and so I have come to collect your penalty."
+Upon locating them, he dismisses [[NPCs/Beucephalus|Beucephalus]] into the [[Places/Ethereal Plane|Ethereal Plane]], then attempts to drive the players into the open or obtain an invitation into their resting place, as described in [[Arc R - Trials of the Mountain#Strahd’s Greeting|The Tyrant’s First Trial]]. If he successfully does so, Strahd congratulates the players for avoiding him during their stay on Mt. Ghakis (e.g., due to Soldav’s protective enchantments and the roc’s protection). “Nevertheless," he says coldly, “such cowardice violated the rules of our game—and so I have come to collect your penalty."
 
 Strahd informs the players that, for each night they escaped his “game," he will claim one of them as a vampire spawn—tonight. (For example, if the players spent two nights in Soldav and were protected by the roc of Mt. Ghakis for an additional night, Strahd intends to claim three players as vampire spawn tonight.)
 
@@ -502,13 +502,13 @@ If the players reduce Strahd's second form to 155 hit points or fewer, he snarls
 
 On his next turn, Strahd uses his ***shapechange*** feature to assume the form of a **bat**. He then retreats into the sky, returning to Castle Ravenloft. 
 ## T2d. Exethanter’s Warning
-Forty-eight hours after the players leave the *Tome of Strahd* with Exethanter’s spirit in [[Arc S - A Sword of Sunlight]], he contacts them simultaneously using a continuous, multi-target _sending_ spell to convey the following information:
+Forty-eight hours after the players leave the *[[Items/The Tome of Strahd|Tome of Strahd]]* with [[NPCs/Exethanter|Exethanter]]’s spirit in [[Arc S - A Sword of Sunlight]], he contacts them simultaneously using a continuous, multi-target _sending_ spell to convey the following information:
 
-* The *Tome* describes Strahd’s plan to use a giant crystalline heart to conduct the energy from three leyline crossings in Barovia (i.e., points where two leylines intersect).
+* The *Tome* describes Strahd’s plan to use a giant crystalline heart to conduct the energy from three [[Places/Leyline beneath Wachterhaus|leyline]] crossings in Barovia (i.e., points where two leylines intersect).
 * Strahd intends to control this raw, unfettered power using a “token of divinity" that is “like, but not of," the magic that dwells in the three leylines.
 * Using the leylines’ power, and the power stored in the heart’s vast reserves, Strahd will surround the crystalline heart with a shell of thousands of living human souls, each infused with apathy, fear, and despair. This process will tear the souls from their owners’ bodies, leaving the original hosts undead husks obedient to Strahd’s commands.
-* Strahd has determined that the Mists surrounding Barovia are impenetrable—except for one thirteen-day period every thirteen centuries, when the planes and stars align to form a Grand Conjunction. When the Grand Conjunction reaches its zenith, and the boundaries between worlds grow thinnest, Strahd intends to use the fortified heart as a battering ram to break through the Mists and free Barovia from its prison—consuming every soul in the process.
-* The Grand Conjunction begins in one day’s time, and will reach its zenith in three—and if even a single leyline remains under Strahd’s control on that date, every living soul in the valley may be lost.
+* Strahd has determined that the Mists surrounding Barovia are impenetrable—except for one thirteen-day period every thirteen centuries, when the planes and stars align to form a Grand Conjunction. When the Grand Conjunction reaches its zenith, and the boundaries between worlds grow thinnest, Strahd intends to use the fortified heart as a battering ram to break through the Mists and free Barovia from its [[Places/Prison|prison]]—consuming every soul in the process.
+* The Grand Conjunction begins in one day’s time, and will reach its zenith in three—and if even a single [[Places/Leyline beneath Wachterhaus|leyline]] remains under Strahd’s control on that date, every living soul in the valley may be lost.
 
 Exethanter, who is clearly horrified, agitated, and somewhat impressed by the audacity of Strahd’s plans, urges the players to do whatever they can to thwart Strahd’s plans before the Grand Conjunction begins.
 
@@ -560,7 +560,7 @@ Beyond the entrance, the hedge maze splits into two corridors: one that runs wes
 > * [[#T3c. Southern Cottages]], comprising <span class="citation">U1. Abandoned Cottages (p. 162)</span> (south cottages) 
 > * [[#T3e. Churchyard]], comprising <span class="citation">U4. Churchyard (p. 164)</span>
 > * [[#T3f. Marina’s Monument]], comprising <span class="citation">U5. Marina’s Monument (p. 164)</span>
-> * [[#T3h. Goat Pen]], comprising <span class="citation">U2. Ulrich Mansion (p. 162)</span> (goat pen only)
+> * [[#T3h. Goat Pen]], comprising <span class="citation">U2. Ulrich Mansion (p. 162)</span> ([[Items/Goat Pen|goat pen]] only)
 > * [[#T3g. Manor Cellar]], comprising <span class="citation">U2. Ulrich Mansion (p. 162)</span> (cellar only)
 > * [[#T3i. Garden]], comprising <span class="citation">U2. Ulrich Mansion (p. 162)</span> (garden only)
 > * [[#T3j. Ulrich Manor]], comprising <span class="citation">U2. Ulrich Mansion (p. 162)</span> (mansion only)
@@ -573,19 +573,19 @@ Beyond the entrance, the hedge maze splits into two corridors: one that runs wes
 > [!info]+ **Light in the Maze**
 > Except in [[#T3k. Baba Lysaga’s Hut]], no natural or artificial light illuminates the interior of the hedge maze, leaving all rooms in darkness unless illuminated by the players.
 ## T3b. Northern Cottages
-This area is largely as described in <span class="citation">U1. Abandoned Cottages (p. 162)</span> (north cottages). However, two **greater strix** hang from the ceiling above the cottages. When the players enter, the strix descend upon the players and attack, releasing a pair of shrill, piercing shrieks.
+This area is largely as described in <span class="citation">U1. Abandoned Cottages (p. 162)</span> (north cottages). However, two **[[NPCs/Greater Strix|greater strix]]** hang from the ceiling above the cottages. When the players enter, the strix descend upon the players and attack, releasing a pair of shrill, piercing shrieks.
 
 > [!combat]- **Combat - The Northern Cottages**  
 > **Combat Level**: Mild
 > **Expected Character Level**: 9
-> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
+> **Allies:** [[NPCs/Ireena Kolyana|Ireena Kolyana]] (CR 2), Ezmerelda d'Avenir (CR 4)
 > **Expected HP Consumption:** 4%
 > 
 > ### **Enemies:**
 > 
 > | |3 Players | 4 Players | 5 Players | 6 Players |
 > |-|-|-|-|-|
-> | Greater Strix | 1 | 2 | 2 | 2 |
+> | [[NPCs/Greater Strix|Greater Strix]] | 1 | 2 | 2 | 2 |
 
 
 Three ten-foot-wide passages lead from this chamber:
@@ -594,7 +594,7 @@ Three ten-foot-wide passages lead from this chamber:
 * One along the southeast wall, which leads to [[#T3d. Town Green]]
 * One to the southwest, which leads to [[#T3e. Churchyard]]
 ## T3c. Southern Cottages
-This area is largely as described in <span class="citation">U1. Abandoned Cottages (p. 162)</span> (south cottages). However, if they weren’t killed in [[Arc Q - A Shining Beacon]], two **Barovian hexwitches** and two **Barovian bogwitches**, as described in [[Arc P - Ravenloft Heist#P9c. Cauldron Room|Arc P - Ravenloft Heist]], lurk in four cottages flanking the road. If she’s still alive, Wensencia and her undead **dire wolf**, as described in [[Arc M - The Dragon's Manor#The Witch's Harvest|The Witch's Harvest]], lurk in a fifth cottage. The witches emerge and attack any players who pass between or enter the cottages.
+This area is largely as described in <span class="citation">U1. Abandoned Cottages (p. 162)</span> (south cottages). However, if they weren’t killed in [[Arc Q - A Shining Beacon]], two **Barovian hexwitches** and two **Barovian bogwitches**, as described in [[Arc P - Ravenloft Heist#P9c. Cauldron Room|Arc P - Ravenloft Heist]], lurk in four cottages flanking the road. If she’s still alive, [[NPCs/Wensencia|Wensencia]] and her undead **dire wolf**, as described in [[Arc M - The Dragon's Manor#The Witch's Harvest|The Witch's Harvest]], lurk in a fifth cottage. The witches emerge and attack any players who pass between or enter the cottages.
 
 > [!combat]- **Combat - The Southern Cottages**  
 > **Combat Level**: Mild
@@ -609,7 +609,7 @@ This area is largely as described in <span class="citation">U1. Abandoned Cottag
 > | Barovian Bogwitch | 2 | 2 | 2 | 3 |
 > | Barovian Hexwitch | 0 | 1 | 2 | 2 |
 > | Dire Wolf | 1 | 1 | 1 | 1 |
-> | Wensencia | 1 | 1 | 1 | 1 |
+> | [[NPCs/Wensencia|Wensencia]] | 1 | 1 | 1 | 1 |
 
 
 Three ten-foot-wide passages lead from this chamber:
@@ -704,9 +704,9 @@ The golden figure is the spirit of Sergei von Zarovich (use the statistics of a 
 > [!lore]+ **Sergei’s Spirit**
 > When Strahd killed him at his wedding nearly four centuries ago, Sergei’s ghost awoke to find itself entrapped within the Mists, unable to pass on to the afterlife. As the Mists’ first ghost, Sergei has learned how to avoid the cycles of reincarnation that return Barovia’s souls to their next lives. Although Strahd has long searched for his soul, Sergei has also learned how to hide himself away from his brother’s eyes, too fearful—and ashamed—to allow Strahd to find him.
 >
-> Sergei fears what Strahd has become—but, more importantly, loathes himself for his failure to see the darkness growing in Strahd’s heart, as well as his own failure to protect Tatyana from Strahd’s assault. He blames himself for Strahd’s fall from grace and for Tatyana’s death at Strahd’s hands; had he not taunted Strahd with their romance, or even departed his position as Moste High Priest of the Morninglord’s Church, Sergei believes, all this tragedy may have been avoided.
+> Sergei fears what Strahd has become—but, more importantly, loathes himself for his failure to see the darkness growing in Strahd’s heart, as well as his own failure to protect [[NPCs/Tatyana Federovna|Tatyana]] from Strahd’s assault. He blames himself for Strahd’s fall from grace and for [[NPCs/Tatyana Federovna|Tatyana]]’s death at Strahd’s hands; had he not taunted Strahd with their romance, or even departed his position as Moste High Priest of the Morninglord’s Church, Sergei believes, all this tragedy may have been avoided.
 >
-> When Tatyana first reincarnated as Marina in the village of Berez, Sergei believed that she offered him a chance at redemption. It was Sergei, unknowingly guided by the Dark Powers’ whispers, who visited Burgomaster Lazlo Ulrich and Brother Grigor in their dreams to warn them of Strahd’s nightly visits. Unfortunately for Sergei, Lazlo and Grigo slew Marina as described in <span class="citation">Chapter 10: The Ruins of Berez (p. 161)</span>, rather than spiriting her away as Sergei had hoped.
+> When Tatyana first reincarnated as Marina in the village of Berez, Sergei believed that she offered him a chance at redemption. It was Sergei, unknowingly guided by [[Factions/Dark Powers|the Dark Powers]]’ whispers, who visited Burgomaster [[NPCs/Lazlo Ulrich|Lazlo Ulrich]] and Brother Grigor in their dreams to warn them of Strahd’s nightly visits. Unfortunately for Sergei, Lazlo and Grigo slew Marina as described in <span class="citation">Chapter 10: The Ruins of Berez (p. 161)</span>, rather than spiriting her away as Sergei had hoped.
 >
 > Today, Sergei generally conceals himself near the border of the Deep Ethereal, so as to avoid the watchful eyes of Strahd’s **nightmare** and ghostly servants. However, he occasionally dares to visit Marina’s Monument, where he pays his respects to the woman he failed to save, and the woman his actions condemned. Sergei dreads the day that he might encounter Tatyana’s soul again—and hopes fervently that day will never come.
 ### Sergei’s Surprise
@@ -728,7 +728,7 @@ If Ireena is not present, instead add:
 <p>The figure rocks to his feet, his face paling. With a startled gasp, he steps back—and vanishes from sight.</p>
 </div>
 
-Sergei, who has used his ***etherealness*** feature to escape into the Ethereal Plane, lingers in the Border Ethereal to watch the players. The players can convince Sergei to return to the Material Plane by succeeding on a DC 15 Charisma (Persuasion) check, made with advantage if the players call him by name. The check succeeds automatically if Ireena calls for Sergei, or if the players show Sergei the hilt of the *Sunsword*.
+Sergei, who has used his ***etherealness*** feature to escape into the [[Places/Ethereal Plane|Ethereal Plane]], lingers in the Border Ethereal to watch the players. The players can convince Sergei to return to the Material Plane by succeeding on a DC 15 Charisma (Persuasion) check, made with advantage if the players call him by name. The check succeeds automatically if Ireena calls for Sergei, or if the players show Sergei the hilt of the *Sunsword*.
 
 > [!abstract]+ **Sergei’s Aid**
 > If he sees Ireena depart this area, Sergei follows her in the Ethereal Plane while she remains in Berez, yearning to hear her voice but terrified of revealing himself to her. (Sergei doesn’t follow Ireena if she leaves Berez.)
@@ -757,8 +757,8 @@ Upon returning to the Material Plane, Sergei is willing to share the following i
 
 * He is Sergei von Zarovich, the younger brother of Strahd von Zarovich.
 * The monument, which is called Marina’s Monument, was erected by Strahd three-and-a-half centuries ago, shortly after the destruction of Berez in a terrible flood. 
-* Strahd raised the monument to honor the memory of a woman named Marina Ulrich, the daughter of the local burgomaster. 
-* Marina was slain by her father, Burgomaster Lazlo Ulrich, and a priest of the Morninglord called Brother Grigor, as described in <span class="citation">Chapter 10: The Ruins of Berez (p. 161)</span>. (A player with a passive Wisdom (Insight) score of 13 or more notices that Sergei’s spirit seems to bite his tongue before speaking further, and that he seems ashamed to speak further on the matter.)
+* Strahd raised the monument to honor the memory of a woman named [[NPCs/Marina Ulrich|Marina Ulrich]], the daughter of the local burgomaster. 
+* Marina was slain by her father, Burgomaster [[NPCs/Lazlo Ulrich|Lazlo Ulrich]], and a priest of the Morninglord called Brother Grigor, as described in <span class="citation">Chapter 10: The Ruins of Berez (p. 161)</span>. (A player with a passive Wisdom (Insight) score of 13 or more notices that Sergei’s spirit seems to bite his tongue before speaking further, and that he seems ashamed to speak further on the matter.)
 
 The players can convince Sergei to elaborate on his role in Marina’s death by succeeding on a DC 15 Charisma (Persuasion) check, made with advantage if the players point out that he clearly feels guilty for her death. The check succeeds automatically if Ireena assists the players in doing so. On a success, a miserable Sergei can share the following additional information:
 
@@ -767,14 +767,14 @@ The players can convince Sergei to elaborate on his role in Marina’s death by 
 
 If the players ask Sergei how he could have killed Marina “again," mention Tatyana, or ask how he died, Sergei winces and begs the players not to “open old wounds." If the players persist, Sergei sighs, and can share the following additional information if asked:
 
-* His father, King Barov von Zarovich II, was determined to resurrect the old Zarovich dynasty, and the legacy of Old Zarovia. To this end, he waged endless wars against their family’s enemies—and trained Strahd to follow in his footsteps, raising him to be a soldier, a general, and a king.
-* King Barov was already approaching his elder years when Sergei was born. Nearly thirty years Strahd’s younger, and not expected to claim the throne, Sergei was spared the bloodshed of his father and brother’s wars. Instead, his mother, Queen Ravenovia, joined by Prefect Ciril Romulich of the Church of the Morninglord, raised him to be a priest of the Morninglord’s church. (“Not once did I meet the man I called brother," Sergei says mournfully. “My studies kept me at home, while his duties kept him at the war front.")
-* When Sergei was twenty-two, King Barov died of illness. Strahd inherited his father’s throne—and his wars—while Sergei, still kept at home, inherited his father’s *Brightblade*: a radiant sword whose crystal blade shone like the sun. (“I never learned why Strahd had the *Brightblade* sent to me," Sergei says softly. “Perhaps he wanted to carve his own path. Or perhaps a small part of him feared its light, even then.")
-* Not long after King Barov’s death, St. Andral’s successor—Moste High Priest Kir of the Morninglord’s church—raised Sergei to be a High Priest of the church. Four years later, Strahd summoned Sergei and Queen Ravenovia to the seat of his empire: a valley he had named “Barovia," in their father’s honor.
+* His father, King [[NPCs/Barov von Zarovich II|Barov von Zarovich II]], was determined to resurrect the old Zarovich dynasty, and the legacy of Old Zarovia. To this end, he waged endless wars against their family’s enemies—and trained Strahd to follow in his footsteps, raising him to be a soldier, a general, and a king.
+* King Barov was already approaching his elder years when Sergei was born. Nearly thirty years Strahd’s younger, and not expected to claim the throne, Sergei was spared the bloodshed of his father and brother’s wars. Instead, his mother, [[NPCs/Queen Ravenovia|Queen Ravenovia]], joined by Prefect Ciril Romulich of the Church of the Morninglord, raised him to be a priest of the Morninglord’s church. (“Not once did I meet the man I called brother," Sergei says mournfully. “My studies kept me at home, while his duties kept him at the war front.")
+* When Sergei was twenty-two, King Barov died of illness. Strahd inherited his father’s throne—and his wars—while Sergei, still kept at home, inherited his father’s *[[Items/Brightblade|Brightblade]]*: a radiant sword whose crystal blade shone like the sun. (“I never learned why Strahd had the *[[Items/Brightblade|Brightblade]]* sent to me," Sergei says softly. “Perhaps he wanted to carve his own path. Or perhaps a small part of him feared its light, even then.")
+* Not long after King Barov’s death, St. Andral’s successor—Moste High Priest Kir of the Morninglord’s church—raised Sergei to be a High Priest of the church. Four years later, Strahd summoned Sergei and [[NPCs/Queen Ravenovia|Queen Ravenovia]] to the seat of his empire: a valley he had named “Barovia," in their father’s honor.
 * Queen Ravenovia, Sergei’s mother, fell gravely ill and died on the journey—and Sergei arrived at Castle Ravenloft alone. There, he met his elder brother, Strahd—who was now well-into middle age himself—for the first time in both of their lives. (“It was strange," Sergei recalls. “Neither of us knew how to speak with the other—me, who had never known war, and he, who had never known peace. We circled each other like cats: fearful of making a wrong move, yet too curious to step away.")
-* Sergei, joined by Ciril Romulich, informed Strahd that Kir had died before Castle Ravenloft was finished, leaving the position of Moste High Priest vacant—a position that the council of high priests had chosen Sergei to fill. (“Kir had withdrawn from daily life in the year before his death," Sergei recalls, if prompted. “When I and Ciril entered his chambers to speak with him, we found him slumped over on his desk, unmoving—and with a platinum sunburst lying in his hands, its center set with a ruby that shone like the sun. His notes called it the *Sigil of the Sun*, and claimed that it would be needed one day when the Morninglord’s faithful did battle with a great enemy." Sergei recognizes the *Holy Symbol of Ravenkind* as the *Sigil of the Sun* if shown, and expresses great interest in its recent history.)
+* Sergei, joined by Ciril Romulich, informed Strahd that Kir had died before Castle Ravenloft was finished, leaving the position of Moste High Priest vacant—a position that the council of high priests had chosen Sergei to fill. (“Kir had withdrawn from daily life in the year before his death," Sergei recalls, if prompted. “When I and Ciril entered his chambers to speak with him, we found him slumped over on his desk, unmoving—and with a platinum sunburst lying in his hands, its center set with a ruby that shone like the sun. His notes called it the *[[Items/Sigil of the Sun|Sigil of the Sun]]*, and claimed that it would be needed one day when the Morninglord’s faithful did battle with a great enemy." Sergei recognizes the *[[Items/Holy Symbol of Ravenkind|Holy Symbol of Ravenkind]]* as the *[[Items/Sigil of the Sun|Sigil of the Sun]]* if shown, and expresses great interest in its recent history.)
 * Shortly after Sergei’s arrival in Barovia, an army of undead began to wage war against Strahd and his armies, ravaging the valley’s defenses and stockpiles. When Strahd departed from the castle to lead the fight, Sergei took over his brother’s ministerial duties, visiting the settlements of the valley to oversee their development.
-* It was on one such visit to the village of Barovia that Sergei first met Tatyana Federovna—a peasant girl working as a barmaid at the *Blood of the Vine Tavern*. Sergei was instantly smitten, and visited her daily to pursue her affections. (“She was the most beautiful woman I had ever seen," Sergei reminisces, “both inside and out. She was kind and gentle, but brilliant and *fierce*." He chuckles sadly, lost in memories. “She was also the most stubborn woman I had ever known—but I was determined to be even moreso. It was the happiest day of my life when she accepted my request to court her.")
+* It was on one such visit to [[Places/Village of Barovia|the village of Barovia]] that Sergei first met Tatyana Federovna—a peasant girl working as a barmaid at the *Blood of the Vine Tavern*. Sergei was instantly smitten, and visited her daily to pursue her affections. (“She was the most beautiful woman I had ever seen," Sergei reminisces, “both inside and out. She was kind and gentle, but brilliant and *fierce*." He chuckles sadly, lost in memories. “She was also the most stubborn woman I had ever known—but I was determined to be even moreso. It was the happiest day of my life when she accepted my request to court her.")
 * When their courtship began, Tatyana visited Sergei in Castle Ravenloft near-daily, often spending nights—if not weeks—in the castle’s bright halls. Each time she did, Strahd welcomed her fondly, and Tatyana came to greet him warmly as well. (“Each time he saw her, I recognized the lust in his eyes," Sergei confesses, “yet I denied it to myself, unwilling to accept the darkness I saw in his heart. My denial only grew, even as that lust grew to envy, nurturing the monster that stirred in his chest.")
 * Sergei’s dalliances with Tatyana soon began to impede his duties as Moste High Priest to the Morninglord’s church. Not long after, Strahd gave him an ultimatum: end his relationship with Tatyana, or abdicate his position as Moste High Priest. (“I imagine he expected me to choose the former," Sergei muses. “He had never known anything but duty, and the Morninglord’s church had always been mine. But I chose Tatyana—when she agreed to marry me, I forswore my vows, for no light of the Morninglord could shine brighter than hers.")
 * Preparations for the royal wedding proceeded furiously over the next several months—until, finally, on his wedding day, Sergei stood in his castle chambers and prepared himself to become a married man. When a knock came at the door, Sergei went to answer it—and Strahd fell upon him with a dagger, slitting Sergei’s throat and drinking his blood as he died. (“He whispered three words to me as I died," Sergei recalls: “*She. Is. Mine.*")
@@ -783,7 +783,7 @@ If the players ask Sergei how he could have killed Marina “again," mention Tat
 If prompted to continue, Sergei can also share the following information:
 
 * After Tatyana’s death, Sergei withdrew to the realm of spirits, too fearful of what his brother had become, and too ashamed of his own failures, to return to the Material Plane. “I searched long for Tatyana’s spirit in the Ethereal Plane," Sergei mourns. “Eventually, I gave up the search—but perhaps I gave up too soon.")
-* Forty years after Tatyana’s death, Sergei learned that Strahd had discovered a new woman to prey upon: Marina Ulrich, the daughter of Berez’s burgomaster. “She was like Tatyana come to life again," Sergei recalls wistfully. “Her face, her voice—even her eyes matched Tatyana’s perfectly."
+* Forty years after Tatyana’s death, Sergei learned that Strahd had discovered a new woman to prey upon: [[NPCs/Marina Ulrich|Marina Ulrich]], the daughter of Berez’s burgomaster. “She was like Tatyana come to life again," Sergei recalls wistfully. “Her face, her voice—even her eyes matched Tatyana’s perfectly."
 * Both Strahd and Sergei came to believe that Marina *was* Tatyana born anew—but where Strahd sought to conquer what he had once lost, Sergei wanted only to rescue the woman he had once failed to save. (“These Mists entrap our souls," Sergei shares. “Bereft of any place to receive us, and without any place to draw new souls from, I have seen many old spirits drawn into newborn infants, reincarnated through the centuries to live again through fresh eyes.")
 
 If confronted or pressed, Sergei can reluctantly share the following additional information:
@@ -820,7 +820,7 @@ A player who asks Sergei or succeeds on a DC 13 Wisdom (Insight) check learns th
 * “This is your penance. You can never return to the light."
 
 > [!lore]+ **Dark Whispers**
-> The whispering shadows are a manifestation of the Dark Powers. Eager to keep Ireena Kolyana isolated, and hoping to deprive the players of Sergei’s aid, they have reached out to embrace Sergei’s spirit in order to prevent him from helping them.
+> The whispering shadows are a manifestation of [[Factions/Dark Powers|the Dark Powers]]. Eager to keep Ireena Kolyana isolated, and hoping to deprive the players of Sergei’s aid, they have reached out to embrace Sergei’s spirit in order to prevent him from helping them.
 
 The players can again attempt to persuade Sergei to aid them by making any reasonable argument and succeeding on a DC 15 Charisma (Persuasion) check. The players make the check with advantage if their arguments directly rebut the Dark Powers’ whispers, and succeed automatically if they help Ireena reconcile her identity and recruit her aid in convincing Sergei.
 
@@ -864,7 +864,7 @@ Two ten-foot-wide passages lead from this chamber:
 If the players descend the stairs, read:
 
 <div class="description">
-<p>The stairs descend to a ruined, fog-filled wine cellar. Rotted, hollow casks stand silently against the walls, a trio of forgotten dolls lying scattered beneath them. On the far side of the room, part of the ceiling has collapsed, burying the chamber beneath rubble and debris.</p>
+<p>The stairs descend to a ruined, fog-filled [[Places/Wine Cellar|wine cellar]]. Rotted, hollow casks stand silently against the walls, a trio of forgotten dolls lying scattered beneath them. On the far side of the room, part of the ceiling has collapsed, burying the chamber beneath rubble and debris.</p>
 </div>
 
 The three dolls, which were crafted and left here by Baba Lysaga, have the statistics of <span class="citation">carrionettes (<em>Van Richten’s Guide to Ravenloft</em>, p. 231)</span>, but with the following changes:
@@ -904,11 +904,11 @@ The dolls attack if the players approach them or otherwise pass the midpoint of 
 > * If your deception fails, you attempt to flee. 
 > * If captured and interrogated, you claim that your ***soul swap*** is irreversible, and that no act or magic can restore the target’s soul to its body. (While doing so, you then glance nervously toward the carrionette’s physical body—and, if present, its silver needle.
 
-A player who inspects the collapsed ceiling and succeeds on a DC 8 Intelligence (Investigation) check discerns that the ceiling collapsed long ago—likely centuries before the players arrived.
+A player who inspects the [[Places/Collapsed Ceiling|collapsed ceiling]] and succeeds on a DC 8 Intelligence (Investigation) check discerns that the ceiling collapsed long ago—likely centuries before the players arrived.
 ## T3h. Goat Pen
 This area is largely as described in <span class="citation">U2. Ulrich Mansion (p. 162)</span>. However, Baba Lysaga has transformed the nine **goats** here into hulking carnivorous beasts (use the statistics of a **giant hyena** with the additional ***gore*** attack of a **rhinoceros**). The goats attack any player who enters their pen.
 
-> [!combat]- **Combat - The Goat Pen**  
+> [!combat]- **Combat - The [[Items/Goat Pen|Goat Pen]]**  
 > **Combat Level**: Bruising
 > **Expected Character Level**: 9
 > **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
@@ -1036,7 +1036,7 @@ If the players anger Lazlo or attempt to bypass him, read:
 <p>"I would not recommend that," he rumbles.</p>
 </div>
 
-The candelabra, bookstand, and stone bust each have the statistics of an **animated minor object**. The shards have the statistics of a **swarm of insects** (fly speed), but deal slashing damage rather than piercing damage, can use their actions to attack twice rather than once. The swords each have the statistics of a **flying sword**, but can use their actions to attack twice, rather than once.
+The candelabra, bookstand, and stone bust each have the statistics of an **animated minor object**. The shards have the statistics of a **[[NPCs/Swarm|swarm]] of insects** (fly speed), but deal slashing damage rather than piercing damage, can use their actions to attack twice rather than once. The swords each have the statistics of a **flying sword**, but can use their actions to attack twice, rather than once.
 
 <div class="statblock">
 <h2>Animated Minor Object</h2>
@@ -1143,8 +1143,8 @@ Baba Lysaga then attacks.
 > [!info]+ **The Ravens**
 > Each cage is locked as described in <span class="citation">U3. Baba Lysaga’s Hut (p. 163)</span>, with the password: “Death to Ravenovia." In addition to the **swarms of ravens**, each cage contains the following prisoners:
 >
-> * Left Cage: Adrian, Dag, Stefania, Davian, and Elvir Martikov (in raven form)
-> * Right Cage: Martin and Viggo Martikov (in raven form); Yolanda Martikov (polymorphed into a **raven**).
+> * Left Cage: Adrian, Dag, Stefania, Davian, and [[NPCs/Elvir Martikov|Elvir Martikov]] (in raven form)
+> * Right Cage: Martin and Viggo Martikov (in raven form); [[NPCs/Yolanda|Yolanda]] Martikov (polymorphed into a **raven**).
 >
 > Each wereraven has 1 hit point and 2 levels of exhaustion.
 >
@@ -1210,7 +1210,7 @@ Baba Lysaga then attacks.
 <strong>Challenge</strong> 10<br>
 <strong>Proficiency Bonus</strong> +4
 <hr>
-<p><strong><em>Blessing of Mother Night.</em></strong> Baba Lysaga is shielded against divination magic, as though protected by a <em>nondetection</em> spell.</p>
+<p><strong><em>Blessing of [[NPCs/Mother Night|Mother Night]].</em></strong> Baba Lysaga is shielded against divination magic, as though protected by a <em>nondetection</em> spell.</p>
 <p><strong><em>Skilled Casting.</em></strong> Baba Lysaga can concentrate on up to three spells at a time. If she would lose concentration on one, she loses concentration on all of them.</p>
 <p><strong><em>Flying Skull.</em></strong> While riding her flying giant’s skull, Baba Lysaga gains a fly speed of 30 ft. and has half cover. The skull shares Baba Lysaga’s Strength, Dexterity, and Constitution scores and saving throws, and is otherwise as described in <span class="citation">U3. Baba Lysaga’s Hut (p. 163)</span>.</p>
 <p><strong><em>Swallowed by the Swamp.</em></strong> When Baba Lysaga is reduced to 0 hit points, she plunges or sinks into the swamp of Berez. She then resurfaces, riding atop a tower of swamp vines coiled around her lower body. Her statistics are instantly replaced by those of her second form. Her initiative count doesn’t change, excess damage doesn’t carry over, and she retains none of the conditions she had in her previous form.</p>
@@ -1272,7 +1272,7 @@ Baba Lysaga then attacks.
 <strong>Challenge</strong> 10<br>
 <strong>Proficiency Bonus</strong> +4
 <hr>
-<p><strong><em>Blessing of Mother Night.</em></strong> Baba Lysaga is shielded against divination magic, as though protected by a <em>nondetection</em> spell.</p>
+<p><strong><em>Blessing of [[NPCs/Mother Night|Mother Night]].</em></strong> Baba Lysaga is shielded against divination magic, as though protected by a <em>nondetection</em> spell.</p>
 <p><strong><em>Skilled Casting.</em></strong> Baba Lysaga can concentrate on up to three spells at a time. If she would lose concentration on one, she loses concentration on all of them.</p>
 <h3>Actions</h3>
 <p><strong><em>Spellcasting.</em></strong> Baba Lysaga casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 18, +10 to hit with spell attacks):<br>
@@ -1348,7 +1348,7 @@ Baba Lysaga then attacks.
 </div>
 
 ## T3l. The Feuding Ravens
-If rescued, the captured Martikovs, though traumatized and shaken by their imprisonment, are deeply grateful to the players for saving them. (Immediately after being freed, Stefania and Dag rush to find and comfort Martin, Viggo, and Yolanda. Although permanently polymorphed into a raven by Baba Lysaga’s magic, Yolanda uses her ***shapechange*** feature—for the first time in her life—and resumes her human form shortly after being rescued.)
+If rescued, the captured Martikovs, though traumatized and shaken by their imprisonment, are deeply grateful to the players for saving them. (Immediately after being freed, Stefania and Dag rush to find and comfort Martin, Viggo, and [[NPCs/Yolanda|Yolanda]]. Although permanently polymorphed into a raven by Baba Lysaga’s magic, Yolanda uses her ***shapechange*** feature—for the first time in her life—and resumes her human form shortly after being rescued.)
 
 > [!abstract]+ **Davian & Urwin**
 > If Urwin Martikov is present when the Martikovs are freed, Davian Martikov regards him with distaste and asks the players why they brought his “wastrel of a son" along to Berez, adding his “sincere apologies" if Urwin “slowed them down." (Urwin is irritated by Davian’s insults, but urges the players to ignore the “old bird’s ramblings.")
@@ -1377,12 +1377,12 @@ As the players approach <span class="citation">U6. Standing Stones (p. 165)</spa
 <p>A circle of stout, smooth megaliths stands amidst thick mud at the center of a copse of gnarled trees not far from the river's edge. The trees and standing stones are choked with a thick shroud of bluish-white webs, whose thick cords seem to shimmer with an ethereal quality.</p>
 </div>
 
-The area within the stones is obscured by the cover provided by the webs, which are described in <span class="citation">Webs (Dungeon Master's Guide, p. 105)</span>.
+The area within the stones is obscured by the cover provided by the webs, which are described in <span class="citation">Webs ([[Items/Dungeon Master's Guide|Dungeon Master's Guide]], p. 105)</span>.
 
-If the players begin cutting or moving through the webs, their presence draws the attention of one **phase spider**, which uses its ***ethereal jaunt*** to briefly flicker into (then out of) the Material Plane. The following round, the first phase spider repeats the process, now joined by five additional **phase spiders**, before all return to the Ethereal Plane. If the players remain within the webs, all of the spiders attack the following round. 
+If the players begin cutting or moving through the webs, their presence draws the attention of one **phase spider**, which uses its ***ethereal jaunt*** to briefly flicker into (then out of) the Material Plane. The following round, the first phase spider repeats the process, now joined by five additional **[[NPCs/Phase Spiders|phase spiders]]**, before all return to the Ethereal Plane. If the players remain within the webs, all of the spiders attack the following round. 
 
 > [!info]+ **Fear of Sunlight**
-> The **phase spiders** that haunt the Swamp Fane fear sunlight, and flee permanently into the Ethereal Plane if they fall into the *Sunsword*’s light.
+> The **[[NPCs/Phase Spiders|phase spiders]]** that haunt the Swamp Fane fear sunlight, and flee permanently into the Ethereal Plane if they fall into the *Sunsword*’s light.
 
 If Urwin and Davian bury the Weaver’s viridian gem within the circle after reconciling, read:
 
@@ -1418,16 +1418,16 @@ When the players first return to <span class="citation">P. Luna River Crossroads
 <p>The southwestern bushes rustle, and a cloaked and hooded figure steps forth from the underbrush. They raise a hand, gesturing for you to approach.</p>
 </div>
 
-The cloaked figure is the Vistani **bandit** Alexei, sent by Luvash to bring the players a secret message. If the players call out to him, he shakes his head urgently and gestures more frantically for them to approach. If the players ignore him, he hisses, “Please. I have a message for you" while nervously checking his surroundings for any eavesdroppers.
+The cloaked figure is the Vistani **bandit** [[NPCs/Alexei|Alexei]], sent by [[NPCs/Luvash|Luvash]] to bring the players a secret message. If the players call out to him, he shakes his head urgently and gestures more frantically for them to approach. If the players ignore him, he hisses, “Please. I have a message for you" while nervously checking his surroundings for any eavesdroppers.
 
 If the players follow him into the trees, they can discern his features: a young man with close-cropped, chestnut-brown hair and the barest beginnings of a beard growing across his cheeks. Players who previously encountered him in [[Arc E - The Missing Vistana]] recognize him as Alexei.
 
 > [!lore]+ **The Vistani Guest**
-> Two days ago, Strahd von Zarovich learned from a Vistani spy of the connection between Arturi Radanavich and Dr. Rudolph van Richten. Reasoning that Arturi’s unique curse may be connected to Van Richten—who Strahd hopes to use as a sacrifice in the Grand Conjunction’s ritual—Strahd “invited" Arturi to Castle Ravenloft, where he delivered him into the care of a platoon of surviving castle **wights**. Arturi was made a mandatory guest in <span class="citation">K32. Maid in Hell (p. 64)</span>, imprisoned so that Strahd could study his curse in greater detail.
+> Two days ago, Strahd von Zarovich learned from a Vistani spy of the connection between Arturi Radanavich and Dr. Rudolph van Richten. Reasoning that Arturi’s unique curse may be connected to Van Richten—who Strahd hopes to use as a sacrifice in the Grand Conjunction’s ritual—Strahd “invited" Arturi to Castle Ravenloft, where he delivered him into the care of a platoon of surviving castle **[[Factions/Wights|wights]]**. Arturi was made a mandatory guest in <span class="citation">K32. Maid in Hell (p. 64)</span>, imprisoned so that Strahd could study his curse in greater detail.
 >
-> Last night, Arturi staged a daring escape, barely escaping with his life through the teleportation brazier in <span class="citation">K78. Brazier Room (p. 82)</span>. Upon his arrival at <span class="citation">Chapter 11: Van Richten’s Tower (p. 167)</span>, Arturi swiftly made his way to <span class="citation">N9. Vistani Camp (p. 119)</span>, where he sought refuge with the Vallakian Vistani. Since then, Luvash and Arrigal have concealed Arturi within <span class="citation">N9i. Vistani Treasure Wagon (p. 123)</span>, tended to his wounds, and sent covert messengers to <span class="citation">P. Luna River Crossroads (p. 40)</span> in the hopes of securing the players’ aid.
+> Last night, Arturi staged a daring escape, barely escaping with his life through the teleportation brazier in <span class="citation">K78. [[Places/Brazier Room|Brazier Room]] (p. 82)</span>. Upon his arrival at <span class="citation">Chapter 11: Van Richten’s Tower (p. 167)</span>, Arturi swiftly made his way to <span class="citation">N9. Vistani Camp (p. 119)</span>, where he sought refuge with the Vallakian Vistani. Since then, Luvash and [[NPCs/Arrigal|Arrigal]] have concealed Arturi within <span class="citation">N9i. Vistani Treasure Wagon (p. 123)</span>, tended to his wounds, and sent covert messengers to <span class="citation">P. Luna River Crossroads (p. 40)</span> in the hopes of securing the players’ aid.
 >
-> Arturi knows he can’t stay at the Vistani encampment past nightfall, knowing that his curse will inevitably lure a horde of undead to kill the innocents that dwell there. Arturi, however, fears that Strahd will soon use his *scrying* materials to track him down—and, using Arturi’s cursed connection to Van Richten, track down and capture the doctor as well. With Van Richten dead or turned, Arturi fears that there may be no way to lift his curse, leaving him hunted by undead for the remainder of his life.
+> Arturi knows he can’t stay at the [[Places/Vistani Encampment|Vistani encampment]] past nightfall, knowing that his curse will inevitably lure a horde of undead to kill the innocents that dwell there. Arturi, however, fears that Strahd will soon use his *scrying* materials to track him down—and, using Arturi’s cursed connection to Van Richten, track down and capture the doctor as well. With Van Richten dead or turned, Arturi fears that there may be no way to lift his curse, leaving him hunted by undead for the remainder of his life.
 
 > [!abstract]+ **The Players Delay**
 > If the players fail to visit Arturi by nightfall on the day they receive Alexei’s message, he flees into the Svalich Woods, hoping to spare the other Vistani the dangers of his curse. Arrigal can subsequently escort the players to Arturi’s hiding place: a small cavern beneath the roots of an oak tree.
@@ -1525,13 +1525,13 @@ Arturi is deeply grateful for the players’ presence. He can share the followin
 A player can convince Arturi to share the cause of his “ailment" or the reason for his unique interest in Dr. Van Richten by succeeding on a DC 18 Charisma (Persuasion) check, succeeding automatically if they threaten to withhold knowledge of Van Richten’s location or otherwise make a reasonable argument. If they do, Arturi can share the following additional information:
 
 * Twenty years ago, when Arturi was only seventeen, several members of his extended family amongst the Radanavich caravan invited him on a “hunting trip." Awkward, lonesome, and desperate for connection, Arturi accepted their invitation gratefully.
-* It wasn’t long, however, before Arturi learned the true nature of their hunt. His aunt, Madame Irene Radanavich and the leader of the caravan, had recently seen her son, Radu, gravely injured in a fight with bandits on the road. When the Vistani’s treatments proved fruitless, Madame Radanavich had taken Radu to a healer in a nearby village—a doctor named Rudolph van Richten. Radu died under Van Richten’s care, and a vengeful and grieving Madame Radanavich sought to visit this pain upon Van Richten in turn.
-* Arturi felt bewildered and afraid—but each time he thought to open his mouth, he imagined the insults and jeers of his cousins or “Auntie Irene’s" smoldering glare. And so, Arturi watched silently as his family kidnapped Van Richten’s fourteen-year-old son, Erasmus, spirited him away to a darkened keep, and sold him to the vampire lord Baron Metus. The Radanaviches then fled through the Mists, to Barovia, hoping to escape the reach of Van Richten and Metus alike. In doing so, they parted ways with the d’Avenirs—a Vistani husband and wife who had accompanied the Radanaviches with their young daughter, Ezmerelda. (Arturi doesn’t know what became of the Radanaviches, nor does he recognize Ezmerelda unless reintroduced.)
-* Three years later, Van Richten returned, grim-faced and surrounded by a swarm of ravenous undead. He declared that his son Erasmus had died—transformed by Baron Metus into a vampire spawn and killed by Van Richten’s own hand. Torn by fury and grief, Van Richten released the undead horde upon the Radanavich caravan, howling, “Undead take you as you have taken my son!"
+* It wasn’t long, however, before Arturi learned the true nature of their hunt. His aunt, [[NPCs/Madame Irene Radanavich|Madame Irene Radanavich]] and the leader of the caravan, had recently seen her son, Radu, gravely injured in a fight with bandits on the road. When the Vistani’s treatments proved fruitless, Madame Radanavich had taken Radu to a healer in a nearby village—a doctor named Rudolph van Richten. Radu died under Van Richten’s care, and a vengeful and grieving Madame Radanavich sought to visit this pain upon Van Richten in turn.
+* Arturi felt bewildered and afraid—but each time he thought to open his mouth, he imagined the insults and jeers of his cousins or “Auntie Irene’s" smoldering glare. And so, Arturi watched silently as his family kidnapped Van Richten’s fourteen-year-old son, [[NPCs/Erasmus van Richten|Erasmus]], spirited him away to a darkened keep, and sold him to the vampire lord Baron Metus. The Radanaviches then fled through the Mists, to Barovia, hoping to escape the reach of Van Richten and Metus alike. In doing so, they parted ways with the d’Avenirs—a Vistani husband and wife who had accompanied the Radanaviches with their young daughter, Ezmerelda. (Arturi doesn’t know what became of the Radanaviches, nor does he recognize Ezmerelda unless reintroduced.)
+* Three years later, Van Richten returned, grim-faced and surrounded by a swarm of [[Factions/Ravenous (NPC group)|ravenous]] undead. He declared that his son [[NPCs/Erasmus van Richten|Erasmus]] had died—transformed by Baron Metus into a vampire spawn and killed by Van Richten’s own hand. Torn by fury and grief, Van Richten released the undead horde upon the Radanavich caravan, howling, “Undead take you as you have taken my son!"
 * Arturi alone survived the assault, hiding himself away in his grandmother’s magical trunk. When he finally emerged, hours later, he found the encampment shattered and his family slaughtered—and Van Richten nowhere to be found.
 * Arturi soon learned, however, that Van Richten’s vengeful words had taken on a life of their own, haunting him like a curse. “Undead take you," Van Richten had promised—and so they did, pursuing Arturi wherever he went. The Vistani banished him from their camps after dusk, naming him *mortu*, or “outcast," a word that can also be more directly translated as “living dead." No village gave Arturi sanctuary, and no town’s walls would protect him; no matter where he slept, the dead would rise and find him.
 * For eighteen years, Arturi evaded his eternal pursuers, even as he desperately searched for a way to escape the clutches of his curse. Finally, three months ago, he returned to Barovia to seek the counsel of the Vistana seer Madam Eva. "The past must burn," she told him. “Find the man who forged your fetters. His final breath will set you free."
-* Arturi has ranged across Barovia several times since then in search of Van Richten. On one occasion, he even recovered a supply cache hidden in a hollow near Lake Baratok, which contained a half-written manuscript on werewolves and a small assortment of weapons. He has been unable, however, to locate the doctor himself.
+* Arturi has ranged across Barovia several times since then in search of Van Richten. On one occasion, he even recovered a supply cache hidden in a hollow near [[Places/Lake Baratok|Lake Baratok]], which contained a half-written manuscript on [[NPCs/Werewolves|werewolves]] and a small assortment of weapons. He has been unable, however, to locate the doctor himself.
 * Two days ago, Strahd kidnapped Arturi and brought him to Castle Ravenloft. Strahd appeared intrigued by the nature of Arturi’s curse, studying its magic and extracting his blood for his own experimentation. Strahd appears to believe that Arturi's curse, which binds him to Dr. Van Richten, will allow him to finally hunt Van Richten down—and so end the tale that began with Barovia’s recent rebellion. “Should that happen," Arturi says, “I fear I will never be rid of this curse—or that it shall eventually grow to consume and swallow me, leaving nothing left." He adds: “But if my curse is lifted, I shall be useless to him—and he will have no means to track Doctor Van Richten through me."
 
 Arturi believes it clear that Madam Eva’s first words —the “man who forged his fetters"—refer to Dr. Van Richten. He isn’t sure how to interpret “His final breath will set you free," but—although he conceals this from the players—grimly believes that he may need to personally kill Van Richten to free himself of his curse.
@@ -1551,7 +1551,7 @@ Arturi asks the players to take him to Van Richten, believing that they, followi
 >
 > “I know that Dr. Van Richten has suffered great tragedies in his life," Ezmerelda says soberly, "but there must be some explanation for what became of the Radanaviches. Perhaps Van Richten suffered some curse or enchantment, or was controlled by a demon. Perhaps his presence was simply an illusion, and he was never there at all. Or perhaps—" (Ezmerelda abruptly falls silent, but, if pushed, reluctantly suggests that Arturi may be lying.)
 >
-> Unless she hears it from Van Richten directly, Ezmerelda won’t entertain the notion that Van Richten may have willingly murdered the Radanavich clan, and grows angry if the players press the issue.
+> Unless she hears it from Van Richten directly, Ezmerelda won’t entertain the notion that Van Richten may have willingly murdered [[Factions/Radanavich Clan|the Radanavich clan]], and grows angry if the players press the issue.
 ### The Hunter & the Hunted
 If the players reunite with Van Richten, he notes that he has heard talk of their exploits across the valley. Upon hearing Arturi’s surname, “Radanavich," read:
 
@@ -1623,17 +1623,17 @@ Ezmerelda is grateful for any counsel the players might provide.
 > * When he was twenty-eight, he was a successful doctor and husband, married to his childhood sweetheart, Ingrid. Six years later, their son, Erasmus, was born. “Erasmus was a sweet and gentle boy," Van Richten recalls, his voice ragged with memories.
 > * When Erasmus was fourteen, the Radanavich caravan, led by Madam Irene Radanavich, brought Irene’s son, Radu, to Van Richten’s medical practice. Radu was badly wounded, and Van Richten was unable to save him. 
 > * When Radovan died, Madame Radanavich kidnapped Erasmus, then sold him to the vampire Baron Metus.
-> * Rudolph tracked down and interrogated Ezmerelda's parents before departing to find his son, but was too late, losing not only Erasmus, but his wife Ingrid as well. (See <span class="citation">Ezmerelda d'Avenir (p. 231)</span> and <span class="citation">Rictavio (p. 238)</span>.) Rudolph destroyed Metus in fury, and took up a life of hunting monsters—and vengeance against the Vistani. (See <span class="citation">Journal of Rudolph van Richten (p. 254)</span>.
-> * For three years, Rudolph traveled in search of the Vistani who had wronged him. Having learned the Radanaviches' location from the d'Avenirs, Rudolph sought in vain for a means to traverse the Mists to Barovia. After obtaining a *mist talisman*—a platinum ring that had reportedly once belonged to a powerful wizard—from a fortuneteller, however, Rudolph followed the ring's pull to a mountain cave deep in the wilderness.
-> * The cave proved to be a portal to Barovia, leading to an underground catacomb beneath Mount Baratok built by the long-dead wizard. There, Rudolph used the wizard’s platinum ring to rouse the undead army to aid him in his quest for vengeance. When Rudolph finally came upon the Radanavich clan, he released the undead swarm upon them, declaring, "Undead take you as you have taken my son!"
-> * The leader of the Radanavich clan, the Vistana seer Madam Irene Radanavich, cursed Rudolph as she died, as described in <span class="citation">Journal of Rudolph van Richten (p. 254)</span>. His vengeance complete, Rudolph contemplated taking his own life and following his family into death—until the Vistani seer Madam Eva gave him a new mist talisman capable of leading him out of the Mists once more.
+> * Rudolph tracked down and interrogated Ezmerelda's parents before departing to find his son, but was too late, losing not only Erasmus, but his wife Ingrid as well. (See <span class="citation">Ezmerelda d'Avenir (p. 231)</span> and <span class="citation">[[NPCs/Rictavio|Rictavio]] (p. 238)</span>.) Rudolph destroyed Metus in fury, and took up a life of hunting monsters—and vengeance against the Vistani. (See <span class="citation">Journal of Rudolph van Richten (p. 254)</span>.
+> * For three years, Rudolph traveled in search of the Vistani who had wronged him. Having learned the Radanaviches' location from the d'Avenirs, Rudolph sought in vain for a means to traverse the Mists to Barovia. After obtaining a *[[Items/Mist Talisman|mist talisman]]*—a platinum ring that had reportedly once belonged to a powerful wizard—from a fortuneteller, however, Rudolph followed the ring's pull to a mountain cave deep in the wilderness.
+> * The cave proved to be a portal to Barovia, leading to an underground catacomb beneath [[Places/Mount Baratok|Mount Baratok]] built by the long-dead wizard. There, Rudolph used the wizard’s platinum ring to rouse the undead army to aid him in his quest for vengeance. When Rudolph finally came upon the Radanavich clan, he released the undead swarm upon them, declaring, "Undead take you as you have taken my son!"
+> * The leader of the Radanavich clan, the Vistana seer Madam Irene Radanavich, cursed Rudolph as she died, as described in <span class="citation">Journal of Rudolph van Richten (p. 254)</span>. His vengeance complete, Rudolph contemplated taking his own life and following his family into death—until the Vistani seer Madam Eva gave him a new [[Items/Mist Talisman|mist talisman]] capable of leading him out of the Mists once more.
 
 > [!abstract]+ **Mist Talismans**
 > If asked, Van Richten can share that a *mist talisman* is a special item from another world that, when carried, allows its carrier to traverse the Mists to the world where that item originated. (“Such an item is separate and apart from the power of the Vistani," Van Richten adds, clearing his throat, “who hold Strahd’s own blessing to come and go as they please.")
 >
 > Van Richten can further share that, according to Madam Eva, *mist talismans* function only when Strahd is dormant. “Since awakening," Van Richten says, “he has closed the borders. None can escape now without his say."
 ## T4c. The Radanavich Caravan
-Arturi and Van Richten can guide the players to the wreckage of the Radanavich caravan, which lies in a woodland clearing a mile southwest of the village of Krezk, along the banks of the Raven River. The journey from the Vistani encampment to the Radanavich caravan is seven miles long and takes two hours and twenty minutes.
+Arturi and Van Richten can guide the players to the wreckage of the Radanavich caravan, which lies in a woodland clearing a mile southwest of the [[Places/Village of Krezk|village of Krezk]], along the banks of the Raven River. The journey from the [[Places/Vistani Encampment|Vistani encampment]] to the Radanavich caravan is seven miles long and takes two hours and twenty minutes.
 
 When the players arrive, read:
 
@@ -1742,9 +1742,9 @@ A new wave of undead appears at the beginning of the third round of combat, and 
 
 * **Round 3.** Thirteen **zombies**
 * **Round 4.** Six **ghouls**
-* **Round 5.** Eight **undead wolves** (use the statistics of a **wolf**, but with a **zombie**’s resistances and immunities)
+* **Round 5.** Eight **undead [[NPCs/Wolves|wolves]]** (use the statistics of a **wolf**, but with a **zombie**’s resistances and immunities)
 * **Round 6.** Four **ghasts**
-* **Round 7.** Six **wights**
+* **Round 7.** Six **[[Factions/Wights|wights]]**
 * **Round 8.** Thirteen **zombies**
 * **Round 9.** Thirteen **zombies**
 * **Round 10.** Thirteen **zombies**
@@ -1901,7 +1901,7 @@ Van Richten is eternally grateful to the players for reuniting him and Erasmus, 
 > [!abstract]+ **Erasmus’s Unfinished Business**
 > If asked why his ghost persists, Erasmus shares that—beyond his entrapment in Barovia’s mists—he feels he cannot depart his father’s side until Van Richten has resolved his own unfinished business. “He has one more battle to fight," Erasmus says softly. “I need to be there by his side when he does."
 ## T4d. The Forest Fane
-The Forest Fane is located at the grove of the Gulthias Tree at Yester Hill. This area is largely as described in <span class="citation">Y4. Gulthias Tree (p. 198)</span>. However, replace the last two sentences of the area description with the following text:
+The Forest Fane is located at the grove of [[Items/Gulthias tree|the Gulthias Tree]] at Yester Hill. This area is largely as described in <span class="citation">Y4. Gulthias Tree (p. 198)</span>. However, replace the last two sentences of the area description with the following text:
 
 <div class="description">
 <p>A circle of craggy, jagged megaliths stands hunkered down among the undergrowth, draped with rotted vines and overgrown by large brambles and dead shrubs. Each megalith bears a carving of a different animal. The air here is thick and unseasonably warm, and a sickly, putrid smell chokes the air.</p>
@@ -1909,7 +1909,7 @@ The Forest Fane is located at the grove of the Gulthias Tree at Yester Hill. Thi
 
 A character who inspects the eight carved megaliths finds the following animals’ images carved into their stone surfaces, moving clockwise from the north: bear, owl, goat, wolf, hawk, elk, panther, and raven.
 
-If the players approach the Gulthias Tree, their presence draws the attention of four needle blights, which emerge from the undergrowth around the tree. The following round, the needle blights are joined by four additional needle blights, four vine blights, and four swarms of twig blights. If the players remain within the grove, all of the blights attack the following round.
+If the players approach the Gulthias Tree, their presence draws the attention of four [[NPCs/Needle Blight|needle blights]], which emerge from the undergrowth around the tree. The following round, the [[NPCs/Needle Blight|needle blights]] are joined by four additional needle blights, four vine blights, and four swarms of twig blights. If the players remain within the grove, all of the blights attack the following round.
 
 > [!info]+ **Fear of Sunlight**
 > The blights that guard the Gulthias Tree fear sunlight, and won’t attack if they fall into the *Sunsword*’s light. The blights die if the Gulthias Tree dies.
@@ -1961,13 +1961,13 @@ A player can claim their *boon of the Huntress* by grasping or touching it. If t
 ***Milestone.*** Reconsecrating the Forest Fane completes a story milestone. When the players claim the *boon of the Huntress*, award each player 5,500 XP.
 # T5. A Light in the Dark
 > [!info]+ **Where’s Lucian?**
-> After arresting Father Lucian at the command of Strahd’s emissary, Lady Wachter shackled and imprisoned him in <span class="citation">N4t. Cult Headquarters (p. 114)</span>, which is as described in [[Arc H - The Lost Soul#H8. The Ritual]]. (Although Strahd’s emissary would prefer to drink his blood, Lady Wachter has done her best to keep Lucian alive, insisting that she may need to show him in public to “pacify the faithful" and forestall thoughts of revolt.)
+> After arresting Father Lucian at the command of Strahd’s emissary, Lady Wachter shackled and imprisoned him in <span class="citation">N4t. [[Places/Cult Headquarters|Cult Headquarters]] (p. 114)</span>, which is as described in [[Arc H - The Lost Soul#H8. The Ritual]]. (Although Strahd’s emissary would prefer to drink his blood, Lady Wachter has done her best to keep Lucian alive, insisting that she may need to show him in public to “pacify the faithful" and forestall thoughts of revolt.)
 
 > [!info]+ **The Bats**
 > Strahd sent six **swarms of bats** to Wachterhaus to help his emissary corral Lady Wachter and instill fear into Vallaki’s people. Those bats sleep on the ceiling of the warehouse of <span class="citation">N5. Arasek Stockyard (p. 115)</span> during the day, and fill the skies over Vallaki at night.
 ## T5a. Lady Wachter’s Dilemma
 ### Arrival at Wachterhaus
-If the players visit Wachterhaus after completing [[Arc S - A Sword of Sunlight]], they are answered at the door by Haliq, Lady Wachter’s manservant. Haliq is joined by a pair of white cats from <span class="citation">N4p. Library (p. 113)</span>, who he hurriedly attempts to block from escaping through the front door. (The cats respond to Haliq and the players as described in <span class="citation">N4p. Library (p. 113)</span>.)
+If the players visit Wachterhaus after completing [[Arc S - A Sword of Sunlight]], they are answered at the door by Haliq, Lady Wachter’s manservant. Haliq is joined by a pair of white cats from <span class="citation">N4p. [[Places/Library|Library]] (p. 113)</span>, who he hurriedly attempts to block from escaping through the front door. (The cats respond to Haliq and the players as described in <span class="citation">N4p. Library (p. 113)</span>.)
 
 > [!info]+ **The Cats**
 > Strahd’s emissary has taken up residence in <span class="citation">N4p. Library (p. 113)</span>, forcing Lady Wachter to allow her eight cats free reign of Wachterhaus. As a result, much of Haliq’s time over the past few days has been dominated by preventing the cats from damaging furniture, escaping the house, or otherwise causing trouble, leaving him several scratches along his face and arms to show for it.
@@ -1991,7 +1991,7 @@ When the players first enter Wachterhaus after completing [[Arc S - A Sword of S
 </div>
 
 > [!info]+ **Lady Wachter’s Medallion**
-> Lady Wachter’s silver medallion is a holy symbol of the goddess Ezra, and is as described in <span class="citation">Ezra, God of the Mists (Van Richten's Guide to Ravenloft, p. 64)</span>.
+> Lady Wachter’s silver medallion is a holy symbol of the goddess Ezra, and is as described in <span class="citation">Ezra, God of the Mists ([[Items/Van Richten's Guide to Ravenloft|Van Richten's Guide to Ravenloft]], p. 64)</span>.
 
 Lady Wachter is deep in prayer, and doesn’t notice the players’ entry unless they speak to her, approach her, or make significant amounts of noise. If the players don’t disturb her, and if any player has a passive Wisdom (Perception) score of 13 or greater, add:
 
@@ -2012,7 +2012,7 @@ The players can calm Lady Wachter by succeeding on a DC 20 Charisma (Persuasion)
 * She was communing with Ezra, the Goddess of the Mists.
 * Two days after the “silver beacon" lit in the west, “Count von Zarovich" sent an emissary from Castle Ravenloft to “advise" Lady Wachter in her duties. That emissary, a vampire spawn, has taken up residence in <span class="citation">N4p. Library (p. 113)</span>, with their coffin placed in <span class="citation">N4q. Storage Room (p. 114)</span>. (Lady Wachter can share the emissary’s name if asked.)
 * That night, Lady Wachter’s children vanished from Wachterhaus. When Lady Wachter confronted the emissary the following morning, the emissary informed her that her children were “in a safe place"—and would remain so during her “good behavior." 
-* Lady Wachter doesn’t know where her children have gone. Although she sent Ernst Larnak to investigate their disappearance as soon as Strahd’s emissary retired to her coffin, the emissary returned Ernst’s corpse to her the following morning—accompanied by Nikolai’s severed ear—and warned her against “meddling in Ravenloft’s affairs." 
+* Lady Wachter doesn’t know where her children have gone. Although she sent [[NPCs/Ernst Larnak|Ernst Larnak]] to investigate their disappearance as soon as Strahd’s emissary retired to her coffin, the emissary returned Ernst’s corpse to her the following morning—accompanied by Nikolai’s severed ear—and warned her against “meddling in Ravenloft’s affairs." 
 * Lady Wachter knows that her children are now hostages. Accordingly, each time the emissary has provided her a new edict to issue, Lady Wachter has done so obediently, fearful that disobedience will lead to her children’s deaths—or worse. (“He has my sons," Lady Wachter says, her voice cracking as she puts her head in her hands. “He has my *daughter*.")
 
 Lady Wachter believes that no person can defeat Strahd’s forces, and believes that any attempt to defy the emissary will lead to her children’s deaths. As such, if the players suggest that she or they defy or attack the emissary, she pleads with them not to do so—threatening to obstruct them by force if need be. (“I would do *anything* for my children," she says, swallowing. “Do you think I would fear death if mine prevented theirs?")
@@ -2034,9 +2034,9 @@ The first time Lady Wachter sees the *Sunsword*, read:
 > The mists writhe beneath the radiant light—then, with barely a whisper, burn and dissipate away.
 
 > [!abstract]+ **Lady Wachter’s Faith**
-> The players can convince Lady Wachter that “Ezra" is the Dark Powers or some other malevolent entity by succeeding on a DC 20 Charisma (Persuasion) check, made with advantage if they share a tale of Varushka, the Abbot, Sergei, or Burgomaster Lazlo Ulrich, and succeeding automatically if they share tales of three or more. 
+> The players can convince Lady Wachter that “Ezra" is the Dark Powers or some other malevolent entity by succeeding on a DC 20 Charisma (Persuasion) check, made with advantage if they share a tale of [[NPCs/Varushka|Varushka]], the [[NPCs/Abbot of the Abbey of Saint Markovia|Abbot]], Sergei, or Burgomaster Lazlo Ulrich, and succeeding automatically if they share tales of three or more. 
 >
-> If she loses her faith in Ezra, Lady Wachter laughs bitterly and asks “what god she can place her faith in, if not the only one she has ever known." If the players encourage her to follow the Morninglord, Lady Wachter seeks Father Lucian’s counsel after freeing him and seeking his forgiveness, and adopts the faith of the Morninglord thereafter. If the players encourage her to follow the Ladies Three, or if they make no suggestion, Lady Wachter retrieves the *stone crest* of the Ladies Three described in [[Arc P - Ravenloft Heist#P2a. Approaching the Crossroads]], seeking faith in the “old gods" that the Vistana Stanimir spoke of.
+> If she loses her faith in Ezra, Lady Wachter laughs bitterly and asks “what god she can place her faith in, if not the only one she has ever known." If the players encourage her to follow the Morninglord, Lady Wachter seeks Father Lucian’s counsel after freeing him and seeking his forgiveness, and adopts the faith of the Morninglord thereafter. If the players encourage her to follow the Ladies Three, or if they make no suggestion, Lady Wachter retrieves the *[[Items/Stone Crest|stone crest]]* of the Ladies Three described in [[Arc P - Ravenloft Heist#P2a. Approaching the Crossroads]], seeking faith in the “old gods" that the Vistana [[NPCs/Stanimir|Stanimir]] spoke of.
 >
 > Lady Wachter’s *spirit guardians* spell subsequently takes the following forms, depending on which faith she adopts:
 >
@@ -2082,7 +2082,7 @@ When the players arrive at the warehouse, two **wights** are patrolling the ware
 The bats and vampires awaken if the bell traps ring, if combat erupts, or if the players otherwise fail to conceal their presence. If combat breaks out, two vampire spawn engage the players in the main warehouse while the third guards the Wachter children. If the players successfully breach the back office, the third vampire spawn takes Stella Wachter hostage and readies an action to use its ***claws*** multiattack against her if the players attack. (The vampire intends to use Stella’s life to bargain for its own, hoping to escape through the crawl holes with Stella to safety, bringing her to the Svalich Woods before draining her blood and fleeing on foot.)
 
 > [!abstract]+ **Lady Wachter’s Stand**
-> If the vampire spawn recognize Lady Wachter with the players, they command her to “stand down, unless she wants her children’s corpses to be laid at her feet." If confident in the players’ capabilities, Lady Wachter retorts that, “since she became head of House Wachter, she has lived in one, long night, and never the future." “For most of my life," she adds, her voice steely with quiet determination, “I felt the best I could do was survive until dawn, and then do it all again. But now I have *seen* the dawn, and I know for certain—your master’s night will last no longer."
+> If the vampire spawn recognize Lady Wachter with the players, they command her to “stand down, unless she wants her children’s corpses to be laid at her feet." If confident in the players’ capabilities, Lady Wachter retorts that, “since she became head of [[Factions/House Wachter|House Wachter]], she has lived in one, long night, and never the future." “For most of my life," she adds, her voice steely with quiet determination, “I felt the best I could do was survive until dawn, and then do it all again. But now I have *seen* the dawn, and I know for certain—your master’s night will last no longer."
 
 If reunited with her children, Lady Wachter is deeply grateful to the players, and vows to repeal every edict Strahd’s emissary made her sign. “Vallaki is forever in your debt," she says, bowing deeply before them.
 ## T5d. The Mountain Fane
@@ -2092,7 +2092,7 @@ As the players approach <span class="citation">The Megaliths (p. 128)</span>, re
 <p>A circle of tall, slender megaliths stands shrouded amidst thick clouds of fog at the forest's edge below, with only the stones’ jagged tops visible as they poke through the mist.</p>
 </div>
 
-The area within the cloud of fog is heavily obscured. If the players enter the fog, their presence draws the attention of four **vampiric mists** (<span class="citation">Mordenkainen Presents: Monsters of the Multiverse, p. 250</span>). The mists swirl about the players lazily for three rounds, after which one mist attempts to use a single life drain attack on the nearest player, like a shark inquisitively nipping its prey. If the players remain within the fog, all of the vampiric mists attack the following round.
+The area within the cloud of fog is heavily obscured. If the players enter the fog, their presence draws the attention of four **vampiric mists** (<span class="citation">[[NPCs/Mordenkainen|Mordenkainen]] Presents: Monsters of the Multiverse, p. 250</span>). The mists swirl about the players lazily for three rounds, after which one mist attempts to use a single life drain attack on the nearest player, like a shark inquisitively nipping its prey. If the players remain within the fog, all of the vampiric mists attack the following round.
 
 > [!info]+ **Fear of Sunlight**
 > The **vampiric mists** that haunt the Mountain Fane fear sunlight, and flee permanently into the Ethereal Plane if they fall into the *Sunsword*’s light.
@@ -2172,7 +2172,7 @@ Rahadin has little interest in conversation, and attacks the players in self-def
 <p><strong><em>Screams of the Dead.</em></strong> Any creature within 20 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
 <p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
 <p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
-<p><strong><em>Amber Corruption.</em></strong> When Rahadin is reduced to 0 hit points, his spine sprouts a long, bony tail tipped with a stinger; his fingers grow long, bony claws; his wings double in size; his mouth becomes a fanged maw; and his flesh becomes translucent and clouded with shadow. His statistics are then instantly replaced by those of his second form. His initiative count doesn’t change, excess damage doesn’t carry over, and he retains none of the conditions he had in his previous form.</p>
+<p><strong><em>[[Items/Amber Corruption|Amber Corruption]].</em></strong> When Rahadin is reduced to 0 hit points, his spine sprouts a long, bony tail tipped with a stinger; his fingers grow long, bony claws; his wings double in size; his mouth becomes a fanged maw; and his flesh becomes translucent and clouded with shadow. His statistics are then instantly replaced by those of his second form. His initiative count doesn’t change, excess damage doesn’t carry over, and he retains none of the conditions he had in his previous form.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Rahadin makes three attacks with his scimitars <strong><em>Thorn</em></strong> and/or <strong><em>Chain</em></strong>. He can replace one attack with his <strong><em>haunt</em></strong> feature.
 <p><strong><em>Thorn.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage plus 7 (2d6) necrotic damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or bleed for the next 1 minute. (A bleeding target must succeed on a DC 19 Constitution saving throw at the start of each of its turns or take an additional 1d6 slashing damage. On a success or upon receiving magical healing, the target is no longer bleeding.)
@@ -2240,7 +2240,7 @@ Rahadin has little interest in conversation, and attacks the players in self-def
 <p><strong><em>Necrotic Slam.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 13 (2d8 + 4) bludgeoning damage plus 9 (2d8) necrotic damage. If the target is a creature, its hit point maximum decreases by an amount equal to the necrotic damage taken. The reduction lasts until the target finishes a long rest.</p>
 <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 13 (2d8 + 4) slashing damage.</p>
 <h3>Bonus Actions</h3>
-<p><strong><em>Shrieking Resonance.</em></strong> Rahadin’s screams of the dead release a shriek that resonates with all <em>amber shards</em> in a sixty-foot radius. Each creature in that area carrying an <em>amber shard</em> must succeed on a DC 18 Constitution saving throw or be dazed until the start of Rahadin’s next turn. (A dazed creature can move or take one action on its turn, not both. It also can't take a bonus action or a reaction.) If a creature’s saving throw fails by 10 or more, it’s stunned until the start of Rahadin’s next turn instead.</p>
+<p><strong><em>Shrieking Resonance.</em></strong> Rahadin’s screams of the dead release a shriek that resonates with all <em>[[Items/Amber Shards|amber shards]]</em> in a sixty-foot radius. Each creature in that area carrying an <em>[[Items/Amber Shard|amber shard]]</em> must succeed on a DC 18 Constitution saving throw or be dazed until the start of Rahadin’s next turn. (A dazed creature can move or take one action on its turn, not both. It also can't take a bonus action or a reaction.) If a creature’s saving throw fails by 10 or more, it’s stunned until the start of Rahadin’s next turn instead.</p>
 <p><strong><em>Corrupted Command.</em></strong> Each creature Rahadin has damaged this turn must succeed on a DC 18 Charisma saving throw or suffer the effects of a <em>crown of madness</em> spell until the start of Rahadin’s next turn. While a creature is charmed in this way, Rahadin can cause it to move up to half its speed before attacking.</p>
 <p><strong><em>Finger of Death (1/day)</em></strong> Rahadin casts <em>finger of death</em>.
 <h3>Reactions</h3>
@@ -2256,7 +2256,7 @@ If Lady Wachter buries the Seeker’s sage-green gem within the circle after def
 <p>A pale green light glimmers within the fog, then deepens. The earth itself seems to thrum beneath your feet, even as a sliver of green light stretches across the circle from one side to the other.</p>
 <p>Slowly, trembling, the sliver begins to widen along its narrowest axis, spiralling patterns filling the space between its ends. It’s an eye—a Titan’s eye, widening and searing with unbridled power.</p>
 <p>The mists dance and swirl as the eye reaches its widest point. From its edges bursts a pillar of viridian luminescence, shimmering with light and stretching into the heavens.</p>
-<p>Beneath its light, you can see the roots of the mountains—of Mount Ghakis to the South and Mount Baratok to the north—entwining leagues beneath the soil, choked with darkness and ichor. You can feel the dark, hateful thing constricting them: an ash-grey root forged of corruption and baleful pride, now writhing beneath the light of the eye and bleeding black, poisonous ichor as it dies.</p>
+<p>Beneath its light, you can see the roots of the mountains—of [[Places/Mount Ghakis|Mount Ghakis]] to the South and [[Places/Mount Baratok|Mount Baratok]] to the north—entwining leagues beneath the soil, choked with darkness and ichor. You can feel the dark, hateful thing constricting them: an ash-grey root forged of corruption and baleful pride, now writhing beneath the light of the eye and bleeding black, poisonous ichor as it dies.</p>
 <p>The root runs through the earth for miles and miles—until it reaches a mighty fortress of black stone, of tower spires that pierce the stormy sky, and a pair of familiar burning crimson eyes that bore into your soul. And then—the eye blinks, and the root is severed from the mountains. A distant cry of rage and fury echoes in your ears, and the roots of the mountain breathe like a living thing, the miasma within their veins burning away beneath the eye’s unblinking gaze.</p>
 <p>Overhead, the sky crackles with thunder, and a clean, cool rain begins to fall upon the hilltop. As the fog melts away, small, colorful stems and petals push from the ash-grey muck: wildflowers, colored purple and yellow and blue and red, taking their first breaths from between the cracks of the ancient stone circle. For a moment, in the sky far above, the clouds pull back like a veil, the rain pausing as a sky of purest blue gazes down at the hilltop below.</p>
 <p>With a thunderclap, the rain stops, and the grey sky returns. But the air is cool and clean, and a gentle breeze whispers across the hilltop. The standing stones glint with an ethereal, mineral shine, and a sense of warmth and peace pervades the circle. At its center, a small sapling grows, its thin branches swaying in the wind.</p>

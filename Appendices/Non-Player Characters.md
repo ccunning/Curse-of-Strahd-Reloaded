@@ -16,7 +16,7 @@
 
 ***Morale.*** In a fight, Rose would plead for peace, but flee with Thorn if that proved impossible.
 
-***Relationships.*** Rose is Thorn Durst's older sister, Walter Durst's half-sibling, and the eldest child of Elisabeth and Gustav Durst.
+***Relationships.*** Rose is Thorn Durst's older sister, Walter Durst's half-sibling, and the eldest child of Elisabeth and [[NPCs/Gustav Durst|Gustav Durst]].
 ### Thornboldt "Thorn" Durst
 **Roleplaying Information**
 ***Resonance.*** Thorn should inspire sympathy for his shyness and fear, and endearment for his childlike joy.
@@ -32,15 +32,15 @@
 
 ***Morale.*** In a fight, Thorn would cower and cry, pleading for Rose to rescue him.
 
-***Relationships.*** Thorn is Rose Durst's younger brother, Walter Durst's half-sibling, and the youngest child of Elisabeth and Gustav Durst.
+***Relationships.*** Thorn is Rose Durst's younger brother, Walter Durst's half-sibling, and the youngest child of Elisabeth and [[NPCs/Gustav Durst|Gustav Durst]].
 # Village of Barovia
 ### Ismark Kolyanovich
 **Roleplaying Information**
-***Resonance.*** Ismark should inspire flattery with his genuine interest and empathy for the players, sympathy for his guilt and desperation, endearment for his anxiety to step beyond his ancestor's shadow, and gratitude for his friendliness and aid.
+***Resonance.*** [[NPCs/Ismark Kolyanovich|Ismark]] should inspire flattery with his genuine interest and empathy for the players, sympathy for his guilt and desperation, endearment for his anxiety to step beyond his ancestor's [[NPCs/Shadow|shadow]], and gratitude for his friendliness and aid.
 
-***Emotions.*** Ismark most often feels concerned, guilty, friendly, melancholy, defiant, hopeful, desperate, and grateful.
+***Emotions.*** [[NPCs/Ismark Kolyanovich|Ismark]] most often feels concerned, guilty, friendly, melancholy, defiant, hopeful, desperate, and grateful.
 
-***Motivations.*** Ismark wants to keep his village and Ireena safe, keep his father's memory alive, and one day match his ancestor's legacy.
+***Motivations.*** Ismark wants to keep his village and [[NPCs/Ireena Kolyana|Ireena]] safe, keep his father's memory alive, and one day match his ancestor's legacy.
 
 ***Inspirations.*** When playing Ismark, channel Jon Snow (*Game of Thrones*), Faramir (*Lord of the Rings*), and Trevor Belmont (*Castlevania*).
 
@@ -49,10 +49,10 @@
 
 ***Morale.*** In a fight, Ismark would first seek to mediate the parties' conflict, but would gladly draw his sword—and even fight to the death—if he believed that he was fighting for something or someone worth protecting.
 
-***Relationships.*** Ismark is the adoptive brother of Ireena Kolyana, and the great-grandson of Ismark the Great.
+***Relationships.*** Ismark is the adoptive brother of [[NPCs/Ireena Kolyana|Ireena Kolyana]], and the great-grandson of [[NPCs/Ismark Antonovich|Ismark the Great]].
 ### Ireena Kolyana
 **Roleplaying Information**
-***Resonance.*** Ireena should inspire flattery with her genuine interest in the players' goals and interests, sympathy for her sense of guilt and fear of Strahd, endearment for her determination to continue moving forward, and gratitude for her efforts to help the players succeed.
+***Resonance.*** Ireena should inspire flattery with her genuine interest in the players' goals and interests, sympathy for her sense of guilt and fear of [[NPCs/Strahd von Zarovich|Strahd]], endearment for her determination to continue moving forward, and gratitude for her efforts to help the players succeed.
 
 ***Emotions.*** Ireena most often feels curious, thoughtful, melancholy, guilty, stubborn, joyful, determined, defiant, and anxious.
 
@@ -61,16 +61,16 @@
 ***Inspirations.*** When playing Ireena, channel Belle (Beauty and the Beast), Elizabeth Swann (Pirates of the Caribbean), Eowyn (Lord of the Rings), Hermione Granger (Harry Potter), and Katniss Everdeen (The Hunger Games).
 
 **Character Information**
-***Persona.*** To the world, Ireena is a compassionate, curious, yet stubborn young noblewoman. To those she trusts, Ireena is an anxious, yet determined young woman who dreams of freedom and adventure. Deep down, Ireena wonders whether giving herself up to Strahd would be the best way to protect those she loves.
+***Persona.*** To the world, Ireena is a compassionate, curious, yet stubborn young noblewoman. To those she trusts, Ireena is an anxious, yet determined young woman who dreams of freedom and adventure. Deep down, Ireena wonders whether giving herself up to [[NPCs/Strahd von Zarovich|Strahd]] would be the best way to protect those she loves.
 
 ***Morale.*** In a fight, Ireena will always turn to words before a sword. If necessary to defend herself, though, she'll draw her rapier—reluctantly, if protecting herself, and proudly, if protecting another.
 
-***Relationships.*** Ireena is the (knowing) adopted sister of Ismark Kolyanovich, the (unknowing) sister of Izek Strazni, and the (unknowing) reincarnation of Tatyana Federovna.
+***Relationships.*** Ireena is the (knowing) adopted sister of Ismark Kolyanovich, the (unknowing) sister of [[NPCs/Izek Strazni|Izek Strazni]], and the (unknowing) reincarnation of [[NPCs/Tatyana Federovna|Tatyana Federovna]].
 ### Parriwimple
 **Roleplaying Information**
-***Resonance.*** Parriwimple should inspire sympathy for the loss of his parents, endearment for his childlike mannerisms and optimistic perseverance, and flattery for his fascination with the players’ exotic weapons and clothes.
+***Resonance.*** [[NPCs/Parriwimple|Parriwimple]] should inspire sympathy for the loss of his parents, endearment for his childlike mannerisms and optimistic perseverance, and flattery for his fascination with the players’ exotic weapons and clothes.
 
-***Emotions.*** Parriwimple most often feels curiosity, hope, wonder, melancholy, and confusion.
+***Emotions.*** [[NPCs/Parriwimple|Parriwimple]] most often feels curiosity, hope, wonder, melancholy, and confusion.
 
 ***Motivations.*** Parriwimple wants to help his friends and neighbors, take care of his Uncle Bildrath, and honor his late parents’ memories.
 
@@ -84,9 +84,9 @@
 ***Relationships.*** Parriwimple is an orphan and the nephew of the general-store owner Bildrath Cantemir.
 ### Father Donavich
 **Roleplaying Information**
-***Resonance.*** Donavich should inspire sympathy for his sorrow and fears, pity for his separation from the Morninglord, endearment for his kindness and hospitality, and discomfort for his zealous condemnation of Doru’s undead nature.
+***Resonance.*** [[NPCs/Father Donavich|Donavich]] should inspire sympathy for his sorrow and fears, pity for his separation from the Morninglord, endearment for his kindness and hospitality, and discomfort for his zealous condemnation of [[NPCs/Doru|Doru]]’s undead nature.
 
-***Emotions.*** In his current state, Donavich most often feels grief, guilt, exhaustion, compassion, and obsession. If reconciled with Doru, he most often feels hope, relief, gratitude, confusion, fear, and shame.
+***Emotions.*** In his current state, [[NPCs/Father Donavich|Donavich]] most often feels grief, guilt, exhaustion, compassion, and obsession. If reconciled with [[NPCs/Doru|Doru]], he most often feels hope, relief, gratitude, confusion, fear, and shame.
 
 ***Motivations.*** Father Donavich wants to free his son from Strahd’s clutches—at any cost.
 
@@ -97,46 +97,46 @@
 
 ***Morale.*** In a fight, Father Donavich would ordinarily fight to defend his people and church. In his current state, however, he would immediately surrender, too wracked with guilt to even defend his own life.
 
-***Relationships.*** Father Donavich is Doru’s father and the priest of the Barovian church.
+***Relationships.*** Father Donavich is Doru’s father and the priest of the [[Places/Barovian Church|Barovian church]].
 ### Doru
 **Roleplaying Information**
-***Resonance.*** Doru should inspire sympathy for his struggles against his vampiric nature, mild discomfort with his occasionally inhuman mannerisms, and endearment for his clear dedication to his father and Gertruda.
+***Resonance.*** Doru should inspire sympathy for his struggles against his vampiric nature, mild discomfort with his occasionally inhuman mannerisms, and endearment for his clear dedication to his father and [[NPCs/Gertruda|Gertruda]].
 
 ***Emotions.*** Doru most often feels grief, guilt, shame, desperation, resignation, and hope.
 
-***Motivations.*** Doru wants to reconcile with his father and ensure Gertruda's safety.
+***Motivations.*** Doru wants to reconcile with his father and ensure [[NPCs/Gertruda|Gertruda]]'s safety.
 
 ***Inspirations.*** When playing Doru, channel Theon Grejoy (Game of Thrones), Zuko (Avatar: The Last Airbender), Jesse Pinkman (Breaking Bad), and Steve Harrington (Stranger Things).
 
 **Character Information**
-***Persona.*** To the world, Doru is a monstrous, bloodthirsty vampire spawn. To those he trusts, Doru is a broken, guilty man who is desperate to avoid hurting those he loves.
+***Persona.*** To the world, Doru is a monstrous, bloodthirsty [[Factions/Vampire Spawn|vampire spawn]]. To those he trusts, Doru is a broken, guilty man who is desperate to avoid hurting those he loves.
 
 ***Morale.*** In a fight, Doru would seek to flee to avoid hurting anyone—but if his father or Gertruda were endangered, he would fight savagely to protect them.
 
-***Relationships.*** Doru is Father Donavich's son, Escher's former friend, and Gertruda's betrothed.
+***Relationships.*** Doru is Father Donavich's son, [[NPCs/Escher|Escher]]'s former friend, and Gertruda's betrothed.
 # Tser Pool Encampment
 #### Madam Eva
 **Roleplaying Information**
-***Resonance.*** Madam Eva should inspire discomfort with her intimate knowledge of the players’ pasts, gratitude for her dedication to the players’ journey, and reassurance with her confident predictions.
+***Resonance.*** [[NPCs/Madam Eva|Madam Eva]] should inspire discomfort with her intimate knowledge of the players’ pasts, gratitude for her dedication to the players’ journey, and reassurance with her confident predictions.
 
-***Emotions.*** Madam Eva's most frequent emotions are amusement, solemnity, concern, and contemplation.
+***Emotions.*** [[NPCs/Madam Eva|Madam Eva]]'s most frequent emotions are amusement, solemnity, concern, and contemplation.
 
-***Motivations.*** Madam Eva wants to see the land of Barovia healed and freed from Strahd's corruption.
+***Motivations.*** Madam Eva wants to see the land of [[Places/Barovia|Barovia]] healed and freed from Strahd's corruption.
 
 ***Inspirations.*** When playing Madam Eva, channel The Ancient One (Doctor Strange) and the Fates (Hercules).
 
 **Character Information**
 ***Persona.*** To the world, Madam Eva appears as a wise, yet maddened crone who speaks in prophecies and riddles. To those she trusts, she appears as a kind, yet frustratingly opaque and stubborn old woman.
 
-***Morale.*** In a fight, Madam Eva would calmly insist that her opponent cease their attacks, then—if her Vistani aides prove unable to stop her assailant—weaken them with the harm spell before demanding their surrender.
+***Morale.*** In a fight, Madam Eva would calmly insist that her opponent cease their attacks, then—if her [[Factions/Vistani|Vistani]] aides prove unable to stop her assailant—weaken them with the harm spell before demanding their surrender.
 
-***Relationships.*** Madam Eva alone knows that she is an avatar of the Seeker.
+***Relationships.*** Madam Eva alone knows that she is an avatar of the [[NPCs/Seeker|Seeker]].
 # Castle Ravenloft
 ## Volenta Popofsky
 **Roleplaying Information**
-***Resonance.*** Volenta should inspire revulsion with her obsession with pain and gore, discomfort with her sadistic and psychotic personality, and a strange sort of flattery with her flirtatious—if eccentric—attitude.
+***Resonance.*** [[NPCs/Volenta|Volenta]] should inspire revulsion with her obsession with pain and gore, discomfort with her sadistic and psychotic personality, and a strange sort of flattery with her flirtatious—if eccentric—attitude.
 
-***Emotions.*** Volenta most often feels amused, curious, irritated, bored, fascinated, enraged, and gleeful.
+***Emotions.*** [[NPCs/Volenta|Volenta]] most often feels amused, curious, irritated, bored, fascinated, enraged, and gleeful.
 
 ***Motivations.*** Volenta wants to impress Strahd and earn her place as foremost among his brides, to satisfy her frequent sadistic urges, and to find novel ways to cause suffering and pain through tinkering and innovation.
 
@@ -148,7 +148,7 @@
 
 ***Morale.*** In a fight, Volenta would gleefully relish the opportunity to test her custom-made weapons on hostile subjects—and, when pushed far enough, to tear those subjects apart with her bare hands and teeth.
 
-***Relationships.*** Volenta is fanatically loyal to Strahd von Zarovich, and views his other brides and consorts—especially Anastrasya, Ludmilla, and Escher—with deep resentment, jealousy, and suspicion.
+***Relationships.*** Volenta is fanatically loyal to Strahd von Zarovich, and views his other brides and consorts—especially [[NPCs/Anastrasya Karelova|Anastrasya]], [[NPCs/Ludmilla|Ludmilla]], and [[NPCs/Escher|Escher]]—with deep resentment, jealousy, and suspicion.
 #### First Encounter
 
 <div class="statblock">
@@ -396,11 +396,11 @@
 
 ## Ludmilla Vilisevic
 **Roleplaying Information**
-***Resonance.*** Ludmilla should inspire irritation with her refusal to let the players provoke her (and her evident inability to feel anger), discomfort with her detached and analytical personality, and anger for her condescension and intricate insults.
+***Resonance.*** [[NPCs/Ludmilla|Ludmilla]] should inspire irritation with her refusal to let the players provoke her (and her evident inability to feel anger), discomfort with her detached and analytical personality, and anger for her condescension and intricate insults.
 
 ***Emotions.*** Ludmilla most often feels intrigued, annoyed, thoughtful, or (mildly) amused.
 
-***Motivations.*** Ludmilla wants to conquer the secrets of magic and impress Strahd sufficiently to become his arcane advisor, as Khazan once was.
+***Motivations.*** Ludmilla wants to conquer the secrets of magic and impress Strahd sufficiently to become his arcane advisor, as [[NPCs/Khazan|Khazan]] once was.
 
 ***Inspirations.*** When playing Ludmilla, channel Severus Snape (*Harry Potter*), Sherlock Holmes (*Sherlock*), and Dr. Gregory House (*House*).
 
@@ -409,7 +409,7 @@
 
 ***Morale.*** In a fight, Ludmilla would seek to lure her opponent into a pre-prepared trap, fleeing if outmatched and unable to meet the fight with some sort of advantage.
 
-***Relationships.*** Ludmilla is Strahd's second-eldest vampiric bride and the matron of the coven of **Barovian witches** at Castle Ravenloft.
+***Relationships.*** Ludmilla is Strahd's second-eldest vampiric bride and the matron of the coven of **[[NPCs/Barovian witches|Barovian witches]]** at [[Places/Castle Ravenloft|Castle Ravenloft]].
 
 #### First Encounter
 
@@ -607,7 +607,7 @@
 
 ## Anastrasya Karelova
 **Roleplaying Information**
-***Resonance.*** Anastrasya should inspire flattery for her compliments and charm, suspicion for her disguised efforts to probe for the players’ secrets, and disgust for her apathy toward the plight of the Barovian people.
+***Resonance.*** [[NPCs/Anastrasya Karelova|Anastrasya]] should inspire flattery for her compliments and charm, suspicion for her disguised efforts to probe for the players’ secrets, and disgust for her apathy toward the plight of the Barovian people.
 
 ***Emotions.*** Anastrasya most often feels calm, amused, satisfied, or intrigued.
 
@@ -758,9 +758,9 @@
 ***Relationships.*** Before becoming one of Strahd's consorts, Escher had a crush on Doru, his former best friend. He is now one of Strahd's consorts—though not formally wed to him—and an inferior member of Strahd's court.
 ## Sasha Ivliskova
 **Roleplaying Information**
-***Resonance.*** Sasha should make the players feel sympathetic toward her clear discomfort as one of Strahd's brides, endeared to her for her efforts to maintain her dignity in the face of dismissal and cruelty from Strahd's other brides, and mildly put off by her standoffish reluctance to allow others to get close to her.
+***Resonance.*** [[NPCs/Sasha Ivliskova|Sasha]] should make the players feel sympathetic toward her clear discomfort as one of Strahd's brides, endeared to her for her efforts to maintain her dignity in the face of dismissal and cruelty from Strahd's other brides, and mildly put off by her standoffish reluctance to allow others to get close to her.
 
-***Emotions.*** Sasha most often feels melancholy, anxious, despondent, uncomfortable, anguished, reluctant, or fearful. If treated with kindness, she might feel grateful or hopeful.
+***Emotions.*** [[NPCs/Sasha Ivliskova|Sasha]] most often feels melancholy, anxious, despondent, uncomfortable, anguished, reluctant, or fearful. If treated with kindness, she might feel grateful or hopeful.
 
 ***Motivations.*** Sasha is motivated by her desire to avoid Strahd's wrath, protect other vulnerable Barovians from falling under Strahd's thrall, and free herself from the vampiric curse of undeath.
 
@@ -790,7 +790,7 @@
 
 ***Morale.*** In a fight, Rahadin would immediately draw his weapons and softly offer his opponent an opportunity to stand down—then attack mercilessly and with every strategic advantage if denied.
 
-***Relationships.*** Rahadin is the chamberlain of Castle Ravenloft, the adopted brother of Strahd von Zarovich, the cousin of the dusk elf Kasimir Velikov, the son of the late dusk elf prince Erevan Löwenhart (the original owner of the blade that would later become the *Sunsword*), and the killer of the dusk elf women (excepting the **banshee** Patrina Velikov, who was killed by her brother Kasimir).
+***Relationships.*** Rahadin is the chamberlain of [[Places/Castle Ravenloft|Castle Ravenloft]], the adopted brother of Strahd von Zarovich, the cousin of the dusk elf [[NPCs/Kasimir Velikov|Kasimir Velikov]], the son of the late dusk elf [[NPCs/Prince Erevan Löwenhart|prince Erevan Löwenhart]] (the original owner of the blade that would later become the *[[Items/Sunsword|Sunsword]]*), and the killer of the dusk elf women (excepting the **banshee** [[NPCs/Patrina Velikovna|Patrina]] Velikov, who was killed by her brother [[NPCs/Kasimir Velikov|Kasimir]]).
 
 ### Pre-Corruption
 
@@ -915,7 +915,7 @@
 <p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
 <p><strong><em>Parry.</em></strong> Rahadin adds +5 to his Armor Class against one melee or ranged attack that would hit him or to the result of a failed Dexterity saving throw, or takes no damage from <em>magic missile</em> this turn. If he causes a melee attack to miss in this way, he can then immediately use an additional reaction, if available, to use his Riposte against the attacker.</p>
 <p><strong><em>Riposte.</em></strong> When an enemy misses Rahadin with a melee attack, he can use his reaction to move up to his speed to an unoccupied space within 5 feet of that enemy without triggering opportunity attacks. He can then immediately make an attack with <strong><em>Thorn</em></strong> or <strong><em>Chain</em></strong> attack against that enemy with advantage.</p>
-<p><strong><em>Amulet of Ravenloft (1/day, Castle Ravenloft only).</em></strong> When Rahadin is reduced to 50 hit points or fewer, he can use his reaction to end all effects currently affecting him, and use the <em>Amulet of Ravenloft</em> (see below). If he was reduced to 0 hit points, he drops to 1 hit point instead and suffers an internal injury as described in <span class="citation">Lingering Injuries (Dungeon Master's Guide, p. 272)</span>. He can then move up to his speed without triggering opportunity attacks.</p>
+<p><strong><em>[[Items/Amulet of Ravenloft|Amulet of Ravenloft]] (1/day, Castle Ravenloft only).</em></strong> When Rahadin is reduced to 50 hit points or fewer, he can use his reaction to end all effects currently affecting him, and use the <em>[[Items/Amulet of Ravenloft|Amulet of Ravenloft]]</em> (see below). If he was reduced to 0 hit points, he drops to 1 hit point instead and suffers an internal injury as described in <span class="citation">Lingering Injuries ([[Items/Dungeon Master's Guide|Dungeon Master's Guide]], p. 272)</span>. He can then move up to his speed without triggering opportunity attacks.</p>
 </div>
 
 ### Post-Corruption
@@ -963,7 +963,7 @@
 <p><strong><em>Screams of the Dead.</em></strong> Any creature within 20 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
 <p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
 <p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
-<p><strong><em>Amber Corruption.</em></strong> When Rahadin is reduced to 0 hit points, his spine sprouts a long, bony tail tipped with a stinger; his fingers grow long, bony claws; his wings double in size; his mouth becomes a fanged maw; and his flesh becomes translucent and clouded with shadow. His statistics are then instantly replaced by those of his second form. His initiative count doesn’t change, excess damage doesn’t carry over, and he retains none of the conditions he had in his previous form.</p>
+<p><strong><em>[[Items/Amber Corruption|Amber Corruption]].</em></strong> When Rahadin is reduced to 0 hit points, his spine sprouts a long, bony tail tipped with a stinger; his fingers grow long, bony claws; his wings double in size; his mouth becomes a fanged maw; and his flesh becomes translucent and clouded with [[NPCs/Shadow|shadow]]. His statistics are then instantly replaced by those of his second form. His initiative count doesn’t change, excess damage doesn’t carry over, and he retains none of the conditions he had in his previous form.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Rahadin makes three attacks with his scimitars <strong><em>Thorn</em></strong> and/or <strong><em>Chain</em></strong>. He can replace one attack with his <strong><em>haunt</em></strong> feature.
 <p><strong><em>Thorn.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage plus 7 (2d6) necrotic damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or bleed for the next 1 minute. (A bleeding target must succeed on a DC 19 Constitution saving throw at the start of each of its turns or take an additional 1d6 slashing damage. On a success or upon receiving magical healing, the target is no longer bleeding.)
@@ -1031,7 +1031,7 @@
 <p><strong><em>Necrotic Slam.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 13 (2d8 + 4) bludgeoning damage plus 9 (2d8) necrotic damage. If the target is a creature, its hit point maximum decreases by an amount equal to the necrotic damage taken. The reduction lasts until the target finishes a long rest.</p>
 <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 13 (2d8 + 4) slashing damage.</p>
 <h3>Bonus Actions</h3>
-<p><strong><em>Shrieking Resonance.</em></strong> Rahadin’s screams of the dead release a shriek that resonates with all <em>amber shards</em> in a sixty-foot radius. Each creature in that area carrying an <em>amber shard</em> must succeed on a DC 18 Constitution saving throw or be dazed until the start of Rahadin’s next turn. (A dazed creature can move or take one action on its turn, not both. It also can't take a bonus action or a reaction.) If a creature’s saving throw fails by 10 or more, it’s stunned until the start of Rahadin’s next turn instead.</p>
+<p><strong><em>Shrieking Resonance.</em></strong> Rahadin’s screams of the dead release a shriek that resonates with all <em>[[Items/Amber Shards|amber shards]]</em> in a sixty-foot radius. Each creature in that area carrying an <em>[[Items/Amber Shard|amber shard]]</em> must succeed on a DC 18 Constitution saving throw or be dazed until the start of Rahadin’s next turn. (A dazed creature can move or take one action on its turn, not both. It also can't take a bonus action or a reaction.) If a creature’s saving throw fails by 10 or more, it’s stunned until the start of Rahadin’s next turn instead.</p>
 <p><strong><em>Corrupted Command.</em></strong> Each creature Rahadin has damaged this turn must succeed on a DC 18 Charisma saving throw or suffer the effects of a <em>crown of madness</em> spell until the start of Rahadin’s next turn. While a creature is charmed in this way, Rahadin can cause it to move up to half its speed before attacking.</p>
 <p><strong><em>Finger of Death (1/day)</em></strong> Rahadin casts <em>finger of death</em>.
 <h3>Reactions</h3>
@@ -1043,9 +1043,9 @@
 
 ## Cyrus Belview
 **Roleplaying Information**
-***Resonance.*** Cyrus should inspire endearment for his sincere efforts to make himself useful despite his physical handicaps and poor memory, amusement for his grumpiness and bizarrely opinionated (and occasionally conspiratorial) rants, and discomfort with his inability to appreciate the boundaries of personal space.
+***Resonance.*** [[NPCs/Cyrus Belview|Cyrus]] should inspire endearment for his sincere efforts to make himself useful despite his physical handicaps and poor memory, amusement for his grumpiness and bizarrely opinionated (and occasionally conspiratorial) rants, and discomfort with his inability to appreciate the boundaries of personal space.
 
-***Emotions.*** Cyrus most often feels curious, intrigued, determined, agitated, impatient, or skeptical.
+***Emotions.*** [[NPCs/Cyrus Belview|Cyrus]] most often feels curious, intrigued, determined, agitated, impatient, or skeptical.
 
 ***Motivations.*** Cyrus wants to help Strahd restore Castle Ravenloft, believing that Strahd will furnish him with the knowledge required to restore his family to their original forms.
 
@@ -1063,7 +1063,7 @@
 
 ***Emotions.*** Gertruda most often feels curious, thoughtful, excited, or worried.
 
-***Motivations.*** Gertruda wants to confirm Doru’s safety and return home safely to the village of Barovia.
+***Motivations.*** Gertruda wants to confirm Doru’s safety and return home safely to [[Places/Village of Barovia|the village of Barovia]].
 
 ***Inspirations.*** When playing Gertruda, channel Belle (*Beauty and the Beast*), Aang (*Avatar: the Last Airbender*), and Steven Universe (*Steven Universe*).
 
@@ -1072,12 +1072,12 @@
 
 ***Morale.*** If attacked, or if Doru were threatened, Gertruda would immediately grab the nearest weapon and attempt to defend herself and her loved ones.
 
-***Relationships.*** Gertruda is the daughter of Mad Mary, the betrothed of Doru, and a childhood friend of Ireena Kolyana.
+***Relationships.*** Gertruda is the daughter of [[NPCs/Mad Mary|Mad Mary]], the betrothed of Doru, and a childhood friend of Ireena Kolyana.
 
 ## Varushka
 
 <div class="statblock">
-<h2>Varushka, Nightmare Maid</h2>
+<h2>[[NPCs/Varushka|Varushka]], Nightmare Maid</h2>
 <em>Medium undead, chaotic evil</em>
 <hr>
 <strong>Armor Class</strong> 13
@@ -1117,7 +1117,7 @@
 <strong>Challenge</strong> 8<br>
 <strong>Proficiency Bonus</strong> +4<br>
 <hr>
-<p><strong><em>Incorporeal Movement.</em></strong> Varushka can move through other creatures and objects as if they were difficult terrain. She takes 5 (1d10) force damage if she ends her turn inside an object.
+<p><strong><em>Incorporeal Movement.</em></strong> [[NPCs/Varushka|Varushka]] can move through other creatures and objects as if they were difficult terrain. She takes 5 (1d10) force damage if she ends her turn inside an object.
 <p><strong><em>Overwhelming Despair.</em></strong> When Varushka drops to 0 hit points, her sclera darken and a shroud of swirling mist and whispering shadows surrounds her. Her statistics are then instantly replaced by the statistics of her second form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Varushka uses <strong><em>warp flesh</em></strong> twice. She can replace one or both with <strong><em>animate minor object.</em></strong></p>
@@ -1197,23 +1197,23 @@
 
 ## Morgantha, Dream Peddler
 **Roleplaying Information**
-***Resonance.*** At the time the players meet her, Morgantha should inspire flattery and comfort with her grandmotherly charm, gratitude for her willingness to share compliments and "free samples," endearment for her complaints about the mundane trials of an old woman's life, and slight wariness of her confidence and comfort traveling alone on a dangerous road.
+***Resonance.*** At the time the players meet her, [[NPCs/Morgantha|Morgantha]] should inspire flattery and comfort with her grandmotherly charm, gratitude for her willingness to share compliments and "free samples," endearment for her complaints about the mundane trials of an old woman's life, and slight wariness of her confidence and comfort traveling alone on a dangerous road.
 
-***Emotions.*** Morgantha most often appears to feel cheerful, amused, or thoughtful.
+***Emotions.*** [[NPCs/Morgantha|Morgantha]] most often appears to feel cheerful, amused, or thoughtful.
 
  ***Motivations.*** Morgantha wants to keep her cover, keep her business operating peacefully, make strangers feel endeared to and comfortable with her, and encourage others to try her dream pastries if they appear inclined to do so.
 
  ***Inspirations.*** Granny Weatherwax (*Discworld*), Minerva McGonagall (*Harry Potter*), Dr. Kureha (*One Piece*)
  
  **Character Information**
- ***Persona.*** To the world, Morgantha is a cheerful old lady with a love for gossip and complaining. Only Morgantha and her daughters know that she is secretly the black-hearted matron of a night hag coven.
+ ***Persona.*** To the world, Morgantha is a cheerful old lady with a love for gossip and complaining. Only Morgantha and her daughters know that she is secretly the black-hearted matron of a [[NPCs/Night Hag|night hag]] coven.
 
- ***Morale.*** In a fight, Morgantha would attempt to parlay for peace, then use her ***etherealness*** ability to escape into the Ethereal Plane if doing so appears fruitless.
+ ***Morale.*** In a fight, Morgantha would attempt to parlay for peace, then use her ***etherealness*** ability to escape into the [[Places/Ethereal Plane|Ethereal Plane]] if doing so appears fruitless.
 
- ***Relationships.*** Morgantha is the mother of the **night hags** Bella and Offalia, and the dream-pastry dealer for the Barovian refugee [[Arc H - The Lost Soul#H3b. Franz’s Tent|Franz]].
+ ***Relationships.*** Morgantha is the mother of the **night hags** Bella and [[NPCs/Offalia Wormwiggle|Offalia]], and the dream-pastry dealer for the Barovian refugee [[Arc H - The Lost Soul#H3b. Franz’s Tent|Franz]].
  
 <div class="statblock">
-<h2>The Bonegrinder Coven</h2>
+<h2>[[Factions/The Bonegrinder Coven|The Bonegrinder Coven]]</h2>
 <em>Trio of three medium fiends, neutral evil</em>
 <hr>
 <strong>Armor Class</strong> 17 (natural armor)
@@ -1253,12 +1253,12 @@
 <strong>Challenge</strong> CR 14, or 12 when fought with silvered weapons<br>
 <strong>Proficiency Bonus.</strong> +5<br>
 <hr>
-<p><strong><em>Hag Coven.</em></strong> The coven includes three hags: Morgantha, Bella, and Offalia. A hag acts on her own initiative, keeps concentration and suffers conditions independently, and has her own action, bonus action, reaction, and movement. Any damage a hag takes is subtracted from the coven's hit points. (If multiple hags take damage from the same source, the coven loses hit points that many times.)</p>
+<p><strong><em>Hag Coven.</em></strong> The coven includes three hags: Morgantha, Bella, and [[NPCs/Offalia Wormwiggle|Offalia]]. A hag acts on her own initiative, keeps concentration and suffers conditions independently, and has her own action, bonus action, reaction, and movement. Any damage a hag takes is subtracted from the coven's hit points. (If multiple hags take damage from the same source, the coven loses hit points that many times.)</p>
 <p><strong><em>Close Quarters Fighter.</em></strong> The coven doesn't have disadvantage on their ranged attack rolls when within 5 feet of a hostile creature.</p>
 <p><strong><em>Magic Resistance.</em></strong> The coven has advantage on saving throws against spells and magical effects.</p>
 <p><strong><em>Spellcasting.</em></strong> The coven's spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks).
 <p><strong><em>Complex Casting.</em></strong> If a hag casts a spell on her turn using a bonus action, she can also use her action to cast a non-cantrip spell on the same turn.</p>
-<p><strong><em>Second Phase.</em></strong> If the coven is reduced to 0 hit points, its statistics are instantly replaced by those of **The Nightmare Three**. Its initiative remains the same. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form.</p>
+<p><strong><em>Second Phase.</em></strong> If the coven is reduced to 0 hit points, its statistics are instantly replaced by those of **[[NPCs/The Nightmare Three|The Nightmare Three]]**. Its initiative remains the same. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form.</p>
 <h3>Actions</h3>
 <p><strong><em>Blindness/Deafness (Bella Only).</em></strong> Bella casts <em>blindness/deafness</em>. A target takes an additional 7 (2d6) necrotic damage if it fails the saving throw, or half damage on a success.</p>
 <p><strong><em>Putrid Radiance (Bella Only).</em></strong> <em>2nd-level necromancy</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em>: Dim, greenish light bursts within a 10-foot-radius sphere centered on a point that Bella chooses within range. Each creature within that area must succeed on a DC 17 Constitution saving throw or take 2d6 radiant damage and be poisoned until the end of its next turn.</p>
@@ -1282,7 +1282,7 @@
 </div>
 
 <div class="statblock">
-<h2>The Nightmare Three</h2>
+<h2>[[NPCs/The Nightmare Three|The Nightmare Three]]</h2>
 <em>Trio of one medium fiend and two huge fiends, neutral evil</em>
 <hr>
 <strong>Armor Class</strong> 17 (natural armor)
@@ -1352,11 +1352,11 @@
 ## Blue Water Inn
 #### Urwin Martikov
 **Roleplaying Information**
-***Resonance.*** Urwin should inspire amusement with his bad puns and jokes, gratitude for his fatherly counsel and support, and comfort from his compassion and sincerity.
+***Resonance.*** [[NPCs/Urwin Martikov|Urwin]] should inspire amusement with his bad puns and jokes, gratitude for his fatherly counsel and support, and comfort from his compassion and sincerity.
 
-***Emotions.*** Urwin most often feels amused, satisfied, cheerful, thoughtful, concerned, and hopeful.
+***Emotions.*** [[NPCs/Urwin Martikov|Urwin]] most often feels amused, satisfied, cheerful, thoughtful, concerned, and hopeful.
 
-***Motivations.*** Urwin wants to raise his children well, serve guests with hospitality and skill, and see the people of Barovia freed from Strahd’s tyranny.
+***Motivations.*** Urwin wants to raise his children well, serve guests with hospitality and skill, and see the people of [[Places/Barovia|Barovia]] freed from Strahd’s tyranny.
 
 ***Inspirations.*** When playing Urwin, channel Vander (Arcane), Greg Universe (Steven Universe), and Linda Belcher (Bob's Burgers).
 
@@ -1365,7 +1365,7 @@
 
 ***Morale.*** In a fight, Urwin would immediately attempt to defuse the situation, and attempt to flee if unsuccessful—though not before escorting anyone else out of harm's way.
 
-***Relationships.*** Urwin is the father of Brom and Bray Martikov and the husband of Danika Dorakova. He is also the exiled son of Davian Martikov, and the beloved older brother of Adrian, Elvir, and Stefnia Martikov. In addition to co-owning the Blue Water Inn, Urwin is the spymaster of the Keepers of the Feather.
+***Relationships.*** Urwin is the father of Brom and Bray [[Factions/Martikov family|Martikov]] and the husband of [[NPCs/Danika Dorakova|Danika Dorakova]]. He is also the exiled son of [[NPCs/Davian Martikov|Davian Martikov]], and the beloved older brother of Adrian, Elvir, and Stefnia [[Factions/Martikov family|Martikov]]. In addition to co-owning the [[Places/Blue Water Inn|Blue Water Inn]], Urwin is the spymaster of [[Factions/Keepers of the Feather|the Keepers of the Feather]].
 
 <div class="statblock">
     <h2>Urwin Martikov</h2>
@@ -1420,7 +1420,7 @@
 
 #### Danika Dorakova
 **Roleplaying Information**
-***Resonance.*** Danika should inspire amusement with her “straight-man,” good-natured banter with Urwin, gratitude for her hospitality and motherly care, and comfort from her practical, down-to-earth nature and her fierce dedication to her family, home, and guests.
+***Resonance.*** [[NPCs/Danika Dorakova|Danika]] should inspire amusement with her “straight-man,” good-natured banter with Urwin, gratitude for her hospitality and motherly care, and comfort from her practical, down-to-earth nature and her fierce dedication to her family, home, and guests.
 
 ***Emotions.*** Danika most often feels fond, satisfied, congenial, determined, defiant, and affectionate.
 
@@ -1433,13 +1433,13 @@
 
 ***Morale.*** In a fight, Danika would swiftly attempt to de-escalate, but would fight to the death to defend her family or her guests.
 
-***Relationships.*** Danika is the mother of Brom and Bray Martikov and the wife of Urwin Martikov. In addition to co-owning the Blue Water Inn, Danika is a high-ranking member of the Keepers of the Feather.
+***Relationships.*** Danika is the mother of Brom and Bray Martikov and the wife of Urwin Martikov. In addition to co-owning the [[Places/Blue Water Inn|Blue Water Inn]], Danika is a high-ranking member of [[Factions/Keepers of the Feather|the Keepers of the Feather]].
 ### Dr. Rudolph van Richten
 #### Disguised (as Rictavio)
 **Roleplaying Information**
-***Resonance.*** Rictavio should inspire amusement for his flamboyant dress, his ringmaster’s extravagance, and his colorful manner of speech, which most often includes referring to himself in the third person.
+***Resonance.*** [[NPCs/Rictavio|Rictavio]] should inspire amusement for his flamboyant dress, his ringmaster’s extravagance, and his colorful manner of speech, which most often includes referring to himself in the third person.
 
-***Emotions.*** To onlookers, Rictavio most often appears to feel amused, delighted, or satisfied.
+***Emotions.*** To onlookers, [[NPCs/Rictavio|Rictavio]] most often appears to feel amused, delighted, or satisfied.
 
 ***Motivations.*** Rictavio wants to maintain his reputation as an amusing, though somewhat outrageous carnival ringmaster.
 
@@ -1457,16 +1457,16 @@
 
 ***Emotions.*** Van Richten most often feels suspicious, wary, thoughtful, concerned, wistful, satisfied, inquisitive, guilty, and ashamed.
 
-***Motivations.*** Van Richten wants to keep Arabelle safe, avoid Strahd's detection, assist Strahd's enemies, and redeem himself for Erasmus's death and his slaughter of the Radanaviches.
+***Motivations.*** Van Richten wants to keep [[NPCs/Arabelle|Arabelle]] safe, avoid Strahd's detection, assist Strahd's enemies, and redeem himself for [[NPCs/Erasmus van Richten|Erasmus]]'s death and his slaughter of the Radanaviches.
 
 ***Inspiration.*** When playing Van Richten, channel Alastor "Mad-Eye" Moody (*Harry Potter*), Geralt of Rivia (*The Witcher*), and Mike Ehrmantraut (*Breaking Bad*).
 
 **Character Information**
-***Persona.*** To the world, Van Richten is a merciless, battle-hardened monster hunter. To those he trusts, Van Richten is a compassionate mentor with exceedingly high standards, a hefty paranoid streak, and an occasional temper. Only Van Richten knows the depths of the guilt, shame, and self-loathing he feels for the deaths of his son and wife, and his slaughter of the Radanavich Vistani caravan.
+***Persona.*** To the world, Van Richten is a merciless, battle-hardened monster hunter. To those he trusts, Van Richten is a compassionate mentor with exceedingly high standards, a hefty paranoid streak, and an occasional temper. Only Van Richten knows the depths of the guilt, shame, and self-loathing he feels for the deaths of his son and wife, and his slaughter of the Radanavich [[Factions/Vistani|Vistani]] caravan.
 
 ***Morale.*** In a fight, Van Richten would attempt to outwit or outmaneuver his foe, retreating as necessary in order to secure the most advantageous terrain.
 
-***Relationships.*** Van Richten is the mentor of the Vistana monster hunter Ezmerelda d'Avenir, the father of the late and Ethereal Plane-bound Erasmus van Richten (whom he can neither communicate with nor perceive), the former owner of the monkey Piccolo now owned by the Vallakian toymaker Gadof Blinsky, the killer of the family of Arturi Radanavich, and the former ally of Doru's rebellion against Castle Ravenloft.
+***Relationships.*** Van Richten is the mentor of the Vistana monster hunter [[NPCs/Ezmerelda d'Avenir|Ezmerelda d'Avenir]], the father of the late and [[Places/Ethereal Plane|Ethereal Plane]]-bound [[NPCs/Erasmus van Richten|Erasmus van Richten]] (whom he can neither communicate with nor perceive), the former owner of the monkey Piccolo now owned by the Vallakian toymaker [[NPCs/Gadof Blinsky|Gadof Blinsky]], the killer of the family of [[NPCs/Arturi Radanavich|Arturi Radanavich]], and the former ally of Doru's rebellion against Castle Ravenloft.
 
 <div class="statblock">
 <h2>Rudolph Van Richten</h2>
@@ -1529,20 +1529,20 @@
 
 ### Muriel Vinshaw
 **Roleplaying Information**
-***Resonance.*** Muriel should inspire endearment with her enthusiastic, go-getter attitude, amusement with her snarky comments and cheerful sense of humor, and mild irritation with her stubbornness and occasional (though apologetic) refusals to reveal the secrets of the Keepers of the Feather.
+***Resonance.*** [[NPCs/Muriel Vinshaw|Muriel]] should inspire endearment with her enthusiastic, go-getter attitude, amusement with her snarky comments and cheerful sense of humor, and mild irritation with her stubbornness and occasional (though apologetic) refusals to reveal the secrets of the Keepers of the Feather.
 
-***Emotions.*** Muriel most often feels curious, excited, determined, triumphant, gleeful, amused, angry, or sad.
+***Emotions.*** [[NPCs/Muriel Vinshaw|Muriel]] most often feels curious, excited, determined, triumphant, gleeful, amused, angry, or sad.
 
-***Motivations.*** Muriel wants to honor Elric's life through her resistance to Strahd and make a difference in the everyday lives of Barovians in her capacity as a field agent for the Keepers of the Feather.
+***Motivations.*** Muriel wants to honor [[NPCs/Elric Martikov|Elric]]'s life through her resistance to Strahd and make a difference in the everyday lives of Barovians in her capacity as a field agent for the Keepers of the Feather.
 
 ***Inspirations.*** When playing Muriel, channel Amethyst (*Steven Universe*), Sokka (*Avatar: the Last Airbender*), and Peter Parker (*Spider-Man*).
 
 **Character Information**
-***Persona.*** To the world, Muriel is a cheerful, if occasionally scatterbrained young woman. To those she trusts, Muriel is a determined field agent for the Keepers of the Feather, with a strong sense of justice and a fierce independent streak. Deep down, Muriel is still grieving the death of her fiancé, Elric Martikov, and wonders whether she'll ever fix what his death broke inside of her.
+***Persona.*** To the world, Muriel is a cheerful, if occasionally scatterbrained young woman. To those she trusts, Muriel is a determined field agent for the Keepers of the Feather, with a strong sense of justice and a fierce independent streak. Deep down, Muriel is still grieving the death of her fiancé, [[NPCs/Elric Martikov|Elric Martikov]], and wonders whether she'll ever fix what his death broke inside of her.
 
 ***Morale.*** In a fight, Muriel would gladly pull out her shortsword or crossbow and dare her opponent to strike first, fleeing only if her regeneration were blocked or outmatched.
 
-***Relationships.*** Muriel is an agent of the Keepers of the Feather under Davian Martikov, a contact and ally of Keeper spymaster Urwin Martikov, and the once-fiancé of Davian's deceased son, Elric Martikov, who was imprisoned while assisting Doru's rebellion against Castle Ravenloft.
+***Relationships.*** Muriel is an agent of the Keepers of the Feather under [[NPCs/Davian Martikov|Davian Martikov]], a contact and ally of Keeper spymaster Urwin Martikov, and the once-fiancé of Davian's deceased son, Elric Martikov, who was imprisoned while assisting Doru's rebellion against Castle Ravenloft.
 
 
 <div class="statblock">
@@ -1601,11 +1601,11 @@
 ## St. Andral's Church
 ### Father Lucian Petrovich
 **Roleplaying Information**
-***Resonance.*** Father Petrovich should inspire gratitude with his hospitality, flattery with his willingness to listen and empathize, comfort with his warmth, serenity, and wisdom, and sympathy for his anxiety regarding the missing bones and the safety of his congregation.
+***Resonance.*** [[NPCs/Father Petrovich|Father Petrovich]] should inspire gratitude with his hospitality, flattery with his willingness to listen and empathize, comfort with his warmth, serenity, and wisdom, and sympathy for his anxiety regarding the missing bones and the safety of his congregation.
 
-***Emotions.*** Father Petrovich’s most frequent emotions are thoughtfulness, hopefulness, concern, and compassion.
+***Emotions.*** [[NPCs/Father Petrovich|Father Petrovich]]’s most frequent emotions are thoughtfulness, hopefulness, concern, and compassion.
 
-***Motivations.*** Father Petrovich wants to keep Vallaki's spirits up, to keep the church a place of sanctuary and comfort, and to raise Yeska as best as he can.
+***Motivations.*** Father Petrovich wants to keep [[Places/Vallaki|Vallaki]]'s spirits up, to keep the church a place of sanctuary and comfort, and to raise Yeska as best as he can.
 
 ***Inspirations.*** When playing Father Petrovich, channel Uncle Iroh (*Avatar: The Last Airbender*), Michael Carpenter and Father Forthill (*The Dresden Files*), and Mr. Rogers (*Mr. Rogers' Neighborhood*).
 
@@ -1614,10 +1614,10 @@
 
 ***Morale.*** In a fight, Father Petrovich would prefer to dissuade his attackers, surrendering peacefully if necessary to avoid unnecessary bloodshed. However, if an innocent life or the members of his congregation were threatened, he would fight to the death with a prayer on his lips and peace in his heart.
 
-***Relationships.*** Father Petrovich is a mentor and father figure to the orphan and altar boy Yeska, the employer of the groundskeeper Milivoj, the brother of Baroness Lydia Petrovna, and the distant descendant of Tasha Petrovna, an ancient cleric of the Morninglord whose remains are kept in the catacombs of Castle Ravenloft.
+***Relationships.*** Father Petrovich is a mentor and father figure to the orphan and altar boy Yeska, the employer of the groundskeeper [[NPCs/Milivoj|Milivoj]], the brother of [[NPCs/Baroness Lydia Petrovna|Baroness Lydia Petrovna]], and the distant descendant of Tasha Petrovna, an ancient cleric of the Morninglord whose remains are kept in the [[Places/Catacombs|catacombs]] of Castle Ravenloft.
 ### Milivoj
 **Roleplaying Information**
-***Resonance.*** Milivoj should inspire scorn with his gruff, cynical, and stubborn personality, sympathy for his frustration at his parents' addiction to dream pastries, and endearment to him for his wholehearted dedication to provide for his siblings, no matter the cost to himself.
+***Resonance.*** [[NPCs/Milivoj|Milivoj]] should inspire scorn with his gruff, cynical, and stubborn personality, sympathy for his frustration at his parents' addiction to dream pastries, and endearment to him for his wholehearted dedication to provide for his siblings, no matter the cost to himself.
 
 ***Emotions.*** Milivoj's most frequent emotions are annoyance, worry, frustration, boredom, bitterness, and cynicism, and (when with his siblings) compassion, mirth, and joy.
 
@@ -1630,7 +1630,7 @@
 
 ***Morale.*** In a fight, Milivoj would brandish his shovel in an attempt to get his attacker to back down, but would quickly surrender if seriously wounded. (If defending his siblings, however, Milivoj would fiercely and gladly fight to the death.)
 
-***Relationships.*** Milivoj is employed by Father Lucian Petrovich, secretly works for the coffin maker Henrik van der Voort, and is the eldest of nine children belonging to Oleg and Jarzinka, two dream pastry-addicted Vallakians.
+***Relationships.*** Milivoj is employed by [[NPCs/Father Lucian Petrovich|Father Lucian Petrovich]], secretly works for the coffin maker [[NPCs/Henrik|Henrik]] van der Voort, and is the eldest of nine children belonging to Oleg and Jarzinka, two dream pastry-addicted [[Factions/Vallakians|Vallakians]].
 
 ## Vallakovich Manor
 ### Baron Vargas Vallakovich
@@ -1639,16 +1639,16 @@
 
 ***Emotions.*** Vargas most often feels annoyed, offended, satisfied, outraged, impatient, or smug.
 
-***Motivations.*** Vargas wants to secure his power free from Strahd's influence and lead Vallaki to escape the Mists by forcing everyone in the town to be happy.
+***Motivations.*** Vargas wants to secure his power free from Strahd's influence and lead [[Places/Vallaki|Vallaki]] to escape the [[Places/Mists|Mists]] by forcing everyone in the town to be happy.
 
 ***Inspirations.*** When playing Vargas, channel Lord Farquaad (Shrek), Joffrey Baratheon (Game of Thrones), and Governor Ratcliffe (Pocahontas).
 
 **Character Information**
 ***Persona.*** To the world, Vargas is an entitled, narcissistic, blue-blooded noble with a bad temper, delusions of salvation, and a love for praise and adoration.
 
-***Morale.*** In a fight, Vargas would command his dogs, Claw and Fang, as well as Izek Strazni and any present guards to seize any who oppose him. If deprived of his defenders, Vargas would either attempt to flee, or—if flight were obstructed—grovel pathetically at the feet of his attacker, begging for mercy.
+***Morale.*** In a fight, Vargas would command his dogs, Claw and Fang, as well as [[NPCs/Izek Strazni|Izek Strazni]] and any present guards to seize any who oppose him. If deprived of his defenders, Vargas would either attempt to flee, or—if flight were obstructed—grovel pathetically at the feet of his attacker, begging for mercy.
 
-***Relationships.*** Vargas, the burgomaster of Vallaki, is the father of Victor Vallakovich, the husband of Baroness Lydia Petrovna, the brother-in-law of Father Lucian Petrovich, and the son of the late Baron Valentin Vallakovich. He is also the employer and adoptive "father" of Izek Strazni, his captain of the guard and chief enforcer.
+***Relationships.*** Vargas, the burgomaster of Vallaki, is the father of [[NPCs/Victor Vallakovich|Victor Vallakovich]], the husband of [[NPCs/Baroness Lydia Petrovna|Baroness Lydia Petrovna]], the brother-in-law of [[NPCs/Father Lucian Petrovich|Father Lucian Petrovich]], and the son of the late Baron Valentin Vallakovich. He is also the employer and adoptive "father" of Izek Strazni, his captain of the guard and chief enforcer.
 ### Izek Strazni
 **Roleplaying Information**
 ***Resonance.*** Izek should inspire disgust with his cruelty and indifference to human life, and discomfort with his unnerving interest in Ireena Kolyana.
@@ -1664,7 +1664,7 @@
 
 ***Morale.*** In a fight, Izek would gladly draw his silvered battleaxe and fight to the death.
 
-***Relationships.*** Izek is the adoptive "son" of Baron Vargas Vallakovich, the captain of Vallaki's town guard, a frequent customer of the toymaker Gadof Blinsky, and (unbeknownst to either of them) the biological brother of Ireena Kolyana.
+***Relationships.*** Izek is the adoptive "son" of [[NPCs/Baron Vargas Vallakovich|Baron Vargas Vallakovich]], the captain of Vallaki's town guard, a frequent customer of the toymaker [[NPCs/Gadof Blinsky|Gadof Blinsky]], and (unbeknownst to either of them) the biological brother of Ireena Kolyana.
 
 <div class="statblock">
 <h2>Izek Strazni, 1st Form</h2>
@@ -1783,7 +1783,7 @@
 </div>
 
 ### Victor Vallakovich
-Victor’s spellbook contains the _sending_ and _fear_ spells and does not contain _remove curse._
+[[NPCs/Victor Vallakovich|Victor]]’s spellbook contains the _sending_ and _fear_ spells and does not contain _remove curse._
 
 **Roleplaying Information**
 ***Resonance.*** Victor should make the players feel annoyed at his suspicion and condescension, sympathetic to his anxiety, frustration, and desperation, and endeared to his stubborn determination to see Stella healed.
@@ -1795,11 +1795,11 @@ Victor’s spellbook contains the _sending_ and _fear_ spells and does not c
 ***Inspirations.*** When playing Victor, channel Jonathan Byers (*Stranger Things*), Prince Zuko (*Avatar: The Last Airbender*), Raven (*Teen Titans*), and Perrin Aybara (*Wheel of Time*).
 
 **Character Information**
-***Persona.*** To the world, Victor is a quiet, moody, and isolated young man with an awkward manner and a total lack of social graces. To those he trusts, Victor is a devoted and compassionate friend, with a spark of brilliance and the stubbornness of a mule. Only Victor knows that he secretly fears losing Stella’s friendship—both due to the harm caused by his *teleportation circle* and due to the time she’s spent with Erasmus van Richten in the Ethereal Plane.
+***Persona.*** To the world, Victor is a quiet, moody, and isolated young man with an awkward manner and a total lack of social graces. To those he trusts, Victor is a devoted and compassionate friend, with a spark of brilliance and the stubbornness of a mule. Only Victor knows that he secretly fears losing Stella’s friendship—both due to the harm caused by his *[[Items/Teleportation Circle|teleportation circle]]* and due to the time she’s spent with Erasmus van Richten in the Ethereal Plane.
 
 ***Morale.*** In a fight, Victor would attempt to flee, but would resort to his most dangerous spells with wanton and amateurish abandon if cornered or if defending his friends or family.
 
-***Relationships.*** Victor is the only child of Baron Vargas Vallakovich and Baroness Lydia Petrovna. He is a close friend to Stella Wachter, and a friendly (though wary) acquaintance to the ghost of Erasmus van Richten. Victor despises and fears Izek Strazni, who killed Victor’s childhood cat, Murka, by kicking it across a room when it wandered into his path two years ago. (Victor has since reanimated Murka’s skeleton through the use of his *animate dead* spell.)
+***Relationships.*** Victor is the only child of [[NPCs/Baron Vargas Vallakovich|Baron Vargas Vallakovich]] and Baroness Lydia Petrovna. He is a close friend to Stella Wachter, and a friendly (though wary) acquaintance to the ghost of Erasmus van Richten. Victor despises and fears Izek Strazni, who killed Victor’s childhood cat, Murka, by kicking it across a room when it wandered into his path two years ago. (Victor has since reanimated Murka’s skeleton through the use of his *animate dead* spell.)
 
 ## Blinsky Toys
 ### Gadof Blinsky
@@ -1821,11 +1821,11 @@ Victor’s spellbook contains the _sending_ and _fear_ spells and does not c
 ## Vistani Encampment
 ### Luvash
 **Roleplaying Information**
-***Resonance.*** Luvash should make the players feel sympathetic to his grief, endeared to his dedication to his daughter, irritated with his stubbornness, and mildly uncomfortable with his hot temper.
+***Resonance.*** [[NPCs/Luvash|Luvash]] should make the players feel sympathetic to his grief, endeared to his dedication to his daughter, irritated with his stubbornness, and mildly uncomfortable with his hot temper.
 
-***Emotions.*** Luvash most often feels angered, melancholy, anxious, guilty, desperate, frustrated, joyful, content, amused, or grateful.
+***Emotions.*** [[NPCs/Luvash|Luvash]] most often feels angered, melancholy, anxious, guilty, desperate, frustrated, joyful, content, amused, or grateful.
 
-***Motivations.*** Luvash wants to ensure that his daughter, Arabelle, is safe and loved, and that the families of the Vistani encampment can thrive and prosper.
+***Motivations.*** Luvash wants to ensure that his daughter, [[NPCs/Arabelle|Arabelle]], is safe and loved, and that the families of the [[Places/Vistani Encampment|Vistani encampment]] can thrive and prosper.
 
 ***Inspirations.*** When playing Luvash, channel Boromir (*The Lord of the Rings*), Robert Baratheon (*A Game of Thrones*), Bob Parr (*The Incredibles*), and Wolverine (*X-Men*).
 
@@ -1834,7 +1834,7 @@ Victor’s spellbook contains the _sending_ and _fear_ spells and does not c
 
 ***Morale.*** In a fight, Luvash would draw his blade to protect his people without a moment’s hesitation, but would swiftly sheathe it if necessary to keep Arabelle safe.
 
-***Relationships.*** Luvash is the elder brother of Arrigal, one of Strahd’s spies. (Luvash doesn’t know that Arrigal is a spy for Strahd.) Luvash is also the father of Arabelle, whose mother was one of Madam Eva’s descendants, and—along with Arrigal—one of the two leaders of the Vistani camp outside of Vallaki.
+***Relationships.*** Luvash is the elder brother of [[NPCs/Arrigal|Arrigal]], one of Strahd’s spies. (Luvash doesn’t know that [[NPCs/Arrigal|Arrigal]] is a spy for Strahd.) Luvash is also the father of Arabelle, whose mother was one of Madam Eva’s descendants, and—along with Arrigal—one of the two leaders of the Vistani camp outside of Vallaki.
 ### Arrigal
 **Roleplaying Information**
 ***Resonance.*** Arrigal should make the players feel insulted by his slight condescension, unnerved by his intense curiosity and veneer of cheerful courtesy, and—when they learn of it—both disgusted by and sympathetic to his decision to serve Strahd.
@@ -1858,16 +1858,16 @@ Victor’s spellbook contains the _sending_ and _fear_ spells and does not c
 
 ***Emotions.*** Kasimir most often feels curious, frustrated, suspicious, excited, melancholy, nostalgic, somber, or regretful.
 
-***Motivations.*** Kasimir wants to ensure the safety of the dusk elves and resurrect his sister, Patrina, once he’s freed her of Strahd’s dark influence and seen Strahd destroyed.
+***Motivations.*** Kasimir wants to ensure the safety of the [[Factions/Dusk Elves|dusk elves]] and resurrect his sister, [[NPCs/Patrina Velikovna|Patrina]], once he’s freed her of Strahd’s dark influence and seen Strahd destroyed.
 
 ***Inspirations.*** When playing Kasimir, channel Stephen Strange (*Doctor Strange*), Sherlock Holmes (*Sherlock*), Spock (*Star Trek*), and the Twelfth Doctor (*Doctor Who*).
 
 **Character Information**
-***Persona.*** To the world, Kasimir is a quiet and withdrawn scholar, with a powerful curiosity and a fierce dedication to his people. To those he trusts, Kasimir is a lost and broken man, guilt-ridden for his role in Patrina’s death and resigned to somber despair for the dusk elves’ future. Only Kasimir knows the lengths to which he is willing to go to resurrect his sister—and the price he is willing to pay.
+***Persona.*** To the world, Kasimir is a quiet and withdrawn scholar, with a powerful curiosity and a fierce dedication to his people. To those he trusts, Kasimir is a lost and broken man, guilt-ridden for his role in Patrina’s death and resigned to somber despair for the [[Factions/Dusk Elves|dusk elves]]’ future. Only Kasimir knows the lengths to which he is willing to go to resurrect his sister—and the price he is willing to pay.
 
 ***Morale.*** In a fight, Kasimir would attempt to negotiate a peace, but would not hesitate to unleash his most powerful spells—or use his magic to escape—if a diplomatic solution proved untenable.
 
-***Relationships.*** Kasimir is the leader of the dusk elf encampment and the younger brother of the late Patrina Velikovna, a **banshee** who resides in the catacombs of Castle Ravenloft. Kasimir is also the cousin of Rahadin, Strahd’s chamberlain, and the nephew of the late dusk elf prince, Erevan Löwenhart. (Kasimir is not a direct blood relation of Erevan, who married Kasimir’s aunt, Lorelei.)
+***Relationships.*** Kasimir is the leader of the dusk elf encampment and the younger brother of the late Patrina Velikovna, a **banshee** who resides in the [[Places/Catacombs|catacombs]] of Castle Ravenloft. Kasimir is also the cousin of Rahadin, Strahd’s chamberlain, and the nephew of the late dusk elf prince, [[NPCs/Prince Erevan Löwenhart|Erevan]] Löwenhart. (Kasimir is not a direct blood relation of Erevan, who married Kasimir’s aunt, [[NPCs/Lorelei|Lorelei]].)
 ## Wachterhaus
 ### Lady Fiona Wachter
 Lady Wachter still has the statistics of a **priest**. However, she has a different list of prepared spells:
@@ -1891,12 +1891,12 @@ Lady Wachter still has the statistics of a **priest**. However, she has a diffe
 
 ***Morale.*** In a fight, Lady Wachter would attempt to negotiate or flee, seeking any means necessary to quell hostilities, up to and including outright surrender. If necessary to save her life or those of her children, however, she would fight to the death with bitter ferocity.
 
-***Relationships.*** Lady Wachter is the widow of the deceased Nikolai Wachter I, and the mother of Nikolai Wachter II, Karl Wachter, and Stella Wachter. She is the employer of the **spy** Ernst Larnak, and an outspoken critic of Baron Vargas Vallakovich.
+***Relationships.*** Lady Wachter is the widow of the deceased Nikolai Wachter I, and the mother of Nikolai Wachter II, [[NPCs/Karl Wachter|Karl Wachter]], and Stella Wachter. She is the employer of the **spy** [[NPCs/Ernst Larnak|Ernst Larnak]], and an outspoken critic of Baron Vargas Vallakovich.
 
 ### Gallows Speaker
 
 <div class="statblock">
-<h2>Speaker of the Gallows</h2>
+<h2>[[NPCs/Speaker of the Gallows|Speaker of the Gallows]]</h2>
 <em>Medium undead, neutral evil</em>
 <hr>
 <strong>Armor Class</strong> 13
@@ -1939,7 +1939,7 @@ Lady Wachter still has the statistics of a **priest**. However, she has a diffe
 <hr>
 <p><strong><em>Close Quarters Fighter.</em></strong> The gallows speaker doesn't have disadvantage on its ranged attack rolls when within 5 feet of a hostile creature.</p>
 <p><strong><em>Divination Senses.</em></strong> The gallows speaker can see 60 feet into the Ethereal Plane when it is on the Material Plane and vice versa.</p>
-<p><strong><em>Wrath of the Traitor.</em></strong> If the gallows speaker is reduced to 0 hit points, the golden wisps around it wink out, revealing five daggers with wavy blades and lacquered hilts colored red, black, and gold. All of the gallows speaker's current effects end, and its statistics are instantly replaced by those of the <strong>Ba’al Verzi Avenger</strong>. Its initiative remains the same. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form.</p>
+<p><strong><em>Wrath of the Traitor.</em></strong> If the gallows speaker is reduced to 0 hit points, the golden wisps around it wink out, revealing five daggers with wavy blades and lacquered hilts colored red, black, and gold. All of the gallows speaker's current effects end, and its statistics are instantly replaced by those of the <strong>[[Factions/Ba’al Verzi|Ba’al Verzi]] Avenger</strong>. Its initiative remains the same. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> The gallows speaker makes two attacks.</p>
 <p><strong><em>Foretelling Touch.</em></strong> <em>Melee Spell Attack:</em> +8 to hit, reach 5 ft., one creature. <em>Hit:</em> 15 (2d10 + 4) psychic damage, and the target must roll a d4 and subtract the number rolled from the next attack roll or saving throw it makes before the start of the gallows speaker's next turn.</p>
@@ -1956,7 +1956,7 @@ Lady Wachter still has the statistics of a **priest**. However, she has a diffe
 </div>
 <br>
 <div class="statblock">
-<h2>Ba’al Verzi Avenger</h2>
+<h2>[[Factions/Ba’al Verzi|Ba’al Verzi]] Avenger</h2>
 <em>Medium undead, neutral evil</em>
 <hr>
 <strong>Armor Class</strong> 13
@@ -2018,9 +2018,9 @@ Lady Wachter still has the statistics of a **priest**. However, she has a diffe
 # Village of Krezk
 ## Baron Dmitri Krezkov
 **Roleplaying Information.**
-***Resonance.*** Dmitri should inspire comfort with his quiet confidence and leadership, sympathy for his anxiety and grief following his son's disappearance, and mild annoyance for his stubbornness and habitual suspicion of outsiders.
+***Resonance.*** [[NPCs/Baron Dmitri Krezkov|Dmitri]] should inspire comfort with his quiet confidence and leadership, sympathy for his anxiety and grief following his son's disappearance, and mild annoyance for his stubbornness and habitual suspicion of outsiders.
 
-***Emotions.*** Dmitri most often feels concerned, melancholy, somber, determined, wary, stubborn, or gracious.
+***Emotions.*** [[NPCs/Baron Dmitri Krezkov|Dmitri]] most often feels concerned, melancholy, somber, determined, wary, stubborn, or gracious.
 
 ***Motivations.*** Dmitri wants to protect his village and keep his family together.
 
@@ -2031,13 +2031,13 @@ Lady Wachter still has the statistics of a **priest**. However, she has a diffe
 
 ***Morale.*** In a fight, Dmitri would act only to protect himself or his loved ones, beginning by warning his opponent to stand down, then fighting fiercely until his opponent yielded or was defeated.
 
-***Relationships.*** Dmitri, a secret **werewolf**, is the husband of Baroness Anna Krezkova, the brother of the **werewolf** cleric of Mother Night Zuleika Toranescu, the father of Kala and Ilya Krezkov, and the burgomaster of the village of Krezk.
+***Relationships.*** Dmitri, a secret **werewolf**, is the husband of [[NPCs/Anna Krezkova|Baroness Anna Krezkova]], the brother of the **werewolf** cleric of [[NPCs/Mother Night|Mother Night]] [[NPCs/Zuleika Toranescu|Zuleika Toranescu]], the father of [[NPCs/Kala Krezkova|Kala]] and [[NPCs/Ilya Krezkov|Ilya Krezkov]], and the burgomaster of the [[Places/Village of Krezk|village of Krezk]].
 
 
 # Abbey of St. Markovia
 ### Ezmerelda d'Avenir
 **Roleplaying Information**
-***Resonance.*** Ezmerelda should inspire amusement for her irreverent sense of humor, gratitude for her cool competence, endearment for her fiery spirit in the face of adversity, and sympathy for her complicated feelings regarding Dr. Rudolph van Richten.
+***Resonance.*** [[NPCs/Ezmerelda d'Avenir|Ezmerelda]] should inspire amusement for her irreverent sense of humor, gratitude for her cool competence, endearment for her fiery spirit in the face of adversity, and sympathy for her complicated feelings regarding Dr. Rudolph van Richten.
 
 ***Emotions.*** Ezmerelda most often feels determined, thoughtful, skeptical, proud, enthusiastic, angry, amused, wary, or cautious.
 
@@ -2114,20 +2114,20 @@ Lady Wachter still has the statistics of a **priest**. However, she has a diffe
 ## The Abbot
 ### Before Redemption
 **Roleplaying Information**
-***Resonance.*** The Abbot should inspire discomfort with his stoicism and routine observations regarding "mortals," disgust for his lack of respect for human life or values, anger for his supreme and unshakeable self-confidence, and gratitude for his (somewhat off-putting) friendliness and willingness to cure the players of lycanthropy without cost.
+***Resonance.*** The [[NPCs/Abbot of the Abbey of Saint Markovia|Abbot]] should inspire discomfort with his stoicism and routine observations regarding "mortals," disgust for his lack of respect for human life or values, anger for his supreme and unshakeable self-confidence, and gratitude for his (somewhat off-putting) friendliness and willingness to cure the players of lycanthropy without cost.
 
-***Emotions.*** The Abbot most often feels curious, intrigued, cold, dispassionate, or (rarely) enraged.
+***Emotions.*** The [[NPCs/Abbot of the Abbey of Saint Markovia|Abbot]] most often feels curious, intrigued, cold, dispassionate, or (rarely) enraged.
 
-***Motivations.*** The Abbot wants to lift the "curse" upon Barovia and preserve the "sanctity" of the Abbey of Saint Markovia.
+***Motivations.*** The Abbot wants to lift the "curse" upon Barovia and preserve the "sanctity" of [[Places/Abbey of Saint Markovia|the Abbey of Saint Markovia]].
 
 ***Inspirations.*** When playing the Abbot, channel Vision (*Marvel*), Data (*Star Trek*), and Dr. Manhattan (*Watchmen*).
 
 **Character Information**
-***Persona.*** To the world, the Abbot is a serene, but inhumanly dispassionate holy man and "scientist." Only the Abbot knows that he is Ithuriel: an angel of the Morninglord sent to honor the memory of Saint Markovia.
+***Persona.*** To the world, the Abbot is a serene, but inhumanly dispassionate holy man and "scientist." Only the Abbot knows that he is [[NPCs/Ithuriel|Ithuriel]]: an angel of the Morninglord sent to honor the memory of [[NPCs/Saint Markovia|Saint Markovia]].
 
 ***Morale.*** In a fight, the Abbot would reveal his divine form, then command his enemies to lay down their weapons and surrender. If they failed to do so, he would attack them mercilessly, seeking to crush any resistance until and unless they surrendered or fled.
 
-***Relationships.*** The Abbot, an angel of the Morninglord once called Ithuriel, is the master of the Abbey of Saint Markovia, including the **mongrelfolk** Otto, Zygfrek, and Clovin Belview. He is also the creator of the **flesh golem** Vasilka and the resurrector of Kala Krezkova.
+***Relationships.*** The Abbot, an angel of the Morninglord once called [[NPCs/Ithuriel|Ithuriel]], is the master of [[Places/Abbey of Saint Markovia|the Abbey of Saint Markovia]], including the **mongrelfolk** [[NPCs/Otto and Zygfrek Belview|Otto]], [[NPCs/Zygfrek|Zygfrek]], and [[NPCs/Clovin Belview|Clovin Belview]]. He is also the creator of the **[[Items/Flesh Golem|flesh golem]]** [[Items/Vasilka|Vasilka]] and the resurrector of [[NPCs/Kala Krezkova|Kala Krezkova]].
 
 
 <div class="statblock">
@@ -2267,7 +2267,7 @@ Ithuriel uses the statistics of a **pegasus**, but with the **healing touch** fe
 
 ***Emotions.*** Ithuriel most often feels thoughtful, sorrowful, cheerful, guilty, ashamed, apprehensive, defiant, bold, or serene.
 
-***Motivations.*** Ithuriel wants to repair the harm he has done to Vasilka, the Belviews, the Krezkovs, and the players, and to defend the Abbey and the village of Krezk from those who might wish them harm.
+***Motivations.*** Ithuriel wants to repair the harm he has done to [[Items/Vasilka|Vasilka]], [[Factions/The Belviews|the Belviews]], the Krezkovs, and the players, and to defend the Abbey and the [[Places/Village of Krezk|village of Krezk]] from those who might wish them harm.
 
 ***Inspirations.*** When roleplaying Ithuriel, channel Zuko (*Avatar: The Last Airbender*), Neji Hyuuga (*Naruto*), and Father Forthill (*The Dresden Files*).
 
@@ -2282,7 +2282,7 @@ Ithuriel uses the statistics of a **pegasus**, but with the **healing touch** fe
 
 ***Emotions.*** Vasilka most often feels curious, joyful, thoughtful, shy, anxious, hopeful, and dreamy.
 
-***Motivations.*** Vasilka wants to make the Abbot happy, befriend her **flesh golem** "brother," and learn as much as she can about people and the world.
+***Motivations.*** Vasilka wants to make the Abbot happy, befriend her **[[Items/Flesh Golem|flesh golem]]** "brother," and learn as much as she can about people and the world.
 
 ***Inspirations.*** When playing Vasilka, channel Newt Scamander (*Fantastic Beasts*), Hinata Hyuuga (*Naruto*), and Alice (*Alice in Wonderland*).
 
@@ -2302,23 +2302,23 @@ When roleplaying the Martikov family, keep the following information in mind:
 * **Elvir** is ten years younger than Urwin and the twin brother of the late Elric Martikov, and is generally sharp, sarcastic, and quick-tempered. He believes that Davian was wrong to scorn Urwin, and that the theft of the third enchanted gem likely wasn’t Urwin’s fault. He shares freely his position that Elric’s death was worthless, and that the whole family would be better off had he never gone to Castle Ravenloft to fight in Doru’s rebellion. Deep down, however, Elvir feels deeply betrayed that Elric would go to fight Strahd without him. Elvir should make the players feel irritated, insulted, sympathetic, and endeared to him, and most often feels frustrated, annoyed, melancholy, angry, determined, or amused.
 * **Stefania** is five years older than Urwin. She doesn’t begrudge Urwin for the theft of the third enchanted gem, but shares Davian’s position that Urwin was most likely mistaken about what he saw. She believes that Elric’s death was a tragedy, but that he was an adult member of the Keepers of the Feather and that his choice therefore deserves respect. Stefania should make the players feel comforted and grateful, and most often feels cheerful or determined.
 * **Dag**, who married into the Martikov family, takes no position on Davian’s feud with Urwin, though he shares Stefania’s position that Elric’s death was a tragedy but his choice deserves respect. He most often feels amused, thoughtful, playful, or determined, and should make the players feel grateful, amused, and endeared to him.
-* **Claudiu** doesn’t care about Davian’s feud with Urwin, and believes that Elric’s death was a clear signal that resisting Strahd is hopeless and anyone who does so is doomed to failure. He most often feels grim, bored, annoyed, frustrated, or melancholy, and should make the players feel irritated, insulted, and sympathetic to him.
-* **Martin and Viggo** don’t know about Davian’s feud with Urwin, who they have never met. They don’t understand the full nature of Elric’s revolt against Castle Ravenloft, but know enough to understand that he died there. They most often feel playful, bored, fearful, intrigued, or excited, and should make the players feel flattered, amused, and endeared to them.
+* **[[NPCs/Claudiu|Claudiu]]** doesn’t care about Davian’s feud with Urwin, and believes that Elric’s death was a clear signal that resisting Strahd is hopeless and anyone who does so is doomed to failure. He most often feels grim, bored, annoyed, frustrated, or melancholy, and should make the players feel irritated, insulted, and sympathetic to him.
+* **[[NPCs/Martin|Martin]] and Viggo** don’t know about Davian’s feud with Urwin, who they have never met. They don’t understand the full nature of Elric’s revolt against Castle Ravenloft, but know enough to understand that he died there. They most often feel playful, bored, fearful, intrigued, or excited, and should make the players feel flattered, amused, and endeared to them.
 * **Davian** is the patriarch of the Martikov family and the widower of his late wife, Mirabel Oraonova. Publicly, he avows that Elric was a fool, insubordinate, and disobedient for refusing Davian’s command to stay away from Castle Ravenloft. Deep down, Davian is shattered that the last words he spoke to his son before Elric’s death were, “*And don’t come back!*" Davian most often feels annoyed, irritated, satisfied, or grumpy, and should make the players feel insulted, grateful, and sympathetic to him.
 
 # The Werewolf Den
 ## Bianca Stoyanovich
 **Roleplaying Information**
-***Resonance.*** When the players first meet her, Bianca should inspire sympathy for her anxiety and uncertainty and endearment for her good spirits in the faith of a stressful dilemma.
+***Resonance.*** When the players first meet her, [[NPCs/Bianca Stoyanovich|Bianca]] should inspire sympathy for her anxiety and uncertainty and endearment for her good spirits in the faith of a stressful dilemma.
 
-***Emotions.*** Bianca most often feels melancholy, cheerful, amused, thoughtful, curious, desperate, or anxious.
+***Emotions.*** [[NPCs/Bianca Stoyanovich|Bianca]] most often feels melancholy, cheerful, amused, thoughtful, curious, desperate, or anxious.
 
-***Motivations.*** Bianca wants to keep Kiril safe, happy, and sane while protecting the pack and innocent Barovians from his wrath, hunger, and ambitions.
+***Motivations.*** Bianca wants to keep [[NPCs/Kiril Stoyanovich|Kiril]] safe, happy, and sane while protecting the pack and innocent Barovians from his wrath, hunger, and ambitions.
 
 ***Inspirations.*** When playing Bianca, channel Yennefer of Vengerberg (*The Witcher*), Rogue (*X-Men*), and Princess Amidala (*Star Wars*).
 
 **Character Information**
-***Persona.*** To the world, Bianca is an excitable, albeit surprisingly refined woman. To those she trusts, Bianca is anxious and desperate to bring Kiril back from the brink of madness. Deep down, Bianca wonders if she regrets joining Kiril as a **werewolf**.
+***Persona.*** To the world, Bianca is an excitable, albeit surprisingly refined woman. To those she trusts, Bianca is anxious and desperate to bring [[NPCs/Kiril Stoyanovich|Kiril]] back from the brink of madness. Deep down, Bianca wonders if she regrets joining Kiril as a **werewolf**.
 
 ***Morale.*** In a fight, Bianca would attempt to negotiate or flee, but fight savagely if cornered.
 
@@ -2449,7 +2449,7 @@ When roleplaying the Martikov family, keep the following information in mind:
 ## Zorya
 
 <div class="statblock">
-<h2>Zorya, Pseudodragon Spirit</h2>
+<h2>[[NPCs/Zorya, Pseudodragon Spirit|Zorya, Pseudodragon Spirit]]</h2>
 <em>Tiny Undead, Neutral Good</em>
 <hr>
 <strong>Armor Class</strong> 13
@@ -2501,24 +2501,24 @@ When roleplaying the Martikov family, keep the following information in mind:
 </div>
 
 ## Brother Marek
-In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial cheer has wizened to a dry, sarcastic cynicism, and he views the Order’s fates as damnation for their failures. However, he is not without compassion, and truly wishes the players nothing but the best—so long as they abandon their foolish efforts to stir up the spirits of Argynvostholt. Brother Marek’s spirit should make the players feel irritated, insulted, and sympathetic, and most often feels melancholy, annoyed, skeptical, bitter, resigned, bemused, or disapproving.
+In death, [[NPCs/Brother Marek|Brother Marek]] is a cold, apathetic shell of a man. His once-jovial cheer has wizened to a dry, sarcastic cynicism, and he views the Order’s fates as damnation for their failures. However, he is not without compassion, and truly wishes the players nothing but the best—so long as they abandon their foolish efforts to stir up the spirits of [[Places/Argynvostholt|Argynvostholt]]. [[NPCs/Brother Marek|Brother Marek]]’s spirit should make the players feel irritated, insulted, and sympathetic, and most often feels melancholy, annoyed, skeptical, bitter, resigned, bemused, or disapproving.
 
 ## Sir Godfrey Gwilym
 **Roleplaying Information**
-***Resonance.*** Godfrey should inspire pity over his imprisonment, and sympathy for his desire to redeem Vladimir.
+***Resonance.*** [[NPCs/Sir Godfrey Gwilym|Godfrey]] should inspire pity over his imprisonment, and sympathy for his desire to redeem Vladimir.
 
-***Emotions.*** Godfrey most often feels sadness and remorse for what has befallen Vladimir, hope that someone will arrive to restore Argynvost's power, and distrust for those who seek the Amber Temple.
+***Emotions.*** [[NPCs/Sir Godfrey Gwilym|Godfrey]] most often feels sadness and remorse for what has befallen Vladimir, hope that someone will arrive to restore [[NPCs/Argynvost|Argynvost]]'s power, and distrust for those who seek [[Places/Amber Temple|the Amber Temple]].
 
-***Motivations.*** Godfrey wants to meet heroes who will seek out the whispers of Argynvost's spirit.
+***Motivations.*** Godfrey wants to meet heroes who will seek out the whispers of [[NPCs/Argynvost|Argynvost]]'s spirit.
 
 ***Inspirations.*** When playing Godfrey, channel Theoden (*The Lord of the Rings*), Aragorn (*The Lord of the Rings*), and Ned Stark (*A Game of Thrones*).
 
 **Character Information**
-***Persona.*** To the world, Godfrey is a tortured revenant bound by his oath to Vladimir. To those he trusts, he is a faithful husband who believes that love can conquer vengeance.
+***Persona.*** To the world, Godfrey is a tortured [[NPCs/Revenant|revenant]] bound by his oath to Vladimir. To those he trusts, he is a faithful husband who believes that love can conquer vengeance.
 
 ***Morale.*** In a fight, Godfrey would gladly take up arms against those who he sees as evil, or preying on the weak.
 
-***Relationships.*** Godfrey is a member of the Order of the Silver Dragon (to whom he has sworn an oath), and the husband of Vladimir Horngaard (whose relationship Vladimir has forgotten).
+***Relationships.*** Godfrey is a member of the [[Factions/Order of the Silver Dragon|Order of the Silver Dragon]] (to whom he has sworn an oath), and the husband of [[NPCs/Vladimir Horngaard|Vladimir Horngaard]] (whose relationship Vladimir has forgotten).
 
 ## Commander Vladimir Horngaard
 **Roleplaying Information**
@@ -2526,7 +2526,7 @@ In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial che
 
 ***Emotions.*** Vladimir most often feels suspicious, enraged, irritated, placid, stoic, or apathetic.
 
-***Motivations.*** Vladimir wants to preserve Strahd's prison in the Mists to avenge his desecration of Argynvost's corpse and the destruction of the Order of the Silver Dragon.
+***Motivations.*** Vladimir wants to preserve Strahd's [[Places/Prison|prison]] in the [[Places/Mists|Mists]] to avenge his desecration of Argynvost's corpse and the destruction of the [[Factions/Order of the Silver Dragon|Order of the Silver Dragon]].
 
 ***Inspirations.*** When playing Vladimir, channel Stannis Baratheon (*Game of Thrones*), Frank Castle (*The Punisher*), and Rorschach (*Watchmen*).
 
@@ -2539,7 +2539,7 @@ In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial che
 
 
 <div class="statblock">
-<h2>Vladimir Horngaard, Vengeful Revenant</h2>
+<h2>[[NPCs/Vladimir Horngaard|Vladimir Horngaard, Vengeful Revenant]]</h2>
 <em>Medium undead, lawful evil</em>
 <hr>
 <strong>Armor Class</strong> 17 (half plate armor)<br>
@@ -2668,7 +2668,7 @@ In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial che
 ## Vilnius
 
 <div class="statblock">
-<h2>Vilnius, First Prisoner</h2>
+<h2>[[NPCs/Vilnius, First Prisoner|Vilnius, First Prisoner]]</h2>
 <em>Medium undead, neutral evil</em>
 <hr>
 <strong>Armor Class</strong> 12  
@@ -2719,7 +2719,7 @@ In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial che
 <hr>
 <p><strong><em>Amorphous.</em></strong> Vilnius can move through a space as narrow as 1 inch without expending extra movement to do so.</p>
 <p><strong><em>Illusionist Prodigy.</em></strong> Vilnius can concentrate on up to five spells at a time, provided all spells are of the illusion school. If he would lose concentration on one, he loses concentration on all of them.</p>
-<p><strong><em>Shadowed Restoration.</em></strong> If killed, Vilnius reforms in 24 hours if Jakarion is still alive, reviving with all his hit points. His new body appears in an unoccupied space within the Lecture Hall.</p>
+<p><strong><em>Shadowed Restoration.</em></strong> If killed, Vilnius reforms in 24 hours if [[NPCs/Jakarion|Jakarion]] is still alive, reviving with all his hit points. His new body appears in an unoccupied space within the [[Places/Lecture Hall|Lecture Hall]].</p>
 <p><strong><em>Find Familiar.</em></strong> Vilnius can cast <em>find familiar</em> as a ritual without components.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Vilnius makes two attacks with his dagger and casts *major image* or *phantasmal force* twice.</p>
@@ -2737,7 +2737,7 @@ In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial che
 ## Patrina
 
 <div class="statblock">
-<h2>Patrina, Vengeful Wraith</h2>
+<h2>[[NPCs/Patrina, Vengeful Wraith|Patrina, Vengeful Wraith]]</h2>
 <em>Medium undead, neutral evil</em>
 <hr>
 <strong>Armor Class</strong> 13  
@@ -2791,11 +2791,11 @@ In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial che
 <p><strong><em>Dark Embodiment.</em></strong> When Patrina is reduced to <span class="highlight">0 hit points</span>, all amber sarcophagi within <span class="highlight">60 feet</span> of her extrude tendrils of shadowed mist, which she inhales. Her ethereal form then grows solid, forming pale, undead flesh and sunken amber eyes. Her statistics are instantly replaced by those of her second form. Her initiative count doesn’t change, excess damage doesn’t carry over, and she retains none of the conditions she had in her previous form. She can immediately use her <strong><em>soul weapon</em></strong> feature.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Patrina makes two attacks, only one of which can be an <strong><em>amber tentacle</em></strong> attack, and can use <strong><em>charm wielder</em></strong> once.</p>
-<p><strong><em>Amber Tentacle.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 15 ft., one target within 15 feet of one of the walls in <span class="citation">X42. Amber Vault</span>. <strong>Hit:</strong> <span class="highlight">19 (2d12 + 6) bludgeoning damage</span>, and the target must succeed on a <span class="highlight">DC 19 Strength saving throw</span> or be <span class="highlight">grappled</span> (escape DC 19) or <span class="highlight">pushed 10 feet away</span> (Patrina’s choice). If the target fails the save by <span class="highlight">10 or more</span>, it also <span class="highlight">falls prone</span>.</p>
+<p><strong><em>Amber Tentacle.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 15 ft., one target within 15 feet of one of the walls in <span class="citation">X42. [[Places/Amber Vault|Amber Vault]]</span>. <strong>Hit:</strong> <span class="highlight">19 (2d12 + 6) bludgeoning damage</span>, and the target must succeed on a <span class="highlight">DC 19 Strength saving throw</span> or be <span class="highlight">grappled</span> (escape DC 19) or <span class="highlight">pushed 10 feet away</span> (Patrina’s choice). If the target fails the save by <span class="highlight">10 or more</span>, it also <span class="highlight">falls prone</span>.</p>
 <p><strong><em>Corrupting Touch.</em></strong> <em>Melee Spell Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 16 (4d6 + 2) necrotic damage.</p>
-<p><strong><em>Charm Wielder.</em></strong> Patrina forces the creature possessing the <em>Sunsword</em> to succeed on a <span class="highlight">DC 19 Charisma saving throw</span> or be <span class="highlight">charmed</span> by her for <span class="highlight">1 minute</span>. While charmed, the creature must try to follow Patrina’s commands. If the creature takes damage, it can repeat the saving throw, ending the effect on a success. The effect ends if the creature no longer possesses the <em>Sunsword</em>.</p>
+<p><strong><em>Charm Wielder.</em></strong> Patrina forces the creature possessing the <em>[[Items/Sunsword|Sunsword]]</em> to succeed on a <span class="highlight">DC 19 Charisma saving throw</span> or be <span class="highlight">charmed</span> by her for <span class="highlight">1 minute</span>. While charmed, the creature must try to follow Patrina’s commands. If the creature takes damage, it can repeat the saving throw, ending the effect on a success. The effect ends if the creature no longer possesses the <em>Sunsword</em>.</p>
 <h3>Bonus Actions</h3>
-<p><strong><em>Animate Golems (1/Day).</em></strong> Patrina summons shards of amber from X40, Sealed Treasury, and shapes them into two <strong>amber constructs</strong>. An amber construct acts on Patrina’s initiative, but takes its turn immediately after hers.</p>
+<p><strong><em>Animate Golems (1/Day).</em></strong> Patrina summons shards of amber from X40, Sealed [[Places/Treasury|Treasury]], and shapes them into two <strong>amber constructs</strong>. An amber construct acts on Patrina’s initiative, but takes its turn immediately after hers.</p>
 <p><strong><em>Conjure Sarcophagi.</em></strong> Hollow amber sarcophagi spring into existence around each creature of Patrina’s choice within <span class="highlight">5 feet</span> of Patrina or a point she can see within <span class="highlight">30 feet</span>. Each creature must succeed on a <span class="highlight">DC 19 Dexterity saving throw</span> or be entrapped within its sarcophagus. Each sarcophagus has <span class="highlight">AC 15</span>, <span class="highlight">15 hit points</span>, and immunity to poison and psychic damage.</p>
 <h3>Reactions</h3>
 <p>Patrina can take up to three reactions per round, but only one per turn. If an effect or condition would prevent her from taking reactions, she loses one reaction instead.</p>
@@ -2807,7 +2807,7 @@ In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial che
 
 
 <div class="statblock">
-<h2>Patrina, Half-Lich</h2>
+<h2>Patrina, Half-[[NPCs/Lich|Lich]]</h2>
 <em>Medium undead, neutral evil</em>
 <hr>
 <strong>Armor Class</strong> 20  
@@ -2877,7 +2877,7 @@ In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial che
 ## Baba Lysaga
 
 <div class="statblock">
-<h2>Baba Lysaga, Witch Mother</h2>
+<h2>[[NPCs/Baba Lysaga|Baba Lysaga]], Witch Mother</h2>
 <em>Medium humanoid (human, shapechanger), chaotic evil</em>
 <hr>
 <strong>Armor Class</strong> 15 (natural armor)<br>
@@ -2914,10 +2914,10 @@ In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial che
 <strong>Challenge</strong> 10<br>
 <strong>Proficiency Bonus</strong> +4
 <hr>
-<p><strong><em>Blessing of Mother Night.</em></strong> Baba Lysaga is shielded against divination magic, as though protected by a <em>nondetection</em> spell.</p>
+<p><strong><em>Blessing of [[NPCs/Mother Night|Mother Night]].</em></strong> [[NPCs/Baba Lysaga|Baba Lysaga]] is shielded against divination magic, as though protected by a <em>nondetection</em> spell.</p>
 <p><strong><em>Skilled Casting.</em></strong> Baba Lysaga can concentrate on up to three spells at a time. If she would lose concentration on one, she loses concentration on all of them.</p>
 <p><strong><em>Flying Skull.</em></strong> While riding her flying giant’s skull, Baba Lysaga gains a fly speed of 30 ft. and has half cover. The skull shares Baba Lysaga’s Strength, Dexterity, and Constitution scores and saving throws, and is otherwise as described in <span class="citation">U3. Baba Lysaga’s Hut (p. 163)</span>.</p>
-<p><strong><em>Swallowed by the Swamp.</em></strong> When Baba Lysaga is reduced to 0 hit points, she plunges or sinks into the swamp of Berez. She then resurfaces, riding atop a tower of swamp vines coiled around her lower body. Her statistics are instantly replaced by those of her second form. Her initiative count doesn’t change, excess damage doesn’t carry over, and she retains none of the conditions she had in her previous form.</p>
+<p><strong><em>Swallowed by the Swamp.</em></strong> When Baba Lysaga is reduced to 0 hit points, she plunges or sinks into the swamp of [[Places/Berez|Berez]]. She then resurfaces, riding atop a tower of swamp vines coiled around her lower body. Her statistics are instantly replaced by those of her second form. Her initiative count doesn’t change, excess damage doesn’t carry over, and she retains none of the conditions she had in her previous form.</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> Baba Lysaga uses Hair Blade twice, or uses Spellcasting to cast <em>acid splash</em> twice.</p>
 <p><strong><em>Hair Blades.</em></strong> Melee Weapon Attack: +9 to hit, reach 5 ft., one creature. Hit: <span class="highlight">9 (1d8 + 5)</span> slashing plus <span class="highlight">4 (1d8)</span> poison damage, and the target must succeed on a <span class="highlight">DC 17 Constitution saving throw</span> or be <span class="highlight">poisoned</span> for 1 minute or until it receives magical healing. A creature poisoned in this way must make a <span class="highlight">DC 17 Constitution saving throw</span> at the end of each of its turns. Each time it fails, it becomes <span class="highlight">slowed</span> if it is currently poisoned, or becomes <span class="highlight">paralyzed</span> if it is currently slowed. Each time it succeeds, it becomes slowed if it is currently paralyzed, becomes poisoned if it is currently slowed, or is no longer poisoned if it is currently poisoned. If the creature rolls a natural 20, it’s no longer poisoned.</p>
@@ -2927,7 +2927,7 @@ In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial che
 <em>1/day each</em>: scrying, programmed illusion, mirage arcane</p>
 <p><strong><em>Devouring Flies.</em></strong> Swarming flies fill a <span class="highlight">10-foot-radius</span> sphere centered on a point Baba Lysaga can see within 60 feet. Each creature within the sphere must make a DC 17 Constitution saving throw, taking <span class="highlight">11 (2d10)</span> piercing damage on a failed save or half as much damage on a successful one. Whether a creature succeeds or fails its Constitution saving throw, any spells of 3rd level or lower on that creature end. If a creature is concentrating on a spell that would be dispelled in this way, it can use its reaction to spend a spell slot of 1st level or higher. If it does, the spell doesn’t end.</p>
 <h3>Bonus Actions</h3>
-<p><strong><em>Swarm.</em></strong> Baba Lysaga magically polymorphs into a <strong>swarm of insects</strong> (flies), flies up to 30 ft., then resumes her true form. Anything she is wearing or carrying transforms with her. While transformed, melee weapon attacks against her have <span class="highlight">disadvantage</span>.</p>
+<p><strong><em>[[NPCs/Swarm|Swarm]].</em></strong> Baba Lysaga magically polymorphs into a <strong>[[NPCs/Swarm|swarm]] of insects</strong> (flies), flies up to 30 ft., then resumes her true form. Anything she is wearing or carrying transforms with her. While transformed, melee weapon attacks against her have <span class="highlight">disadvantage</span>.</p>
 <h3>Reactions</h3>
 <p>Baba Lysaga can take up to five reactions per round, but only one per turn. If an effect or condition would prevent her from taking reactions, she loses one reaction instead.</p>
 <p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Baba Lysaga can repeat the saving throw against one effect or condition currently affecting her. (This reaction has no effect if the effect or condition didn’t originally require her to fail a saving throw.)</p>
@@ -2984,7 +2984,7 @@ In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial che
 <em>1/day each</em>: giant insect (centipede), wall of thorns</p>
 <p><strong><em>Grasping Vine.</em></strong> Baba Lysaga casts or attacks with <em>grasping vine</em>, using Intelligence as the spellcasting ability (spell save DC 18, +10 to hit). When cast in this way, she must use an action to repeat the attack on her later turns.</p>
 <h3>Bonus Actions</h3>
-<p><strong><em>Swampwalk.</em></strong> If Baba Lysaga is in Berez, she submerges herself in the water or earth beneath her, then exits from a 5-foot-square patch of water or earth within 30 feet.</p>
+<p><strong><em>Swampwalk.</em></strong> If Baba Lysaga is in [[Places/Berez|Berez]], she submerges herself in the water or earth beneath her, then exits from a 5-foot-square patch of water or earth within 30 feet.</p>
 <h3>Reactions</h3>
 <p>Baba Lysaga can take up to five reactions per round, but only one per turn. If an effect or condition would prevent her from taking reactions, she loses one reaction instead.</p>
 <p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Baba Lysaga can repeat the saving throw against one effect or condition currently affecting her. (This reaction has no effect if the effect or condition didn’t originally require her to fail a saving throw.)</p>
@@ -2999,7 +2999,7 @@ In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial che
 ## Creeping Hut
 
 <div class="statblock">
-<h2>Creeping Hut</h2>
+<h2>[[Places/Creeping Hut|Creeping Hut]]</h2>
 <em>Gargantuan construct, unaligned</em>
 <hr>
 <strong>Armor Class</strong> 16 (natural armor)<br>

@@ -1,17 +1,17 @@
 *An adventure for five 2nd-level characters.*
 
 > [!warning]+ **A Second-Level Adventure**
-> Remember that, unlike the original *Curse of Strahd* adventure, the players in this guide begin at 2nd level, rather than 1st level.
+> Remember that, unlike the original *[[Items/Curse of Strahd|Curse of Strahd]]* adventure, the players in this guide begin at 2nd level, rather than 1st level.
 
-The players begin in the town of Daggerford on the night before Highharvesttide, an annual feast and holiday celebration. The local inns are full for the night, and the players—vagabonds with little coin or company to speak of—find shelter in the stable of the Nightmare’s Bridle, a ramshackle tavern on the outskirts of town. 
+The players begin in the town of [[Places/Daggerford|Daggerford]] on the night before [[Places/Highharvesttide|Highharvesttide]], an annual feast and holiday celebration. The local inns are full for the night, and the players—vagabonds with little coin or company to speak of—find shelter in the stable of the [[Places/Nightmare’s Bridle|Nightmare’s Bridle]], a ramshackle tavern on the outskirts of town. 
 
-When the relics they carry sense the presence of Death House, however, the players are led through Daggerford’s rainy streets and into the house’s waiting threshold.
+When the relics they carry sense the presence of [[Factions/Death House|Death House]], however, the players are led through [[Places/Daggerford|Daggerford]]’s rainy streets and into the house’s waiting threshold.
 
 Once inside, the players are trapped and told that a monster will hunt them down once it awakens. They have six hours to find it first and either appease it with a suitable sacrifice—or kill it. As they explore the house, they come to learn the house’s lurid history, as well as the true identity of the beast that lurks beneath.
 
-If the players kill the monster, the house begins to collapse, forcing them to flee or be lost in the rubble. Upon emerging, they find that their surroundings have changed, transporting them to the darkened land of Barovia.
+If the players kill the monster, the house begins to collapse, forcing them to flee or be lost in the rubble. Upon emerging, they find that their surroundings have changed, transporting them to the darkened land of [[Places/Barovia|Barovia]].
 
-> [!lore]+ **The History of Death House**
+> [!lore]+ **The History of [[Factions/Death House|Death House]]**
 > See [[History of Barovia#Strahd’s First Followers|Strahd's First Followers]] for a full retelling of the gruesome history of Death House.
 
 > [!info]+ **Arc A Foundry Module**
@@ -19,16 +19,16 @@ If the players kill the monster, the house begins to collapse, forcing them to f
 # A1. Daggerford
 
 > [!warning]+ **Keep Your Workload Low**
-> *Curse of Strahd: Reloaded* has intentionally been written to minimize time spent away from the table, aiming to serve as a "zero-prep" campaign to the maximum extent possible. To make this possible, this guide has been designed to manipulate players into taking specific, curated paths through the adventure, even while providing intentional degrees of freedom that, while meaningful, will not substantially change the ultimate outcome of the campaign.
+> *[[Items/Curse of Strahd- Reloaded|Curse of Strahd: Reloaded]]* has intentionally been written to minimize time spent away from the table, aiming to serve as a "zero-prep" campaign to the maximum extent possible. To make this possible, this guide has been designed to manipulate players into taking specific, curated paths through the adventure, even while providing intentional degrees of freedom that, while meaningful, will not substantially change the ultimate outcome of the campaign.
 > 
 > If you wish to minimize your workload, do your best to avoid making any changes or additions to this guide. Doing so is likely to alter how the players interface with and approach its narrative and gameplay, disturbing load-bearing pillars that may be difficult to notice without re-reading the full, complete guide multiple times. (For example, increasing distances between the Barovian settlements makes multiple quests in Acts II and III impossible to complete without a comprehensive overhaul of the entire campaign's timeline.) Any modifications—such as changes to deadlines, distances, statblocks, character motivations, or events—are made at the DM's own risk, and may lead to TPKs, wild divergences, or unsatisfying storylines.
 ## A1a. The Nightmare’s Bridle
 If one or more of your players are using the [[Running the Adventure#Adventure Hooks|Barovian Relics]] hook, read the following text. Otherwise, proceed to [[#A2. Death House]] below.
 
 <div class="description">
-<p>It’s the evening before Highharvesttide, and a storm has descended over Daggerford, with dark clouds pouring cascades of rain down upon the town below. Despite the weather, however, the town buzzes with anticipation of the impending falltime festival, each home filled with warmth and joy. Bright, cheery candlelight twinkles from every window, and the sounds of song and dance echo throughout the wet and muddy streets.</p>
+<p>It’s the evening before [[Places/Highharvesttide|Highharvesttide]], and a storm has descended over Daggerford, with dark clouds pouring cascades of rain down upon the town below. Despite the weather, however, the town buzzes with anticipation of the impending falltime festival, each home filled with warmth and joy. Bright, cheery candlelight twinkles from every window, and the sounds of song and dance echo throughout the wet and muddy streets.</p>
 <p>Amidst the merriment, however, you stand apart. Neither locals nor visitors, you’re vagabonds—travelers, ghosts passing through an unfamiliar town. As laughter rings out from inns and homes, you face a simpler, starker dilemma: the quest for shelter.</p>
-<p>Every room in this town is claimed, every hearth filled to bursting, leaving you in the grip of the bitter storm. Until, that is, the owner of the ramshackle Nightmare’s Bridle tavern offers you a grudging reprieve: the hayloft above their stable. It’s nothing to boast about, leaving the biting cold and the lingering scent of musty hay as your only companions. But it’s a roof over your heads nonetheless—a small mercy on a night such as this.</p>
+<p>Every room in this town is claimed, every hearth filled to bursting, leaving you in the grip of the bitter storm. Until, that is, the owner of the ramshackle [[Places/Nightmare’s Bridle|Nightmare’s Bridle]] tavern offers you a grudging reprieve: the hayloft above their stable. It’s nothing to boast about, leaving the biting cold and the lingering scent of musty hay as your only companions. But it’s a roof over your heads nonetheless—a small mercy on a night such as this.</p>
 <p>One by one, you find a home amidst the muck and hay. Overhead, rain lashes the stable, thunder punctuating the rhythmic drumming on the roof. Flashes of lightning lance across the skies, casting the stable’s interior in stark lights and darks. Rainwater drips steadily down through a leak in the roof, snaking its way across the floor until it pools in the corner.</p>
 <p>Here, then, you find yourselves: huddled in the darkness amongst strangers, while joy and mirth dance just out of reach.</p>
 </div>
@@ -45,24 +45,24 @@ When the players have finished introducing themselves, read:
 
 One by one, the players’ relics then react as follows, in the following order.
 
-* ***Stone Crest.*** The crest emits a low hum and smells of pine needles and earthy soil, which both grow stronger when the crest is moved toward Death House.
-* ***Broken Blade.*** The blade emits a high-pitched hum and begins to tremble violently, spinning like a compass needle in the direction of Death House.
-* ***Dragon's Scale.*** The scale burns icy cold, one end glowing with a bright, silver light in the direction of Death House.
-* ***Sunrise Medallion.*** The medallion shines with a warm, golden glow, emitting rays of bright light in the direction of Death House.
-* ***Amber Shard.*** The shard glows with amber light and tugs its cord in the direction of Death House.
-* ***Wolf's Tooth.*** The tooth lengthens, glowing with silver moonlight, and tugs its cord in the direction of Death House.
-* ***Crumpled Page.*** The ink on the page glows with amber light, the runes reshaping themselves into a map that shows the page's location—and an arrow that guides toward Death House.
-* ***Tattered Banner.*** The sound of war-drums fills the air, and the banner blows in an unseen wind in the direction of Death House.
-* ***Electrum Coin.*** The coin lands on its edge and begins rolling across the muddy cobblestones in the direction of Death House.
-* ***Angel's Feather.*** The feather is swept away by an unseen wind, its barbs glimmering with golden light as it twirls through the streets toward Death House.
-* ***Raven's Feather.*** The feather is swept away by the wind, its shadow seeming to dance in the air, as it twirls through the streets toward Death House.
-* ***Wanderer's Scarf.*** The scarf is carried away by the wind, its patterns shifting and turning in the air as it whirls through the streets toward Death House.
+* ***[[Items/Stone Crest|Stone Crest]].*** The crest emits a low hum and smells of pine needles and earthy soil, which both grow stronger when the crest is moved toward Death House.
+* ***[[Items/Broken Blade|Broken Blade]].*** The blade emits a high-pitched hum and begins to tremble violently, spinning like a compass needle in the direction of Death House.
+* ***[[Items/Dragon's Scale|Dragon's Scale]].*** The scale burns icy cold, one end glowing with a bright, silver light in the direction of Death House.
+* ***[[Items/Sunrise Medallion|Sunrise Medallion]].*** The medallion shines with a warm, golden glow, emitting rays of bright light in the direction of Death House.
+* ***[[Items/Amber Shard|Amber Shard]].*** The shard glows with amber light and tugs its cord in the direction of Death House.
+* ***[[Items/Wolf's Tooth|Wolf's Tooth]].*** The tooth lengthens, glowing with silver moonlight, and tugs its cord in the direction of Death House.
+* ***[[Items/Crumpled Page|Crumpled Page]].*** The ink on the page glows with amber light, the runes reshaping themselves into a map that shows the page's location—and an arrow that guides toward Death House.
+* ***[[Items/Tattered Banner|Tattered Banner]].*** The sound of war-drums fills the air, and the banner blows in an unseen wind in the direction of Death House.
+* ***[[Items/Electrum Coin|Electrum Coin]].*** The coin lands on its edge and begins rolling across the muddy cobblestones in the direction of Death House.
+* ***[[Items/Angel's Feather|Angel's Feather]].*** The feather is swept away by an unseen wind, its barbs glimmering with golden light as it twirls through the streets toward Death House.
+* ***[[Items/Raven's Feather|Raven's Feather]].*** The feather is swept away by the wind, its [[NPCs/Shadow|shadow]] seeming to dance in the air, as it twirls through the streets toward Death House.
+* ***[[Items/Wanderer's Scarf|Wanderer's Scarf]].*** The scarf is carried away by the wind, its patterns shifting and turning in the air as it whirls through the streets toward Death House.
 
 If the players give chase, read:
 
 <div class="description">
-<p>You emerge from the hayloft into the swirling mists beyond, the stones of Daggerford's streets slick and gleaming beneath your feet. The city’s laughter and cheer is now but a hollow echo, the brightness of its revelry drowned in the fog that encircles you. The taste of the cold, damp air is sharp on your tongue, and the sound of your own breath loud in your ears.</p>
-<p>Your relics call you forward, the mists parting to make way. You move slowly at first, then faster, your hearts pounding in your chest. As you venture deeper into the fog, each step you make feels heavier, each echo of thunder a beat in this relentless march.</p>
+<p>You emerge from the hayloft into the swirling [[Places/Mists|mists]] beyond, the stones of Daggerford's streets slick and gleaming beneath your feet. The city’s laughter and cheer is now but a hollow echo, the brightness of its revelry drowned in the fog that encircles you. The taste of the cold, damp air is sharp on your tongue, and the sound of your own breath loud in your ears.</p>
+<p>Your relics call you forward, the [[Places/Mists|mists]] parting to make way. You move slowly at first, then faster, your hearts pounding in your chest. As you venture deeper into the fog, each step you make feels heavier, each echo of thunder a beat in this relentless march.</p>
 <p>The fog swallows the town, buildings reduced to looming shadows, their shapes dancing and flickering in the storm's sporadic flashes of lightning. Rain drums a relentless rhythm, the patter of drops on cobblestone accompanying the distant, mournful peal of thunder. For brief moments, you can feel something else beneath your feet: the steady pounding of a deep and distant heartbeat.</p>
 <p>You're pulled left, then right, then left again, the relics guiding you through the murky labyrinth. Distance and direction have lost all meaning, the shadows around you contorting in twisted shapes. Your blood sings in your ears, and the air grows denser, electric, as the energy of the storm—of the chase—swells with reckless abandon.</p>
 <p>And then—the pounding stops.</p>
@@ -98,19 +98,19 @@ Read all players the following text:
 <p>A gust of wind sweeps past you, carrying with it a whisper of cold dread that sends shivers down your spine.</p>
 </div>
 
-Any players who began with the ***Barovian Relics*** hook can now see the players who began with the ***Lost in the Mists*** hook, and vice-versa. (If any of the players’ relics flew or rolled to Death House—as with the ***wanderer’s scarf*** or the ***electrum coin***—they land on the house’s threshold, just beyond the portico.) The street is otherwise deserted.
+Any players who began with the ***[[Items/Barovian Relics|Barovian Relics]]*** hook can now see the players who began with the ***Lost in the Mists*** hook, and vice-versa. (If any of the players’ relics flew or rolled to Death House—as with the ***wanderer’s scarf*** or the ***[[Items/Electrum Coin|electrum coin]]***—they land on the house’s threshold, just beyond the portico.) The street is otherwise deserted.
 
 The entrance beyond the portico is otherwise as described in <span class="citation">Entrance (p. 212)</span>.
 
-> [!lore]+ **Strahd & the Cult**
+> [!lore]+ **[[NPCs/Strahd von Zarovich|Strahd]] & the Cult**
 >
-> The cult of Death House earned no love from Strahd in life. But in death, the two parties have come to an informal, unspoken understanding. 
+> The cult of Death House earned no love from [[NPCs/Strahd von Zarovich|Strahd]] in life. But in death, the two parties have come to an informal, unspoken understanding. 
 >
-> In exchange for the permission to roam far afield from the misty land of Barovia to claim sacrifices, Death House is bound to return to the valley after each hunting excursion. Should any adventurers successfully escape the house's bloodied altar, they inevitably emerge into Strahd's domain—assuring him of a worthy crop of prey to pursue. 
+> In exchange for the permission to roam far afield from the misty land of [[Places/Barovia|Barovia]] to claim sacrifices, Death House is bound to return to the valley after each hunting excursion. Should any adventurers successfully escape the house's bloodied altar, they inevitably emerge into Strahd's domain—assuring him of a worthy crop of prey to pursue. 
 ### Main Hall
 <span class="citation"><em>This scene takes place in Appendix B: Area 2.</em></span>
 
-When the players pass through Death House’s threshold, any Barovian relics they carry cease to be active. (For example, the *sunrise medallion* ceases to glow.)
+When the players pass through Death House’s threshold, any [[Items/Barovian Relics|Barovian relics]] they carry cease to be active. (For example, the *[[Items/Sunrise Medallion|sunrise medallion]]* ceases to glow.)
 
 The main hall is largely as described in <span class="citation">Main Hall (p. 212)</span> but now contains a grandfather clock, which is placed in the circular space at the base of the stairs.
 
@@ -134,7 +134,7 @@ Bloody letters then begin appearing on the southern wall, just above the marble 
 <br>
 <em>If morsels seek to flee their doom,</em>
 <br>
-<em>Then bring toward his secret room</em>
+<em>Then bring toward his [[Places/Secret Room|secret room]]</em>
 <br>
 <em>A gift to soothe his savage mood</em>
 <br>
@@ -156,7 +156,7 @@ The grandfather clock then strikes six o’clock.
 >
 > A full hour passes each time a die decreases from 4 to 3, or each time a die decreases from 1 to 0. The grandfather clock in the **Main Hall** sounds on the hour, every hour, and can be heard throughout the house and dungeon.
 >
-> When the clock strikes midnight, the **flesh mound** in the **Ritual Chamber** awakens and makes a beeline for the players, exiting through the **Hidden Trapdoor** into the **Den of Wolves** if necessary to reach them. At least one minute should pass between the time the mound wakes up and the time that it first reaches the players, nullifying its *heavy sleeper* feature and allowing it to use its *multiattack* actions.
+> When the clock strikes midnight, the **flesh mound** in the **[[Places/Ritual Chamber|Ritual Chamber]]** awakens and makes a beeline for the players, exiting through the **Hidden Trapdoor** into the **Den of [[NPCs/Wolves|Wolves]]** if necessary to reach them. At least one minute should pass between the time the mound wakes up and the time that it first reaches the players, nullifying its *heavy sleeper* feature and allowing it to use its *multiattack* actions.
 
 > [!info]+ **Resting in Death House**
 >
@@ -164,7 +164,7 @@ The grandfather clock then strikes six o’clock.
 >
 > - A player hears rats scrabbling up and down the spaces between the walls. A thick, choking stench of rot seeps into the room.
 > - A player hears the sound of a woman’s humming emanating from the opposite side of a closed door. If the door is cracked open, a cold blue eye stares back before vanishing.
-> - A player hears footsteps descending from the attic, which stop outside of their door before moving away to the library. Soon after, a grinding noise can be heard coming from the library—the sound of the secret door.
+> - A player hears footsteps descending from the attic, which stop outside of their door before moving away to the [[Places/Library|library]]. Soon after, a grinding noise can be heard coming from the [[Places/Library|library]]—the sound of the secret door.
 > - A player hears maniacal laughter echoing from far below the house.
 > - A player hears a pleading female voice in their right ear that swears that “it isn’t his.” Another, colder female voice in the player’s left ear scoffs and says, "You would say that, you little *harlot*."
 
@@ -173,7 +173,7 @@ A player who opens any outside-facing door or curtain in Death House, or who exi
 ### Cloakroom
 <span class="citation"><em>This scene takes place in Appendix B: Area 2.</em></span>
 
-A player who investigates the cloakroom adjoining the Main Hall can observe an envelope poking from the pocket of one of the cloaks. The envelope, which is addressed to Lady Lovina Wachter, contains an invitation. It reads:
+A player who investigates the cloakroom adjoining the Main Hall can observe an envelope poking from the pocket of one of the cloaks. The envelope, which is addressed to Lady [[NPCs/Lovina Wachter|Lovina Wachter]], contains an invitation. It reads:
 
 <div class="description" style="text-align:center; padding: 15px;">
 You are cordially invited to join 
@@ -197,7 +197,7 @@ for a celebration of the one-year anniversary of the Durst Mill.
 ### Den of Wolves
 <span class="citation"><em>This scene takes place in Appendix B: Area 3.</em></span>
 
-This room is largely as described in <span class="citation">Den of Wolves (p. 212)</span>. As the players enter this room, read:
+This room is largely as described in <span class="citation">Den of [[NPCs/Wolves|Wolves]] (p. 212)</span>. As the players enter this room, read:
 
 <div class="description">
 <p>As you crack the door to this room open, you catch a glimpse of something feral beyond: an amber eye that flashes in the darkness, and a bestial muzzle curled into a snarl.</p>
@@ -213,7 +213,7 @@ If the players proceed, read:
 
 The discarded toys are small, plush gray wolves, whose threadbare coats show evidence of heavy mending and patchwork. Clumsy stitchwork on their stomachs reads ROSE and THORN, respectively.
 
-In addition to its other contents, the east cabinet contains five silvered crossbow bolts mixed in with the other sixty bolts. Meanwhile, the north cabinet also contains a mounted piece of child's needlework that depicts a boy and girl holding the hands of a young woman, alongside clumsily stitched words that read FOR MISS KLARA. The young woman's face has been slashed and cut out.
+In addition to its other contents, the east cabinet contains five silvered crossbow bolts mixed in with the other sixty bolts. Meanwhile, the north cabinet also contains a mounted piece of child's needlework that depicts a boy and girl holding the hands of a young woman, alongside clumsily stitched words that read FOR MISS [[NPCs/Klara|KLARA]]. The young woman's face has been slashed and cut out.
 
 The first time that no players are looking at them, the three taxidermied wolves move. When the players next look at them, the large gray wolf is standing beside the smaller brown wolf, and the first gray wolf has turned its snarl toward the others.
 
@@ -235,10 +235,10 @@ A player who partakes in the food suffers no ill effects.
 ### Kitchen and Pantry
 <span class="citation"><em>This scene corresponds to Appendix B: Area 4.</em></span>
 
-This room is largely as described in <span class="citation">Kitchen and Pantry (p. 213)</span>. When the players enter this room, read:
+This room is largely as described in <span class="citation">[[Places/Kitchen|Kitchen]] and Pantry (p. 213)</span>. When the players enter this room, read:
 
 <div class="description">
-<p>You enter a tidy kitchen, with dishware, cookware, and utensils neatly placed on shelves. A worktable has a cutting board and rolling pin atop it. A stone, dome-shaped oven stands near the east wall, its bent iron stovepipe connecting to a hole in the ceiling. Behind the stove and to the left is a thin door.</p>
+<p>You enter a tidy [[Places/Kitchen|kitchen]], with dishware, cookware, and utensils neatly placed on shelves. A worktable has a cutting board and rolling pin atop it. A stone, dome-shaped oven stands near the east wall, its bent iron stovepipe connecting to a hole in the ceiling. Behind the stove and to the left is a thin door.</p>
 <p>In the front right-hand corner of the room stands a small wooden door set into the wall.</p>
 </div>
 
@@ -250,7 +250,7 @@ A few inches behind the empty spot on the shelf sits an antique copper pot, its 
 
 A player who opens the pot finds it to contain a bottle of wine, a folded piece of delicate lace, a vial of a brownish dried powder, and a bouquet of wilted sunflowers tied to a small scroll of parchment.
 
-* The wine's label shows that it is from the Wizard of Wines winery and provides the name of the wine: Champagne du le Stomp. (A player that drinks the wine finds it to have turned to vinegar, as though it has magically aged centuries in mere moments.)
+* The wine's label shows that it is from [[Places/Wizard of Wines|the Wizard of Wines]] winery and provides the name of the wine: Champagne du le Stomp. (A player that drinks the wine finds it to have turned to vinegar, as though it has magically aged centuries in mere moments.)
 * The piece of lace bears the initial "K" sewn onto one corner. 
 * A successful DC 14 Intelligence (Nature) check identifies the brown powder as dried silphium, a contraceptive herb. 
 * The parchment scroll reads: "For the light of my life. —G."
@@ -293,13 +293,13 @@ This room is largely as described in <span class="citation">Conservatory (p. 214
 
 ***The Harpsichord.*** A player who inspects the harpsichord finds that one of the keys appears to be permanently pressed in the "down" position. A player who investigates the interior of the harpsichord finds the cause: a rolled-up piece of parchment tucked beneath one of the strings. 
 
-The parchment is a piece of handwritten sheet music for the harpsichord titled *Waltz for Klara*. If the sheet music is played on the harpsichord, read:
+The parchment is a piece of handwritten sheet music for the harpsichord titled *Waltz for [[NPCs/Klara|Klara]]*. If the sheet music is played on the harpsichord, read:
 
 <div class="description">
 <p>As you press your fingers to the keys, the notes echo, a haunting melody filling the quiet, dusty room. As you continue to play, the music seems to take on a life of its own, your hands moving across the keys unbidden as if guided by an unseen force.</p>
 <p>From the edges of the room, spectral figures begin to materialize, spinning and weaving in a ghostly dance as though led by the song. Most are unfamiliar to you, but you recognize two: Elisabeth Durst, in the corner, watching Gustav's apparition dancing with a beautiful young woman wearing humble clothes.</p>
 <p>The eyes of Elisabeth's apparition narrow into a cold, furious stare. The dancers pay her little heed, however, the song growing faster as the spirits whirl to the rhythm of the harpsichord's crescendo.</p>
-<p>With a swift movement, Elisabeth reaches for a pendant around her spectral neck—a shimmering amber shard hung on a cord of ethereal mist. As her ghostly fist curls around it, her eyes flash a bright, menacing amber—and the spectral dancers dissipate, swept away as if by an unseen wind.</p>
+<p>With a swift movement, Elisabeth reaches for a pendant around her spectral neck—a shimmering [[Items/Amber Shard|amber shard]] hung on a cord of ethereal mist. As her ghostly fist curls around it, her eyes flash a bright, menacing amber—and the spectral dancers dissipate, swept away as if by an unseen wind.</p>
 <p>Elisabeth's apparition lingers but a moment longer before disappearing with the rest. As it does, a sound resonates through the room: the low sound of scraping wood, originating from the room across the hall. The floor trembles faintly—and you hear a crash from the mantelpiece. Two of the alabaster figurines have fallen from their place on the shelf: one, toppled over on its side; the other, shattered across the floor.</p>
 </div>
 
@@ -333,7 +333,7 @@ A character that searches the room for 1 minute and succeeds on a DC 15 Wisdom (
 
 > [!info]+ **Making Multiple Ability Checks**
 >
-> As the players explore Death House and the many secret places within the land of Barovia, don't forget the **Multiple Ability Checks** rule (<span class="citation">Dungeon Master's Guide, p. 237</span>). For example, a player who searches the library can take 10 minutes to automatically succeed on the check.
+> As the players explore Death House and the many secret places within the land of Barovia, don't forget the **Multiple Ability Checks** rule (<span class="citation">[[Items/Dungeon Master's Guide|Dungeon Master's Guide]], p. 237</span>). For example, a player who searches the library can take 10 minutes to automatically succeed on the check.
 
 ***The Secret Door.*** The secret door in this room has two components. First, a player must pull on the switch as described in <span class="citation">Secret Door (p. 214)</span>. Doing so causes the bookshelf to swing forward, revealing a blank wooden wall behind it. 
 
@@ -343,17 +343,17 @@ The door cannot be opened unless the amber shard from the [[#Master Suite]] is p
 ### Secret Room
 <span class="citation"><em>This scene takes place in Appendix B: Area 9.</em></span>
 
-This room is largely as described in <span class="citation">Secret Room (p. 214)</span>. When the players enter this room, read:
+This room is largely as described in <span class="citation">[[Places/Secret Room|Secret Room]] (p. 214)</span>. When the players enter this room, read:
 
 <div class="description">
 <p>This small hidden room is packed with bookshelves groaning with old and ominous-looking leather-bound tomes. A heavy wooden chest with clawed iron feet stands against the south wall, its lid half-closed. Sticking out of the chest, its ribs and head caught beneath the lid, is a skeleton in leather armor.</p>
 </div>
 
-The chest no longer contains the deed to Old Bonegrinder. Additionally, change Strahd’s letter to read as follows:
+The chest no longer contains the deed to [[Places/Old Bonegrinder|Old Bonegrinder]]. Additionally, change Strahd’s letter to read as follows:
 
 <div class="description">
 <p>My most pathetic servant,</p>
-<p>I am not a messiah sent to you by the Dark Powers of this land. I have not come to lead you on a path to immortality. However many souls you have bled on your hidden altar, however many visitors you have tortured in your dungeon, know that you are not the one who brought me to this beautiful land. You are but a worm writhing in my earth.</p>
+<p>I am not a messiah sent to you by [[Factions/Dark Powers|the Dark Powers]] of this land. I have not come to lead you on a path to immortality. However many souls you have bled on your hidden altar, however many visitors you have tortured in your dungeon, know that you are not the one who brought me to this beautiful land. You are but a worm writhing in my earth.</p>
 <p>You say that you are cursed, your fortune spent. Your husband took solace in the bosom of another woman, sired a bastard son, and drove you to abandon love for madness. Cursed by darkness? Of that I have no doubt. Save you from your wretchedness? I think not. I much prefer you as you are.</p>
 <p>Your dread lord and master,</p>
 <p>Strahd von Zarovich</p>
@@ -362,7 +362,7 @@ The chest no longer contains the deed to Old Bonegrinder. Additionally, change S
 The players do not recognize the name "Strahd von Zarovich."
 
 > [!design]- **Design Note: Removing the Deed**
-> Players who find the deed to Old Bonegrinder in the secret chest often come to the mistaken conclusion that looting the deed makes them the new owners of the mill. Such players are likely, as a result, to attempt to explore the windmill during [[Act I - Into the Mists/Arc C - Into the Valley]], triggering a conflict with the night hag coven and—through no fault of their own—a likely TPK. As such, the deed has been removed to help avoid this outcome.
+> Players who find the deed to [[Places/Old Bonegrinder|Old Bonegrinder]] in the secret chest often come to the mistaken conclusion that looting the deed makes them the new owners of the mill. Such players are likely, as a result, to attempt to explore the windmill during [[Act I - Into the Mists/Arc C - Into the Valley]], triggering a conflict with the [[NPCs/Night Hag|night hag]] coven and—through no fault of their own—a likely TPK. As such, the deed has been removed to help avoid this outcome.
 
 ## A2d. The Third Floor
 As the players ascend the spiral stairs to the third floor, remind them that they can see down the center of the staircase all the way to the bottom floor.
@@ -411,16 +411,16 @@ When a player first approaches this door, read:
 <p>These grand doors loom tall, their dark wood frames enclosing a pair of dusty stained-glass windows. Each pane is etched with intricate designs that resemble windmills, their once-vibrant hues now faded and obscured beneath a thick veil of grime.</p>
 <p>Through the dusty haze that prickles your eyes, you catch a glimpse of something through the windows: a silhouette, standing mere inches behind the glass, lit from behind by a dim, amber glow. It's still and unmoving, but the mere sight of it seizes your muscles in a vice-like grip, your limbs refusing to obey your conscious mind.</p>
 <p>The air around you thickens, its temperature plummeting to a bone-chilling cold. Your breath fogs the glass panes, a delicate frost creeping across them as the house's distant creaks and whispers are swallowed by a heavy silence.</p>
-<p>The shadow behind the door is nearly formless—insubstantial—but its presence invokes a primordial dread deep within your marrow. Your heart beats faster, sweat beading on your forehead, pulse racing through your veins. Slowly, the silhouette begins to turn its head toward yours.</p>
+<p>The [[NPCs/Shadow|shadow]] behind the door is nearly formless—insubstantial—but its presence invokes a primordial dread deep within your marrow. Your heart beats faster, sweat beading on your forehead, pulse racing through your veins. Slowly, the silhouette begins to turn its head toward yours.</p>
 <p>And then, just as suddenly as it appeared, the shadow evaporates. The biting cold ebbs away, and the house's quiet sounds return once more.</p>
 </div>
 
-This room is largely as described in <span class="citation">Master Suite (p. 214)</span>. When the players enter this room, read:
+This room is largely as described in <span class="citation">[[Places/Master Suite|Master Suite]] (p. 214)</span>. When the players enter this room, read:
 
 <div class="description">
 <p>You enter a dusty, cobweb-filled master bedroom with burgundy drapes covering the windows. A four-poster bed with embroidered curtains and tattered gossamer veils stands against the center wall.</p>
 <p>A door facing the foot of the bed has a faded full-length mirror mounted on it. In the right-hand corner of the room stands a small wooden door, its surface half-rotted by age. A tarnished metal button is set into the wall beside it.</p>
-<p>A rotting tiger-skin rug lies on the floor in front of the fireplace, which has a dust-covered portrait of the man and woman from the first-floor portrait hanging above it. A web-filled parlor in the southwest corner contains two chairs and a table holding several items, as well as a door with a dark, dirt-flecked window. </p>
+<p>A rotting tiger-skin rug lies on the floor in front of the fireplace, which has a dust-covered portrait of the man and woman from the first-floor portrait hanging above it. A web-filled [[Places/Parlor|parlor]] in the southwest corner contains two chairs and a table holding several items, as well as a door with a dark, dirt-flecked window. </p>
 <p>The room also contains a matching pair of wardrobes, a padded chair, and a vanity with a wood-framed mirror and a silver jewelry box. A soft amber glow emanates from beneath the jewelry box's lid.</p>
 </div>
 
@@ -431,7 +431,7 @@ This room is largely as described in <span class="citation">Master Suite (p. 214
 A roll of parchment is half-buried in the grain beside the shard. If unfurled, it reads as follows:
 
 <div class="description">
-<p>Drasha,</p>
+<p>[[NPCs/Drasha|Drasha]],</p>
 <p>I have selected you as the Beast’s custodian in my absence. Should the Beast grow unruly or show signs of agitation while I am away, I have left this amber shard to weaken it and soothe its fury.</p>
 <p>Should the need arise, present the shard and speak the Beast's name; if you speak with conviction, it shall obey you in my stead, if only for a time. But be sure to begone from the house before it awakens fully at midnight.</p>
 <p>So long as the Beast draws breath, it—not you—is the heart of this house, and no meal shall ever sate its appetite. Should you linger in its domain, it will mean doom for you all.</p>
@@ -454,7 +454,7 @@ This room is largely as described in <span class="citation">Storage Room (p. 215
 <p>Dusty shelves line the walls of this room. A few of the shelves have folded sheets, blankets, and old bars of soap on them. A cobweb-covered broom leans against the far wall.</p>
 </div>
 
-When a player first approaches within 5 feet of the **broom of animated attack**, it attacks with surprise as soon as they avert their eyes or turn away, thwacking them once upside the head. It then immediately returns to its initial position—now cobweb-free. On its future turns, the broom uses its **_multiattack_** to continue to attack any player not looking at it who remains within 5 feet, foregoing opportunity attacks against players that move away.
+When a player first approaches within 5 feet of the **[[Items/Broom of Animated Attack|broom of animated attack]]**, it attacks with surprise as soon as they avert their eyes or turn away, thwacking them once upside the head. It then immediately returns to its initial position—now cobweb-free. On its future turns, the broom uses its **_multiattack_** to continue to attack any player not looking at it who remains within 5 feet, foregoing opportunity attacks against players that move away.
 ### Nursemaid’s Suite
 <span class="citation"><em>This scene takes place in Appendix B: Area 15.</em></span>
 
@@ -510,7 +510,7 @@ The door leads to the [[#Spare Bedroom]].
 ### Spare Bedroom
 <span class="citation"><em>This scene takes place in Appendix B: Area 17.</em></span>
 
-This room is largely as described in <span class="citation">Spare Bedroom (p. 215)</span>. The doll from Children’s Room (p. 215-16) can be found here. When the players first enter it, read:
+This room is largely as described in <span class="citation">Spare Bedroom (p. 215)</span>. The doll from [[Places/Children’s Room|Children’s Room]] (p. 215-16) can be found here. When the players first enter it, read:
 
 <div class="description">
 <p>This cold, dust-choked room contains a slender bed, a nightstand, a small iron stove, a writing desk with a stool, an empty wardrobe, and a rocking chair. A frowning doll in a lacy yellow dress sits in the northern window box beside a tarnished old music box, cobwebs draping it like a wedding veil.</p>
@@ -529,12 +529,12 @@ As the players exit the room, the rocking chair begins to rock softly and the mu
 ### Children’s Room
 <span class="citation"><em>This scene takes place in Appendix B: Area 20.</em></span>
 
-This room is largely as described in **Children’s Room** (p. 215-16).
+This room is largely as described in **[[Places/Children’s Room|Children’s Room]]** (p. 215-16).
 
 ![[Rose and Thorn.png]]
 <span class="credit">"Rose & Thorn" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!profile]+ **Profile: Rosavalda "Rose" Durst**
+> [!profile]+ **Profile: [[NPCs/Rosavalda -Rose- Durst|Rosavalda "Rose" Durst]]**
 >
 > **Roleplaying Information**
 > ***Resonance.*** Rose should inspire sympathy for her insecurities and fears, endearment for her dedication to Thorn, and gratitude for her earnest efforts to aid the players.
@@ -550,9 +550,9 @@ This room is largely as described in **Children’s Room** (p. 215-16).
 >
 > ***Morale.*** In a fight, Rose would plead for peace, but flee with Thorn if that proved impossible.
 >
-> ***Relationships.*** Rose is Thorn Durst's older sister, Walter Durst's half-sibling, and the eldest child of Elisabeth and Gustav Durst.
+> ***Relationships.*** Rose is Thorn Durst's older sister, Walter Durst's half-sibling, and the eldest child of Elisabeth and [[NPCs/Gustav Durst|Gustav Durst]].
 
-> [!profile]+ **Profile: Thornboldt "Thorn" Durst**
+> [!profile]+ **Profile: [[NPCs/Thornboldt -Thorn- Durst|Thornboldt "Thorn" Durst]]**
 >
 > **Roleplaying Information**
 > ***Resonance.*** Thorn should inspire sympathy for his shyness and fear, and endearment for his childlike joy.
@@ -568,7 +568,7 @@ This room is largely as described in **Children’s Room** (p. 215-16).
 >
 > ***Morale.*** In a fight, Thorn would cower and cry, pleading for Rose to rescue him.
 >
-> ***Relationships.*** Thorn is Rose Durst's younger brother, Walter Durst's half-sibling, and the youngest child of Elisabeth and Gustav Durst.
+> ***Relationships.*** Thorn is Rose Durst's younger brother, Walter Durst's half-sibling, and the youngest child of Elisabeth and [[NPCs/Gustav Durst|Gustav Durst]].
 
 In life, Rose was a budding wizard who discovered a small spellbook in her father’s library, and took great care in copying the _mending_, _light_, and _shocking grasp_ cantrips into her diary.<sup><a href="https://www.reddit.com/r/dndnext/comments/49bvms/notes_from_running_death_house/">4</a></sup>
 
@@ -669,7 +669,7 @@ If the characters enter **Elisabeth’s Crypt**, read:
 As the players approach **Rose’s Crypt** and **Thorn’s Crypt**, read:
 
 <div class="description">
-<p>This side-corridor branches again to the left and right. Large standing stone slabs seal the entrance to the tunnels on either side, blocking the way forward. The slab to the left is etched with the name "Rosavalda Durst"; the slab to the right is etched with the name "Thornboldt Durst." Each slab exudes the silence of a forgotten grave.</p>
+<p>This side-corridor branches again to the left and right. Large standing stone slabs seal the entrance to the tunnels on either side, blocking the way forward. The slab to the left is etched with the name "[[NPCs/Rosavalda -Rose- Durst|Rosavalda Durst]]"; the slab to the right is etched with the name "[[NPCs/Thornboldt -Thorn- Durst|Thornboldt Durst]]." Each slab exudes the silence of a forgotten grave.</p>
 </div>
 
 If the characters enter either crypt, read:
@@ -700,7 +700,7 @@ The well comprises a 4-foot-diameter well shaft with a 3-foot-high stone lip, an
 
 If the players toss an object down the well and then turn away, they hear loud splashing and tearing sounds coming from below. When they turn back, the object has been torn to pieces, with large parts missing.
 
-Replace the silvered shortsword in footlocker **25E** with a book bound in grimy black leather. This journal, which is signed by Drasha, contains a list of names and physical descriptions associated with each name. Each entry includes gruesome details describing the victim’s sacrifice, such as “struggled profusely” or “no sedative given,”<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> and ends with the phrase, "Fed to Walter."
+Replace the silvered shortsword in footlocker **25E** with a book bound in grimy black leather. This journal, which is signed by [[NPCs/Drasha|Drasha]], contains a list of names and physical descriptions associated with each name. Each entry includes gruesome details describing the victim’s sacrifice, such as “struggled profusely” or “no sedative given,”<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup> and ends with the phrase, "Fed to Walter."
 
 
 ### Hidden Spiked Pit
@@ -929,11 +929,11 @@ No **ghasts** attack if a player removes any items from the foot locker, and the
 ### Reliquary
 <span class="citation"><em>This scene takes place in Appendix B: Area 35.</em></span>
 
-This room is largely as described in <span class="citation">Reliquary (p. 219)</span>. When the players enter this room, read:
+This room is largely as described in <span class="citation">[[Places/Reliquary|Reliquary]] (p. 219)</span>. When the players enter this room, read:
 
 <div class="description">
 <p>The dusty stone steps descend past a landing and around a bend until they end at a cold, rectangular chamber. A thin, wafting mist clings to the ground, and the wooden cross beams that support the ceiling groan beneath the weight of the house and underground complex above. </p>
-<p>The walls of this room are cut with small, chiseled alcoves, each holding a strange, ghastly trinket or relic. A corridor with a sagging ceiling exits the chamber and bends out of sight to the right. Past it, you can see a stone slope that descends into black, murky water. The ghostly chant you've heard since entering the basement is strongest here, and seems to be emanating from the other side of a rusted, closed portcullis.</p>
+<p>The walls of this room are cut with small, chiseled alcoves, each holding a strange, ghastly trinket or relic. A corridor with a sagging ceiling exits the chamber and bends out of sight to the right. Past it, you can see a stone slope that descends into black, murky water. The ghostly chant you've heard since entering the basement is strongest here, and seems to be emanating from the other side of a rusted, closed [[Places/Portcullis|portcullis]].</p>
 <p>You can finally understand the words.</p>
 <p>They say, over and over again, in a ceaseless refrain:</p>
 <p>"He is the Ancient."</p>
@@ -943,7 +943,7 @@ This room is largely as described in <span class="citation">Reliquary (p. 219)</
 ### Prison
 <span class="citation"><em>This scene takes place in Appendix B: Area 36.</em></span>
 
-This room is largely as described in <span class="citation">Prison (p. 219)</span>. When the players enter this room, read:
+This room is largely as described in <span class="citation">[[Places/Prison|Prison]] (p. 219)</span>. When the players enter this room, read:
 
 <div class="description">
 <p>The sound of clinking chains melds with a quiet, near-imperceptible rustling as you round the bend into a long, darkened dungeon. Rusted shackles hang patiently from the walls, as if waiting to bite into prisoners' flesh once more.</p>
@@ -952,7 +952,7 @@ This room is largely as described in <span class="citation">Prison (p. 219)</spa
 ### Portcullis
 <span class="citation"><em>This scene takes place in Appendix B: Area 37.</em></span>
 
-This area is largely as described in <span class="citation">Portcullis (p. 219)</span>. When the players approach this area, read:
+This area is largely as described in <span class="citation">[[Places/Portcullis|Portcullis]] (p. 219)</span>. When the players approach this area, read:
 
 <div class="description">
 <p>The floor is submerged beneath two feet of dark, murky water that sloshes around your calves and boots. The tunnel forward is blocked by a rusty iron portcullis. Beyond its iron bars, you can make out the dark outline of a half-submerged chamber, a raised stone dais, and a thick cloud of rolling mist.</p>
@@ -962,7 +962,7 @@ The wooden wheel that opens the portcullis remains on the western side of the ga
 ### Ritual Chamber
 <span class="citation"><em>This scene takes place in Appendix B: Area 38.</em></span>
 
-This room is largely as described in <span class="citation">Ritual Chamber (p. 219)</span>. The water is 2ft deep and should be treated as difficult terrain for Medium creatures or smaller. Climbing from the pool to the ledges also counts as difficult terrain. When the players enter this room, read:
+This room is largely as described in <span class="citation">[[Places/Ritual Chamber|Ritual Chamber]] (p. 219)</span>. The water is 2ft deep and should be treated as difficult terrain for Medium creatures or smaller. Climbing from the pool to the ledges also counts as difficult terrain. When the players enter this room, read:
 
 <div class="description">
 <p>The smooth masonry walls of this forty-foot-square room provide excellent acoustics. Featureless stone pillars support the ceiling, and murky water covers most of the floor. Stairs lead up to dry stone ledges that hug the walls. In the middle of the room, more stairs rise to form an octagonal dais that also rises above the water. Rusty chains with shackles dangle from the ceiling directly above a stone altar mounted on the dais. The altar is carved with hideous depictions of grasping ghouls and is stained with dry blood. A small, white bundle lies atop it, surrounded by pulsating, fleshy tendrils.</p>
@@ -988,7 +988,7 @@ A creature engulfed by the mound’s first form can hear the faint sound of a ba
 
 > [!item]+ **Elisabeth's Amber Shard**
 >
-> A player in possession of Elisabeth's amber shard from the **Master Suite** can present the shard as a bonus action while within 30 feet of the **flesh mound**, speak the name "Walter," and give a brief command. If the player succeeds on a DC 13 Charisma (Intimidation) check, the mound must immediately use a reaction, if available, to follow the command, moving up to its speed to do so if necessary. The mound won't obey a command that is directly harmful to it, and can stop following a command at the start of its next turn. If it has no reactions available, the mound can use its bonus action to follow the command.
+> A player in possession of Elisabeth's amber shard from the **[[Places/Master Suite|Master Suite]]** can present the shard as a bonus action while within 30 feet of the **flesh mound**, speak the name "Walter," and give a brief command. If the player succeeds on a DC 13 Charisma (Intimidation) check, the mound must immediately use a reaction, if available, to follow the command, moving up to its speed to do so if necessary. The mound won't obey a command that is directly harmful to it, and can stop following a command at the start of its next turn. If it has no reactions available, the mound can use its bonus action to follow the command.
 
 > [!warning]+ **Don't Use Tactics!**
 > All enemies in this guide, including boss monsters, have been exhaustively playtested and balanced using the Challenge Ratings 2.0 encounter-building system. All major boss encounters, including the two-phase fight with the **flesh mound**, have been calibrated to consume most or all of the players' hit points, in order to create a dangerous and exciting fight.
@@ -1076,7 +1076,7 @@ A creature engulfed by the mound’s first form can hear the faint sound of a ba
 </div><br>
 
 <div class="statblock">
-<h2>Walter, the Graveborn</h2>
+<h2>[[NPCs/Walter, the Graveborn|Walter, the Graveborn]]</h2>
 <em>Large undead, chaotic evil</em>
 <hr>
 <strong>Armor Class</strong> 15 (natural armor)
@@ -1157,7 +1157,7 @@ Instead, as the players escape the crumbling Death House, they face two addition
 
 The spirit is recognizable as Gustav Durst. Gustav pleads with the players to give up, insisting that Elisabeth's spirit is simply too powerful—too fearsome—to disobey. A DC 10 Wisdom (Insight) check reveals that Gustav is terrified of Elisabeth—and ridden with guilt, doubt, and self-loathing.
 
-If the players attempt to bypass or attack Gustav, a swarm of levitating debris and shrapnel arises around him. He pleads with the players again, insisting that he doesn't want to fight them, but that he doesn't know that he has any other choice.
+If the players attempt to bypass or attack Gustav, a [[NPCs/Swarm|swarm]] of levitating debris and shrapnel arises around him. He pleads with the players again, insisting that he doesn't want to fight them, but that he doesn't know that he has any other choice.
 
 > [!combat]- **Combat - Gustav**
 > **Combat Level**: Bruising
@@ -1200,11 +1200,11 @@ The apparitions are harmless and intangible figments that can't be damaged, turn
 # A3. Outside Death House
 When the players exit Death House, the storm overhead has slowed to a mere drizzle, and the mists around the house have disappeared. Night has long since fallen, and the waning moon is high in the sky.
 
-Most surprisingly, the players now find themselves in a dark forest clearing at the beginning of the <span class="citation">Old Svalich Road (p. 33)</span>, rather than in the streets of Daggerford. The road travels west. To the east lie dark, endless woods filled with the <span class="citation">Mists of Ravenloft (p. 23)</span>.
+Most surprisingly, the players now find themselves in a dark forest clearing at the beginning of the <span class="citation">[[Places/Old Svalich Road|Old Svalich Road]] (p. 33)</span>, rather than in the streets of Daggerford. The road travels west. To the east lie dark, endless woods filled with the <span class="citation">Mists of Ravenloft (p. 23)</span>.
 
 The house then collapses into the earth, leaving a dark and bottomless pit behind. If the players still have it, Elisabeth Durst's amber shard then crumbles into dust. The pit vanishes the first time the players depart the clearing.
 
-If they’re still possessing the players, [[Non-Player Characters#Rosavalda "Rose" Durst|Rose]] and [[Non-Player Characters#Thornboldt "Thorn" Durst|Thorn]]’s spirits end their possessions. The children remark that the woods resembles the Svalich Woods, which once surrounded their home—Barovia. However, the children add that these particular woods are unfamiliar to them, and that they seem to be far from their family's original village.
+If they’re still possessing the players, [[Non-Player Characters#Rosavalda "Rose" Durst|Rose]] and [[Non-Player Characters#Thornboldt "Thorn" Durst|Thorn]]’s spirits end their possessions. The children remark that the woods resembles the [[Places/Svalich Woods|Svalich Woods]], which once surrounded their home—Barovia. However, the children add that these particular woods are unfamiliar to them, and that they seem to be far from their family's original village.
 
 As the players explore their surroundings, they can quickly see the top of an old, ruined stone tower poking up through the treetops. The architecture of the tower is as described in <span class="citation">Will-o'-Wisp (p. 33)</span>, but the interior is not desecrated ground, there is no wooden chest on the ground, and there are no **zombies** or **will-o'-wisps** inside or around the tower.
 
@@ -1212,11 +1212,11 @@ The players can easily surmise that this ruin appears to be a safe place to spen
 
 The night passes without issue. When the players awaken the following morning, Rose and Thorn ask the players if they can bury their remains before proceeding any further, so that they can finally rest. (The children's spirits will not proceed further into Barovia, instead pleading for the players to allow them to rest.) If the players bury their remains here, the children’s spirits thank them before vanishing.
 
-The players can find the beginning of the Old Svalich Road a short ways through the woods away from the tower. [[Act I - Into the Mists/Arc B - Welcome to Barovia]] then begins.
+The players can find the beginning of the [[Places/Old Svalich Road|Old Svalich Road]] a short ways through the woods away from the tower. [[Act I - Into the Mists/Arc B - Welcome to Barovia]] then begins.
 
 **_Milestone_**. Escaping Death House completes a story milestone. When the party begins their first long rest after escaping the house, award each player 400 XP. (This should allow the players to advance to 3rd level.)
 # Design Notes: Death House
-***The Arrival.*** The illusory Rose and Thorn have been intentionally removed from this version of Death House in order to ensure that the players enter the house of their own volition and trust the real Durst children upon meeting them.
+***The Arrival.*** The illusory Rose and Thorn have been intentionally removed from this version of Death House in order to ensure that the players enter the house of their own volition and trust the real [[NPCs/Durst children|Durst children]] upon meeting them.
 
 The countdown and poem have been added to provide the players with a clear sense of direction and purpose while exploring the house, and to prevent the players from taking a long rest (and therefore disrupting the balance of subsequent combat encounters) while doing so.
 
@@ -1230,12 +1230,12 @@ The dog Lancelot, a popular community character, has been intentionally cut from
 
 ***The Attic.*** Clues have been added to convey the nursemaid's fate and the founding of Mrs. Durst's cult.
 
-***The Dungeon.*** Several of the encounters in this area have been changed to reduce the probability of a TPK and to teach the players to act cautiously and make wise decisions. In the ritual chamber, the cult is no longer willing to accept the sacrifice of a beast (e.g., Lancelot), foreshadowing that Strahd will not be content with Ireena alone. The **shambling mound** has been replaced by a two-stage **flesh mound**, whose statistics have been calibrated to provide a challenging fight without risking a TPK.
+***The Dungeon.*** Several of the encounters in this area have been changed to reduce the probability of a TPK and to teach the players to act cautiously and make wise decisions. In the ritual chamber, the cult is no longer willing to accept the sacrifice of a beast (e.g., Lancelot), foreshadowing that Strahd will not be content with [[NPCs/Ireena Kolyana|Ireena]] alone. The **[[NPCs/Shambling Mound|shambling mound]]** has been replaced by a two-stage **flesh mound**, whose statistics have been calibrated to provide a challenging fight without risking a TPK.
 
-***Escape From Death House.*** The original "escape from Death House" sequence has been replaced with a pair of social encounters that reward the players for investigating the history of the house, and which serve to foreshadow the characterizations of Sergi von Zarovich, Lady Fiona Wachter, and Strahd's brides and servants in the adventure to come.
+***Escape From Death House.*** The original "escape from Death House" sequence has been replaced with a pair of social encounters that reward the players for investigating the history of the house, and which serve to foreshadow the characterizations of Sergi von Zarovich, [[NPCs/Lady Fiona Wachter|Lady Fiona Wachter]], and Strahd's brides and servants in the adventure to come.
 
 The frequent community addition of a skill challenge to escape the house has been removed to ensure a smooth and simple transition from the flesh mound's death to the players' exit from the house, to remove any friction with players who may struggle to learn the mechanics of a new system of gameplay in the heat of the moment, and to preserve the players' immersion in the narrative of the escape, rather than its gameplay.
 
 This guide has intentionally foregone a popular community addition that places a bottle of wine—courtesy of Strahd—at or near the exit of the house. Strahd is not omniscient, and the players' efforts to avoid or foil his spies will prove a recurring aspect of gameplay through the adventure. Moreover, Death House is too far from Barovia proper for Strahd to have obtained and delivered a fresh bottle of wine to its location. A villain is only as evocative as their limitations, and Strahd has many. 
 
-Finally, it is an intentional design choice of this guide that the players do not encounter Strahd directly until their meeting at the River Ivlis Crossroads, which ensures that their relationship with Strahd before then is built solely on rumor, second-hand knowledge, and superstition. Earlier direct exposure would wholly spoil this effect.
+Finally, it is an intentional design choice of this guide that the players do not encounter Strahd directly until their meeting at the [[Places/River Ivlis Crossroads|River Ivlis Crossroads]], which ensures that their relationship with Strahd before then is built solely on rumor, second-hand knowledge, and superstition. Earlier direct exposure would wholly spoil this effect.

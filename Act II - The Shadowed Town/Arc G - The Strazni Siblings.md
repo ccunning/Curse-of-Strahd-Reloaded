@@ -1,32 +1,32 @@
 _An adventure for five 4th-level characters._
 
-In this arc, shortly after seeing Ireena Kolyana, Izek Strazni realizes that she is—quite literally—the woman of his dreams. 
+In this arc, shortly after seeing [[NPCs/Ireena Kolyana|Ireena Kolyana]], [[NPCs/Izek Strazni|Izek Strazni]] realizes that she is—quite literally—the woman of his dreams. 
 
-After learning from his spies that Ireena has most recently resided at the Blue Water Inn, Izek visits the Inn himself in an attempt to uncover her location. If his effort is unsuccessful, he directs the town guard to publish WANTED posters around Vallaki offering a reward for information regarding Ireena’s location.
+After learning from his spies that [[NPCs/Ireena Kolyana|Ireena]] has most recently resided at the [[Places/Blue Water Inn|Blue Water Inn]], [[NPCs/Izek Strazni|Izek]] visits the Inn himself in an attempt to uncover her location. If his effort is unsuccessful, he directs the town guard to publish WANTED posters around [[Places/Vallaki|Vallaki]] offering a reward for information regarding Ireena’s location.
 
 If the players neither stop Izek nor take extraordinary measures to keep Ireena concealed, Izek finds and kidnaps Ireena two days later, imprisoning her in his room at the Baron’s mansion. Can the players free Ireena from Izek’s clutches—or will they perish in the attempt?
 
 > [!abstract]+ **Lady Wachter's Request**
-> If the players kill Izek without accepting Lady Wachter's mission in [[Arc F - Lady Wachter's Wish]], Lady Wachter sends Ernst Larnak the following morning to invite them to tea at Wachterhaus that afternoon "in light of their recent accomplishments." If the players decline Ernst's invitation, Lady Wachter visits the Blue Water Inn in person that evening wearing a deep blue hooded cloak and asks to speak with them in private.
+> If the players kill Izek without accepting Lady Wachter's mission in [[Arc F - Lady Wachter's Wish]], Lady Wachter sends [[NPCs/Ernst Larnak|Ernst Larnak]] the following morning to invite them to tea at [[Places/Wachterhaus|Wachterhaus]] that afternoon "in light of their recent accomplishments." If the players decline Ernst's invitation, Lady Wachter visits the [[Places/Blue Water Inn|Blue Water Inn]] in person that evening wearing a deep blue hooded cloak and asks to speak with them in private.
 > 
-> Regardless of how she and the players meet, Lady Wachter congratulates them on freeing Vallaki of Izek's tyranny and cruelty and frankly asks their blessing to seek the position of Burgomaster from Baron Vallakovich. She is glad to accept the players' assistance in doing so if offered, but otherwise assures them that she believes that he may be persuaded to abdicate peacefully.
+> Regardless of how she and the players meet, Lady Wachter congratulates them on freeing [[Places/Vallaki|Vallaki]] of Izek's tyranny and cruelty and frankly asks their blessing to seek the position of Burgomaster from Baron Vallakovich. She is glad to accept the players' assistance in doing so if offered, but otherwise assures them that she believes that he may be persuaded to abdicate peacefully.
 > 
-> If the players are wary of granting Lady Wachter the "power" of the position, Lady Wachter reassures them that Vallaki's burgomaster holds no intrinsic power except that granted by the townsfolk. "I confess, I am not familiar with the powers of queens and duchesses beyond the Mists," she concedes, "but in Barovia, the burgomaster is a town's administrator—not its ruler."
+> If the players are wary of granting Lady Wachter the "power" of the position, Lady Wachter reassures them that Vallaki's burgomaster holds no intrinsic power except that granted by the townsfolk. "I confess, I am not familiar with the powers of queens and duchesses beyond the [[Places/Mists|Mists]]," she concedes, "but in [[Places/Barovia|Barovia]], the burgomaster is a town's administrator—not its ruler."
 > 
 > "I would pay the salaries of the town's guard, yes," she says, "but they are Morninglord-fearing folk—they would not hesitate to depose me if they felt my ordinances harmful to their neighbors." She adds wryly, "I assure you: I have no wish to *rule* Vallaki. My aspirations, clerical as they are, are far more dull than that." 
 > 
-> If the players still appear suspicious of the possibility that she might betray them to Strahd, she scoffs, and points out that the players have killed Izek—who she could not herself touch. "If anyone should be frightened, it's I," she says, laughing slightly hysterically. "A band of armed, powerful outsiders have arrived in my small town and killed the most powerful creature within its walls. I am here only because I have faith in your goodwill and your love for my neighbors.")
+> If the players still appear suspicious of the possibility that she might betray them to [[NPCs/Strahd von Zarovich|Strahd]], she scoffs, and points out that the players have killed Izek—who she could not herself touch. "If anyone should be frightened, it's I," she says, laughing slightly hysterically. "A band of armed, powerful outsiders have arrived in my small town and killed the most powerful creature within its walls. I am here only because I have faith in your goodwill and your love for my neighbors.")
 # G1. The Blue Water Inn
 ## G1a. Izek’s Visit
 Just over a day after catching a glimpse of Ireena Kolyana for the first time—either in the street outside of the Blue Water Inn, in Vallaki’s town square, or in some other location—Izek Strazni recognizes her as the woman that he has seen repeatedly in his dreams and becomes determined to find her. 
 
 Izek soon comes to believe that Ireena is a guest at the Blue Water Inn—either because he observed her in the vicinity of the Blue Water Inn on the players’ first morning in Vallaki, or, unless players disguised her upon their entry into Vallaki, because he learned of her recent arrival from the guards at the gates. (If Izek did not see Ireena outside of the Blue Water Inn and the players kept her disguised upon entering Vallaki, Izek learns of Ireena’s location from one of his spies an additional day later, unless the players have taken extraordinary measures to keep her hidden.)
 
-While the players are away—and preferably during the players’ dinner with Lady Fiona Wachter in [[Arc F - Lady Wachter's Wish]]—Izek visits the Blue Water Inn and demands to know of Ireena’s location, describing her by appearance. Urwin and Danika deny knowledge of her current location and insist that she is not a current guest. Izek demands entry into each room of the inn to search for her, which Urwin and Danika reluctantly allow.
+While the players are away—and preferably during the players’ dinner with [[NPCs/Lady Fiona Wachter|Lady Fiona Wachter]] in [[Arc F - Lady Wachter's Wish]]—Izek visits the Blue Water Inn and demands to know of Ireena’s location, describing her by appearance. [[NPCs/Urwin Martikov|Urwin]] and [[NPCs/Danika Dorakova|Danika]] deny knowledge of her current location and insist that she is not a current guest. Izek demands entry into each room of the inn to search for her, which [[NPCs/Urwin Martikov|Urwin]] and [[NPCs/Danika Dorakova|Danika]] reluctantly allow.
 
 If Ireena is currently staying at the inn, Urwin quietly directs Brom and Bray to retrieve and conceal her in <span class="citation">N2i. Secret Stairs and Hall (p. 101)</span> while he and Danika keep Izek distracted in <span class="citation">N2f. Stable (p. 101)</span>. To keep Izek busy, Danika allows him to search <span class="citation">N2h. Ravens' Loft (p. 101)</span>, allowing him to find the locked chest buried in the hay. Urwin reluctantly complies with Izek's demands to open the chest, and Izek confiscates the 140 ep and 70 pp as "unpaid taxes."
 
-After rummaging through each room of the inn—including Rictavio’s suite—Izek breaks a table, two chairs, and a window in a fit of rage and storms out of the inn.
+After rummaging through each room of the inn—including [[NPCs/Rictavio|Rictavio]]’s suite—Izek breaks a table, two chairs, and a window in a fit of rage and storms out of the inn.
 ## G1b. The Players Return
 <span class="citation"><em>This scene takes place in Chapter 5: Area N2c.</em></span>
 
@@ -44,17 +44,17 @@ Urwin sincerely apologizes to the players for the damage to their rooms, and pro
 
 If the players indicate an interest in attacking Izek for his transgressions or to stop him from finding Ireena, Urwin warns them that Izek is a powerful and dangerous foe, protected by the town guard at nearly all hours of the day. Should the players challenge him outright, it shall surely be suicide. 
 
-If the players appear dead-set on challenging Izek, Urwin reluctantly advises them to seek the counsel of Lady Fiona Wachter, who is known to be a steadfast enemy of the Baron. He also offers to uncover details regarding Izek’s schedule and activities in order to assist the players’ efforts. 
+If the players appear dead-set on challenging Izek, Urwin reluctantly advises them to seek the counsel of [[NPCs/Lady Fiona Wachter|Lady Fiona Wachter]], who is known to be a steadfast enemy of the Baron. He also offers to uncover details regarding Izek’s schedule and activities in order to assist the players’ efforts. 
 
 Urwin declines to reveal his sources, but notes only that some “friends” of his are adept at finding information without being detected.
 ## G1c. Ireena’s Aftermath
 <span class="citation"><em>This scene takes place in Chapter 5: Area N2e.</em></span>
 
-If [[Non-Player Characters#Ireena Kolyana|Ireena]] was at the inn when Izek arrived, [[Non-Player Characters#Urwin Martikov|Urwin]] further informs the players that [[Non-Player Characters#Danika Dorakova|Danika]] is comforting her in <span class="citation">N2e. Kitchen (p. 101)</span> while brewing a batch of hot mulled wine to steady her nerves. (Brom and Bray have been sent to their room for the night—not as a punishment, but to keep them safe should Izek return. Urwin has promised both new toys as a reward for their selflessness and bravery.)
+If [[Non-Player Characters#Ireena Kolyana|Ireena]] was at the inn when Izek arrived, [[Non-Player Characters#Urwin Martikov|Urwin]] further informs the players that [[Non-Player Characters#Danika Dorakova|Danika]] is comforting her in <span class="citation">N2e. [[Places/Kitchen|Kitchen]] (p. 101)</span> while brewing a batch of hot mulled wine to steady her nerves. (Brom and Bray have been sent to their room for the night—not as a punishment, but to keep them safe should Izek return. Urwin has promised both new toys as a reward for their selflessness and bravery.)
 
 Ireena is shaken, confused, and disturbed by Izek’s visit, but deeply grateful to the Martikovs for their efforts to keep her from harm. (If asked, she can inform the players of the existence of the inn’s secret corridor and staircase, but asks them to promise to keep the Martikovs’ secrets safe.) 
 
-If Ireena was at St. Andral's Church when Izek visited the inn, she visits the inn the following morning and sees the aftermath herself.
+If Ireena was at [[Places/St. Andral's Church|St. Andral's Church]] when Izek visited the inn, she visits the inn the following morning and sees the aftermath herself.
 
 ***Ireena's Choice.*** Whether Ireena was at the inn or church during Izek's attack, she is filled with guilt, rage, and frustration upon learning of it. With a tremble in her voice, she demands that the players allow her to accompany them should they decide to put a stop to Izek's rampage. Ireena doesn't care about Izek's motivation; she simply wants others to stop suffering for their decisions to protect her.
 
@@ -68,7 +68,7 @@ Ireena, determined and stubborn, can't be convinced to remain at the inn or chur
 > 
 > - Izek is accompanied for most of the day by two Vallakian **guards**. The guards keep a close eye on his surroundings, making it difficult to ambush him. However, Izek usually dismisses the guards and retires to one of several preferred haunts to drink around dusk.
 > - Izek’s day-to-day schedule varies, but he reliably takes his midday meal in Vallaki’s town square, delivered by the Baron’s cook. He returns every night to Baron Vallakovich’s mansion to sleep.
-> - Strange figures have been seen going in and out of Wachterhaus, the home of Lady Fiona Wachter, one of the Baron’s fiercest political enemies. Rumor has it that one of her servants has been shadowing Izek around town for the past two weeks. She might have aid to offer.
+> - Strange figures have been seen going in and out of [[Places/Wachterhaus|Wachterhaus]], the home of Lady Fiona Wachter, one of the Baron’s fiercest political enemies. Rumor has it that one of her servants has been shadowing Izek around town for the past two weeks. She might have aid to offer.
 > 
 > If the players journey to Lady Wachter’s estate to seek her assistance, they begin [[Arc F - Lady Wachter's Wish]].
 
@@ -79,8 +79,8 @@ At dawn on the fourth day after the players arrived in Vallaki, unless the playe
 
 The next time that Ireena and the players are apart that day, [[Non-Player Characters#Izek Strazni|Izek]], joined by four **guards**, breaks into Ireena’s current location and attempts to kidnap her. [[Non-Player Characters#Ireena Kolyana|Ireena]] bites off his left ear in the process, permanently giving him disadvantage on all Wisdom (Perception) checks involving hearing.
 
-* ***Blue Water Inn.*** If Ireena is still at the Blue Water Inn, [[Non-Player Characters#Urwin Martikov|Urwin]] and [[Non-Player Characters#Danika Dorakova|Danika]], alerted by a **wereraven** about Izek’s approach, swiftly move once to hide her in the hidden staircase. However, Izek notices a strand of Ireena’s hair caught in the secret door and forces the door open, finding her. As he hauls Ireena away, he commands the guards to place Urwin in the town stocks. He uses his ***hurl flame*** ability to set fire to the Blue Water Inn, causing severe property damage before Danika and six **wereraven** members of the Keepers of the Feather are able to extinguish it using water from the inn’s well.
-* ***St. Andral’s Church.*** If Ireena has been moved to St. Andral’s Church, Izek interrupts [[Non-Player Characters#Father Lucian Petrovich|Father Petrovich]] in the middle of a sermon and demands to know Ireena’s location. Despite Father Petrovich’s protests, Izek finds Ireena in the priest’s office (which Father Petrovich and Yeska have converted into a makeshift third bedroom) and seizes her. Izek coldly vows that he will return to punish the church for hiding Ireena from him, but departs without causing further harm.
+* ***Blue Water Inn.*** If Ireena is still at the Blue Water Inn, [[Non-Player Characters#Urwin Martikov|Urwin]] and [[Non-Player Characters#Danika Dorakova|Danika]], alerted by a **wereraven** about Izek’s approach, swiftly move once to hide her in the hidden staircase. However, Izek notices a strand of Ireena’s hair caught in the secret door and forces the door open, finding her. As he hauls Ireena away, he commands the guards to place Urwin in the town stocks. He uses his ***hurl flame*** ability to set fire to the Blue Water Inn, causing severe property damage before Danika and six **wereraven** members of [[Factions/Keepers of the Feather|the Keepers of the Feather]] are able to extinguish it using water from the inn’s well.
+* ***St. Andral’s Church.*** If Ireena has been moved to St. Andral’s Church, Izek interrupts [[Non-Player Characters#Father Lucian Petrovich|Father Petrovich]] in the middle of a sermon and demands to know Ireena’s location. Despite [[NPCs/Father Petrovich|Father Petrovich]]’s protests, Izek finds Ireena in the priest’s office (which [[NPCs/Father Petrovich|Father Petrovich]] and Yeska have converted into a makeshift third bedroom) and seizes her. Izek coldly vows that he will return to punish the church for hiding Ireena from him, but departs without causing further harm.
 
 If Izek is successful, he then takes Ireena by force to his room in the Baron’s mansion (described in **N3j. Izek's Bedroom**, p. 107), where he binds her with rope, gags her, and places her on his bed. He then takes a chair and several bottles of wine from the first floor, places the chair in his room beside the bed, and remains there until the dawn of the Festival of the Blazing Sun.
 
@@ -100,13 +100,13 @@ In either case, if the players are found in a place where they’re not supposed
 
 The NPCs in the mansion ordinarily behave as follows:
 
-* Baron Vallakovich can generally be found in <span class="citation">N3l. Library (p. 107)</span> during the day, and in <span class="citation">N3o. Master Bedroom (p. 108)</span> at night. He is accompanied by his two **mastiffs**, Fang and Claw, at all times. If he finds the players trespassing, he sets Fang and Claw to attack them, but raises the alarm if the dogs are defeated.
-* Baroness Lydia Petrovna can generally be found in <span class="citation">N3c. Dining Room (p. 106)</span> during the day and in <span class="citation">N3o. Master Bedroom (p. 108)</span> at night. If she finds the players trespassing during the day, she assumes that they are guests of her husband, Vargas, and greets them accordingly; otherwise, she screams, then faints. 
-* [[Non-Player Characters#Victor Vallakovich|Victor Vallakovich]] can generally be found in <span class="citation">N3t. Victor's Workroom (p. 109)</span> both day and night. If he finds the players trespassing, he greets them warily and demands to know their names and business. (He won’t raise the alarm if his curiosity is satisfied.)
-* Tereska, the cook, can generally be found in <span class="citation">N3g. Kitchen (p. 106)</span> during the day, and in <span class="citation">N3f. Servants' Quarters (p. 106)</span> at night. If she finds the players trespassing, she raises the alarm unless they agree to leave.
-* Clavdia, the maid, can generally be found on the second floor during the morning, on the first floor during the afternoon, and in <span class="citation">N3f. Servants’ Quarters (p. 106)</span> at night. If she finds the players trespassing, she immediately raises the alarm.
+* Baron Vallakovich can generally be found in <span class="citation">N3l. [[Places/Library|Library]] (p. 107)</span> during the day, and in <span class="citation">N3o. Master Bedroom (p. 108)</span> at night. He is accompanied by his two **mastiffs**, Fang and Claw, at all times. If he finds the players trespassing, he sets Fang and Claw to attack them, but raises the alarm if the dogs are defeated.
+* [[NPCs/Baroness Lydia Petrovna|Baroness Lydia Petrovna]] can generally be found in <span class="citation">N3c. Dining Room (p. 106)</span> during the day and in <span class="citation">N3o. Master Bedroom (p. 108)</span> at night. If she finds the players trespassing during the day, she assumes that they are guests of her husband, Vargas, and greets them accordingly; otherwise, she screams, then faints. 
+* [[Non-Player Characters#Victor Vallakovich|Victor Vallakovich]] can generally be found in <span class="citation">N3t. [[NPCs/Victor Vallakovich|Victor]]'s Workroom (p. 109)</span> both day and night. If he finds the players trespassing, he greets them warily and demands to know their names and business. (He won’t raise the alarm if his curiosity is satisfied.)
+* Tereska, the cook, can generally be found in <span class="citation">N3g. [[Places/Kitchen|Kitchen]] (p. 106)</span> during the day, and in <span class="citation">N3f. Servants' Quarters (p. 106)</span> at night. If she finds the players trespassing, she raises the alarm unless they agree to leave.
+* Clavdia, the maid, can generally be found on the second floor during the morning, on the first floor during the afternoon, and in <span class="citation">N3f. [[Places/Servants’ Quarters|Servants’ Quarters]] (p. 106)</span> at night. If she finds the players trespassing, she immediately raises the alarm.
 
-[[Non-Player Characters#Izek Strazni|Izek]] remains in his bedroom with Ireena at all times and refuses to allow anyone else to enter, including the Baron and the household staff. If the players loot Izek’s body following his death, they can recover his silvered battleaxe, a pouch containing 35 gp, and an amber shard of Seriach, the Hell Hound Whisperer. (See the **Amber Shard** appendix for more information about amber shards.)
+[[Non-Player Characters#Izek Strazni|Izek]] remains in his bedroom with Ireena at all times and refuses to allow anyone else to enter, including the Baron and the household staff. If the players loot Izek’s body following his death, they can recover his silvered battleaxe, a pouch containing 35 gp, and an [[Items/Amber Shard|amber shard]] of [[NPCs/Seriach, the Hell Hound Whisperer|Seriach, the Hell Hound Whisperer]]. (See the **[[Items/Amber Shard|Amber Shard]]** appendix for more information about [[Items/Amber Shards|amber shards]].)
 
 > [!info]+ **Don't Wake Izek**
 >
@@ -125,13 +125,13 @@ The NPCs in the mansion ordinarily behave as follows:
 > * A creature that enters the fire or begins its turn there for the first time on a turn takes 1d8 fire damage.
 > * All squares within 10 feet of a **fire** are heavily obscured by smoke. A creature other than Izek that starts its turn in the smoke must make a DC 10 Constitution saving throw or be **poisoned** until the start of its next turn. Undead and constructs succeed on the saving throw automatically.
 >
-> One minute after the first fires ignite, Victor Vallakovich descends to the battlefield if able and commands all combatants to move behind him. He then casts _cone of cold_ to extinguish all burning squares.
+> One minute after the first fires ignite, [[NPCs/Victor Vallakovich|Victor Vallakovich]] descends to the battlefield if able and commands all combatants to move behind him. He then casts _cone of cold_ to extinguish all burning squares.
 
 ## G4a. Infiltrating the Manor
 If the players infiltrate the manor and successfully make their way to Izek’s bedroom, the door is locked as described in <span class="citation">N3j. Izek's Bedroom (p. 107)</span>. If the players attempt to pick the lock and [[Non-Player Characters#Izek Strazni|Izek]] is awake (see ***Don’t Wake Izek*** below), they must also succeed on a DC 13 Dexterity (Stealth) check to do so without alerting him.
 
 > [!warning]+ **Surprising Izek**
-> Don't forget that Izek, even if surprised, can still use his reactions after the end of his first turn in combat. See <span class="citation">Surprise (<em>Player's Handbook</em>, p. 189)</span> for more information.
+> Don't forget that Izek, even if surprised, can still use his reactions after the end of his first turn in combat. See <span class="citation">Surprise (<em>[[Items/Player's Handbook|Player's Handbook]]</em>, p. 189)</span> for more information.
 
 The players will find it difficult to lure Izek from his bedroom while Ireena is present, but can do so with sufficiently creative and provocative efforts—assuming, of course, they roll sufficiently high. Otherwise, Izek draws his silvered battleaxe and fights at the slightest provocation.
 
@@ -281,13 +281,13 @@ If the players cause a ruckus at the front door or on the first floor of the man
 > [!info]+ **No Double-Counting**
 > The players can earn a maximum of 1,500 XP for completing [[Arc F - Lady Wachter's Wish]] and/or [[Arc G - The Strazni Siblings]]. Parties that rescue Ireena then later kill Izek will earn 750 XP for the former and an additional 750 XP for the latter.
 # Design Notes: The Strazni Siblings
-This arc has been expanded to provide a more explicit "ticking clock" that drives the players into conflict with Izek Strazni, and as an inciting incident that pushes Ireena to journey with the players and take agency in her fight against Strahd.
+This arc has been expanded to provide a more explicit "ticking clock" that drives the players into conflict with Izek Strazni, and as an inciting incident that pushes Ireena to journey with the players and take agency in her fight against [[NPCs/Strahd von Zarovich|Strahd]].
 
 ***The Blue Water Inn.*** Izek's attack on the Blue Water Inn has been added to provide the players with an additional motivation to seek his death—especially if they are mistrustful of Lady Wachter's motives or doubtful of the benefits of removing her obstacles to power. 
 
 Izek's attack also serves to motivate Ireena to join the players in defeating him, developing her character arc as she moves from passivity to agency and laying the foundations for her ultimate decision to journey with the players at the beginning of **Act III: The Broken Land.**
 
-Urwin's aid has been added to discourage the players from fighting Izek directly (i.e., in a fair fight), to direct them toward Lady Wachter (and therefore serve as a backup hook to [[Arc F - Lady Wachter's Wish]]), and to foreshadow his involvement with the Keepers of the Feather, who the players will learn more about in [[Arc J - The Stolen Gem]].
+Urwin's aid has been added to discourage the players from fighting Izek directly (i.e., in a fair fight), to direct them toward Lady Wachter (and therefore serve as a backup hook to [[Arc F - Lady Wachter's Wish]]), and to foreshadow his involvement with [[Factions/Keepers of the Feather|the Keepers of the Feather]], who the players will learn more about in [[Arc J - The Stolen Gem]].
 
 ***The Kidnapping.*** Izek's kidnapping of Ireena has been implemented as a failsafe penalty if the players decline to take any action to defeat him before this date (which will most likely be on or about the players' fourth full day in Vallaki).
 

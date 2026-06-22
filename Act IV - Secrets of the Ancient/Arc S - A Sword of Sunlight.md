@@ -1,11 +1,11 @@
 _An adventure for five 8th-level characters._
 
-In this arc, the players delve into the depths of the frozen Amber Temple in search of the long-lost hilt of the *Sunsword*: the one weapon that can help them defeat Strahd. But the Amber Temple is protected—by a scheming arcanaloth in disguise, a trio of maddened flameskulls, and a pair of deadly amber golems—and occupied by a host of other threats, from a recently arrived death slaad to the Dark Powers' first prisoner: the traitorous wizard Vilnius.
+In this arc, the players delve into the depths of the frozen [[Places/Amber Temple|Amber Temple]] in search of the long-lost hilt of the *[[Items/Sunsword|Sunsword]]*: the one weapon that can help them defeat [[NPCs/Strahd von Zarovich|Strahd]]. But [[Places/Amber Temple|the Amber Temple]] is protected—by a scheming arcanaloth in disguise, a trio of maddened flameskulls, and a pair of deadly amber golems—and occupied by a host of other threats, from a recently arrived death slaad to [[Factions/Dark Powers|the Dark Powers]]' first prisoner: the traitorous wizard Vilnius.
 
-As the players uncover the temple's ancient secrets, one question dominates their minds: Where did Patrina Velikovna, the dusk elf archmage and failed lich, hide the *Sunsword*'s hilt? Their search will take them to a group of meditating Mountain Folk, a maddened nothic, a table of wary spirits, and—eventually—the amber sarcophagus of the vestige of the Vampyr, where Strahd first accepted the dark gift of vampirism. But the *Sunsword*'s hilt, hidden in a secret demiplane within the Vampyr's prison, conceals a deadly secret: the disembodied spirit of Patrina Velikovna, who sought to use it as her phylactery. Can the players defeat Patrina and reignite the *Sunsword*—before Strahd's trials defeat them first?
+As the players uncover the temple's ancient secrets, one question dominates their minds: Where did [[NPCs/Patrina Velikovna|Patrina Velikovna]], the dusk elf archmage and failed [[NPCs/Lich|lich]], hide the *[[Items/Sunsword|Sunsword]]*'s hilt? Their search will take them to a group of meditating [[Factions/Mountain Folk|Mountain Folk]], a maddened [[NPCs/Nothic|nothic]], a table of wary spirits, and—eventually—the amber sarcophagus of the vestige of [[NPCs/The Vampyr|the Vampyr]], where [[NPCs/Strahd von Zarovich|Strahd]] first accepted the dark gift of vampirism. But the *Sunsword*'s hilt, hidden in a secret demiplane within the [[Items/Vampyr|Vampyr]]'s [[Places/Prison|prison]], conceals a deadly secret: the disembodied spirit of [[NPCs/Patrina Velikovna|Patrina Velikovna]], who sought to use it as her phylactery. Can the players defeat Patrina and reignite the *Sunsword*—before Strahd's trials defeat them first?
 
 > [!warning]+ **Beacon of Protection**
-> Don’t forget: whilst Argynvost’s beacon is lit, any NPCs who oppose Strahd also gain a +1 bonus to AC and saving throws. 
+> Don’t forget: whilst [[NPCs/Argynvost|Argynvost]]’s beacon is lit, any NPCs who oppose Strahd also gain a +1 bonus to AC and saving throws. 
 
 > [!lore]+ **Operations of the Amber Temple**
 > More than two thousand years ago, a secret society of good-aligned wizards built the Amber Temple as described in <span class="citation">Chapter 13: The Amber Temple (p. 181)</span>. The society, first founded by an **archmage** and three **mages**, eventually came to include twenty-four **apprentice wizards** (<span class="citation"><em>Monsters of the Multiverse</em>, p. 259</span>), whom the founders trained to expand and continue their work.
@@ -14,7 +14,7 @@ As the players uncover the temple's ancient secrets, one question dominates thei
 >
 > While residing at the temple, the society’s **archmage** stayed in [[#S7. Archmage’s Quarters]], while its senior **mages** kept separate chambers in the [[#West Quarters]] and [[#East Quarters]]. One senior **mage** was always present to supervise the society’s **apprentice wizards**, who slept in bunk beds in the [[#West Barracks]] and [[#East Barracks]]. Senior **mages** and the **archmage** took meals in their own rooms.
 >
-> Members of the society guarded the temple from the [[#West Guard Post]] and [[#East Guard Post]] in eight-hour shifts, with four **apprentice wizards** and one **mage** assigned to each shift. Apprentices shared bunk beds, ate in the [[#Dining Hall]], and took guard duty on alternating days. When not guarding the temple, apprentices either gathered in the [[#Lecture Hall]] to learn from a senior mage, practiced spellcasting in the [[#Training Hall]], or helped with cleaning, cooking in the [[#Architect’s Room]] (then a kitchen), scribing scrolls in the [[#West Scroll Repository]] and [[#East Scroll Repository]], brewing potions in the [[#Brewing Room]], and otherwise assisting senior mages with their work.
+> Members of the society guarded the temple from the [[#West Guard Post]] and [[#East Guard Post]] in eight-hour shifts, with four **apprentice wizards** and one **mage** assigned to each shift. Apprentices shared bunk beds, ate in the [[#Dining Hall]], and took guard duty on alternating days. When not guarding the temple, apprentices either gathered in the [[#Lecture Hall]] to learn from a senior mage, practiced spellcasting in the [[#Training Hall]], or helped with cleaning, cooking in the [[#Architect’s Room]] (then a [[Places/Kitchen|kitchen]]), scribing scrolls in the [[#West Scroll Repository]] and [[#East Scroll Repository]], brewing potions in the [[#Brewing Room]], and otherwise assisting senior mages with their work.
 >
 > The temple contained two treasuries—[[#S6a. West Treasury]] and [[#S6b. East Treasury]]—which contained magical artifacts guarded by one **amber golem** each. Above them, rear balconies in [[#S2b. Atrium]] led to two shrines to the temple’s god of secrets. Apprentices advanced through the society’s ranks by undergoing trials at these shrines: those who resisted the terror roused by the *antipathy* spell of the [[#Shrine of Fear]] were promoted to journeymen and given authority over the other apprentices, while journeymen who resisted the *sympathy* spell of the [[#Shrine of Temptation]] became full-fledged wizards, permitted to journey with senior **mages** abroad to capture and transport new vestiges for the temple.
 
@@ -25,25 +25,25 @@ As the players uncover the temple's ancient secrets, one question dominates thei
 >
 > As the third generation of temple wizards came into power, a number of rising members secretly rejected the second generation’s zealotry. Instead, their curiosity drove them to seek out knowledge of the beings they had long imprisoned, yet rarely seen. Study of the vestiges resumed sparingly, and in secret, with only a few members daring to take advantage of growing lapses in security. 
 >
-> One day, however, one of the senior **mages** of the temple—convinced that no harm could come from doing so, and driven mad by long-standing curiosity—disarmed the *arcane lock* protecting <span class="citation">X33a. Vault of Shalx (p. 191)</span> in the [[#Southeast Vaults]] and accepted the dark gift of Zrin-Hala, the Howling Storm. Zrin-Hala’s power, however, corrupted the mage, and he used the vestige’s dark gift to kill a rival **mage** soon thereafter.
+> One day, however, one of the senior **mages** of the temple—convinced that no harm could come from doing so, and driven mad by long-standing curiosity—disarmed the *arcane lock* protecting <span class="citation">X33a. Vault of Shalx (p. 191)</span> in the [[#Southeast Vaults]] and accepted the dark gift of [[NPCs/Zrin-Hala, the Howling Storm|Zrin-Hala, the Howling Storm]]. Zrin-Hala’s power, however, corrupted the mage, and he used the vestige’s dark gift to kill a rival **mage** soon thereafter.
 >
 > Although the perpetrator was caught and executed, the murder left the wizards of the Amber Temple insular and fearful. As the security wards continued to weaken, the vestiges reached out from their dreamless sleep within their sarcophagi and whispered to their captors in their sleep, driving them further into delusion and paranoia. 
 >
-> The leader of the society, an archmage named Exethanter, adopted a habit of drinking only out of an enchanted ewer, described further in <span class="citation">X22. Northwest Annex (p. 187)</span>. However, Exethanter’s apprentice, a paranoid man named Vilnius, grew convinced that Exethanter conspired to kill him, and secretly switched out the ewer with a disguised one filled with poison. When drunk, the poison killed both Exethanter and several other mages and apprentices, whose restless spirits lingered as **wraiths** and **specters** in the [[#Dining Hall]].
+> The leader of the society, an archmage named [[NPCs/Exethanter|Exethanter]], adopted a habit of drinking only out of an enchanted ewer, described further in <span class="citation">X22. Northwest Annex (p. 187)</span>. However, [[NPCs/Exethanter|Exethanter]]’s apprentice, a paranoid man named Vilnius, grew convinced that Exethanter conspired to kill him, and secretly switched out the ewer with a disguised one filled with poison. When drunk, the poison killed both Exethanter and several other mages and apprentices, whose restless spirits lingered as **wraiths** and **specters** in the [[#Dining Hall]].
 >
-> The society fractured. Wizards barricaded themselves in their rooms, and battles erupted in the halls. Some looted the catacombs or treasuries, then fled. In the end, only one wizard remained: Vilnius. Driven mad by his paranoia, Vilnius became terrified that enemies lurked everywhere outside of the temple, and hid himself away in the [[#Lecture Hall]] until he starved to death. The Dark Powers—born from the vestiges’ dark miasma, the clash of powerful magics, and the psychic resonance of so many violent deaths—entrapped his soul there, taking sustenance from his terror and despair.
+> The society fractured. Wizards barricaded themselves in their rooms, and battles erupted in the halls. Some looted the [[Places/Catacombs|catacombs]] or treasuries, then fled. In the end, only one wizard remained: Vilnius. Driven mad by his paranoia, Vilnius became terrified that enemies lurked everywhere outside of the temple, and hid himself away in the [[#Lecture Hall]] until he starved to death. [[Factions/Dark Powers|The Dark Powers]]—born from the vestiges’ dark miasma, the clash of powerful magics, and the psychic resonance of so many violent deaths—entrapped his soul there, taking sustenance from his terror and despair.
 >
-> Several years after the society fell apart, arcane thieves—tipped off by former members who had fled the chaos—attempted to raid the temple for magical relics and treasure. Although they dug a shaft into the <span class="citation">X33a. Vault of Shalx (p. 191)</span> in [[East Vaults]] and successfully broke into [[#S6a. West Treasury]], all but one were killed by the **amber golem** that dwelled in the latter; their souls, entrapped by the Dark Powers, became **poltergeists**. The sole survivor fled with a pouch full of amber shards, which soon spread through the valley below and the lands far beyond. 
+> Several years after the society fell apart, arcane thieves—tipped off by former members who had fled the chaos—attempted to raid the temple for magical relics and treasure. Although they dug a shaft into the <span class="citation">X33a. Vault of Shalx (p. 191)</span> in [[East Vaults]] and successfully broke into [[#S6a. West Treasury]], all but one were killed by the **amber golem** that dwelled in the latter; their souls, entrapped by the Dark Powers, became **poltergeists**. The sole survivor fled with a pouch full of [[Items/Amber Shards|amber shards]], which soon spread through the valley below and the lands far beyond. 
 >
-> The temple, broken, shadowed, and hollow, slumbered forgotten in the mountains—until the dusk elf mage Patrina Velikovna stumbled upon the secret of its existence nearly two thousand years later. Escorted to the valley by a Vistani caravan after Strahd crushed the dusk elves’ rebellion, Patrina found her way to the temple, where she disarmed its arcane wards and sought the secrets that lay within. Disregarding the weaker vestiges that dwelled in the [[#East Vaults]] and [[#West Vaults]], it wasn’t long before Patrina uncovered her true prize: the ocean of arcane knowledge that dwelled in [[#S7b. Archmage’s Library]]—as well as the ghost of the **archmage** Exethanter who dwelled there.
+> The temple, broken, shadowed, and hollow, slumbered forgotten in the mountains—until the dusk elf mage Patrina Velikovna stumbled upon the secret of its existence nearly two thousand years later. Escorted to the valley by a [[Factions/Vistani|Vistani]] caravan after Strahd crushed the [[Factions/Dusk Elves|dusk elves]]’ rebellion, Patrina found her way to the temple, where she disarmed its arcane wards and sought the secrets that lay within. Disregarding the weaker vestiges that dwelled in the [[#East Vaults]] and [[#West Vaults]], it wasn’t long before Patrina uncovered her true prize: the ocean of arcane knowledge that dwelled in [[#S7b. Archmage’s Library]]—as well as the ghost of the **archmage** Exethanter who dwelled there.
 >
-> Moved by Patrina’s tale of the dusk elves’ persecution, Exethanter reluctantly agreed to take her on as an apprentice. Unbeknownst to him, however, Patrina secretly obtained forbidden tomes from the temple’s shelves and studied the dark arts, even as she communed with the vestige of Tenebrous within [[#S6c. Amber Vault]], hoping to grow powerful enough to become a lich. When Exethanter learned of her duplicity, he attempted to banish her from the temple—but Patrina overpowered him instead, binding his spirit and sealing it away within [[#S7d. Ritual Chamber]], where he could trouble her no more.
+> Moved by Patrina’s tale of the [[Factions/Dusk Elves|dusk elves]]’ persecution, Exethanter reluctantly agreed to take her on as an apprentice. Unbeknownst to him, however, Patrina secretly obtained forbidden tomes from the temple’s shelves and studied the dark arts, even as she communed with the vestige of [[NPCs/Tenebrous|Tenebrous]] within [[#S6c. Amber Vault]], hoping to grow powerful enough to become a [[NPCs/Lich|lich]]. When Exethanter learned of her duplicity, he attempted to banish her from the temple—but Patrina overpowered him instead, binding his spirit and sealing it away within [[#S7d. Ritual Chamber]], where he could trouble her no more.
 >
 > With Exethanter’s ghost dispatched, Patrina set out to reshape the temple in her own image. She raised the society’s long-dead wizards as **flameskulls**, reprogrammed the **amber golems** to obey her commands, and keyed the temple’s wards to admit her alone. 
 >
-> When Strahd conquered Barovia and began to gather mages to raise Castle Ravenloft, it was Patrina who brought him to the Amber Temple to tempt him with the power of Tenebrous—followed soon thereafter by the **archmage** Khazan, who Patrina reluctantly allowed to study the temple’s wealth of knowledge to avoid Strahd’s suspicion. There, Khazan, Strahd, and the great architect Artimus developed a plan for how Castle Ravenloft would be built: no ordinary keep, but a fortress hewn from the stone of the Pillarstone of Ravenloft itself, filled with protective enchantments and magical traps that would defend it from any invader. 
+> When Strahd conquered [[Places/Barovia|Barovia]] and began to gather mages to raise [[Places/Castle Ravenloft|Castle Ravenloft]], it was Patrina who brought him to the Amber Temple to tempt him with the power of [[NPCs/Tenebrous|Tenebrous]]—followed soon thereafter by the **archmage** [[NPCs/Khazan|Khazan]], who Patrina reluctantly allowed to study the temple’s wealth of knowledge to avoid Strahd’s suspicion. There, [[NPCs/Khazan|Khazan]], Strahd, and the great architect Artimus developed a plan for how [[Places/Castle Ravenloft|Castle Ravenloft]] would be built: no ordinary keep, but a fortress hewn from the stone of the [[Places/Pillarstone of Ravenloft|Pillarstone of Ravenloft]] itself, filled with protective enchantments and magical traps that would defend it from any invader. 
 >
-> The Dark Powers, however, grew entranced by Strahd’s capacity for selfishness and cruelty—and, when Strahd grew envious of Tatyana’s love for Sergei, offered him the *amber shard of the Vampyr*. From their pact, the Dark Powers gained a foothold beyond the temple’s walls—and, when Strahd died and became a vampire, spirited him (and, due to his connection to the Fanes, the valley of Barovia) away into their eternal clutches. Although the Dark Powers now dwell all through and around Barovia, the Amber Temple is where their presence can be most strongly felt—and, as the umbilical cord from which Strahd’s prison was born, the place where the boundaries between worlds are weakest.
+> The Dark Powers, however, grew entranced by Strahd’s capacity for selfishness and cruelty—and, when Strahd grew envious of [[NPCs/Tatyana Federovna|Tatyana]]’s love for Sergei, offered him the *[[Items/Amber Shard|amber shard]] of [[NPCs/The Vampyr|the Vampyr]]*. From their pact, the Dark Powers gained a foothold beyond the temple’s walls—and, when Strahd died and became a vampire, spirited him (and, due to his connection to the Fanes, the valley of [[Places/Barovia|Barovia]]) away into their eternal clutches. Although the Dark Powers now dwell all through and around Barovia, the Amber Temple is where their presence can be most strongly felt—and, as the umbilical cord from which Strahd’s [[Places/Prison|prison]] was born, the place where the boundaries between worlds are weakest.
 # S1. Temple Exterior
 <span class="citation">This scene takes place in Chapter 13, Area X1.</span>
 
@@ -59,29 +59,29 @@ As the players uncover the temple's ancient secrets, one question dominates thei
 > Due to the dark miasma, any humanoid or beast that takes a long rest in the Amber Temple has dreadful visions and hears the vestiges’ whispers as it rests. That creature gains no benefit from its rest and, when it finishes its rest, must succeed on a DC 15 Constitution saving throw or gain 1 level of exhaustion.
 
 > [!info]+ **Following the Shards**
-> Each amber shard longs to return to the sarcophagus from whence it came. While within the Amber Temple, or while within 100 feet of the temple, an amber shard glows and gently pulls in the direction of its parent sarcophagus. Both effects end when the shard comes within 5 feet of its sarcophagus.
+> Each [[Items/Amber Shard|amber shard]] longs to return to the sarcophagus from whence it came. While within the Amber Temple, or while within 100 feet of the temple, an amber shard glows and gently pulls in the direction of its parent sarcophagus. Both effects end when the shard comes within 5 feet of its sarcophagus.
 >
 > If a player possessing a vestige’s amber shard approaches that vestige’s vault, the vestige whispers the password to its vault, as described in <span class="citation">X33. Amber Vaults (p. 191)</span>, into the player’s ear.
 
 > [!info]+ **The Tyrant’s Third Trial**
 > Each night the players spent in or near the Amber Temple, Strahd scries or tracks them as described in [[Arc R - Trials of the Mountain#R3b. The Tyrant’s First Trial|Arc R - Trials of the Mountain]]. If his _scrying_ fails, he also personally visits the Amber Temple to determine whether the players are there.
 >
-> When he first finds the players, Strahd dismounts Beucephalus, greets them, and asks “where they disappeared to" during the time they spent in Soldav. (Strahd isn’t aware of Soldav’s existence or protections). If the players refuse to disclose their knowledge of Soldav, Strahd smiles coldly, then assures them that he’ll find out—sooner or later.
+> When he first finds the players, Strahd dismounts [[NPCs/Beucephalus|Beucephalus]], greets them, and asks “where they disappeared to" during the time they spent in [[Places/Soldav|Soldav]]. (Strahd isn’t aware of [[Places/Soldav|Soldav]]’s existence or protections). If the players refuse to disclose their knowledge of Soldav, Strahd smiles coldly, then assures them that he’ll find out—sooner or later.
 >
 > Regardless of the players’ answer, Strahd demands that his first victim—the one he first drained or chose during [[Arc R - Trials of the Mountain#R3b. The Tyrant’s First Trial|R3b. The Tyrant’s First Trial]]—submit themselves to be bitten again. If the player allows themselves to be bitten, Strahd bites them as described in [[Arc R - Trials of the Mountain#R3b. The Tyrant’s First Trial|Strahd’s Game]].
 >
-> ***Summoning the Roc.*** If the players summon the **roc** of Mt. Ghakis using the *whistle of the Keepers*, the roc arrives from its nest atop the mountain’s peak within three rounds. When it does, read:
+> ***Summoning the [[NPCs/Roc|Roc]].*** If the players summon the **[[NPCs/Roc|roc]]** of Mt. Ghakis using the *whistle of the [[Factions/Keepers of the Feather|Keepers]]*, the roc arrives from its nest atop the mountain’s peak within three rounds. When it does, read:
 >
 > ---
 > 
-> *A great shadow blocks out the moonlight—and Strahd looks up, his eyes widening slightly.*
+> *A great [[NPCs/Shadow|shadow]] blocks out the moonlight—and Strahd looks up, his eyes widening slightly.*
 >
-> *Above, a gargantuan raven as tall as the Blue Water Inn, with a wingspan twice as long, descends upon the mountainside. Great gusts of wind blow from each errant twitch of its wings, sending eddies of powdered snow whipping across the ice. With grace that belies its massive size, it alights onto the jagged crags below, its cart-sized talons crushing and gouging the stone beneath them.*
+> *Above, a gargantuan raven as tall as the [[Places/Blue Water Inn|Blue Water Inn]], with a wingspan twice as long, descends upon the mountainside. Great gusts of wind blow from each errant twitch of its wings, sending eddies of powdered snow whipping across the ice. With grace that belies its massive size, it alights onto the jagged crags below, its cart-sized talons crushing and gouging the stone beneath them.*
 >
 > *With a single, jerking motion, it throws its head forward toward Strahd and **shrieks** in warning and defiance. A thunderous wave of sound sweeps out across the mountain, the raven’s sonorous, booming cry ringing in your ears.*
 > 
 > ![[The_Roc_of_Mt._Ghakis_night_hires.jpg]]
-> <span class="credit">"The Roc of Mount Ghakis" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+> <span class="credit">"The [[NPCs/Roc of Mount Ghakis|Roc of Mount Ghakis]]" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 > 
 > ---
 >
@@ -89,20 +89,20 @@ As the players uncover the temple's ancient secrets, one question dominates thei
 >
 > * Strahd’s face darkens. “I have no quarrel with you," he warns the roc, his eyes glancing over its wingspan. “If you pursue this course, I cannot assure it shall end happily for you." His voice lowers to scarcely more than a whisper, and he murmurs: “Are you sure you wish to play this game?"
 > * The roc lowers its gaze and nods, its eyes glowering down at him. 
-> * “As you wish," Strahd says. He then whistles for Beucephalus, which appears beside him.
+> * “As you wish," Strahd says. He then whistles for [[NPCs/Beucephalus|Beucephalus]], which appears beside him.
 >
 > Strahd then turns to the players. “You seem to have made interesting allies indeed," he remarks. “Do not mistake this inconvenience for might—but I presume you know that you cannot stay atop this mountain forever." He smiles coldly, and, for a moment, his crimson eyes seem to glow in the darkness. “Such a shame it would be, of course, if your friends at lower altitudes required your assistance, and you were not there to aid them."
 >
-> Unless the players intervene, Strahd then inclines his head in a mocking bow—first to the roc, then to the players. “Another time, then," he says. He then mounts Beucephalus, bids the players and roc “good evening," and vanishes into the Ethereal Plane. (Strahd doesn’t again return while the players are at Mt. Ghakis. See [[Arc T - The Three Fanes]] for more information about Strahd’s further machinations.)
+> Unless the players intervene, Strahd then inclines his head in a mocking bow—first to the roc, then to the players. “Another time, then," he says. He then mounts Beucephalus, bids the players and roc “good evening," and vanishes into the [[Places/Ethereal Plane|Ethereal Plane]]. (Strahd doesn’t again return while the players are at Mt. Ghakis. See [[Arc T - The Three Fanes]] for more information about Strahd’s further machinations.)
 >
 > Once Strahd departs, the roc can confirm the following information using nods and shakes of its head (though it won’t volunteer information the players don’t already know or suspect):
 >
 > * It is the roc of Mt. Ghakis.
-> * Its true name is Turul, and it was once the familiar of the Seeker, who is now Madam Eva.
+> * Its true name is Turul, and it was once the familiar of the [[NPCs/Seeker|Seeker]], who is now [[NPCs/Madam Eva|Madam Eva]].
 > * Its nest lies upon the peak of Mt. Ghakis.
 > * It is no friend of Strahd’s.
 > * If the players previously encountered it as a raven in [[Arc M - The Dragon's Manor]], it was the raven they encountered.
-> * It stole the third enchanted gem from the Wizard of Wines winery at Madam Eva’s instructions. (The roc won’t explain why, or disclose the gem’s location.)
+> * It stole the third enchanted gem from [[Places/Wizard of Wines|the Wizard of Wines]] winery at [[NPCs/Madam Eva|Madam Eva]]’s instructions. (The roc won’t explain why, or disclose the gem’s location.)
 > * It can’t (and won’t) follow the players to the valley below to aid them in their fight against Strahd. (Its place is Mt. Ghakis.)
 >
 > The roc remains by the players’ sides until dawn, standing watch through the night.
@@ -124,7 +124,7 @@ As the players uncover the temple's ancient secrets, one question dominates thei
 >
 > ---
 >
-> *The dead grass of the graveyard crunches beneath your feet as you follow, the mists curling hungrily around your ankles. At times, the raven is little more than a shadow in the fog—until the fog peels away, revealing a tall, gnarled black tree surrounded by a dark, fetid mire. The muck is strewn with bones—thousands of them.*
+> *The dead grass of the graveyard crunches beneath your feet as you follow, the [[Places/Mists|mists]] curling hungrily around your ankles. At times, the raven is little more than a [[NPCs/Shadow|shadow]] in the fog—until the fog peels away, revealing a tall, gnarled black tree surrounded by a dark, fetid mire. The muck is strewn with bones—thousands of them.*
 >
 > *The raven touches down upon the tree’s lowest branch and directs its gaze to a point near the mire’s banks. There, beneath the bones, a faint golden light flickers deep below the mire.*
 >
@@ -142,7 +142,7 @@ This area is largely as described in <span class="citation">X1. Temple Facade (p
 <p>A thin blanket of mist drifts lazily from the archway, then splits, forming a low perimeter around the temple.</p>
 </div>
 
-As the players approach, Kasimir quietly reminds them of Patrina’s cryptic message: that she hid the weapon they seek “beneath the roots of Strahd’s power, in the one place he feared to tread." (If the players appear uncertain how to interpret Patrina’s message, Kasimir, Ezmerelda, or Ireena encourage them to review the *Tome of Strahd* for clues.)
+As the players approach, [[NPCs/Kasimir Velikov|Kasimir]] quietly reminds them of Patrina’s cryptic message: that she hid the weapon they seek “beneath the roots of Strahd’s power, in the one place he feared to tread." (If the players appear uncertain how to interpret Patrina’s message, [[NPCs/Kasimir Velikov|Kasimir]], [[NPCs/Ezmerelda d'Avenir|Ezmerelda]], or [[NPCs/Ireena Kolyana|Ireena]] encourage them to review the *[[Items/The Tome of Strahd|Tome of Strahd]]* for clues.)
 
 > [!lore]+ **Patrina’s Riddle**
 > Fearful that Strahd might somehow eavesdrop on Kasimir’s dreams, Patrina concealed her message in a riddle. The “roots of Strahd’s power" refer to the gnarled black tree in [[#The Vampyr’s Sarcophagus]]. “The one place he feared to tread" refers to the canal of blood and souls around the tree, representing Strahd’s greatest fear: Death.
@@ -152,33 +152,33 @@ As the players approach, Kasimir quietly reminds them of Patrina’s cryptic mes
 >
 > Long before Strahd von Zarovich’s pact allowed the Dark Powers to spread their influence to the valley beyond, the Dark Powers kept Vilnius an immortal prisoner within the temple’s amber walls, locking away his soul—and that of every other spirit that dwelled there—as he spiraled further into madness, self-loathing, and hate. 
 
-> [!info]+ **Mists of the Amber Temple**
+> [!info]+ **[[Places/Mists|Mists]] of the Amber Temple**
 > The mists that surround the Amber Temple possess none of the powers listed in <span class="citation">Mists of Ravenloft (p. 23)</span>. However, while the mists remain, Vilnius and incorporeal undead can’t leave the temple. (A **ghost** that possesses a victim ceases to be incorporeal while the possession remains.)
 ## S1b. Fissure
 This area is largely as described in <span class="citation">X1a. Narrow Fissure (p. 183)</span>. However, a player with a passive Wisdom (Perception) score of 13 or greater hears voices echoing from the far side of the fissure. A successful DC 15 Wisdom (Perception) check allows a player to discern the following conversation:
 
-* A male voice says: "Diona, you can't seriously want to go after them." (This is Coryllus, one of the three Mountain Folk who accompanied Chief Diegia’s daughter, Diona, to the Amber Temple.)
+* A male voice says: "[[NPCs/Diona|Diona]], you can't seriously want to go after them." (This is [[NPCs/Coryllus|Coryllus]], one of the three [[Factions/Mountain Folk|Mountain Folk]] who accompanied [[NPCs/Chief Diegia|Chief Diegia]]’s daughter, [[NPCs/Diona|Diona]], to the Amber Temple.)
 * A female voice snaps back: "And what would we be if we abandoned them? They would go to any length to save us. We owe them nothing less." (This is Diona.)
 
-If the players make their presence known, Diona demands that they identify themselves and their purpose in visiting the Amber Temple. If reassured that the players are neither monsters nor power-seeking pilgrims, Diona warily invites them to enter—though more warmly if they claim to know her family. (Diona and Coryllus must remain within the temple to complete Diona's rite of passage, and won’t leave the temple willingly.)
+If the players make their presence known, Diona demands that they identify themselves and their purpose in visiting the Amber Temple. If reassured that the players are neither monsters nor power-seeking pilgrims, Diona warily invites them to enter—though more warmly if they claim to know her family. (Diona and [[NPCs/Coryllus|Coryllus]] must remain within the temple to complete Diona's rite of passage, and won’t leave the temple willingly.)
 
 ![[Diona_transparent.png]]
 <span class="credit">"Diona" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!lore]+ **The Missing Mountain Folk**
-> Four days ago, Chief Diegia’s eldest child and heir, Diona, departed Soldav for the Amber Temple, where she would spend six days and six nights in contemplation, thereby proving her resilience, strength, and will to resist temptation as per Mountain Folk tradition. Three friends accompanied Diona to the Amber Temple: the **berserkers** Coryllus and Meda, and the **scout** Duras.
+> Four days ago, [[NPCs/Chief Diegia|Chief Diegia]]’s eldest child and heir, Diona, departed Soldav for the Amber Temple, where she would spend six days and six nights in contemplation, thereby proving her resilience, strength, and will to resist temptation as per Mountain Folk tradition. Three friends accompanied Diona to the Amber Temple: the **berserkers** Coryllus and [[NPCs/Meda|Meda]], and the **scout** [[NPCs/Duras|Duras]].
 >
-> When the companions arrived at the temple and passed through <span class="citation">X2. Entrance (p. 183)</span> into <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>, they were surprised to find the temple’s three **flameskulls**—long thought to be dormant—guarding the temple from incursion. The Mountain Folk split, with Meda fleeing in panic for <span class="citation">X6. Southeast Annex (p. 185)</span>, while the others took shelter in <span class="citation">X15. Southwest Annex (p. 186)</span>.
+> When the companions arrived at the temple and passed through <span class="citation">X2. Entrance (p. 183)</span> into <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>, they were surprised to find the temple’s three **flameskulls**—long thought to be dormant—guarding the temple from incursion. The Mountain Folk split, with [[NPCs/Meda|Meda]] fleeing in panic for <span class="citation">X6. Southeast Annex (p. 185)</span>, while the others took shelter in <span class="citation">X15. Southwest Annex (p. 186)</span>.
 >
 > Separated from her friends and pursued by the sadistic **flameskull** Gaspar (see [[#S2e. West Gallery]] for more information about Gaspar), Meda took shelter in the eastern <span class="citation">X3. Empty Barracks (p.183)</span>, where she found a secret door leading to <span class="citation">X2b. Guard Room (p. 183)</span>. There, she found the frozen corpse of a **Barovian witch** clutching an *amber shard of Khirad*. (See [[#East Guard Post]] for more information about this witch.) Entranced by the shard’s allure, Meda took it for herself, hiding it away within her cloak.
 >
-> Soon after the flameskulls’ attack, the **arcanaloth** Neferon—disguised as the human wizard Heinrich Stolt—emerged and ordered the flameskulls to stand down. After hearing the Mountain Folks’ story, “Heinrich" solemnly informed them that <span class="citation">X5. Temple of Lost Secrets (p. 183)</span> was off-limits to them, but agreed to allow them to remain in <span class="citation">X15. Southwest Annex (p. 186)</span> in exchange for a “donation" of suitable power or value. (Diona made this tribute reluctantly, relinquishing her *stone of good luck*: an heirloom she had received from her father on her eighteenth birthday.)
+> Soon after the flameskulls’ attack, the **arcanaloth** [[NPCs/Neferon|Neferon]]—disguised as the human wizard [[NPCs/Heinrich Stolt|Heinrich Stolt]]—emerged and ordered the flameskulls to stand down. After hearing the Mountain Folks’ story, “Heinrich" solemnly informed them that <span class="citation">X5. Temple of Lost Secrets (p. 183)</span> was off-limits to them, but agreed to allow them to remain in <span class="citation">X15. Southwest Annex (p. 186)</span> in exchange for a “donation" of suitable power or value. (Diona made this tribute reluctantly, relinquishing her *stone of good luck*: an heirloom she had received from her father on her eighteenth birthday.)
 >
-> Each night since, as the Mountain Folk slept in <span class="citation">X15. Southwest Annex (p. 186)</span>, each suffered vivid, terrible nightmares as described in **Rests in the Amber Temple** above—but none more so than Meda. Through its shard, Khirad, the Star of Secrets spoke to her, showing her visions of the Grand Conjunction: of the veils between worlds torn asunder; a weapon born of a thousand shrieking souls; and the corpses of her friends and family, serving the Great Shadow—Strahd—in eternal undeath. Khirad promised Meda that it could show her a path to averting this terrible fate—if only she found her way to its sarcophagus and accepted its gift.
+> Each night since, as the Mountain Folk slept in <span class="citation">X15. Southwest Annex (p. 186)</span>, each suffered vivid, terrible nightmares as described in **Rests in the Amber Temple** above—but none more so than Meda. Through its shard, [[NPCs/Khirad, the Star of Secrets|Khirad, the Star of Secrets]] spoke to her, showing her visions of the [[Places/Grand Conjunction|Grand Conjunction]]: of the veils between worlds torn asunder; a weapon born of a thousand shrieking souls; and the corpses of her friends and family, serving the Great Shadow—Strahd—in eternal undeath. Khirad promised Meda that it could show her a path to averting this terrible fate—if only she found her way to its sarcophagus and accepted its gift.
 >
-> Last night, when Khirad’s dream ended, Meda awoke and crept quietly away toward <span class="citation">X4. Overlook (p. 183)</span>. Although Diona and Coryllus continued to slumber, Duras—who had found himself unable to sleep—saw Meda slip out and resolved to follow her. Meda made it as far as <span class="citation">X6. Southeast Annex (p. 185)</span> before Duras caught her, and an argument ensued. Terrified of the fate she had foreseen and of Duras’s threats to reveal her duplicity to the others, Meda pushed Duras in a sudden attempt to flee—and, in doing so, accidentally pushed him down the wide stone shaft to <span class="citation">X33a. Vault of Shalx (p. 191)</span>. The thirty-foot fall broke Duras’s neck, killing him instantly. 
+> Last night, when Khirad’s dream ended, Meda awoke and crept quietly away toward <span class="citation">X4. Overlook (p. 183)</span>. Although Diona and Coryllus continued to slumber, [[NPCs/Duras|Duras]]—who had found himself unable to sleep—saw Meda slip out and resolved to follow her. Meda made it as far as <span class="citation">X6. Southeast Annex (p. 185)</span> before Duras caught her, and an argument ensued. Terrified of the fate she had foreseen and of Duras’s threats to reveal her duplicity to the others, Meda pushed Duras in a sudden attempt to flee—and, in doing so, accidentally pushed him down the wide stone shaft to <span class="citation">X33a. Vault of Shalx (p. 191)</span>. The thirty-foot fall broke Duras’s neck, killing him instantly. 
 >
-> Meda fled, passing through <span class="citation">X8. Upper East Hall (p. 185)</span> and <span class="citation">X12. East Shrine (p. 186)</span>, then descending <span class="citation">X14. North Staircase (p. 186)</span> to <span class="citation">X33c. Ghastly Vault (p. 192)</span>. There, she accepted Khirad’s dark gift, which transformed into a **nothic**.
+> Meda fled, passing through <span class="citation">X8. Upper East Hall (p. 185)</span> and <span class="citation">X12. East Shrine (p. 186)</span>, then descending <span class="citation">X14. North Staircase (p. 186)</span> to <span class="citation">X33c. Ghastly Vault (p. 192)</span>. There, she accepted Khirad’s dark gift, which transformed into a **[[NPCs/Nothic|nothic]]**.
 >
 > When Diona and Coryllus awoke, they found no signs of their missing friends. Both believe that Meda and Duras have been abducted—or worse. While Diona is determined to rescue them both, Coryllus (ever a grim pragmatist) believes that doing so is a foolhardy effort, and that the missing two are now likely dead.
 # S2. Temple Defenses
@@ -199,7 +199,7 @@ This area is largely as described in <span class="citation">X2. Entrance (p. 183
 <span class="citation">This scene takes place in Chapter 13, Area X4, X5, X5a, X11, and X23.</span>
 
 > [!warning]+ **Sight in the Temple**
-> The <span class="citation">X4. Overlook (p. 183)</span> is 50 feet from <span class="citation">X5d. Amber Reflections (p. 184)</span>, 100 feet from <span class="citation">X5a. God of Secrets (p. 184)</span>, and 110 feet from <span class="citation">X39. Plundered Treasury (p. 194)</span> and <span class="citation">X40 Sealed Treasury (p. 194)</span>. Players without sufficient darkvision or a sufficient light source can’t see them from <span class="citation">X4. Overlook (p. 183)</span>.
+> The <span class="citation">X4. Overlook (p. 183)</span> is 50 feet from <span class="citation">X5d. Amber Reflections (p. 184)</span>, 100 feet from <span class="citation">X5a. God of Secrets (p. 184)</span>, and 110 feet from <span class="citation">X39. Plundered [[Places/Treasury|Treasury]] (p. 194)</span> and <span class="citation">X40 Sealed [[Places/Treasury|Treasury]] (p. 194)</span>. Players without sufficient darkvision or a sufficient light source can’t see them from <span class="citation">X4. Overlook (p. 183)</span>.
 ### Overlook
 This area is largely as described in <span class="citation">X4. Overlook (p. 183)</span>. However, add the following text to the end of this area’s description:
 
@@ -207,7 +207,7 @@ This area is largely as described in <span class="citation">X4. Overlook (p. 183
 <p>A faint, fiery light flickers from a trio of arrow slits along the west wall.</p>
 </div>
 
-In addition, the first time the **arcanaloth** Neferon (described in <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>) notices the players, he casts *mind blank* on himself, then assumes the form of Heinrich Stolt as described in <span class="citation">X5a. God of Secrets (p. 184)</span>.
+In addition, the first time the **arcanaloth** [[NPCs/Neferon|Neferon]] (described in <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>) notices the players, he casts *mind blank* on himself, then assumes the form of [[NPCs/Heinrich Stolt|Heinrich Stolt]] as described in <span class="citation">X5a. God of Secrets (p. 184)</span>.
 
 > [!warning]+ **Neferon’s Senses**
 > Don’t forget that Neferon possesses truesight to a range of 120 feet. (See <span class="citation">Truesight (<em>Player’s Handbook</em>, p. 183 or <em>Player’s Handbook (2024)</em>, p. 377)</span> for more information about truesight.)
@@ -270,14 +270,14 @@ If an opportune moment arises, “Heinrich" asks the players why they have come 
 "Heinrich" is glad to allow the players to explore the Temple in exchange for "a small fee—a minor service, really." If the players express an interest in doing so, "Heinrich" shares the following information:
 
 * Ordinarily, the Amber Temple is isolated and quiet. However, last night, a creature arrived from another world by means of “some strange portal": a slaad, of the plane of Limbo. ("A death slaad, to be precise," “Heinrich" remarks grimly, pushing his spectacles up his nose—“one of the most dangerous members of slaadkind.")
-* Heinrich was, with some luck (and the use of an ancient *arcane lock* mechanism built by the temple’s original inhabitants), able to imprison the creature in the temple catacombs. However, he fears that the slaad may soon escape and wreak havoc across the temple—or the valley below. (A DC 21 Wisdom (Insight) check reveals that “Heinrich" is indeed concerned about the slaad—but doesn’t appear authentically concerned about the safety of the Barovian people.)
+* Heinrich was, with some luck (and the use of an ancient *arcane lock* mechanism built by the temple’s original inhabitants), able to imprison the creature in the temple [[Places/Catacombs|catacombs]]. However, he fears that the slaad may soon escape and wreak havoc across the temple—or the valley below. (A DC 21 Wisdom (Insight) check reveals that “Heinrich" is indeed concerned about the slaad—but doesn’t appear authentically concerned about the safety of the Barovian people.)
 * “Heinrich" is glad to allow the players to explore the temple if they descend into the catacombs and “remove" (i.e., kill) the death slaad for him. (The catacombs, he shares, lie beneath the overlook, at the southern end of <span class="citation">X5. Temple of Lost Secrets (p. 183)</span>).
 * Heinrich is willing to teach the players the secret password, "Etherna", to open the magically sealed catacomb doors.
 
 If the players refuse to carry out “Heinrich’s" task, he responds as described in [[#^heinrichsdiscipline|Heinrich's Discipline]] above. 
 
 > [!info]+ **Slaad Lore**
-> A player who succeeds on a DC 15 Intelligence (Arcana) check recalls the first paragraph of information provided in <span class="citation">*Monster Manual* "Slaadi," *Monster Manual* (p. 278)</span>. On a result of 20 or higher, the character recalls all additional lore listed in that entry. On a result of 25 or more, a player recalls a death slaad’s elemental resistances, shapechanging ability, magical resistance, regenerative abilities, blindsight, and ability to cast spells.
+> A player who succeeds on a DC 15 Intelligence (Arcana) check recalls the first paragraph of information provided in <span class="citation">*[[Items/Monster Manual|Monster Manual]]* "Slaadi," *[[Items/Monster Manual|Monster Manual]]* (p. 278)</span>. On a result of 20 or higher, the character recalls all additional lore listed in that entry. On a result of 25 or more, a player recalls a death slaad’s elemental resistances, shapechanging ability, magical resistance, regenerative abilities, blindsight, and ability to cast spells.
 
 > [!info]+ **Neferon's Trickery**
 > As an arcanaloth, Neferon takes pride in holding to the letter of its word—but only the letter. Accordingly, while Neferon may allow the players to *explore* the Amber Temple, he has no intention of allowing them to depart with any items or knowledge of appreciable value.
@@ -285,14 +285,14 @@ If the players refuse to carry out “Heinrich’s" task, he responds as describ
 > If the players ask “Heinrich" whether he will allow them to depart in peace, he promises that he “shall allow them to depart the temple with their belongings unmolested." If the players instead ask permission to keep any items they find, he smoothly promises to make “reasonable efforts" to negotiate the terms of any such exchange before they depart—"subject, of course, to reasonable disclosures of the item’s nature and value."
 
 > [!info]+ **Neferon's Eye**
-> Through the use of his truesight and *dimension door*, Neferon has deciphered the spellbooks held in <span class="citation">X30. Preserved Library (p. 189)</span>, and so replaced his *banishment* spell (which he has correctly deduced won’t work in Barovia—especially after it failed to banish the death slaad to its home plane of Limbo) with the *arcane eye* spell. 
+> Through the use of his truesight and *dimension door*, Neferon has deciphered the spellbooks held in <span class="citation">X30. Preserved [[Places/Library|Library]] (p. 189)</span>, and so replaced his *banishment* spell (which he has correctly deduced won’t work in Barovia—especially after it failed to banish the death slaad to its home plane of Limbo) with the *arcane eye* spell. 
 >
 > If he sees or hears the players enter <span class="citation">X15. Southwest Annex (p. 186)</span>, <span class="citation">X14. North Staircase (p. 186)</span>, or any area within [[#S3. Catacombs]], [[#S6. Temple Vaults]], or [[#S7. Archmage’s Quarters]], Neferon casts *arcane eye* to follow them, taking careful note of their strengths, weaknesses, capabilities, interests, and discoveries. (Given his Intelligence score of 20, +7 bonus to Perception checks, and +11 bonus to Insight checks, Neferon is able to use his *arcane eye* to read lips, and can therefore “hear" the players’ spoken words if the *arcane eye* can see their lips.) Neferon renews the spell as-needed, but doesn’t renew it while the players are resting, or if he has only one 4th-level spell slot remaining.
 
 > [!lore]+ **Neferon's Arrival**
 > A native of the plane of Gehenna, home of the yugoloths, Neferon was whisked away to Barovia by the Mists ten days before the players’ arrival at the Amber Temple as he sought to travel from Gehenna to Avernus for a potential business deal. Irritated at the detour, but determined to seek opportunities in this new realm, Neferon swiftly moved to explore his surroundings, learn about its inhabitants, and loot any of its knowledge, riches, and magic for himself.
 >
-> Neferon navigated the Amber Temple with ease, mentally documenting each vestige, treasure, and relic he came across. With his *dimension door*, no door was locked to him; with his *truesight*, no book in <span class="citation">X30. Preserved Library (p. 189)</span> was blank to him. He chose to lair in in <span class="citation">X5a. God of Secrets (p. 184)</span>, recognizing its tactical advantages, and spent a full night casting a ritual that cloaked its head in magical darkness.
+> Neferon navigated the Amber Temple with ease, mentally documenting each vestige, treasure, and relic he came across. With his *dimension door*, no door was locked to him; with his *truesight*, no book in <span class="citation">X30. Preserved [[Places/Library|Library]] (p. 189)</span> was blank to him. He chose to lair in in <span class="citation">X5a. God of Secrets (p. 184)</span>, recognizing its tactical advantages, and spent a full night casting a ritual that cloaked its head in magical darkness.
 > 
 > Although the **flameskulls** proved suspicious of his presence at first, Neferon used his silver tongue (and *detect thoughts* spell) to convince them that he was Patrina’s inheritor, sent to reclaim the temple in her name after centuries of abandonment. He informed them solemnly that she had passed away some years after befriending him, and presented a *minor illusion* copy of her “last will and testament," which stated:
 >
@@ -310,13 +310,13 @@ If the players refuse to carry out “Heinrich’s" task, he responds as describ
 > 
 > (The original will, Neferon informed the flameskulls sadly, had since been destroyed.)
 >
-> With the Amber Temple now fully within his control, Neferon ranged further afield, flying invisibly above the crags of Mt. Ghakis and probing the properties and boundaries of the southern Mists. Finding the Mists impassible, Neferon turned his attention north, observing Berez, Argynvostholt, and Krezk from the skies above. In Vallaki, he assumed a human’s guise and lost himself in the crowds, learning of the vampire Strahd von Zarovich, Strahd’s hibernation and recent awakening, and the siege of the village of Barovia.
+> With the Amber Temple now fully within his control, Neferon ranged further afield, flying invisibly above the crags of Mt. Ghakis and probing the properties and boundaries of the southern Mists. Finding the Mists impassible, Neferon turned his attention north, observing [[Places/Berez|Berez]], [[Places/Argynvostholt|Argynvostholt]], and Krezk from the skies above. In [[Places/Vallaki|Vallaki]], he assumed a human’s guise and lost himself in the crowds, learning of the vampire Strahd von Zarovich, Strahd’s hibernation and recent awakening, and the siege of [[Places/Village of Barovia|the village of Barovia]].
 >
-> Curious to learn more of this land’s ruler, Neferon flew east, to Castle Ravenloft—but as he studied the keep from the skies, a lone bat pierced his invisibility with its blindsight and reported his presence to Strahd. When Strahd rode out upon Beucephalus and emerged from the Ethereal Plane to greet him, Neferon swiftly knelt and paid homage to Strahd as Barovia’s lord. Intrigued, but suspicious of Neferon’s interests, Strahd cordially interrogated Neferon as to his time and intentions in Barovia, even as Neferon attempted to subtly glean Strahd’s own intentions from the conversation’s opposite end.
+> Curious to learn more of this land’s ruler, Neferon flew east, to Castle Ravenloft—but as he studied the keep from the skies, a lone bat pierced his invisibility with its blindsight and reported his presence to Strahd. When Strahd rode out upon Beucephalus and emerged from the [[Places/Ethereal Plane|Ethereal Plane]] to greet him, Neferon swiftly knelt and paid homage to Strahd as Barovia’s lord. Intrigued, but suspicious of Neferon’s interests, Strahd cordially interrogated Neferon as to his time and intentions in Barovia, even as Neferon attempted to subtly glean Strahd’s own intentions from the conversation’s opposite end.
 >
 > As their conversation unfolded, however, Neferon soon realized that Strahd had no intention of remaining in Barovia. Ever one of the bolder members of his kind, Neferon offered his services as a diplomat and advisor—in exchange for dominion over the Amber Temple and “fair compensation." When Strahd, laughing, asked Neferon what use he might have for a diplomat, Neferon coolly noted Strahd’s history of conquest, the way the Mists had captured him while traveling between worlds, and the incredible arcane power he’d sensed flowing into the castle’s tallest tower. “The veils between worlds are growing thin," Neferon said carefully, adding: “Should you ever find yourself in a position to take advantage of such a thing, I do not doubt that your Grace may find himself in need of an agent to carry out his will, be it a diplomat, translator, or counselor." Impressed, but wary of Neferon’s insight, Strahd agreed to consider Neferon’s proposal, and Neferon returned to the Amber Temple, satisfied.
 >
-> Neferon, however, was not the only victim of the impending Grand Conjunction. That night, as Neferon rested within <span class="citation">X5a. God of Secrets (p. 184)</span>, the Mists spirited a **death slaad** from the plane of Limbo into <span class="citation">X8. Upper East Hall (p. 185)</span>. Although Neferon attempted to banish it from afar, the slaad’s blindsight and perceptive ears soon allowed it to detect his presence—whereupon its sadistic bloodlust drove it to attack.
+> Neferon, however, was not the only victim of the impending [[Places/Grand Conjunction|Grand Conjunction]]. That night, as Neferon rested within <span class="citation">X5a. God of Secrets (p. 184)</span>, the Mists spirited a **death slaad** from the plane of Limbo into <span class="citation">X8. Upper East Hall (p. 185)</span>. Although Neferon attempted to banish it from afar, the slaad’s blindsight and perceptive ears soon allowed it to detect his presence—whereupon its sadistic bloodlust drove it to attack.
 >
 > Neferon fled, calling upon his new flameskull servants to defend him. However, he was dismayed to find their magic (as well as much of his own) did little to harm the slaad, whose wounds regenerated almost as quickly as they appeared. Thinking quickly, Neferon lured the slaad into [[#S3. Catacombs]], then used his ***teleport*** action to escape before sealing the slaad behind the ancient *arcane lock* enchanting the catacomb doors. Wary of the necromantic magic protecting the doors, the slaad withdrew to the catacombs and calmed its aggression—at least for a time.
 >
@@ -327,9 +327,9 @@ If the players refuse to carry out “Heinrich’s" task, he responds as describ
 >
 > ***Temple Layout.*** Neferon can provide a simple map of the temple (excluding [[#S6. Temple Vaults]] and [[#S7. Archmage’s Quarters]], which he pretends not to know of) in exchange for one **rare** magic item in the players' possession, or three useful secrets that they know about the land or people of Barovia.
 > 
-> ***Temple Inhabitants.*** Neferon can warn the players about the temple’s other inhabitants in exchange for one **rare** magic item in the players’ possession, or two useful secrets that they know about the land or people of Barovia. Specifically, Neferon can warn the players of the **amber golem** in <span class="citation">X8. Upper East Hall (p. 185)</span>, the **poltergeists** in <span class="citation">X38. Haunted Room (p. 194)</span> and <span class="citation">X39. Plundered Treasury (p. 194)</span>, the spirits in [[#Dining Hall]], and the "dreary apparition" that dwells in <span class="citation">X9. Lecture Hall (p. 185)</span>. 
+> ***Temple Inhabitants.*** Neferon can warn the players about the temple’s other inhabitants in exchange for one **rare** magic item in the players’ possession, or two useful secrets that they know about the land or people of Barovia. Specifically, Neferon can warn the players of the **amber golem** in <span class="citation">X8. Upper East Hall (p. 185)</span>, the **poltergeists** in <span class="citation">X38. Haunted Room (p. 194)</span> and <span class="citation">X39. Plundered Treasury (p. 194)</span>, the spirits in [[#Dining Hall]], and the "dreary apparition" that dwells in <span class="citation">X9. [[Places/Lecture Hall|Lecture Hall]] (p. 185)</span>. 
 >
-> (Neferon doesn't know of the true identities or intent of the **specters**, which sense his fiendish nature and refuse to interact with him. Although Neferon attempted to investigate Vilnius's presence, Vilnius shrieked in rage and terror at his presence and vanished into the shadows. Neferon has been unable to encounter Vilnius again, though he has sensed Vilnius's presence each time he has entered the lecture hall thereafter.)
+> (Neferon doesn't know of the true identities or intent of the **specters**, which sense his fiendish nature and refuse to interact with him. Although Neferon attempted to investigate Vilnius's presence, Vilnius shrieked in rage and terror at his presence and vanished into the shadows. Neferon has been unable to encounter Vilnius again, though he has sensed Vilnius's presence each time he has entered the [[Places/Lecture Hall|lecture hall]] thereafter.)
 
 ![[Heinrichs_Map.png]]
 <span class="credit">"Heinrich's Map by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -420,7 +420,7 @@ This area is largely as described in <span class="citation">X16. West Scroll Rep
 ## S2e. West Gallery
 <span class="citation">This scene takes place in Chapter 13, Area X17.</span>
 
-This area is largely as described in <span class="citation">X17. Upper West Hall (p. 187)</span>. However, remove the *staff of frost*.
+This area is largely as described in <span class="citation">X17. Upper West Hall (p. 187)</span>. However, remove the *[[Items/Staff of Frost|staff of frost]]*.
 
 > [!lore]+ **The Charred Corpse**
 > The corpse here was not Vilnius’s mentor, but an unknown mage that came to the temple two years ago seeking the vestiges’ power.
@@ -503,9 +503,9 @@ This area is largely as described in <span class="citation">X2b. Guard Room (p. 
 <p>Slumped in the northeast corner is a frozen, desiccated corpse wearing a black robe and pointed hat. Its right hand appears to be clutched around something at its neck.</p>
 </div>
 
-The corpse, which has pale, splotchy green skin, belongs to Dorina, a foul-tempered **Barovian witch** who came to the Amber Temple nine years ago bearing an *amber shard of Khirad*. A player who inspects the corpse finds that its right hand is empty, with two of its fingers snapped off. (A player who searches for the missing fingers finds them on the floor nearby.) A successful DC 15 Wisdom (Nature or Medicine) check reveals that the fingers were snapped off within the past several days. In addition, a player who searches the witch’s corpse finds a single frozen *potion of healing* within its cloak.
+The corpse, which has pale, splotchy green skin, belongs to [[NPCs/Dorina|Dorina]], a foul-tempered **Barovian witch** who came to the Amber Temple nine years ago bearing an *amber shard of Khirad*. A player who inspects the corpse finds that its right hand is empty, with two of its fingers snapped off. (A player who searches for the missing fingers finds them on the floor nearby.) A successful DC 15 Wisdom (Nature or Medicine) check reveals that the fingers were snapped off within the past several days. In addition, a player who searches the witch’s corpse finds a single frozen *potion of healing* within its cloak.
 
-Dorina’s **ghost** still haunts this room from the Ethereal Plane, and has the unfinished business: “I must bring my amber shard to Khirad’s amber sarcophagus and ask Khirad how to escape Barovia." If the players investigate her corpse, Dorina emerges from the Ethereal Plane using her *etherealness* feature. When she does, if any player has a passive Wisdom (Perception) score of 15 or greater, read:
+[[NPCs/Dorina|Dorina]]’s **ghost** still haunts this room from the Ethereal Plane, and has the unfinished business: “I must bring my amber shard to Khirad’s amber sarcophagus and ask Khirad how to escape Barovia." If the players investigate her corpse, Dorina emerges from the Ethereal Plane using her *etherealness* feature. When she does, if any player has a passive Wisdom (Perception) score of 15 or greater, read:
 
 <div class="description">
 <p>An ethereal silhouette drifts forth from the wall behind you, resembling a green-skinned woman wearing a black robe and pointed hat.</p>
@@ -532,7 +532,7 @@ If Dorina successfully possesses a character, she pretends to be that character 
 >
 > A player who succeeds on a DC 15 Intelligence (Arcana) check recalls a ghost’s general weaknesses, which are as described in <span class="citation">Ghost (<em>Monster Manual</em>, p. 147)</span>. Due to her method of death, Dorina immediately flees a possessed target if that target suffers cold damage or fails a saving throw against the effects of <span class="citation">Extreme Cold (<em>Dungeon Master’s Guide</em>, p. 110)</span>. 
 
-A player who notices Dorina’s ghost, or who attempts to speak with her after restraining her possessed target, can convince her to speak with them instead by succeeding on a DC 20 Charisma (Persuasion) check, or by claiming to be a servant of Strahd or Baba Lysaga and succeeding on a DC 12 Charisma (Deception) check. Dorina’s ghost can then share the following information if asked:
+A player who notices Dorina’s ghost, or who attempts to speak with her after restraining her possessed target, can convince her to speak with them instead by succeeding on a DC 20 Charisma (Persuasion) check, or by claiming to be a servant of Strahd or [[NPCs/Baba Lysaga|Baba Lysaga]] and succeeding on a DC 12 Charisma (Deception) check. Dorina’s ghost can then share the following information if asked:
 
 * Her name is Dorina. She came to the Amber Temple nine years ago bearing an *amber shard of Khirad*, the Star of Secrets, seeking an answer to how she could escape Barovia.
 * As she ascended Mt. Ghakis, she was attacked by a "monster" (an amber-touched **barlgura**) and lost most of her supplies, leaving her stranded in the Amber Temple with no food or shelter. She froze to death shortly thereafter. Her spirit has been trapped here ever since, though Dorina doesn’t know why. (“The Mist traps us," she hisses. “It binds and ensnares, oh yes.")
@@ -547,18 +547,18 @@ If the players offer to aid her in fulfilling her unfinished business and succee
 # S3. Catacombs
 <span class="citation">This scene takes place in Chapter 13, Areas X31, X31a, and X31b.</span>
 ## S3a. Central Catacombs
-This area is largely as described in <span class="citation">X31. Central Catacombs (p. 189)</span>. However, if the **death slaad** Nardag (currently located in [[#S3b. West Catacombs]]) hears the players enter, it uses its ***shapechange*** feature to assume the form of a young human woman and conceals its greatsword within one of the amber husks in the western catacomb alcoves. It then calls out to the players, hoping to lure them into a false sense of security. Read:
+This area is largely as described in <span class="citation">X31. Central Catacombs (p. 189)</span>. However, if the **death slaad** [[NPCs/Nardag|Nardag]] (currently located in [[#S3b. West Catacombs]]) hears the players enter, it uses its ***shapechange*** feature to assume the form of a young human woman and conceals its greatsword within one of the amber husks in the western catacomb alcoves. It then calls out to the players, hoping to lure them into a false sense of security. Read:
 
 <div class="description">
 <p>A trembling woman's voice calls out from the western corridor. "H-hello? Is someone there?"</p>
 </div>
 
 > [!info]+ **The Slaad**
-On the night before the players’ arrival at the Amber Temple, a **death slaad** named Nardag came upon a cloud of mist drifting through the plane of Limbo. Intrigued, and sensing the evil of the Dark Powers through the mist, the death slaad eagerly leapt into the mist, whereupon it was spirited away to the Amber Temple in Barovia, where the boundary between worlds was weakest.
+On the night before the players’ arrival at the Amber Temple, a **death slaad** named [[NPCs/Nardag|Nardag]] came upon a cloud of mist drifting through the plane of Limbo. Intrigued, and sensing the evil of the Dark Powers through the mist, the death slaad eagerly leapt into the mist, whereupon it was spirited away to the Amber Temple in Barovia, where the boundary between worlds was weakest.
 >
 > After initially appearing in <span class="citation">X8. Upper East Hall (p. 185)</span>, Nardag sensed Neferon’s presence and immediately attacked. Ultimately, after fleeing Nardag’s attack, Neferon lured the slaad into the catacombs and sealed it there.
 >
-> Nardag knows it can escape the catacombs by casting *plane shift* to enter the Ethereral Plane. It has decided to remain, however, for two reasons. First, it enjoys basking in the miasma that birthed the Dark Powers, which it has adopted as unholy “gods" of darkness and death. Second, when it arrived in Barovia, Nardag carried a **blue slaad tadpole**, which it has fed many of the cadavers resting in <span class="citation">X31b. East Catacombs (p. 191)</span>. The **blue slaad**, which Nardag has named “Bluetspur," grew rapidly to adulthood overnight, but obeys Nardag out of reverence for its greater strength.
+> Nardag knows it can escape the catacombs by casting *plane shift* to enter the Ethereral Plane. It has decided to remain, however, for two reasons. First, it enjoys basking in the miasma that birthed the Dark Powers, which it has adopted as unholy “gods" of darkness and death. Second, when it arrived in Barovia, Nardag carried a **blue slaad tadpole**, which it has fed many of the cadavers resting in <span class="citation">X31b. East Catacombs (p. 191)</span>. The **blue slaad**, which Nardag has named “[[NPCs/Bluetspur|Bluetspur]]," grew rapidly to adulthood overnight, but obeys Nardag out of reverence for its greater strength.
 ## S3b. West Catacombs
 This area is largely as described in <span class="citation">X31a. West Catacombs (p. 191)</span>. However, it is inhabited by Nardag, a **death slaad** that can speak Common. If Nardag is expecting the players, add the following to the end of this area’s description:
 
@@ -566,7 +566,7 @@ This area is largely as described in <span class="citation">X31a. West Catacombs
 <p>A young woman with long, braided hair sits on the floor, her back propped up against the wall behind her. One of her legs is twisted at an odd angle, and her teeth are gritted in pain.</p>
 </div>
 
-If the players reveal themselves or greet her, the woman—who introduces herself as "Lorelei"—asks whether they're "friends of the creature that locked her here." "Lorelei" can share the following false information if asked:
+If the players reveal themselves or greet her, the woman—who introduces herself as "[[NPCs/Lorelei|Lorelei]]"—asks whether they're "friends of the creature that locked her here." "[[NPCs/Lorelei|Lorelei]]" can share the following false information if asked:
 
 * Her name is Lorelei. She found herself abruptly spirited away from her home a day ago and found herself here—a place she’s never seen before, and without any food or supplies.
 * Upon her arrival, she was attacked by the "demon" that dwells in these amber halls. "It looks like a man," she croaks, "but it's not." She fled, twisting her ankle in the process, and the “demon" locked her in here. She's been trying to figure out how to escape ever since.
@@ -589,9 +589,9 @@ When Nardag attacks, the **blue slaad** in [[#S3c. East Catacombs]] emerges and 
 > Remember that, because Nardag has blindsight, it attacks players blinded by its *cloudkill* with advantage, while imposing disadvantage on their attacks. In addition, don’t forget that a blinded spellcaster can’t cast spells that require sight (e.g., *polymorph*).
 
 > [!info]+ **Nardag’s Worship**
-> Nardag can sense the presence of the Dark Powers within the temple, and seeks to kill the players as offerings to them. As it fights, it gleefully asks the players whether they can “sense them—the powers of darkness that rule the twisting mists." If the players confuse the Dark Powers with the amber vestiges, Nardag angrily corrects them, snarling: “They are not as those weak, sniveling remnants. They are greater and above them. They suffuse each gulp of air you swallow; each thought that drips through your skulls. They are in your blood, in your veins, and in your hearts. They are Death incarnate—misery and pain and despair and *beauty*—and I will make you an offering to them!"
+> Nardag can sense the presence of the Dark Powers within the temple, and seeks to kill the players as offerings to them. As it fights, it gleefully asks the players whether they can “sense them—the powers of darkness that rule the twisting mists." If the players confuse the Dark Powers with the [[Factions/Amber Vestiges|amber vestiges]], Nardag angrily corrects them, snarling: “They are not as those weak, sniveling remnants. They are greater and above them. They suffuse each gulp of air you swallow; each thought that drips through your skulls. They are in your blood, in your veins, and in your hearts. They are Death incarnate—misery and pain and despair and *beauty*—and I will make you an offering to them!"
 ## S3c. East Catacombs
-This area is largely as described in <span class="citation">X31b. East Catacombs (p. 191)</span>. However, it is strewn with broken amber husks and partially consumed, ancient cadavers. A **blue slaad** named Bluetspur stands on the eastern side of this chamber, disguised by Nardag's *major image* spell. While active, the *major image* disguises the blue slaad’s surroundings to appear as an empty corridor. 
+This area is largely as described in <span class="citation">X31b. East Catacombs (p. 191)</span>. However, it is strewn with broken amber husks and partially consumed, ancient cadavers. A **blue slaad** named [[NPCs/Bluetspur|Bluetspur]] stands on the eastern side of this chamber, disguised by Nardag's *major image* spell. While active, the *major image* disguises the blue slaad’s surroundings to appear as an empty corridor. 
 
 A player with a passive Intelligence (Investigation) score of 15 or greater who approaches the illusion notices that the corridor’s contents don’t seem to obey the ordinary laws of parallax motion (almost as though the corridor is not three-dimensional, but flat).
 
@@ -600,7 +600,7 @@ Bluetspur attacks any creature that passes through the illusion, perceives it, o
 > [!combat]- **Combat - The East Catacombs**  
 > **Combat Level**: Bruising 
 > **Expected Character Level**: 8
-> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4), Kasimir Velikov (CR 6)
+> **Allies:** [[NPCs/Ireena Kolyana|Ireena Kolyana]] (CR 2), [[NPCs/Ezmerelda d'Avenir|Ezmerelda d'Avenir]] (CR 4), Kasimir Velikov (CR 6)
 > **Expected HP Consumption:** 27%
 > 
 > ### **Enemies:**
@@ -620,7 +620,7 @@ Bluetspur attacks any creature that passes through the illusion, perceives it, o
 > | 6 | Change Bluetspur to a **gray slaad**. |
 
 > [!info]+ **Curing Chaos Phage**
-> The players can cure the ***chaos phage*** disease inflicted by the Blue Slaad’s ***claw*** attack by using Ithuriel's ***healing touch*** feature, a *lesser restoration* spell, or any other means of curing a disease.
+> The players can cure the ***chaos phage*** disease inflicted by the Blue Slaad’s ***claw*** attack by using [[NPCs/Ithuriel|Ithuriel]]'s ***healing touch*** feature, a *lesser restoration* spell, or any other means of curing a disease.
 # S4. Western Temple
 ## S4a. Western Temple, Main Floor
 ### Brewing Room
@@ -632,22 +632,22 @@ This area is as described in <span class="citation">X19. Potion Storage (p. 187)
 
 This area is largely as described in <span class="citation">X20. Architect’s Room (p. 187)</span>. However, a player with a passive Wisdom (Perception) score of 10 or greater observes faint scuff marks along the bottom of the chest. (The marks were left by opening the chest’s false bottom.)
 
-In addition, replace the *tome of understanding* with a set of *eyes of minute seeing*, two old parchment scrolls, a moldy ink bottle, and three old quill pens.
+In addition, replace the *tome of understanding* with a set of *eyes of minute seeing*, two old parchment scrolls, a moldy ink bottle, and three old [[NPCs/Quill|quill]] pens.
 
 The first scroll contains a precise sketch of three amber sarcophagus, whose fronts are engraved with the following designs from left to right: (1) a gnarled tree encircled by a canal; (2) a tome upon a pedestal; and (3) an eye upon a hill. An arrow points to a circle around the leftmost sarcophagus (the one depicting the tree) from several lines of complex runes and arcane formulae. (A player who succeeds on a DC 18 Intelligence (Arcana) check identifies the runes and formulae as notes regarding some kind of conjuration magic—specifically, magic similar to the *demiplane* spell.) A scrawled note beneath the formulae reads: “Integrity parameter + duplication runes + inversion function = hidden physical demiplane within psychic manifestation. But who altered it, and why?"
 
 ![[Khazan notes 1.png]]
 <span class="credit">"Khazan's Notes" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-The second scroll contains a similar sketch of Castle Ravenloft's <span class="citation">K60. North Tower Peak (p. 74)</span>, including <span class="citation">K20. Heart of Sorrow (p. 59)</span> below. A scrawled note at the bottom reads: “Composition: crystallized blood. Means of suspension: Unknown (nonmagical). Notes: Highly conductive to arcane energies, with potentially exceptional storage capacities. Arcane signature resonates with the mists around the valley. Why?" (The last word is underlined three times.)
+The second scroll contains a similar sketch of Castle Ravenloft's <span class="citation">K60. North Tower Peak (p. 74)</span>, including <span class="citation">K20. [[Items/Heart of Sorrow|Heart of Sorrow]] (p. 59)</span> below. A scrawled note at the bottom reads: “Composition: crystallized blood. Means of suspension: Unknown (nonmagical). Notes: Highly conductive to arcane energies, with potentially exceptional storage capacities. Arcane signature resonates with the mists around the valley. Why?" (The last word is underlined three times.)
 
 ![[Khazan notes 2.png]]
 <span class="credit">"Khazan's Notes" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!lore]+ **Khazan’s Notes**
-> In the years between Strahd’s fall and Khazan’s own death, Khazan returned to the Amber Temple multiple times to investigate the secrets of lichdom and delve deeper into the knowledge that dwelled there. It was on one such visit that Khazan detected the subtle magical energies emanating from the amber sarcophagus of the Vampyr in <span class="citation">X42. Amber Vault (p. 195)</span>. Further investigation revealed the sarcophagus bore a complex and powerful enchantment—one capable of duplicating a sealed vestige’s psychic “mindspace," stabilizing it as a physical demiplane, and hiding it away within the vestige’s psychic link. However, Khazan never learned of the enchantment’s maker (Patrina) or purpose (to hide the hilt of the broken *Brightblade*).
+> In the years between Strahd’s fall and Khazan’s own death, Khazan returned to the Amber Temple multiple times to investigate the secrets of lichdom and delve deeper into the knowledge that dwelled there. It was on one such visit that Khazan detected the subtle magical energies emanating from the amber sarcophagus of the [[Items/Vampyr|Vampyr]] in <span class="citation">X42. [[Places/Amber Vault|Amber Vault]] (p. 195)</span>. Further investigation revealed the sarcophagus bore a complex and powerful enchantment—one capable of duplicating a sealed vestige’s psychic “mindspace," stabilizing it as a physical demiplane, and hiding it away within the vestige’s psychic link. However, Khazan never learned of the enchantment’s maker (Patrina) or purpose (to hide the hilt of the broken *[[Items/Brightblade|Brightblade]]*).
 >
-> As Strahd’s arcane advisor, Khazan also returned to Castle Ravenloft on multiple occasions to analyze the Heart of Sorrow, which had mysteriously manifested within the North Tower when the Mists first fell. Centuries later, when Strahd first learned of the Grand Conjunction, Strahd used Khazan’s notes as the basis for his ultimate scheme to channel the Fanes’ power into the Heart of Sorrow —and thereby escape from Barovia.
+> As Strahd’s arcane advisor, Khazan also returned to Castle Ravenloft on multiple occasions to analyze [[Items/Heart of Sorrow|the Heart of Sorrow]], which had mysteriously manifested within the North Tower when the Mists first fell. Centuries later, when Strahd first learned of the Grand Conjunction, Strahd used Khazan’s notes as the basis for his ultimate scheme to channel the Fanes’ power into the Heart of Sorrow —and thereby escape from Barovia.
 ### West Temple Stair
 <span class="citation">This scene takes place in Chapter 13, Areas X18 and X21.</span>
 
@@ -671,7 +671,7 @@ The two darker figures are the **wraiths**. The others are **specters**. Modify 
 * Each specter can cast *burning hands* once per day. When cast in this way, the spell deals necrotic damage instead of fire.
 * Each wraith can cast *counterspell* once per day and *dispel magic* twice per day. When another creature’s spell is countered in this way, the creature must succeed on a DC 14 Wisdom saving throw or be frightened until the end of its next turn.
 
-> [!lore]+ **The Poisoned Mages**
+> [!lore]+ **[[NPCs/The Poisoned Mages|The Poisoned Mages]]**
 > When Vilnius poisoned his master, the **archmage** Exethanter, seven other mages—five apprentices and two senior mages—died alongside him. Their spirits live on as the **specters** and **wraiths** that haunt this room, bound to the Amber Temple for eternity by the will of the Dark Powers. 
 >
 > These spirits remember that they were once members of the secret society that built the Amber Temple, that this society existed to imprison evil vestiges, and that the society’s third generation—theirs—destroyed itself in a storm of paranoia, anger, and greed. The spirits also believe (correctly) that Vilnius, who dined but did not die with them, is the one who killed them. The spirits sense that Vilnius’s spirit is the anchor that traps them here, and wish to see him destroyed so that their souls might be freed. The spirits further know that Vilnius desires his master’s staff (see [[#Shrine of Temptation]]), and, due to their hatred of him, will do anything to stop him from obtaining it.
@@ -687,7 +687,7 @@ The spirits are willing to share the following information if asked:
 > [!abstract]+ **The Spirits of Amber**
 > If any player possesses an amber shard, either openly or secretly, the wraiths sense its presence (though not its precise location) and challenge the players to justify why they carry “a shard of evil’s touch." 
 >
-> The players can calm the spirits by succeeding on a DC 15 Charisma (Persuasion or Deception) check, made with advantage if they reveal an amber shard and offer it to the spirits, and made with disadvantage if any player has reached Stage Three of an amber shard’s Amber Corruption. On a failure, the spirits warn the players that they cannot allow any who seek the vestiges’ power to depart their chamber alive, and attack.
+> The players can calm the spirits by succeeding on a DC 15 Charisma (Persuasion or Deception) check, made with advantage if they reveal an amber shard and offer it to the spirits, and made with disadvantage if any player has reached Stage Three of an amber shard’s [[Items/Amber Corruption|Amber Corruption]]. On a failure, the spirits warn the players that they cannot allow any who seek the vestiges’ power to depart their chamber alive, and attack.
 >
 > On initiative count 20 of the first round of combat, the doors leading from <span class="citation">X22. Northwest Annex (p. 187)</span> slam shut and magically lock, requiring a successful DC 20 Strength check to force open.
 
@@ -695,7 +695,7 @@ The spirits won’t share further information (e.g., the location of the *Sunswo
 
 * Vilnius is no ordinary spirit. He is semi-corporeal and, as far as the wraiths know, may never have truly died.
 * Vilnius’s soul anchors the mists that surround the temple. If the players destroy him, the mists should disappear, freeing the trapped souls.
-* Vilnius’s soul, however, is anchored to his **quasit** familiar, Jakarion, and vice-versa. So long as either lives, the other cannot truly die, returning to life twenty-four hours after its “death." (The wraiths, if asked, can share all information regarding a **quasit’s** statistics, including its ***shapechanger*** and ***invisibility*** features.)
+* Vilnius’s soul, however, is anchored to his **quasit** familiar, [[NPCs/Jakarion|Jakarion]], and vice-versa. So long as either lives, the other cannot truly die, returning to life twenty-four hours after its “death." (The wraiths, if asked, can share all information regarding a **quasit’s** statistics, including its ***shapechanger*** and ***invisibility*** features.)
 * Vilnius’s amulet once belonged to his master, Exethanter, but Vilnius stole it from Exethanter’s corpse.
 
 > [!info]+ **The Grateful Dead**
@@ -705,10 +705,10 @@ The spirits won’t share further information (e.g., the location of the *Sunswo
 > * The doors to <span class="citation">X40. Sealed Treasury (p. 194)</span> can be unlocked with a password, which is as described in <span class="citation">X40. Sealed Treasury (p. 194)</span>.
 > * Nearly four centuries ago, the dusk elf Patrina Velikovna came to the temple seeking the tutelage of Exethanter’s spirit. However, she plotted against him in secret, and sealed his spirit away for as long as she lived. 
 > * Some years after claiming the temple as her own, Patrina brought other men to the temple, including a noble named Strahd von Zarovich, a powerful mage called Khazan, and an architect named Artimus.
-> * Patrina vanished a little over a year after Strahd’s first visit. However, a few days before she disappeared, one of the wraiths watched her place the platinum hilt of a shattered sword within the western sarcophagus of <span class="citation">X42. Amber Vault (p. 195)</span>. (“The amber rippled as though it were water," the wraith recalls, “and the hilt vanished within.")
+> * Patrina vanished a little over a year after Strahd’s first visit. However, a few days before she disappeared, one of the wraiths watched her place the platinum hilt of a shattered sword within the western sarcophagus of <span class="citation">X42. [[Places/Amber Vault|Amber Vault]] (p. 195)</span>. (“The amber rippled as though it were water," the wraith recalls, “and the hilt vanished within.")
 
 > [!abstract]+ **An Icy Reception**
-> If the players return to this room bearing the *staff of frost* from the [[#Shrine of Temptation]], the spirits manifest and command them to return the staff to its “vault," where the “betrayer" (Vilnius) cannot reach it. If the players refuse, the spirits attack, as described above.
+> If the players return to this room bearing the *[[Items/Staff of Frost|staff of frost]]* from the [[#Shrine of Temptation]], the spirits manifest and command them to return the staff to its “vault," where the “betrayer" (Vilnius) cannot reach it. If the players refuse, the spirits attack, as described above.
 ### Shrine of Temptation
 <span class="citation">This scene takes place in Chapter 13, Area X24.</span>
 
@@ -768,7 +768,7 @@ This area is as described in <span class="citation">X37. Wizard’s Bedchamber (
 > A player can’t accept more than one dark gift. Once a player accepts a vestige’s dark gift, all other vestiges within the temple refuse to offer them any additional dark gift, noting with distaste that their soul is “tainted" by another’s power.
 
 > [!info]+ **Stages of Corruption**
-> The first time a player fails a Charisma saving throw after using a vestige’s dark gift, that player immediately progresses to Stage Four of that vestige’s amber corruption, as described below. The player doesn’t receive the effects of Stage Three of that vestige’s [[Amber Shards#Stage Three|amber corruption]], and loses the effects of the vestige’s Stage Three amber corruption if they already possessed them.
+> The first time a player fails a Charisma saving throw after using a vestige’s dark gift, that player immediately progresses to Stage Four of that vestige’s [[Items/Amber Corruption|amber corruption]], as described below. The player doesn’t receive the effects of Stage Three of that vestige’s [[Amber Shards#Stage Three|amber corruption]], and loses the effects of the vestige’s Stage Three amber corruption if they already possessed them.
 #### Breached Vault
 <span class="citation">This scene takes place in Chapter 13, Area X33d</span>
 
@@ -783,7 +783,7 @@ This area is largely as described in <span class="citation">X33d. Breached Vault
 >
 > *Before you, strange, twisted monuments of ice arc unnaturally in leaping spirals and immense, impossible architectures, while shards of frost swirl on the wind, as thin and sharp as razors. Several hundred yards away, the earth falls away to reveal a deep, mile-wide pit, its sides rimmed in snow and frost. A constant column of red-hot magma rises in great, shifting blobs from the pit’s miles-deep base, swirling into the skies above as the pit’s bottom slowly darkens and cools. *The column of lava rises far into the atmosphere, turning black with cold until, finally, it is devoured by a frigid, blue-white star that hangs over the horizon.*
 >
-> *The earth trembles and, as the star orbits through the skies, you feel a terrible gaze fall upon you. A rumbling voice echoes through the air: “I AM DELBAN, THE STAR OF ICE AND HATE. DO YOU COME TO SEEK MY GIFT?"*
+> *The earth trembles and, as the star orbits through the skies, you feel a terrible gaze fall upon you. A rumbling voice echoes through the air: “I AM [[NPCs/Delban, the Star of Ice and Hate|DELBAN, THE STAR OF ICE AND HATE]]. DO YOU COME TO SEEK MY GIFT?"*
 >
 > ---
 > 
@@ -799,11 +799,11 @@ This area is largely as described in <span class="citation">X33d. Breached Vault
 
 If the player passes through the amber archway or accepts Delban’s gift, the telepathic connection ends, and the player returns to their previous senses.
 
-> [!info]+ **North Sarcophagus (Tomb of the Devourer).**  
-> If a player approaches this sarcophagus while in possession of the butterfly statuette from [[Arc J - The Stolen Gem#J4a. Kavan’s Cairn|J4a. Kavan’s Cairn]], or the *twilight crest* from [[Arc J - The Stolen Gem#J6b. The Whispering Wall|J6b. The Whispering Wall]], the item glows purple and emits a soft, keening hum.  (The light and hum fade after 1 minute, or if the item is removed from the room.)
+> [!info]+ **North Sarcophagus (Tomb of [[NPCs/The Devourer|the Devourer]]).**  
+> If a player approaches this sarcophagus while in possession of the butterfly statuette from [[Arc J - The Stolen Gem#J4a. Kavan’s Cairn|J4a. Kavan’s Cairn]], or the *[[Items/Twilight Crest|twilight crest]]* from [[Arc J - The Stolen Gem#J6b. The Whispering Wall|J6b. The Whispering Wall]], the item glows purple and emits a soft, keening hum.  (The light and hum fade after 1 minute, or if the item is removed from the room.)
 
 > [!lore]+ **The Broken Sarcophagus**
-> When the wizards of the Amber Temple first set off to contain the vestiges of evil entities, the vestige of the Devourer—the youngest sister of the Ladies of the Fanes, once known as the Dreamer—was the first that they found. They extracted her divine soul from the Whispering Wall, her corpse, and sealed it away within an amber sarcophagus. Still inexperienced in the art of sealing vestiges, the wizards’ ritual overlooked a single parameter in the Devourer’s binding—and ever since, a thin layer of the Dreamer’s mist has blanketed the temple floor. When the Dark Powers first wove Vilnius’s prison, it was this mist, tinged with divine power, that they used to do so. Two millenia later, the Dark Powers, empowered by Strahd’s evil and the nourishment they had taken from the souls entrapped in the Amber Temple, spun Mists of their own, which they used to imprison the land of Barovia.
+> When the wizards of the Amber Temple first set off to contain the vestiges of evil entities, the vestige of [[NPCs/The Devourer|the Devourer]]—the youngest sister of the [[Factions/Ladies of the Fanes|Ladies of the Fanes]], once known as the [[NPCs/Dreamer|Dreamer]]—was the first that they found. They extracted her divine soul from [[Places/Whispering Wall|the Whispering Wall]], her corpse, and sealed it away within an amber sarcophagus. Still inexperienced in the art of sealing vestiges, the wizards’ ritual overlooked a single parameter in the Devourer’s binding—and ever since, a thin layer of the [[NPCs/Dreamer|Dreamer]]’s mist has blanketed the temple floor. When the Dark Powers first wove Vilnius’s prison, it was this mist, tinged with divine power, that they used to do so. Two millenia later, the Dark Powers, empowered by Strahd’s evil and the nourishment they had taken from the souls entrapped in the Amber Temple, spun Mists of their own, which they used to imprison the land of Barovia.
 >
 > Since her sealing, the Devourer’s vestige slept silently in its sarcophagus . . . until, three months ago, Strahd von Zarovich came seeking its knowledge of soul magic. When the Devourer’s vestige refused to share its secrets with him, Strahd tore it from its sarcophagus and sealed it away within the Heart of Sorrow at the peak of Castle Ravenloft, where he could use the Fanes’ power to compel it to answer. Now, only scraps of the Devourer’s power cloak the shattered remnants of her millenia-old prison, echoing faintly with the tingues of the mantle she once wore.
 
@@ -849,7 +849,7 @@ This area is largely as described in <span class="citation">X33e. Vault of Harko
 >
 > *The distant stars shimmer, then coalesce, forming a woman’s silhouette. Her eyes are a pair of swirling spiral galaxies, and when she speaks, the cosmos themselves seem to tremble.*
 >
-> “*I am Yrrga, the Eye of Shadows*," she intones. “Do you seek my gift?"
+> “*I am [[NPCs/Yrrga, the Eye of Shadows|Yrrga, the Eye of Shadows]]*," she intones. “Do you seek my gift?"
 > 
 > ---
 >
@@ -876,7 +876,7 @@ This area is largely as described in <span class="citation">X33e. Vault of Harko
 >  
 > *Rising from the surface of the lake of lava, far above the cracked black stone and spouts of impossible heat, is an immense hydra clad in dark, platinum scales. Instead of one head, it has five, each maw wide enough to devour an entire village.*  
 >  
-> ***“I am the Great Taar Haak,"*** *it rumbles,* ***“the Five-Headed Destroyer. Have you the strength to claim my gift?"***
+> ***“I am the [[NPCs/Great Taar Haak, the Five-Headed Destroyer|Great Taar Haak]],"*** *it rumbles,* ***“the Five-Headed Destroyer. Have you the strength to claim my gift?"***
 >  
 > ---  
 >  
@@ -928,13 +928,13 @@ This area is largely as described in <span class="citation">X33f. Vault of Thang
 >  
 > ---  
 >  
-> *As you touch the sarcophagus, the room melts away around you, to be replaced by a vast, decrepit chapel. Behind you, an arch forged of crystalline amber stands stark against the landscape, its archway filled with a shimmering, amber reflection of the room from whence you came.*  
+> *As you touch the sarcophagus, the room melts away around you, to be replaced by a vast, decrepit [[Places/Chapel of Morning|chapel]]. Behind you, an arch forged of crystalline amber stands stark against the landscape, its archway filled with a shimmering, amber reflection of the room from whence you came.*  
 >  
-> *Before you, stone coffins carved with pentagrams fill the sanctuary in long, perfect rows, their covers removed to reveal the ancient dead that lie within. At the chapel’s far end, atop a tall, granite dais, stands an additional coffin carved from pure obsidian.*  
+> *Before you, stone coffins carved with pentagrams fill the sanctuary in long, perfect rows, their covers removed to reveal the ancient dead that lie within. At the [[Places/Chapel of Morning|chapel]]’s far end, atop a tall, granite dais, stands an additional coffin carved from pure obsidian.*  
 >  
 > *A living shadow floats above the obsidian coffin, clad in twisted darkness and an elaborate bone helm. Cold, gray eyes flicker beneath its visor; when the shadow speaks, its voice grinds like the sound of bone against bone.*  
 >  
-> *“I am Norganas, the Finger of Oblivion," it rasps. “Will you accept my gift?"*  
+> *“I am [[NPCs/Norganas, the Finger of Oblivion|Norganas, the Finger of Oblivion]]," it rasps. “Will you accept my gift?"*  
 >  
 > ---  
 >  
@@ -950,7 +950,7 @@ This area is largely as described in <span class="citation">X33f. Vault of Thang
 > * **Stage Five.** The player gains a **wraith’s** ***incorporeal movement*** and ***life drain*** features, and the flaw: “I despise reminders of what I once was, and what I have become."
 > * **Stage Six.** The player transforms into a **wraith** under the DM’s control.
 
-> [!info]+ **South Sarcophagus (Tomb of Vaund).**  
+> [!info]+ **South Sarcophagus (Tomb of [[NPCs/Vaund the Evasive|Vaund]]).**  
 > If a player touches this sarcophagus, read:  
 >  
 > ---  
@@ -959,7 +959,7 @@ This area is largely as described in <span class="citation">X33f. Vault of Thang
 >  
 > *The ground beneath your feet shimmers with a thin layer of liquid water. Before you, a tall silver mirror stands alone amidst the darkness. Rather than your reflection, however, a golden mask hovers in the mirror’s depths, its surface carved to resemble a smiling human face.*  
 >  
-> *“I am Vaund, the Evasive," the mask whispers. “Have you come to seek my gift?"*  
+> *“I am [[NPCs/Vaund the Evasive|Vaund]], the Evasive," the mask whispers. “Have you come to seek my gift?"*  
 >  
 > ---  
 >  
@@ -986,7 +986,7 @@ This area is largely as described in <span class="citation">X33f. Vault of Thang
 >  
 > *Between them stands a figure clad in black steel armor inlaid with crimson markings. Its shoulders are rimmed with spikes, and scarlet eyes burn from the shadows of its devil-horned helmet. It wields a chain-metal whip in either hand, their spiked lengths crackling with swirling flames.*  
 >  
-> *“I am Seriach, the Hell Hound Whisperer," the figure sneers. “Have you come to ask for my gift?"*  
+> *“I am [[NPCs/Seriach, the Hell Hound Whisperer|Seriach, the Hell Hound Whisperer]]," the figure sneers. “Have you come to ask for my gift?"*  
 >  
 > ---  
 >  
@@ -1025,7 +1025,7 @@ A player with a passive Wisdom (Perception) score of 15 or greater notices that 
 >
 > That night, as Vilnius and several other mages dined with Exethanter, as was customary, Vilnius—a prodigy of illusion magic—subtly disguised Exethanter’s enchanted ewer as an ordinary pitcher, and instead filled the others’ cups with a disguised pitcher filled with poisoned wine. The other mages died gruesomely at the table; only Exethanter, sensing the danger, stumbled forth through the [[#Shrine of Temptation]] toward his quarters, seeking an antidote—only to fall and leave his staff atop the statue there as he died. 
 >
-> As he watched his master die, Vilnius was overcome with terror of the prospect of Exethanter’s vengeful spirit returning. To protect himself, he stole the **shield guardian**’s amulet, then hid himself away in <span class="citation">X9. Lecture Hall (p. 185)</span>.
+> As he watched his master die, Vilnius was overcome with terror of the prospect of Exethanter’s vengeful spirit returning. To protect himself, he stole the **[[Items/Shield Guardian|shield guardian]]**’s amulet, then hid himself away in <span class="citation">X9. Lecture Hall (p. 185)</span>.
 > 
 > The Dark Powers were born from Vilnius’s treachery that night, rising from the dark miasma that filled the temple’s halls. Craving the nourishment of Vilnius’s maddened paranoia and fear, the Dark Powers used their new power to entrap him within <span class="citation">X9. Lecture Hall (p. 185)</span>; there, his body slowly wasted away over the centuries, until little but a shade remained. Vilnius became the Dark Powers’ first prisoner, and the Amber Temple their first prison.
 > 
@@ -1049,7 +1049,7 @@ When the players first approach or confront Vilnius, if they bear bright lights,
 >
 > ---
 >
-> Vilnius and the **shield guardian** then attack.
+> Vilnius and the **[[Items/Shield Guardian|shield guardian]]** then attack.
 
 > [!abstract]+ **Attacking Vilnius**
 > If the players attack Vilnius or display hostile intent, read:
@@ -1066,7 +1066,7 @@ When the players first approach or confront Vilnius, if they bear bright lights,
 >
 > Vilnius and the **shield guardian** then attack.
 
-> [!info]+ **Jakarion the Quasit**
+> [!info]+ **[[NPCs/Jakarion|Jakarion]] the Quasit**
 > Vilnius’s **quasit** familiar, Jakarion, dwells invisibly upon his shoulder in the form of a **toad**. If combat appears likely, Jakarion uses its ***shapechanger*** feature to assume the form of a bat, then flies away from Vilnius, hoping to avoid taking damage. A player with a passive Wisdom (Perception) score of 20 or greater notices the toad’s depression upon Vilnius’s shoulder, while a player with a passive Wisdom (Perception) score of 15 or greater hears the sound of flapping wings as Jakarion flees Vilnius’s side.
 
 Vilnius is suspicious of the players and their intentions, and asks warily whether they are “dead, like the others." A successful DC 10 Charisma (Persuasion) check can convince him to share the following information:
@@ -1130,7 +1130,7 @@ If the players ask Vilnius for information about Patrina or the *Sunsword*, he a
 > | 6 | Increase the **shield guardian's** AC to 18. Increase its hit points to 161 and its Dexterity to 10. Increase its proficiency bonus to +4. Increase its ***fist*** attack to +8 to hit. |
 
 <div class="statblock">
-<h2>Vilnius, First Prisoner</h2>
+<h2>[[NPCs/Vilnius, First Prisoner|Vilnius, First Prisoner]]</h2>
 <em>Medium undead, neutral evil</em>
 <hr>
 <strong>Armor Class</strong> 12  
@@ -1249,7 +1249,7 @@ A player who succeeds on a DC 15 Wisdom (Survival) check discerns that the footp
 ### East Hall
 <span class="citation">This scene takes place in Chapter 13, Areas X5d and X32.</span>
 
-This area is largely as described in <span class="citation">X5d. Amber Reflections (p. 184)</span> and <span class="citation">X32. Lower East Hall (p. 191)</span>. However, remove the **Barovian witches** from this area.
+This area is largely as described in <span class="citation">X5d. Amber Reflections (p. 184)</span> and <span class="citation">X32. Lower East Hall (p. 191)</span>. However, remove the **[[NPCs/Barovian witches|Barovian witches]]** from this area.
 ### East Quarters
 <span class="citation">This scene takes place in Chapter 13, Areas X34 and X35.</span>
 
@@ -1271,7 +1271,7 @@ This area is largely as described in <span class="citation">X33a. Vault of Shalx
 >  
 > *At the cemetery’s center, the soil pulls away to reveal a deep, wide pit, its depths filled with an uncountable mass of humanoid corpses. Atop the pile rests an enormous, gray-pink worm with glistening flesh, its “head" splitting to reveal a round, jawless opening lined with concentric rings of sharp, hooked teeth. As you watch, you see that its flesh is not skin at all, but a writhing mass of millions of tiny, wriggling earthworms woven together like thread.*  
 >  
-> *“We are Sykane, the Soul Hungerer," the worm rumbles, a million, tiny voices intermingling to form a booming whole. “Do you seek our gift?"*  
+> *“We are [[NPCs/Sykane, the Soul Hungerer|Sykane, the Soul Hungerer]]," the worm rumbles, a million, tiny voices intermingling to form a booming whole. “Do you seek our gift?"*  
 >  
 > ---  
 >  
@@ -1298,7 +1298,7 @@ This area is largely as described in <span class="citation">X33a. Vault of Shalx
 >  
 > *Amidst the clouds, at the eye of the storm, the clouds form a humanoid silhouette that crackles and hums with lightning. Its lower body is a black tornado that descends to the ground below, chewing deep gouges through the landscape, and its mouth is a dark, gaping maw.*  
 >  
-> **“I am Zrin-Hala, the Howling Storm,"** the storm roars. **“Will you accept my gift?"**  
+> **“I am [[NPCs/Zrin-Hala, the Howling Storm|Zrin-Hala, the Howling Storm]],"** the storm roars. **“Will you accept my gift?"**  
 >  
 > ---  
 >  
@@ -1325,7 +1325,7 @@ This area is largely as described in <span class="citation">X33a. Vault of Shalx
 >  
 > *Behind the altar, with one thin, elegant hand atop the bowl’s edge, stands a woman: tall, with pallid, purple-grey skin and a dress of deep violet. Rather than hair, a cluster of gray-green fungi rise from the sides and top of her head, while purple lichens cover her eyes in a shape reminiscent of a masquerade ball’s mask.*  
 >  
-> *“I am Fekre, Queen of Poxes," she says. “Who is it that seeks my gift?"*  
+> *“I am [[NPCs/Fekre, Queen of Poxes|Fekre, Queen of Poxes]]," she says. “Who is it that seeks my gift?"*  
 >  
 > ---  
 >  
@@ -1356,7 +1356,7 @@ This area is largely as described in <span class="citation">X33b. Vault of Maver
 >  
 > *Beside the pedestal stands a solitary figure, its features and limbs concealed by a long, white, cowled robe. Its hooded visage shifts toward you, shadows concealing the space beneath.*  
 >  
-> *“I am Savnok, the Inscrutable," it murmurs. “Do you seek my gift?"*  
+> *“I am [[NPCs/Savnok, the Inscrutable|Savnok, the Inscrutable]]," it murmurs. “Do you seek my gift?"*  
 >  
 > ---  
 >  
@@ -1383,7 +1383,7 @@ This area is largely as described in <span class="citation">X33b. Vault of Maver
 >  
 > *A tall throne stands at the chamber’s far end, built of skulls, ribs, clavicles, and femurs, each bone bleached a pale white. Above the throne towers a serpentine gray-scaled wyrm, the features of its eyeless head swallowed up by its own massive, tooth-filled maw. Twin skeletal wings extend from its back, each wing’s bones brushing against the ceiling and walls of the chamber around it.*  
 >  
-> *“I am Tarakamedes, the Grave Wyrm," the wyrm rasps. “Have you come to seek my gift?"*  
+> *“I am [[NPCs/Tarakamedes, the Grave Wyrm|Tarakamedes, the Grave Wyrm]]," the wyrm rasps. “Have you come to seek my gift?"*  
 >  
 > ---  
 >  
@@ -1404,7 +1404,7 @@ This area is largely as described in <span class="citation">X33b. Vault of Maver
 >  
 > ---  
 >  
-> *As you touch the sarcophagus, the room melts away around you, to be replaced by a lush, windowless parlor. Behind you, an arch forged of crystalline amber stands stark against the landscape, its archway filled with a shimmering, amber reflection of the room from whence you came.*  
+> *As you touch the sarcophagus, the room melts away around you, to be replaced by a lush, windowless [[Places/Parlor|parlor]]. Behind you, an arch forged of crystalline amber stands stark against the landscape, its archway filled with a shimmering, amber reflection of the room from whence you came.*  
 >  
 > *Flickering candles light this chamber, which is filled with plush divans, love seats, and futons decorated in shades of pink, pastel green, and scarlet red. A woman lounges upon a futon at the center of the space, surrounded by dozens of soft pillows. Her face is painted a clean, snowy white, but her full lips glisten a deep, sinful crimson. Her hair is pulled into a simple, neat bun atop her head, with all but two fine, dark strands pinned in place by a pair of ivory needles. Two small, crimson horns rise from her head on either side of the bun, their tips filed to soft, round ends.*  
 >  
@@ -1440,7 +1440,7 @@ The creature, which once was the Mountain Folk Meda, is a **nothic**. When the p
 </div>
 
 > [!lore]+ **The Nothic**
-> When the Mountain Folk Meda accepted the dark gift of Khirad, the Star of Secrets, her mind was overcome by the power of the knowledge he shared, twisting her body and mind into those of a nothic. In her current form, Meda has lost herself to madness, and no longer cares for anything but her own curiosity—as well as her mirth at her “revelations."
+> When the Mountain Folk Meda accepted the dark gift of [[NPCs/Khirad, the Star of Secrets|Khirad, the Star of Secrets]], her mind was overcome by the power of the knowledge he shared, twisting her body and mind into those of a nothic. In her current form, Meda has lost herself to madness, and no longer cares for anything but her own curiosity—as well as her mirth at her “revelations."
 
 Meda, who acts largely as described in <span class="citation">X33d. Breached Vault (p. 192)</span>, is glad to speak with the players, though her words are almost always cryptic, mad, and interspersed with frequent giggles. If asked, she can share the following information:
 
@@ -1494,7 +1494,7 @@ If the players answer her riddle, Meda smiles toothily, congratulates them, and 
 >
 > *A man sits upon the steps to the dais, slender and handsome. He wears fine robes of deep blues and blacks, and two small horns rise from his forehead. At the sight of you, his lips curl into a smile; he stands, bowing deeply.*
 > 
-> *"Zantras, the Kingmaker, at your service" he says, kneeling. “Have you come to claim your gift, my Lord?"*
+> *"[[NPCs/Zantras, the Kingmaker|Zantras, the Kingmaker]], at your service" he says, kneeling. “Have you come to claim your gift, my Lord?"*
 > 
 > ---  
 >  
@@ -1596,7 +1596,7 @@ In addition, the **amber golem** attacks any creature that disturbs any of the p
 ## S6c. Amber Vault
 <span class="citation">This scene takes place in Chapter 13, Areas X41 and X42.</span>
 
-This area is largely as described in <span class="citation">X41. Fissure (p. 195)</span> and <span class="citation">X42. Amber Vault (p. 195)</span>. However, there are no crates or **vampire spawn** in this chamber. In addition, modify the east and south sarcophagi as described below.
+This area is largely as described in <span class="citation">X41. Fissure (p. 195)</span> and <span class="citation">X42. Amber Vault (p. 195)</span>. However, there are no crates or **[[Factions/Vampire Spawn|vampire spawn]]** in this chamber. In addition, modify the east and south sarcophagi as described below.
 
 > [!info]+ **East Sarcophagus (Tomb of Zhudun)**
 > If a player touches this sarcophagus, read:
@@ -1611,7 +1611,7 @@ This area is largely as described in <span class="citation">X41. Fissure (p. 195
 >
 > *The eyes drift in their tectonic sockets, then, lazily, peer toward you. The entire planet rumbles with an alien, hollow voice that is at once a whisper and a shout, once which rings in both your ears and your mind.*
 >
-> ***I AM ZHUDUN, THE CORPSE STAR,*** the voice says. ***WHO COMES TO SEEK MY GIFT?***
+> ***I AM [[NPCs/Zhudun, the Corpse Star|ZHUDUN, THE CORPSE STAR]],*** the voice says. ***WHO COMES TO SEEK MY GIFT?***
 >
 > ---
 >
@@ -1666,7 +1666,7 @@ If a player touches the **west sarcophagus** (the tomb of the Vampyr), read:
 > If the player carries the [[Character Creation#Faith—The Sunrise Medallion|Sunrise Medallion]] or [[Character Creation#Justice—The Broken Blade|Broken Blade]], the relic responds as follows:
 >
 > * The medallion flickers with golden light, growing stronger and brighter as it approaches the bloody canal and, eventually, the *Sunsword* concealed beneath it.
-> * The broken blade emits a high-pitched hum and trembles violently, spinning like a compass needle in the direction of the bloody canal and, eventually, the *Sunsword* concealed beneath it.
+> * The [[Items/Broken Blade|broken blade]] emits a high-pitched hum and trembles violently, spinning like a compass needle in the direction of the bloody canal and, eventually, the *Sunsword* concealed beneath it.
 #### The Tree
 If the player approaches or interacts with the tree, or otherwise calls out to it, the vestige of the Vampyr emerges to greet them. Read or paraphrase:
 
@@ -1779,10 +1779,10 @@ Patrina greets the players with mocking warmth, thanking them for freeing her fr
 ***Patrina’s Schemes.*** Patrina is glad to share the following information if prompted or asked, pausing as necessary or appropriate to allow the players to respond:
 
 * She is Patrina Velikovna, the sister of Kasimir Velikov. 
-* More than four hundred years ago (“as my baby brother no doubt has told you," Patrina sniffs), “Old King Barov" of the von Zarovich family decided to shake down the dusk elves for "pocket change." "Dear Uncle Erevan didn't like that," she says, showing white teeth in a grim, predatory smile. "And Barov didn't like that he disliked it. And so, dear Uncle Lion Cub found his family put to the sword, lands pillaged and destroyed, babes dashed across the walls—all of those *lovely* parts of war.
-* "It was in the aftermath of Erevan's downfall that dear Kasimir and I came of age," she continues. "Imagine this: You're a dainty, naive, young girl a mere century old, and all you see around you are your own beloved people, their backs breaking in Old King Barov's labor camps. What's a girl to do?"
+* More than four hundred years ago (“as my baby brother no doubt has told you," Patrina sniffs), “Old King Barov" of the von Zarovich family decided to shake down the dusk elves for "pocket change." "Dear Uncle [[NPCs/Prince Erevan Löwenhart|Erevan]] didn't like that," she says, showing white teeth in a grim, predatory smile. "And Barov didn't like that he disliked it. And so, dear Uncle Lion Cub found his family put to the sword, lands pillaged and destroyed, babes dashed across the walls—all of those *lovely* parts of war.
+* "It was in the aftermath of [[NPCs/Prince Erevan Löwenhart|Erevan]]'s downfall that dear Kasimir and I came of age," she continues. "Imagine this: You're a dainty, naive, young girl a mere century old, and all you see around you are your own beloved people, their backs breaking in Old King Barov's labor camps. What's a girl to do?"
 * Whether the players respond or not, Patrina continues: "I won't claim the glory or honor of being the first to call for rebellion, but I'd gladly claim the glory of being among the first when Barov’s son took the throne." She chuckles darkly, a low, throaty sound. "We thought him a naive starling—scarcely fifty summers old. How wrong we were."
-* She continues: "He broke us again, of course. Left us to the mercy of his favorite little travelers—the Vistani, who you may have met. Did you know that's where the names 'Velikov' and ‘Velikovna’ come from? Dear Kasimir feared that Strahd might learn of our relationship to dear Uncle, and suggested we take the name of the man whose caravan had taken us in." She rolls her eyes. “Of course, carrying out the traditional Vistani blood rite to *officially* become parts of the Velikov clan might have been a step too far, but my brother has always been one for *sentiment.*
+* She continues: "He broke us again, of course. Left us to the mercy of his favorite little travelers—the [[Factions/Vistani|Vistani]], who you may have met. Did you know that's where the names 'Velikov' and ‘Velikovna’ come from? Dear Kasimir feared that Strahd might learn of our relationship to dear Uncle, and suggested we take the name of the man whose caravan had taken us in." She rolls her eyes. “Of course, carrying out the traditional Vistani blood rite to *officially* become parts of the Velikov clan might have been a step too far, but my brother has always been one for *sentiment.*
 * “Of course," Patrina adds, “when the Vistani bore us to the valley, it soon became clear that this was to be our prison—and, in time, our graves." She smiles. “Thankfully, a chance encounter with a knight, a few drinks, and a *touch* of enchantment allowed me to learn of a temple high in the mountains—one that held the secrets to excising the scourge of the von Zaroviches and returning my people to their proper place."
 * She sniffs. "Of course, the old ghost I found here was suspicious about me—but even he crumbled in the end. I had an entire playground of new magic to explore, and I knew that another stupid, selfish old man wasn't about to stop me from getting what was mine." She shrugs. "So I studied. I learned. I waited. And by the time he found out… Well, by then, it was too late, wasn't it?"
 * "With dear Exethanter gone," she continues, "the future was mine for the taking. Most of the vestiges here were pathetic, offering only tainted scraps of power, but one..." She shudders with delight. "One offered *so much more*. Perhaps you've encountered it?"
@@ -1793,7 +1793,7 @@ Patrina greets the players with mocking warmth, thanking them for freeing her fr
 * "You may understand my shock, then, when he denied Tenebrous's gift. He claimed, at least then, that matters of empire claimed his attention, preventing him from further delving into the study of magic. I thought it a trick of the light, but there was a glint of hunger in his eyes as he beheld the Vampyr's sarcophagus."
 * "And then—the Federovna girl." Patrina’s mouth twists in distaste. "Strahd’s darling little brother, the accursed prince, finds this comely little village girl and spirits her away to the castle. Strahd spends all of his spare time entertaining the happy couple—but I knew the lust in his eyes for what it was. Our lessons in magic dwindled, and soon ceased. I *bored* him now; in her, he had found a treasure that surpassed any I could offer him." Patrina takes a sharp breath. “And then—the wedding. The day the skies turned red. The day he ascended far beyond my power."
 * Pausing, Patrina shakes her head, then continues: "When I learned what he had become, I redoubled my studies of the dark arts. I knew that he had now grown beyond my power to control. And so I began to pursue Tenebrous's gift more vigorously—until, soon, I had assembled all of the pieces I needed to finalize its enactment."
-* "Tell me," she asks, "do you know the two ingredients of lichdom?" Regardless of the players’ response, Patrina laughs, continuing: "It's simple, really: a prepared phylactery—an object to house your soul—and a potion of transformation. The former, I had already prepared. Oh, it was a *delight* to think of housing my soul within the one thing that now struck fear into Strahd’s heart—his father’s broken blade of searing sunlight, its hilt enchanted and wrought from unbreakable platinum." She smiles ferally. “And to hide it away in the one place to which his heart would never return, and the one place where he would forever fear to tread?" (If the players point out the canal of bloody souls, Patrina nods delightedly. “Death," she hisses, her eyes lighting up, “has always been his source of greatest terror.")
+* "Tell me," she asks, "do you know the two ingredients of lichdom?" Regardless of the players’ response, Patrina laughs, continuing: "It's simple, really: a prepared phylactery—an object to house your soul—and a potion of transformation. The former, I had already prepared. Oh, it was a *delight* to think of housing my soul within the one thing that now struck fear into Strahd’s heart—his father’s [[Items/Broken Blade|broken blade]] of searing sunlight, its hilt enchanted and wrought from unbreakable platinum." She smiles ferally. “And to hide it away in the one place to which his heart would never return, and the one place where he would forever fear to tread?" (If the players point out the canal of bloody souls, Patrina nods delightedly. “Death," she hisses, her eyes lighting up, “has always been his source of greatest terror.")
 * “As for the potion . . . " Her eyes fall upon Kasimir (if present), and she shakes her head, tutting with disappointment. “I was betrayed and killed before I could drink it. Eight lives, sacrificed to brew it—wasted." (If the players suggest she sacrificed other dusk elves to brew the potion, she reacts with horror. “I would never harm my own people," she sniffs. “They have suffered enough; the future *belongs* to them. No; it was petty little _humans_ I claimed for my final experiment—_Barovians_, they called themselves, after the first monster of the Von Zarovich clan.")
 
 If Kasimir is present, Patrina smiles sweetly at him, her voice gaining a musical tone. “Fratricide can truly be a weight upon one’s soul—and not to mention *so* unbecoming." She spreads her hands, shadows wisping through the air to form a cloak across her shoulders. “But fear not, little brother. I’m pleased to share that I’ve thought of a way for you to suitably apologize—and you’ve even brought *friends* to help you do it."
@@ -1819,7 +1819,7 @@ Patrina might make one or more of the following arguments (in any order), moving
 
 * Patrina asks Kasimir whether his “tantrum in her laboratory" has achieved the results he had hoped for. “Did killing me bring back any of the humans who had already died?" she asks softly. “Did it help *their* people, the Barovians, let alone ours? Or did it lead only to greater calamity, with naught to show of it but blood and death?"
 * Patrina vows that only she can help Kasimir achieve vengeance against Strahd - and “the betrayer, Rahadin." “When Barov’s armies first laid waste to our forests, we vowed that, one day, his line would pay - and our people would have a home again," she hisses. “I never forgot that vow. Did you?"
-* Patrina warns Kasimir that Strahd is “surely aware" of his meddlings in the Amber Temple, and that it’s not long before he learns that Kasimir has found the hilt of King Barov’s broken *Brightblade*. “If he sees you with this hilt," she warns, “he will destroy you - and this time, not one of our people will survive. Only *I* can protect you; these outsiders will only bring you to ruin."
+* Patrina warns Kasimir that Strahd is “surely aware" of his meddlings in the Amber Temple, and that it’s not long before he learns that Kasimir has found the hilt of King Barov’s broken *[[Items/Brightblade|Brightblade]]*. “If he sees you with this hilt," she warns, “he will destroy you - and this time, not one of our people will survive. Only *I* can protect you; these outsiders will only bring you to ruin."
 * Patrina tells Kasimir that “only I can replicate the binding that once empowered King Barov’s *Brightblade* - and only I can repair and reforge it, so that we may wield the only weapon he has ever feared." 
 * Patrina asks Kasimir, softly, whether he knows where King Barov’s *Brightblade* came from. “It was Uncle Erevan’s *Moonblade*, perverted and reforged," she hisses. “Before Strahd’s pet wizard broke it, it held Erevan’s soul sealed within it. This weapon *belongs* to us; it is *ours* to wield. It is our legacy, our vengeance, our *birthright* - together."
 * Patrina promises that, upon her ascension, she’ll have the power to resurrect every female dusk elf Rahadin slaughtered. “Every mother, wife, sister, and daughter we lost that day," she whispers, “returned to the lives they were always meant to live. Would that not be worth any price?" (This is a lie. A player who succeeds on a DC 17 Wisdom (Insight) check sees Patrina’s lips twist slyly, her eyes glinting with amusement at her suggestion.)
@@ -1863,7 +1863,7 @@ Patrina then attacks.
 > | 6 | Increase Patrina's hit points in her first phase to 320 and in her second phase to 294. Increase the hit points of **amber constructs** to 101 and the damage of their ***slam*** attack to 24 (4d8 + 6) bludgeoning damage. In Patrina's second phase, increase her ***multiattack*** to five attacks with her ***shadowblade***. |
 
 <div class="statblock">
-<h2>Patrina, Vengeful Wraith</h2>
+<h2>[[NPCs/Patrina, Vengeful Wraith|Patrina, Vengeful Wraith]]</h2>
 <em>Medium undead, neutral evil</em>
 <hr>
 <strong>Armor Class</strong> 13  
@@ -1945,7 +1945,7 @@ Patrina then attacks.
 > When Patrina transforms into her second phase, she notes, with pronounced irritation, that she had hoped “not to assume corporeal form before her preparations were complete." “It seems, however," she adds, her voice dripping with venom, “that you require my *fullest* attention."
 
 <div class="statblock">
-<h2>Patrina, Half-Lich</h2>
+<h2>[[NPCs/Patrina, Vengeful Wraith|Patrina, Half-Lich]]</h2>
 <em>Medium undead, neutral evil</em>
 <hr>
 <strong>Armor Class</strong> 20  
@@ -2039,7 +2039,7 @@ Without a ritual to bind a soul to the *Sunsword*, the players must find and con
 * It emits bright light in a minimum radius equal to 5 feet times its resonance level, and dim light for an additional number of feet equal to 5 feet times its resonance level. (For example, if the blade has a resonance level of 3, it emits bright light in a 15-foot radius and dim light for an additional 15 feet.) This light is still considered sunlight.
 * It can emit bright light out to a maximum of 10 feet times its resonance level, and dim light for an additional number of feet equal to 10 feet times its resonance level. (For example, if the blade has a resonance level of 3, it can emit bright light out to a maximum of 30 feet, and dim light for an additional 30 feet.)
 * Its wielder can use an action to expand or reduce its radius of bright and dim light by 5 feet each.
-* Depending on the nature of the spirit inhabiting it, it gains one of the following additional effects (your choice). (For example, St. Markovia’s spirit might allow the wielder to use the *shield of faith* effect, while an unsuitable spirit might grant no effect.) Once used, this feature can’t be used again until the wielder completes a long rest.
+* Depending on the nature of the spirit inhabiting it, it gains one of the following additional effects (your choice). (For example, St. [[NPCs/Saint Markovia|Markovia]]’s spirit might allow the wielder to use the *shield of faith* effect, while an unsuitable spirit might grant no effect.) Once used, this feature can’t be used again until the wielder completes a long rest.
 
 | d6 | Effect |
 | :--:| :---|
@@ -2065,9 +2065,9 @@ Without a ritual to bind a soul to the *Sunsword*, the players must find and con
 > The players have great freedom to choose a suitable soul to inhabit the *Sunsword*. However, not all spirits are equally available or receptive. Some of those spirits’ reactions (and the players’ ability to contact them) are described below.
 >
 > * **Exethanter.** Exethanter’s spirit amusedly declines, noting that he would be “wholly unsuitable" for such a task. (*Exethanter, who is Lawful Neutral and bears no personal enmity toward Strahd, has a resonance level of 0.*)
-> * **Erasmus van Richten.** Erasmus’s spirit cannot enter the Material Plane until the players lift Rudolph van Richten’s curse in [[Arc T - The Three Fanes]]. Once they do, a player who has befriended Erasmus can convince him to possess them and inhabit the *Sunsword*. Erasmus otherwise politely declines, insisting that he is dedicated to fighting alongside and protecting his father. (*Erasmus, who is Chaotic Good and is dedicated to the freedom of Barovia, has a resonance level of 3.*)
-> * **St. Markovia.** St. Markovia cannot possess a player unless first summoned by means of a seance, as in [[Arc K - The Fallen Abbey]]. (However, if the players failed to redeem the Abbot in [[Arc Q - A Shining Beacon]], the seance fails, and Markovia does not appear.) Once summoned, Markovia is honored by the players’ request, but expresses doubt as to her ability to oppose Strahd, given her defeat at his hands nearly four centuries ago. If reassured, Markovia agrees to inhabit the *Sunsword* and fight alongside them. (*Markovia has a resonance level of 3.*)
-> * **Sir Godfrey Gwilym.** Sir Godfrey’s spirit appears if called within the walls of Argynvostholt. He is honored to fight at the players’ side, and swiftly agrees to inhabit the *Sunsword*. (*Sir Godfrey has a resonance level of 3.*)
+> * **[[NPCs/Erasmus van Richten|Erasmus van Richten]].** [[NPCs/Erasmus van Richten|Erasmus]]’s spirit cannot enter the Material Plane until the players lift Rudolph van Richten’s curse in [[Arc T - The Three Fanes]]. Once they do, a player who has befriended Erasmus can convince him to possess them and inhabit the *Sunsword*. Erasmus otherwise politely declines, insisting that he is dedicated to fighting alongside and protecting his father. (*Erasmus, who is Chaotic Good and is dedicated to the freedom of Barovia, has a resonance level of 3.*)
+> * **St. [[NPCs/Saint Markovia|Markovia]].** St. Markovia cannot possess a player unless first summoned by means of a seance, as in [[Arc K - The Fallen Abbey]]. (However, if the players failed to redeem the [[NPCs/Abbot of the Abbey of Saint Markovia|Abbot]] in [[Arc Q - A Shining Beacon]], the seance fails, and Markovia does not appear.) Once summoned, Markovia is honored by the players’ request, but expresses doubt as to her ability to oppose Strahd, given her defeat at his hands nearly four centuries ago. If reassured, Markovia agrees to inhabit the *Sunsword* and fight alongside them. (*Markovia has a resonance level of 3.*)
+> * **[[NPCs/Sir Godfrey Gwilym|Sir Godfrey Gwilym]].** Sir [[NPCs/Sir Godfrey Gwilym|Godfrey]]’s spirit appears if called within the walls of [[Places/Argynvostholt|Argynvostholt]]. He is honored to fight at the players’ side, and swiftly agrees to inhabit the *Sunsword*. (*Sir Godfrey has a resonance level of 3.*)
 > * **The Recently Deceased.** The players can summon the spirit of any character who has died in Barovia since their arrival by carrying out a seance, as described in [[Arc K - The Fallen Abbey]]. The seance must be carried out near either the character’s place of death or a place that held great meaning to them in life. Certain souls may require additional persuasion, at your discretion. (The spirits of characters who died before the players’ arrival have already been reincarnated, and cannot be summoned by means of a seance.)
 
 > [!info]+ **The Shining Sunlight**
@@ -2116,7 +2116,7 @@ This is the spirit of Exethanter, the former archmage of the Amber Temple. Exeth
 
 If the players approach Exethanter’s spirit or otherwise reveal themselves, he greets them with some surprise. He can share the following information if asked:
 
-* His name is Exethanter. In life, he was an archmage and leader of the Society of Amber, the secret society of mages that founded and guarded the Amber Temple. (Exethanter can further share all of the information described in **Operations of the Amber Temple** and **Downfall of the Temple** above.)
+* His name is Exethanter. In life, he was an archmage and leader of the [[Factions/Society of Amber|Society of Amber]], the secret society of mages that founded and guarded the Amber Temple. (Exethanter can further share all of the information described in **Operations of the Amber Temple** and **Downfall of the Temple** above.)
 * In its final years, the Amber Temple descended into chaos and paranoia. Exethanter attempted to continue his weekly dinners with apprentices and other mages, but even he couldn’t resist using one of the “odd relics he’d picked up over the years"—the enchanted ewer in <span class="citation">X22. Northwest Annex (p. 187)</span>—to cleanse his drinks of poison. (“In retrospect," he sniffs abashedly, “it astounds me how deeply the vestiges’ darkness had penetrated my mind." He massages his ghostly temples, chuckling tiredly. “It’s astounding how much clarity one’s mind can find after one has passed away."
 * He has no knowledge of “Heinrich Stolt," and has never heard of any such individual. 
 
@@ -2136,13 +2136,13 @@ Exethanter thanks the players for freeing him from Patrina Velikovna’s binding
 * One day, Patrina ceased to call upon Exethanter entirely. It was only later, when the vampire Strahd von Zarovich—who Patrina had spoken of and previously called her “student"—found Patrina’s bindings and called upon Exethanter’s spirit once more that Exethanter learned that Patrina had died. “Of course," he says, “the sealing ritual she had stolen from me had a flaw—it was never meant to be made permanent, and was tied to the caster’s life-force. Although I never told Von Zarovich of this, I suspected that, since she did not seem to have passed my leash to him, she must still be alive—somewhere."
 * Strahd used Patrina’s bindings to compel Exethanter to answer his questions on matters of arcana—“binding magic, rituals, leylines, and more." Exethanter sniffs, shaking his head. “Dangerous material. I never quite learned what he needed that knowledge for, but I often observed him recording his notes in a small journal. I would have been most curious to read it."
 
-If the players ask Exethanter about the *Tome of Strahd* or a ritual capable of manifesting the Ladies of the Fanes, Exethanter perks up, inquiring into the players’ knowledge and purposes. Once his curiosity is satisfied, Exethanter invites the players to discuss the matters further in his quarters. (If necessary, Exethanter notes that the ritual the players seek lies therein.)
+If the players ask Exethanter about the *[[Items/The Tome of Strahd|Tome of Strahd]]* or a ritual capable of manifesting the [[Factions/Ladies of the Fanes|Ladies of the Fanes]], Exethanter perks up, inquiring into the players’ knowledge and purposes. Once his curiosity is satisfied, Exethanter invites the players to discuss the matters further in his quarters. (If necessary, Exethanter notes that the ritual the players seek lies therein.)
 
-If the players agree to follow Exethanter to his quarters, he walks through the wall leading to <span class="citation">X29. Secret Room (p. 189)</span>, then, if the players don’t swiftly follow him through the secret door, returns to apologize to the players. (“When one is intangible for so long," Exethanter says, clearing his throat as his cheeks flush, “one tends to forget what necessities others of a, ah, more *tangible* persuasion may require.") 
+If the players agree to follow Exethanter to his quarters, he walks through the wall leading to <span class="citation">X29. [[Places/Secret Room|Secret Room]] (p. 189)</span>, then, if the players don’t swiftly follow him through the secret door, returns to apologize to the players. (“When one is intangible for so long," Exethanter says, clearing his throat as his cheeks flush, “one tends to forget what necessities others of a, ah, more *tangible* persuasion may require.") 
 
-Exethanter then guides the players to the secret door that leads to <span class="citation">X29. Secret Room (p. 189)</span>, and the secret door therein that leads to <span class="citation">X27. Lich’s Lair (p. 188)</span>, apologizing for the “proliferation" of secret doors throughout the temple. (“It *was* built as a citadel, after all," he recalls thoughtfully, “designed to withstand any siege—while providing hidden, speedy transportation to its defenders.") 
+Exethanter then guides the players to the secret door that leads to <span class="citation">X29. [[Places/Secret Room|Secret Room]] (p. 189)</span>, and the secret door therein that leads to <span class="citation">X27. Lich’s Lair (p. 188)</span>, apologizing for the “proliferation" of secret doors throughout the temple. (“It *was* built as a citadel, after all," he recalls thoughtfully, “designed to withstand any siege—while providing hidden, speedy transportation to its defenders.") 
 
-As he and the players pass through <span class="citation">X29. Secret Room (p. 189)</span>, Exethanter points out the secret door that leads to <span class="citation">X28. Hidden Phylactery (p. 189)</span>, noting that the Society of Amber once used it to carry out the rituals that bound the vestiges to their amber sarcophagi. (If asked, Exethanter is glad to allow the players to explore it, though he insists that it is “merely an empty room.")
+As he and the players pass through <span class="citation">X29. Secret Room (p. 189)</span>, Exethanter points out the secret door that leads to <span class="citation">X28. Hidden Phylactery (p. 189)</span>, noting that the [[Factions/Society of Amber|Society of Amber]] once used it to carry out the rituals that bound the vestiges to their amber sarcophagi. (If asked, Exethanter is glad to allow the players to explore it, though he insists that it is “merely an empty room.")
 ## S7c. Archmage’s Quarters
 <span class="citation">This scene takes place in Chapter 13, Areas X26 and X27.</span>
 
@@ -2175,7 +2175,7 @@ Neferon—as “Heinrich"—asks the players to identify any physical items they
 
 ***Telling the Truth.*** If the players reveal that they have taken any items from the temple, “Heinrich" notes pleasantly that he would be “more than willing to negotiate the terms of acquisition," so long as the players fully disclose the item's nature and value. (“Heinrich"  further insists upon inspecting unfamiliar magic items using his *identify* spell.)
 
-“Heinrich" is willing to allow the players to depart the Amber Temple with a magical item in exchange for a magical item “of equal or greater value," or "a secret of great power." (For example, the players might reveal the existence and true nature of the Keepers of the Feather, or the existence of the *Tome of Strahd*. Due to Elder Burebis' *modify memory* spell, players will not be able to offer the location of Soldav as their secret.)
+“Heinrich" is willing to allow the players to depart the Amber Temple with a magical item in exchange for a magical item “of equal or greater value," or "a secret of great power." (For example, the players might reveal the existence and true nature of [[Factions/Keepers of the Feather|the Keepers of the Feather]], or the existence of the *Tome of Strahd*. Due to [[NPCs/Elder Burebis|Elder Burebis]]' *modify memory* spell, players will not be able to offer the location of Soldav as their secret.)
 
 However, “Heinrich" won’t allow the players to depart with the *Sunsword* if he’s aware of its radiant properties. "You may depart in peace," he notes solemnly, "but I fear this item is too great a treasure for me to part with."
 

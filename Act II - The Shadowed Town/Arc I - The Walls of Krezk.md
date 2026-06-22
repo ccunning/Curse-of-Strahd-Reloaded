@@ -1,32 +1,32 @@
 _An adventure for five 4th- or 5th-level characters._
 
-In this arc, the players seek entry to the village of Krezk before defeating the druids occupying the Wizard of Wines winery, either to obtain a cure for cackle fever from the Abbot, to pick wolfsbane from the shores of the blessed pool, or to seek out their foretold ally against Strahd. 
+In this arc, the players seek entry to the [[Places/Village of Krezk|village of Krezk]] before defeating the druids occupying [[Places/Wizard of Wines|the Wizard of Wines]] winery, either to obtain a cure for cackle fever from the [[NPCs/Abbot of the Abbey of Saint Markovia|Abbot]], to pick wolfsbane from the shores of the blessed pool, or to seek out their foretold ally against [[NPCs/Strahd von Zarovich|Strahd]]. 
 
-However, the village of Krezk is suspicious of outsiders, and won't allow the players to enter unless they first perform a task for their burgomaster, Baron Dmitri Krezkov.
+However, the [[Places/Village of Krezk|village of Krezk]] is suspicious of outsiders, and won't allow the players to enter unless they first perform a task for their burgomaster, [[NPCs/Baron Dmitri Krezkov|Baron Dmitri Krezkov]].
 
-The players must travel to the ruins of Berez between Krezk and Vallaki, and there persuade the witch Baba Lysaga to scry the location of Baron Krezkov's son, Ilya, who vanished from Krezk in the wake of a recent werewolf attack. However, Baba Lysaga is a mad and fickle witch, and her methods of magic are twisted and dark. Can the players convince her to fulfill Baron Krezkov’s request, and so win them entry to the village of Krezk?
+The players must travel to the ruins of [[Places/Berez|Berez]] between Krezk and [[Places/Vallaki|Vallaki]], and there persuade the witch [[NPCs/Baba Lysaga|Baba Lysaga]] to scry the location of Baron Krezkov's son, [[NPCs/Ilya Krezkov|Ilya]], who vanished from Krezk in the wake of a recent werewolf attack. However, [[NPCs/Baba Lysaga|Baba Lysaga]] is a mad and fickle witch, and her methods of magic are twisted and dark. Can the players convince her to fulfill Baron Krezkov’s request, and so win them entry to the village of Krezk?
 # I1. The Road to Krezk
-The journey from the town of Vallaki to the **Village of Krezk** is six-and-one-quarter miles long and takes two hours. 
+The journey from the town of [[Places/Vallaki|Vallaki]] to the **Village of Krezk** is six-and-one-quarter miles long and takes two hours. 
 
-As the players cross the bridge over the Luna River, read the following:
+As the players cross the bridge over the [[Places/Luna River|Luna River]], read the following:
 
 <div class="description">
 <p>The path narrows, flanked by dense, towering trees. Up ahead, you can see an old wooden bridge come into view, its age-worn planks spanning the rushing river below. As you approach, you can see the dark river tumbling over the smooth stones of the riverbed, bordered on either side by gnarled bushes and trees.</p>
 <p>As you step onto the bridge, your boots echo against the old, damp wood. To the north, you can see the river meander upstream around the tree line before vanishing around a curve. To the south, the river winds like a ribbon between its banks, then gradually vanishes into mist.</p>
 </div>
 
-The Luna River Crossroads are as described in <span class="citation">P. Luna River Crossroads (p. 40)</span>. However, do not check for a random encounter when the players reach this area.
+The [[Places/Luna River|Luna River Crossroads]] are as described in <span class="citation">P. Luna River Crossroads (p. 40)</span>. However, do not check for a random encounter when the players reach this area.
 
-As the players pass it, the path to Argynvostholt is largely as described in <span class="citation">Approaching the Mansion (p. 130)</span>. Read:
+As the players pass it, the path to [[Places/Argynvostholt|Argynvostholt]] is largely as described in <span class="citation">Approaching the Mansion (p. 130)</span>. Read:
 
 <div class="description">
-<p>A dirt path branches off from the Old Svalich Road here, winding its way south up a craggy mountain spur. The earth of the path is hard-packed, its color a pallid gray-brown reminiscent of cold ashes. The trees on either side stand silent and stoic, their leaves a faded green. As the path winds upward, it's eventually replaced by the deep shadows of the mountain's forested incline, vanishing into the gloom of the woods beyond.</p>
+<p>A dirt path branches off from the [[Places/Old Svalich Road|Old Svalich Road]] here, winding its way south up a craggy mountain spur. The earth of the path is hard-packed, its color a pallid gray-brown reminiscent of cold ashes. The trees on either side stand silent and stoic, their leaves a faded green. As the path winds upward, it's eventually replaced by the deep shadows of the mountain's forested incline, vanishing into the gloom of the woods beyond.</p>
 </div>
 
-Just before the players reach the Raven River Crossroads, they come across the path to Lake Baratok and <span class="citation">Chapter 11: Van Richten’s Tower (p. 167)</span>, not far from the path that leads to <span class="citation">Chapter 9: Tsolenka Pass (p. 157)</span>. Read:
+Just before the players reach the Raven River Crossroads, they come across the path to [[Places/Lake Baratok|Lake Baratok]] and <span class="citation">Chapter 11: Van Richten’s Tower (p. 167)</span>, not far from the path that leads to <span class="citation">Chapter 9: [[Places/Tsolenka Pass|Tsolenka Pass]] (p. 157)</span>. Read:
 
 <div class="description">
-<p>An old hunting trail cuts away from the Old Svalich Road here, winding north between old, gnarled trees before vanishing into the underbrush. A hundred yards beyond it, an alpine path splits from the main road to travel south toward the mountains, rising in elevation until it disappears around a steep, tree-covered escarpment.</p>
+<p>An old hunting trail cuts away from the Old [[Places/Svalich Woods|Svalich]] Road here, winding north between old, gnarled trees before vanishing into the underbrush. A hundred yards beyond it, an alpine path splits from the main road to travel south toward the mountains, rising in elevation until it disappears around a steep, tree-covered escarpment.</p>
 </div>
 
 The Raven River Crossroads are largely as described in <span class="citation">R. Raven River Crossroads (p. 40)</span>. However, do not check for a random encounter when the players reach this area. Additionally, add the following text to the end of the area description:
@@ -35,26 +35,26 @@ The Raven River Crossroads are largely as described in <span class="citation">R.
 <p>A figure clad in rusty armor stands alone on the bridge, clutching a gleaming longsword in its pale hands.</p>
 </div>
 
-The figure is recognizably similar to the **revenant** standing guard at Tser Falls. If approached, it hails the players and asks after their destination.
+The figure is recognizably similar to the **[[NPCs/Revenant|revenant]]** standing guard at [[Places/Tser Falls|Tser Falls]]. If approached, it hails the players and asks after their destination.
 
-If the players tell the revenant that they are traveling to Krezk, it warns them that the burgomaster of Krezk, Baron Dmitri Krezkov, has grown wary of the outside world, and that few things have passed between Krezk’s gates in recent weeks. However, the revenant notes that the Krezkov line has long been an honorable one, and that the players may be able to find a way to persuade Baron Krezkov to lend them hospitality.
+If the players tell the [[NPCs/Revenant|revenant]] that they are traveling to Krezk, it warns them that the burgomaster of Krezk, [[NPCs/Baron Dmitri Krezkov|Baron Dmitri Krezkov]], has grown wary of the outside world, and that few things have passed between Krezk’s gates in recent weeks. However, the revenant notes that the Krezkov line has long been an honorable one, and that the players may be able to find a way to persuade Baron Krezkov to lend them hospitality.
 
-If the players tell the revenant that they are traveling to the Abbey of Saint Markovia to seek a cure for their disease, it rumbles, “You travel to a dark place, friends. But a being of great age and power indeed dwells there, and may aid you—if not offended.” The revenant is willing to share the following information if asked:
+If the players tell the revenant that they are traveling to [[Places/Abbey of Saint Markovia|the Abbey of Saint Markovia]] to seek a cure for their disease, it rumbles, “You travel to a dark place, friends. But a being of great age and power indeed dwells there, and may aid you—if not offended.” The revenant is willing to share the following information if asked:
 
-* Years before Strahd von Zarovich arrived in the valley, Saint Markovia, a cleric of the Morninglord, built the Abbey atop a spur of Mount Baratok as a sanctuary for those fleeing from war and devastation.
-* When the Mists surrounded the valley, Saint Markovia condemned Strahd as a tyrant, and raised a small army to march upon Castle Ravenloft. Her revolt was put down, however, and Markovia lost her life in single combat with Strahd.
+* Years before [[NPCs/Strahd von Zarovich|Strahd von Zarovich]] arrived in the valley, [[NPCs/Saint Markovia|Saint Markovia]], a cleric of the Morninglord, built the [[Places/Abbey of Saint Markovia|Abbey]] atop a spur of [[Places/Mount Baratok|Mount Baratok]] as a sanctuary for those fleeing from war and devastation.
+* When the [[Places/Mists|Mists]] surrounded the valley, [[NPCs/Saint Markovia|Saint Markovia]] condemned Strahd as a tyrant, and raised a small army to march upon [[Places/Castle Ravenloft|Castle Ravenloft]]. Her revolt was put down, however, and Markovia lost her life in single combat with Strahd.
 * With Markovia’s death, the monks and nuns of the Abbey withdrew in despair. Before long, paranoia and madness infiltrated their ranks, until none remained alive. Rumors of cannibalism abounded for decades afterward, and most folk shunned the Abbey altogether.
-* Just over a century ago, the Abbot arrived in the valley and reopened the Abbey. The revenant isn’t sure of the Abbot’s true nature or intentions, but is confident that he is far older—and far more powerful—than any of the knights of the Order of the Silver Dragon.
+* Just over a century ago, the [[NPCs/Abbot of the Abbey of Saint Markovia|Abbot]] arrived in the valley and reopened the Abbey. The revenant isn’t sure of the Abbot’s true nature or intentions, but is confident that he is far older—and far more powerful—than any of the [[Factions/Knights of the Order|knights of the Order]] of the Silver Dragon.
 
-If asked, the revenant can also provide directions to the mansion of Argynvostholt: The players must travel east toward the Luna River Crossroads, taking the ash-gray trail that splits south from the Old Svalich Road shortly before arriving.
+If asked, the revenant can also provide directions to the mansion of [[Places/Argynvostholt|Argynvostholt]]: The players must travel east toward the Luna River Crossroads, taking the ash-gray trail that splits south from the [[Places/Old Svalich Road|Old Svalich Road]] shortly before arriving.
 
-As the players depart, the revenant warns them that the werewolf pack of Mount Baratok has expanded its territory—and its ferocity—as of late, and advises them to be cautious as they travel the roads.
+As the players depart, the revenant warns them that the [[Factions/Werewolf Pack|werewolf pack]] of [[Places/Mount Baratok|Mount Baratok]] has expanded its territory—and its ferocity—as of late, and advises them to be cautious as they travel the roads.
 
 The road to Krezk is as described in <span class="citation">S1. Road Junction (p. 143)</span>.
 # I2. The Gates of Krezk
 <span class="citation"><em>This scene takes place in Chapter 8: Area S2.</em></span>
 
-The gates of Krezk are largely as described in <span class="citation">S2. Gatehouse (p. 145)</span>. If the players have already defeated the druids occupying the Wizard of Wines in [[Arc J - The Stolen Gem]], Baron Krezkov recognizes them from the descriptions shared by Adrian and Elvir Martikov and welcomes them gladly into Krezk. Proceed to [[#I6. The Village of Krezk]] below.
+The gates of Krezk are largely as described in <span class="citation">S2. Gatehouse (p. 145)</span>. If the players have already defeated the druids occupying [[Places/Wizard of Wines|the Wizard of Wines]] in [[Arc J - The Stolen Gem]], Baron Krezkov recognizes them from the descriptions shared by Adrian and [[NPCs/Elvir Martikov|Elvir Martikov]] and welcomes them gladly into Krezk. Proceed to [[#I6. The Village of Krezk]] below.
 
 > [!profile]+ **Profile: Baron Dmitri Krezkov**
 > **Roleplaying Information.**
@@ -71,17 +71,17 @@ The gates of Krezk are largely as described in <span class="citation">S2. Gateho
 > 
 > ***Morale.*** In a fight, Dmitri would act only to protect himself or his loved ones, beginning by warning his opponent to stand down, then fighting fiercely until his opponent yielded or was defeated.
 > 
-> ***Relationships.*** Dmitri, a secret **werewolf**, is the husband of Baroness Anna Krezkova, the brother of the **werewolf** cleric of Mother Night Zuleika Toranescu, the father of Kala and Ilya Krezkov, and the burgomaster of the village of Krezk.
+> ***Relationships.*** Dmitri, a secret **werewolf**, is the husband of [[NPCs/Anna Krezkova|Baroness Anna Krezkova]], the brother of the **werewolf** cleric of [[NPCs/Mother Night|Mother Night]] [[NPCs/Zuleika Toranescu|Zuleika Toranescu]], the father of [[NPCs/Kala Krezkova|Kala]] and [[NPCs/Ilya Krezkov|Ilya Krezkov]], and the burgomaster of the village of Krezk.
 
-Otherwise, rather than asking the players to secure a wagonload of wine from the Wizard of Wines, Baron Krezkov asks the players to journey to the hut of the witch Baba Lysaga in the ruins of Berez to the southeast. There, he tells them, they must beseech Baba Lysaga to perform a *scrying* spell to discern the location and condition of a particular person. 
+Otherwise, rather than asking the players to secure a wagonload of wine from the Wizard of Wines, Baron Krezkov asks the players to journey to the hut of the witch Baba Lysaga in the ruins of [[Places/Berez|Berez]] to the southeast. There, he tells them, they must beseech Baba Lysaga to perform a *scrying* spell to discern the location and condition of a particular person. 
 
-If the players accept Baron Krezkov’s task, he provides them with a few strands of dark hair for Baba Lysaga to use in her scrying, as well as a large gold bracelet inset with intricate carvings of wolves and ravens (worth 300 gp) as a gift to purchase her favor. 
+If the players accept Baron Krezkov’s task, he provides them with a few strands of dark hair for Baba Lysaga to use in her scrying, as well as a large gold bracelet inset with intricate carvings of [[NPCs/Wolves|wolves]] and ravens (worth 300 gp) as a gift to purchase her favor. 
 
 If asked, Baron Krezkov confesses that the missing person is his son, Ilya Krezkov, who disappeared several days ago. A successful DC 15 Wisdom (Insight) check reveals that he is not telling the entire truth, though he is unwilling to share more.
 # I3. The Road to Berez
 The journey from the village of Krezk to the **Ruins of Berez** is eight-and-three-quarter miles long and takes three hours. To get to Berez, the players must first retrace their steps to the Luna River Crossroads, then head south.
 ## I3a. The Needle Blight Horde
-Soon after the players depart the Raven River Crossroads, they cross paths with a horde of ten **needle blights** migrating toward the Wizard of Wines winery. Read:
+Soon after the players depart the Raven River Crossroads, they cross paths with a horde of ten **[[NPCs/Needle Blight|needle blights]]** migrating toward the Wizard of Wines winery. Read:
 
 <div class="description">
 <p>The fresh corpse of an enormous wolf, easily the size of an elk, lies splayed across the center of the road. Its sides and face have been pierced with hundreds of needle-like thorns, and a pool of blood has gathered beneath its well-muscled neck.</p>
@@ -90,7 +90,7 @@ Soon after the players depart the Raven River Crossroads, they cross paths with 
 
 The players can do battle with the blights, or they can hide in the thickets to avoid the horde’s attention with a successful DC 10 group Dexterity (Stealth) check, as described in **Group Checks** (*Player’s Handbook*, p. 175).
 
-> [!combat]- **Combat - The Needle Blights**  
+> [!combat]- **Combat - The [[NPCs/Needle Blight|Needle Blights]]**  
 > **Combat Level**: Mild
 > **Expected Character Level**: 5
 > **Expected HP Consumption:** 18%
@@ -106,19 +106,19 @@ As the players depart the Luna River Crossroads, read:
 
 <div class="description">
 <p>Leaving the crossroads behind, you set a southern course alongside the Luna River, whose waters reflect only the gray of the sky above as it winds its way through the valley.</p>
-<p>Though the trees of the Svalich Wood close in oppressively on either side to start, it’s not long before the forest’s edge pulls away from the river and road, revealing a tributary that spills into the river from the mountains. The Luna River here encircles a small, forlorn isle dotted with tall evergreen trees, which stand like silent sentinels as the river flows around them.</p>
+<p>Though the trees of the [[Places/Svalich Woods|Svalich Wood]] close in oppressively on either side to start, it’s not long before the forest’s edge pulls away from the river and road, revealing a tributary that spills into the river from the mountains. The Luna River here encircles a small, forlorn isle dotted with tall evergreen trees, which stand like silent sentinels as the river flows around them.</p>
 <p>Not far from the road, upon a small peninsula that juts out into the river, stands an old stone stele standing just under six feet in height. It stands within a circle of old, cracked cobblestones, and seems to bear some kind of carving.</p>
 </div>
 
-If the players choose to investigate the slab, they find that it bears a carving of a spider over an engraved three-pointed star, the grooves lined with lichen and moss. (The slab is an ancient monument to the Weaver, and the three-pointed star the symbol of the Ladies Three.) Otherwise, read:
+If the players choose to investigate the slab, they find that it bears a carving of a spider over an engraved three-pointed star, the grooves lined with lichen and moss. (The slab is an ancient monument to the [[NPCs/Weaver|Weaver]], and the three-pointed star the symbol of the Ladies Three.) Otherwise, read:
 
 <div class="description">
-<p>Ahead, twin spurs of Mount Ghakis rise on either side of the road, enclosing it in a valley choked with fog. The mists hang thick in the air here, muffling every sound and glimmer of light as the road grows muddy and wet.</p>
+<p>Ahead, twin spurs of [[Places/Mount Ghakis|Mount Ghakis]] rise on either side of the road, enclosing it in a valley choked with fog. The [[Places/Mists|mists]] hang thick in the air here, muffling every sound and glimmer of light as the road grows muddy and wet.</p>
 <p>Soon, as the fog swallows up the road behind you, it pulls back like a curtain to reveal a tall gnarled tree, ancient in years and thrusting up through the mist like a hunched-over obelisk. Rusted metal cages hang from its dead limbs, and strands of old spiderwebs cling to its trunk like gossamer veils.</p>
 <p>An enormous bird crafted of burlap, wood, and animal skins sits atop the thickest branch, its gourd-shaped head peering at you with coal-black eyes. With a low, grating shriek, it spreads its wings and takes to the air, the mists swirling about its creaking wings as it heads to the south.</p>
 </div>
 
-The bird is a **greater strix**, and is leaving to alert Baba Lysaga that outsiders are approaching the swamp. If attacked, it attempts to gain elevation until it escapes the players’ range. As a sentry and scout, it has no desire to do battle.
+The bird is a **[[NPCs/Greater Strix|greater strix]]**, and is leaving to alert Baba Lysaga that outsiders are approaching the swamp. If attacked, it attempts to gain elevation until it escapes the players’ range. As a sentry and scout, it has no desire to do battle.
 # I4. The Ruins of Berez
 ## I4a. Approaching the Ruins
 The players’ approach of Berez is largely as described in <span class="citation">Approaching the Ruins (p. 161)</span>. However, revise the descriptive text as follows:
@@ -130,21 +130,21 @@ The players’ approach of Berez is largely as described in <span class="citatio
 <p>Two old scarecrows lashed to wooden posts flank the trail here, their burlap faces seeming to leer into the mists behind you.</p>
 </div>
 
-The two **scarecrows** are as described in <span class="citation">Marsh Scarecrows (p. 162)</span>. If the **greater strix** successfully alerted Baba Lysaga to the players’ approach, add:
+The two **scarecrows** are as described in <span class="citation">Marsh Scarecrows (p. 162)</span>. If the **[[NPCs/Greater Strix|greater strix]]** successfully alerted Baba Lysaga to the players’ approach, add:
 
 <div class="description">
 <p>A light flashes amid the fog beyond the scarecrows, a woman’s silhouette emerging from the swirling mist.</p>
 </div>
 
-The silhouette belongs to Wensencia, a shrill, mocking, and sharp-tongued **Barovian witch** from Vallaki who has been studying under Baba Lysaga for the past three months. (Wensencia, like Baba Lysaga’s four other current students, viewed Strahd’s revival as the coming of a dark messiah, and sought out the swamp witch at the advice of Strahd’s vampiric bride, Ludmilla Vilisevic.) 
+The silhouette belongs to [[NPCs/Wensencia|Wensencia]], a shrill, mocking, and sharp-tongued **Barovian witch** from Vallaki who has been studying under Baba Lysaga for the past three months. ([[NPCs/Wensencia|Wensencia]], like Baba Lysaga’s four other current students, viewed Strahd’s revival as the coming of a dark messiah, and sought out the swamp witch at the advice of Strahd’s vampiric bride, [[NPCs/Ludmilla|Ludmilla Vilisevic]].) 
 
 Wensencia curtly informs the players that “Mother Lysaga” has summoned them to her cottage, and that they must follow her if they wish to reach it safely. She asks no questions and answers none, except to tell the players that none come to Berez except to seek “Mother Lysaga’s” favor, and that Baba Lysaga alone will determine whether they may earn it.
 
 > [!abstract]+ **The Megaliths**
 >
-> The megaliths beyond the Luna River demarcate the boundaries of the Swamp Fane: the shrine to the Weaver of the Ladies Three.
+> The megaliths beyond the Luna River demarcate the boundaries of the [[Places/Swamp Fane|Swamp Fane]]: the shrine to the [[NPCs/Weaver|Weaver]] of the Ladies Three.
 >
-> (The Swamp Fane is named as such because, before the multiple invasions of the valley, this area was originally a swamp. It was King Dostron who dammed up the tributary to the Luna River from Mount Ghakis to the northeast, thereby creating arable land that his troops could farm—and Strahd who destroyed that dam using the powers of the Fanes as Berez's punishment following Marina's death.)
+> (The [[Places/Swamp Fane|Swamp Fane]] is named as such because, before the multiple invasions of the valley, this area was originally a swamp. It was [[NPCs/King Dostron|King Dostron]] who dammed up the tributary to the Luna River from [[Places/Mount Ghakis|Mount Ghakis]] to the northeast, thereby creating arable land that his troops could farm—and Strahd who destroyed that dam using the powers of the Fanes as Berez's punishment following Marina's death.)
 >
 > As the players approach the megaliths, read:
 >
@@ -154,12 +154,12 @@ Wensencia curtly informs the players that “Mother Lysaga” has summoned them 
 > 
 > <hr>
 >
-> The area within the stones is obscured by the cover provided by the webs, which are described in **Webs** (<span class="citation">Dungeon Master's Guide, p. 105</span>). If the players reach the center of the circle, they find that a five-foot-diameter stone of smooth, black onyx is half-buried at the center of the circle. The stone has no visible marks or symbols upon its surface, and is impervious to all damage and attempts to move it.
+> The area within the stones is obscured by the cover provided by the webs, which are described in **Webs** (<span class="citation">[[Items/Dungeon Master's Guide|Dungeon Master's Guide]], p. 105</span>). If the players reach the center of the circle, they find that a five-foot-diameter stone of smooth, black onyx is half-buried at the center of the circle. The stone has no visible marks or symbols upon its surface, and is impervious to all damage and attempts to move it.
 >
-> One minute after the players enter the shroud of webs, their presence draws the attention of one **phase spider**, which uses its **ethereal jaunt** to briefly flicker into (then out of) the Material Plane. The following round, the first phase spider repeats the process, now joined by five additional **phase spiders**, before all return to the Ethereal Plane. If the players remain within the webs, all of the spiders attack the following round.
+> One minute after the players enter the shroud of webs, their presence draws the attention of one **phase spider**, which uses its **ethereal jaunt** to briefly flicker into (then out of) the Material Plane. The following round, the first phase spider repeats the process, now joined by five additional **[[NPCs/Phase Spiders|phase spiders]]**, before all return to the [[Places/Ethereal Plane|Ethereal Plane]]. If the players remain within the webs, all of the spiders attack the following round.
 
 > [!abstract]+ **Ruins of Berez**
-> Should the players attempt to explore the other structures within Berez, those ruins are largely as described in <span class="citation">U1. Abandoned Cottages (p. 162)</span>, <span class="citation">U2. Ulrich Mansion (p. 162)</span>, <span class="citation">U4. Churchyard (p. 164)</span>, and <span class="citation">U5. Marina's Monument (p. 164)</span>. However, Lazlo Ulrich's ghost does not appear in the Ulrich mansion, and Baba Lysaga's goat pen is as described in [[#I4c. The Scrying Spell]] below.
+> Should the players attempt to explore the other structures within Berez, those ruins are largely as described in <span class="citation">U1. Abandoned Cottages (p. 162)</span>, <span class="citation">U2. Ulrich Mansion (p. 162)</span>, <span class="citation">U4. Churchyard (p. 164)</span>, and <span class="citation">U5. [[Places/Marina's Monument|Marina's Monument]] (p. 164)</span>. However, [[NPCs/Lazlo Ulrich|Lazlo Ulrich]]'s ghost does not appear in the Ulrich mansion, and Baba Lysaga's [[Items/Goat Pen|goat pen]] is as described in [[#I4c. The Scrying Spell]] below.
 ## I4b. Baba Lysaga’s Hut
 <span class="citation"><em>This scene takes place in Chapter 10: Area U3.</em></span>
 
@@ -172,9 +172,9 @@ If the players enter the hut, they find Baba Lysaga humming a lullaby above the 
 Baba Lysaga is tentatively willing to grant the players an audience, assuming they have not yet battled the druids occupying the Wizard of Wines winery in [[Arc J - The Stolen Gem]] (If the players have already done so, Baba Lysaga attacks them on sight.) However, if the players offend Baba Lysaga—such as by asserting that the baby in the crib is illusory and proceeding to argue about it, or by expressing distaste for Strahd and refusing to apologize to the “baby”—she orders them to leave her hut, attacking if they refuse.
 
 > [!abstract]+ **Lysaga's Wrath**
-> If she successfully knocks them unconscious, Baba Lysaga magically polymorphs the players into **goats** and locks them in her goat pen (described below), where they awaken 1d4 + 1 hours later. There, the players are met by a Barovian **scout** named Darzin Voltanescu, who has been polymorphed into a goat like them.
+> If she successfully knocks them unconscious, Baba Lysaga magically polymorphs the players into **goats** and locks them in her [[Items/Goat Pen|goat pen]] (described below), where they awaken 1d4 + 1 hours later. There, the players are met by a Barovian **scout** named Darzin Voltanescu, who has been polymorphed into a goat like them.
 > 
-> Darzin warns the players that Lysaga intends to keep them as sacrifices for use in her longevity potions. He can share, however, that a Barovian witch taunting him let slip that Lysaga keeps doses of a potion called a *null tincture* on a shelf in her wicker cabinet, which, if imbibed, ends all spells and magical effects currently affecting its drinker. Players who successfully escape the goat pen and sneak into Baba Lysaga's hut can find six *null tinctures* in her wicker cabinet.
+> Darzin warns the players that Lysaga intends to keep them as sacrifices for use in her longevity potions. He can share, however, that a Barovian witch taunting him let slip that Lysaga keeps doses of a potion called a *null tincture* on a shelf in her wicker cabinet, which, if imbibed, ends all spells and magical effects currently affecting its drinker. Players who successfully escape the goat pen and sneak into [[Places/Baba Lysaga's Hut|Baba Lysaga's hut]] can find six *null tinctures* in her wicker cabinet.
 
 To earn the right to speak with her, Baba Lysaga ordains that one of the players must first pluck a feather from one of the ravens in the hanging cages and lay it in “Strahd’s” crib as an offering. (Baba Lysaga notes that ravens are said to be the servants of prophecy, and that the fate of a royal child should be exalted above all others. The feather, if plucked, falls through the illusory crib to the floor of the hut, but the mad Baba Lysaga pays it no mind.)
 
@@ -184,7 +184,7 @@ Upon accepting Baron Krezkov’s payment, Baba Lysaga directs the players to tra
 
 If asked about the strix, Lysaga gleefully explains that they are an artifact of her own creation—excellent for killing or capturing ravens, which she loathes.
 
-If asked about Lady Fiona Wachter, Lysaga’s mood plummets, and she darkly warns the players never to speak “that foolish girl’s” name again in her presence.
+If asked about [[NPCs/Lady Fiona Wachter|Lady Fiona Wachter]], Lysaga’s mood plummets, and she darkly warns the players never to speak “that foolish girl’s” name again in her presence.
 
 > [!abstract]+ **Baba Lysaga’s Cure**
 >
@@ -205,7 +205,7 @@ Baba Lysaga then commands the players to dispose of the goat’s body in the gra
 <p>The light in the room dims as the shadows grow darker, the air stilled by an eerie silence broken only by the witch’s murmuring incantations.</p>
 <p>Magic seeps from her fingertips, flowing like water into the tub of blood. Gradually, the crimson pool begins to ripple and churn, shimmering with silvery light—and then abruptly stills, now as smooth and reflective as a mirror. Baba Lysaga leans forward to peer into the pool, her eyes flickering with a gleam of interest and cruelty.</p>
 <p>“I see a boy,” she hisses, “adolescent, shaggy-haired, and claw-scarred.” Her voice is a mixture of intrigue and mockery, and she licks her lips in obvious amusement. “They have collared him with silver, and chained him to a post. There he sits, huddled and pathetic. His eyes, oh, they are hidden, buried in his knees as he snivels and sobs.”</p>
-<p>She frowns, as if concentrating, and her voice drops to a rasping whisper. “The post is in a cavern—a dismal chamber lit by flickering torchlight. There is a woman chained beside him, sharp-eyed and with long, shaggy hair. I smell the gift of Mother Night on her. Nearby, I see a statue of a woman, wolf-headed—an idol to Mother Night, adorned in garlands and surrounded by a bounty of treasure. Rotting corpses kneel before her, bent to her majesty.”</p>
+<p>She frowns, as if concentrating, and her voice drops to a rasping whisper. “The post is in a cavern—a dismal chamber lit by flickering torchlight. There is a woman chained beside him, sharp-eyed and with long, shaggy hair. I smell the gift of [[NPCs/Mother Night|Mother Night]] on her. Nearby, I see a statue of a woman, wolf-headed—an idol to Mother Night, adorned in garlands and surrounded by a bounty of treasure. Rotting corpses kneel before her, bent to her majesty.”</p>
 <p>Lysaga’s fingers twitch—and the blood returns to its previous state, rippling faintly as the magic dissipates.</p>
 </div>
 
@@ -216,7 +216,7 @@ Baba Lysaga cannot tell the players, however, *where* the cavern is actually loc
 The players' return to Krezk is eight and three-quarter miles long and takes three hours. Alternatively, if the players lack the time to return to Krezk, the journey to Vallaki is four and one-half miles long and takes an hour and a half.
 
 > [!info]+ **Forced March**
-> Remember that players who travel more than eight hours in one day risk exhaustion, as described in <span class="citation">Travel Pace (Player's Handbook, p. 181)</span>.
+> Remember that players who travel more than eight hours in one day risk exhaustion, as described in <span class="citation">Travel Pace ([[Items/Player's Handbook|Player's Handbook]], p. 181)</span>.
 
 Regardless of their destination, the players experience the <span class="citation">Lost Battlefield (p. 166)</span> event as they pass the point where the Luna River splits.
 # I6. The Village of Krezk
@@ -226,9 +226,9 @@ The village of Krezk is as described in <span class="citation">S3. Village of Kr
 
 * The Krezkovs have had only two children, rather than four.
 * Ilya, his elder son, is thirteen years old and went missing several days ago. (Although Baron Krezkov won't mention, Ilya went missing on the night of the full moon on Octyavr 22, exactly fourteen days before the most recent full moon on Neyavr 8.)
-* Kala, his younger daughter, is eight years old and alive.
+* [[NPCs/Kala Krezkova|Kala]], his younger daughter, is eight years old and alive.
 
-If the players mention their interest in the Abbey of Saint Markovia, Baron Krezkov warns them of the Abbey’s sordid history, as well as the strange rumors surrounding the Abbot. He is glad, however, to provide the players with directions if requested. Baron Krezkov doesn't yet mention his family's problem with the Abbot, described further in [[Arc K - The Fallen Abbey]], but a player who succeeds on a DC 12 Wisdom (Insight) check notices that a shadow crosses the Baron's face at the mention of the Abbot.
+If the players mention their interest in the Abbey of Saint Markovia, Baron Krezkov warns them of the Abbey’s sordid history, as well as the strange rumors surrounding the Abbot. He is glad, however, to provide the players with directions if requested. Baron Krezkov doesn't yet mention his family's problem with the Abbot, described further in [[Arc K - The Fallen Abbey]], but a player who succeeds on a DC 12 Wisdom (Insight) check notices that a [[NPCs/Shadow|shadow]] crosses the Baron's face at the mention of the Abbot.
 
 ***Milestone.*** Obtaining Baba Lysaga’s aid completes a story milestone. When the players first gain safe passage through Krezk’s village gates, award each player 750 XP.
 ## I6a. The Blessed Pool
@@ -253,16 +253,16 @@ Should the players approach or address him, the Abbot, without looking up from t
 > 
 > ***Emotions.*** The Abbot most often feels curious, intrigued, cold, dispassionate, or (rarely) enraged.
 > 
-> ***Motivations.*** The Abbot wants to lift the "curse" upon Barovia and preserve the "sanctity" of the Abbey of Saint Markovia.
+> ***Motivations.*** The Abbot wants to lift the "curse" upon [[Places/Barovia|Barovia]] and preserve the "sanctity" of the Abbey of Saint Markovia.
 > 
 > ***Inspirations.*** When playing the Abbot, channel Vision (*Marvel*), Data (*Star Trek*), and Dr. Manhattan (*Watchmen*).
 > 
 > **Character Information**
-> ***Persona.*** To the world, the Abbot is a serene, but inhumanly dispassionate holy man and "scientist." Only the Abbot knows that he is Ithuriel: an angel of the Morninglord sent to honor the memory of Saint Markovia.
+> ***Persona.*** To the world, the Abbot is a serene, but inhumanly dispassionate holy man and "scientist." Only the Abbot knows that he is [[NPCs/Ithuriel|Ithuriel]]: an angel of the Morninglord sent to honor the memory of Saint Markovia.
 > 
 > ***Morale.*** In a fight, the Abbot would reveal his divine form, then command his enemies to lay down their weapons and surrender. If they failed to do so, he would attack them mercilessly, seeking to crush any resistance until and unless they surrendered or fled.
 > 
-> ***Relationships.*** The Abbot, an angel of the Morninglord once called Ithuriel, is the master of the Abbey of Saint Markovia, including the **mongrelfolk** Otto, Zygfrek, and Clovin Belview. He is also the creator of the **flesh golem** Vasilka and the resurrector of Kala Krezkova.
+> ***Relationships.*** The Abbot, an angel of the Morninglord once called [[NPCs/Ithuriel|Ithuriel]], is the master of the Abbey of Saint Markovia, including the **mongrelfolk** [[NPCs/Otto and Zygfrek Belview|Otto]], [[NPCs/Zygfrek|Zygfrek]], and [[NPCs/Clovin Belview|Clovin Belview]]. He is also the creator of the **[[Items/Flesh Golem|flesh golem]]** [[Items/Vasilka|Vasilka]] and the resurrector of Kala Krezkova.
 
 After the players have had an opportunity to discuss and debate his question, if any are infected with the curse of werewolf lycanthropy, the Abbot's nose wrinkles. He then turns to any infected players, his brows furrowing. "Forgive me, my friend," he says, "but you bear the stench of the wolf. It is an unpleasant thing and befouls the air of this sacred place. May I remove it from you?" If the player assents, the Abbot uses his _healing touch_ to cure their lycanthropy. 
 

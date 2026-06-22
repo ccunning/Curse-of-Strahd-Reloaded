@@ -1,0 +1,295 @@
+---
+entity_type: NPC
+aliases:
+  - "Count Strahd"
+  - "Count Strahd von Zarovich"
+  - "King Barov von Zarovich I"
+  - "Rahadin"
+  - "Rahadin von Zarovich"
+  - "Sergei"
+  - "Sergei von Zarovich"
+  - "Strahd"
+  - "The Gentleman"
+  - "The Mage"
+tags:
+  - NPC
+---
+
+# Strahd von Zarovich
+
+> **NPC** · 20 source files
+
+## Key Facts
+
+- His role in the narrative involves being manipulated by [[NPCs/Morgantha|Morgantha]], with his potential death and entrapment of his soul contributing to dark plot elements involving the soul bag.
+- After obtaining [[Items/Holy Symbol of Ravenkind|the Holy Symbol of Ravenkind]] or relighting the [[Places/Beacon of Argynvostholt|beacon of Argynvostholt]], he focuses on determining if any players are worthy to serve in his court.
+- Is a key part of the lore connecting [[NPCs/Strahd von Zarovich|Strahd]]’s domain to the larger conflict concerning soul manipulation, death traps, and forbidden knowledge.
+- Used to take control of [[NPCs/The Devourer|the Devourer]]'s vestige from its amber sarcophagus to compel it for knowledge during an earlier visit to the Fanes.
+- Known to seek information and resources from various figures including [[NPCs/Madam Eva|Madam Eva]], and maintains spies like [[NPCs/Eliza|Eliza]] within the encampment.
+- His interaction with players and their use of the [[Items/Soul Leech|soul leech]] leads into potential ramifications related to future story development.
+- He departs the castle on a nightly patrol, riding a nightmare to three fane locations: Mountain Fane, [[Places/Swamp Fane|Swamp Fane]], and [[Places/Forest Fane|Forest Fane]].
+- He was once a soldier who saved the [[Factions/Vistani|Vistani]], but later became the master of the land and locked them into a cage with the [[Places/Mists|mists]].
+- Encounters players near [[NPCs/Kavan|Kavan]]'s cairn and at [[Places/Yester Hill|Yester Hill]], and offers them a wager related to stopping the [[Factions/Forest Folk|Forest Folk]] ritual.
+- The surroundings change based on his mood, especially weather, indicating he has an almost supernatural influence on [[Places/Barovia|Barovia]].
+- Was responsible for the death of many, including the destruction of [[Places/Wizard of Wines|the Wizard of Wines]] and attack on [[Places/St. Andral's Church|St. Andral's church]].
+- He holds the key that unlocks the [[Places/Guest Suite|guest suite]] door and can lead players to [[NPCs/Varushka|Varushka]]'s [[Places/Prison|prison]] if he were located there.
+- He appears during the heist arc to obstruct players' departure from the [[Places/Catacombs|catacombs]] after visiting St. [[NPCs/Saint Markovia|Markovia]]'s crypt.
+- His actions and relationship with [[Places/Amber Temple|the Amber Temple]] are deeply connected to the larger [[Items/Lore of Barovia|lore of Barovia]] and its history.
+- Connected to the political structure beneath [[NPCs/Strahd von Zarovich|Strahd]]’s castle and represents potential leverage or threat in dealings.
+- Placed under pressure by [[NPCs/Morgantha|Morgantha]] to collect souls, making his involvement critical to later parts of the campaign.
+- Rahadin uses a combination of hit-and-run tactics, psychic screams, and the [[Items/Amulet of Ravenloft|Amulet of Ravenloft]] to escape in combat.
+- Rahadin uses dual scimitars, twin blades Thorn and Chain, and special abilities like Whirling Blades and Misty Step.
+- A [[Factions/Vistani|Vistani]] member works as a spy for him and is currently tasked with locating a woman matching [[NPCs/Ireena Kolyana|Ireena]]'s description.
+- Strahd is referenced as having committed acts that led to the transformation of his victims into monstrous beings.
+- He has three main forms: Castle Chamberlain (elf), Kinslayer (elf), Amber-Touched (elf), and The Corrupted (elf).
+- His name appears on a letter placed inside the [[Places/Secret Room|Secret Room]] which contradicts his involvement with the house.
+- Has the ability to use [[Items/Heart of Sorrow|the Heart of Sorrow]] to plunge [[Places/Barovia|Barovia]] into eternal night and raise an army of undead.
+- Is the one who has placed Barovia under a curse, preventing the sun from shining and causing eternal night.
+- Departed the castle once each fortnight atop his nightmare steed [[NPCs/Beucephalus|Beucephalus]] on the night of the new moon.
+- Rahadin is Strahd's loyal chamberlain, enforcer, and adoptive brother, known for his deadly calm devotion.
+- The current ruler of Barovia, linked through lore with the Fanes and the corruption spreading throughout.
+- Has an informal agreement with the cult of [[Factions/Death House|Death House]], permitting them to leave Barovia for sacrifices.
+- Has a history with [[Places/Amber Temple|the Amber Temple]], where he was once offered power by [[NPCs/Patrina Velikovna|Patrina Velikovna]] and [[NPCs/Tenebrous|Tenebrous]].
+- As The Tyrant, he becomes harsh and cruel, testing players' capabilities before turning to The Monster.
+- Has an interest in dark magic that could influence future story progression involving Strahd's court.
+- His betrayal was overheard by [[NPCs/Patrina Velikovna|Patrina Velikovna]], who then used it to manipulate matters in her favor.
+- Appears as a gentleman and has the power to make decisions in Barovia regarding the party's actions.
+- Strahd’s chamberlain, who has been targeted by Morgantha to receive a [[Items/Soul Leech|soul leech]] as part of a deal.
+- Lord of [[Places/Castle Ravenloft|Castle Ravenloft]], who appears on the path and warns players about threats from [[Places/Yester Hill|Yester Hill]].
+- Has a problematic statblock that makes him either too easy or too hard depending on circumstances.
+- Has a complex relationship with the Vistani and is believed to have brought them back to Barovia.
+- Strahd’s chamberlain whose office is located in the cellar of [[Places/Castle Ravenloft|Castle Ravenloft]] near the kitchens.
+- The owner of Castle Ravenloft, who orchestrated the events related to [[NPCs/Elric Martikov|Elric]], [[NPCs/Ludmilla|Ludmilla]] and others.
+- He is the ruler who defeated the [[Factions/Dusk Elves|dusk elves]], leading to the events surrounding Patrina's revenge.
+- Has connections with both Patrina Velikovna and [[Factions/Dark Powers|the Dark Powers]] who influence events in Barovia.
+- As The Monster, he becomes a ruthless sociopath driven solely by his goal of escaping the [[Places/Mists|Mists]].
+- He tends to fixate on certain women over time who look similar, linking to the character [[NPCs/Ireena Kolyana|Ireena]].
+- The destination for the soul leech which Morgantha asks players to deliver as part of her deal.
+- Tells players that 'he has promised you guestright' which is binding on both master and guests.
+- Patrina was inspired by him even though she initially tried to use the [[Items/Sunsword|Sunsword]] to destroy him.
+- Not mentioned here as direct NPC but referenced in lore via the coin’s connection to his hoard.
+- His various forms gain increasing strength, flying capabilities, resistances, and immunities.
+- He has a soul that has been pursued by [[NPCs/Tatyana Federovna|Tatyana Federovna]]'s reincarnated form, Ireena Kolyana.
+- Delivers Strahd's invitation to the players and has the ability to emit screams of the dead.
+- He has three vampiric brides: [[NPCs/Ludmilla|Ludmilla Vilisevic]], [[NPCs/Anastrasya Karelova|Anastrasya Karelova]], and [[NPCs/Volenta|Volenta Popofsky]].
+- Known for his cruelty and predatory nature, though he claims to take only what he requires.
+- The presence of Strahd is felt in the actions and traps set in place throughout the castle.
+- He resides in the Chamberlain's Office and has a keyring containing multiple dungeon keys.
+- Has significant connection with [[Items/Broken Blade|broken blade]], especially in confrontation with the player.
+- His abilities include charm and obsession with Ireena, which may be unsettling to players.
+- A chamberlain of Strahd, whose office is located in the kingsmen hall beneath the castle.
+- Is mentioned as a character associated with the servants' wing and castle elevator shaft.
+- Delivered a message that Barovia would suffer if they did not make peace with their gods.
+- Offers a wager to the party if they agree to oppose the druids and fight [[NPCs/Wintersplinter|Wintersplinter]].
+- Mentioned as the primary antagonist/threat in the forces of [[NPCs/Vladimir Horngaard|Vladimir Horngaard]]'.
+- Infiltrated Castle Ravenloft, seeking knowledge and power from within the Amber Temple.
+- Plans to use his backup plan, the Long Night, after the players reconsecrate the Fanes.
+- His line included Barov II, who led a crusade, and finally Strahd who became a vampire.
+- His presence instills fear and caution among players due to his Lawful Evil alignment.
+- A powerful mage who became the ruler of Barovia after his arrival at the Amber Temple.
+- Imposes strict rules on the players' movements, locking them in their rooms at night.
+- Has a complex backstory involving conquest, imprisonment, and plans to restore power.
+- As The Gentleman, he is charming and manipulative but disinterested in human freedom.
+- His physical form and mental state are altered during events in the nightmare realm.
+- Used his position to assist Patrina and prevent her from taking control over Strahd.
+- Interrogated by Strahd about current time and plans, showing knowledge of the Fanes.
+- Was previously a mortal king named [[NPCs/Barov von Zarovich II|Barov von Zarovich II]] before becoming a vampire.
+- He is known to have visited and fed upon [[NPCs/Varushka|Varushka]] in secret before imprisoning her.
+- A vampire lord who has been the primary antagonist of the Barovia campaign setting.
+- May represent a lost or fallen priest figure related to redemption or faith themes.
+- Players encounter him at [[Places/River Ivlis Crossroads|River Ivlis Crossroads]], Yester Hill, and Castle Ravenloft.
+- Is characterized as a challenge for new DMs and is often difficult to run properly.
+- Informed by Strahd about crucial events and secrets such as the [[Places/Grand Conjunction|Grand Conjunction]].
+- The letter shows his loyalty to King Barov and then to his son, the current king.
+- He is a Darklord, one of the evil individuals imprisoned in the Domains of Dread.
+- Transformed into a vampire after receiving [[NPCs/The Vampyr|the vampyr]] gift from the Amber Temple.
+- A vampire who slept in Castle Ravenloft for centuries before awakening in 735 BC.
+- Key figure when negotiating with Morgantha for [[Items/Heartstone|heartstone]] access or other items.
+- Oversaw castle operations or dispatched servants to the far corners of the keep.
+- Strahd is a vampire lord who rules over Barovia and acts as the main antagonist.
+- He has three distinct personalities: The Gentleman, The Tyrant, and The Monster.
+- An elder vampire lord and ruler of Barovia who has a pact with [[Factions/Dark Powers|the Dark Powers]].
+- May have a deep personal arc or relationship with the items that reference him.
+- He has two forms: Castle Chamberlain (first form) and Kinslayer (second form).
+- The Dark Powers have placed him in a [[Places/Prison|prison]], ensuring he suffers continuously.
+- Is known to send adventurers that escape [[Factions/Death House|Death House]] into his domain as prey.
+- His carriage is black with a scarlet brooch and carries [[NPCs/Escher|Escher]] as the driver.
+- The main vampire antagonist of the Barovian world, ruler of Castle Ravenloft.
+- A chamberlain in Castle Ravenloft who wrote a letter to the player character.
+- Has four phases in combat: Mage, Soldier, Vampire, and Ancient (final phase).
+- Son of King [[NPCs/Barov von Zarovich II|Barov von Zarovich II]] and heir to the Von Zarovich family legacy.
+- Leads players on a tour of the castle, sharing its history and architecture.
+- Is currently trying to find the [[Items/Sunsword|Sunsword]] and has set up a trial for players.
+- A vampire lord who owns Castle Ravenloft and controls the domain of Barovia.
+- Played a key role in the early reign of Strahd by handling matters of state.
+- He prepares himself for his sacrifice on the day of the [[Places/Grand Conjunction|Grand Conjunction]].
+- Was born from the [[Items/Vampyr|Vampyr]]'s curse in the Amber Temple and became a vampire.
+- Led his people to defeat foreign invaders and reunify smaller city states.
+- He is known for his high mobility and ability to use misty step and hide.
+- Is one of the main antagonists in the story and seeks to control Barovia.
+- Uses [[Items/Heart of Sorrow|the Heart of Sorrow]] as a conduit for his ritual to escape the Mists.
+- He returns to the castle approximately twelve hours after his departure.
+- Carries his father's crown and was bonded with several [[Places/Fanes of Barovia|Fanes of Barovia]].
+- May not remember the blade at first but recalls its power during combat.
+- Is the main antagonist of the campaign, hunting Dr. Rudolph van Richten.
+- Abdicating his position as Most High Priest due to affairs with [[NPCs/Tatyana Federovna|Tatyana]].
+- Murdered by Strahd during the wedding night before Tatyana could escape.
+- Rahadin is the Castle Chamberlain, a lawful evil elf who serves Strahd.
+- A [[NPCs/Lich|lich]] and the primary antagonist of the campaign, ruling over Barovia.
+- Constructed Castle Ravenloft upon the ruins of [[NPCs/King Dostron|King Dostron]]’s fortress.
+- He is known for his intelligence, cunning, and supernatural abilities.
+- Accompanies Strahd during the tour and oversees the castle's security.
+- A powerful vampire who serves as a primary antagonist in the campaign.
+- Seeks to consume the souls of all Barovia to escape through the Mists.
+- He is the current Lord of Barovia and has been undead for a long time.
+- Has minions that interact with players such as [[NPCs/Werewolves|werewolves]] and guards.
+- Has a complex history with his first vampiric bride, [[NPCs/Sasha Ivliskova|Sasha Ivliskova]].
+- Transformed the elevator into a trap for thieves and vampire hunters.
+- Known as the Tyrant persona after players' heist of Castle Ravenloft.
+- The master of Castle Ravenloft and the source of Varushka's torment.
+- Charmed [[NPCs/Gertruda|Gertruda]] and instructed her to ask [[NPCs/Sasha Ivliskova|Sasha]] to help her escape.
+- Brother of Strahd and a former acolyte of the Church of Morninglord.
+- Sought to reassert his authority over Barovia after his hibernation.
+- Is eventually defeated by the players' efforts in Castle Ravenloft.
+- He is the vampire who has been awakened and is terrorizing Barovia.
+- The master of Castle Ravenloft and one of the primary antagonists.
+- Sends invitation to players for dinner at his castle on Neyavr 14.
+- Became a priest in the Church of the Morninglord after Barov died.
+- A servant of Strahd who announced the vampire’s return to Barovia.
+- Plans to channel the power of the Fanes into the Heart of Sorrow.
+- Has a long, wicked scar across his forehead and dark brown eyes.
+- Has a complicated history with his first bride, Sasha Ivliskova.
+- Established a legacy that would be continued by his descendants.
+- A trusted advisor of Strahd and later served as his chamberlain.
+- Referred to in a letter found within Death House's [[Places/Secret Room|Secret Room]].
+- The spirit of an ally or antagonist mentioned in final summary.
+- Established the dominion over Barovia as the land's sole ruler.
+- His loyalty remained with Strahd even after the transformation.
+- He is the main antagonist of [[Items/Curse of Strahd|Curse of Strahd]] campaign setting.
+- His second form involves twin scimitars named Thorn and Chain.
+- His office is currently inaccessible due to being bricked up.
+- Became obsessed with Tatyana, leading to his tragic downfall.
+- Has ordered that Ireena be left unharmed during her travels.
+- Strahd is the vampire lord of Barovia and Castle Ravenloft.
+- He has offered himself as a sacrifice in the escape ritual.
+- A major figure in the campaign who is central to the story.
+- Sent to punish [[NPCs/Kasimir Velikov|Kasimir Velikov]], who sought to kill Patrina.
+- Controls the fate of townspeople like [[NPCs/Willemina Rikalova|Willemina Rikalova]].
+- Has several vampiric brides including Ludmilla Vilisevic.
+- A vampire who has awakened to plague the Barovian valley.
+- Is known as the great patriarch of the Von Zarovich line.
+- A dusk elf who helped King Barov conquer the [[Factions/Dusk Elves|dusk elves]].
+- Ordered undead hordes to be raised to subdue the valley.
+- Brings in prisoners, such as the convict [[NPCs/Alek Tyminski|Alek Tyminski]].
+- Rahadin is Strahd's chamberlain who sits and meditates.
+- Brings [[NPCs/Prince Erevan Löwenhart|Erevan]]'s blade and executes him due to defiance.
+- The undead ruler of Barovia and owner of the [[Places/Treasury|treasury]].
+- Married Tatyana Federovna despite Strahd’s opposition.
+- The ruler of Castle Ravenloft and vampire antagonist.
+- Considered one of Strahd's most trustworthy servants.
+- The primary villain of the [[Items/Curse of Strahd|Curse of Strahd]] campaign.
+- Noted for his stern demeanor and loyalty to Strahd.
+- Strahd's dusk elf chamberlain and adoptive brother.
+- Strahd's younger brother, born to [[NPCs/Queen Ravenovia|Queen Ravenovia]].
+- Has prior knowledge of [[NPCs/Muriel Vinshaw|Muriel]]'s wereraven nature.
+- Assigned [[NPCs/Anastrasya Karelova|Anastrasya]] to guard [[NPCs/Gertruda|Gertruda]]'s chambers.
+- The main villain of the campaign, a vampire lord.
+- The main villain of the Curse of Strahd campaign.
+- A vampire lord who controls the land of Barovia.
+- Connected to the fate of [[Places/Village of Barovia|the Village of Barovia]].
+- Main villain of the campaign, ruler of Barovia.
+- Lord of Castle Ravenloft and ruler of Barovia.
+- Visage on [[Items/Electrum Coin|electrum coin]] is of this character.
+- The castle chamberlain serving under Strahd.
+- The vampire lord who rules Castle Ravenloft.
+- Founder of the unified kingdom of Zarovia.
+- Rides a phantom steed with shadowed eyes.
+- Strahd's chamberlain and right-hand man.
+- The main villain and ruler of Barovia.
+- Transformed [[NPCs/Doru|Doru]] into a [[Factions/Vampire Spawn|vampire spawn]].
+- Rides a nightmare named [[NPCs/Beucephalus|Beucephalus]].
+- Belonged to the [[Items/Sunrise Medallion|sunrise medallion]].
+- Has a chamberlain named Rahadin.
+- The Dark Lord of Barovia.
+
+## DM Notes
+
+- A reference to Strahd's possible escape through the Mists if Ireena's soul is not taken, indicating future narrative potential for the cycle of reincarnation.
+- His name often ties into significant prophecies, historical events, and possible alliances with [[Factions/Keepers of the Feather|the Keepers of the Feather]] or other occult entities.
+- Rahadin is mentioned in relation to being present in the [[Places/Dungeons|dungeons]] and blocking players from leaving until after major arc objectives are completed.
+- The interaction between Strahd and the cult of Death House sets up potential larger conflict or story arcs involving other Barovian inhabitants.
+- Rahadin may become more significant as the campaign progresses, perhaps through his role in keeping secrets or assisting with important puzzles.
+- Rahadin's role points toward larger thematic concerns of loyalty, betrayal, and consequences of Strahd’s machinations within his castle walls.
+- His information leak leads to manipulation and schemes by Patrina Velikovna, suggesting his actions will have significant ripple effects.
+- The mood changes in nature tied to Strahd’s state suggest he is a pivotal antagonist whose emotional volatility will affect gameplay.
+- His personality shifts based on the progress in the campaign, which creates evolving levels of threat and engagement for players.
+- His return was foreshadowed by Van Richten's letter to [[NPCs/Ezmerelda d'Avenir|Ezmerelda d'Avenir]] and his presence in the Mists as a traveling scholar.
+- Continues to influence events even without direct presence in this act; expected to reappear strongly in future chapters.
+- The reference to Strahd reveals significant backstory and may indicate future threats or moral dilemmas involving him.
+- Strahd will play a central role in future plot arcs, possibly interacting directly with the party after their escape.
+- His actions and motivations tie directly to the events of *Curse of Strahd*, particularly involving the Amber Temple.
+- His presence might reveal crucial information or artifacts tied to historical events within Strahd’s castle.
+- His presence will inspire fear and require players to navigate complex character dynamics and relationships.
+- Players are warned about triggers like stalking, sexual assault (symbolic), and mind control related to him.
+- Players will encounter him directly in gameplay if they follow pathways related to coin and his treasures.
+- His tactics are mentioned as an element that is expected to be a challenge for the war council attendees.
+- Has personal interest in the location of Rudolph van Richten, an assassin who has evaded his servants.
+- Interaction with Strahd introduces potential rewards related to the player's journey inside the wall.
+- The final phase of his combat is described, involving the [[Items/Amulet of Ravenloft|amulet of ravenloft]] as an escape mechanism.
+- His appearance in the early chapters sets up expectations about his power and role in the campaign.
+- He is connected to the creation of Castle Ravenloft, showing his power as a powerful necromancer.
+- He has a long-standing fixation on a class of women, which will likely be central to the plot.
+- His presence is/is implied by the threats and a command by Horngaard to not meddle with him.
+- Intends to use the souls of Barovians as both catalyst and sacrifice for escaping the Mists.
+- The player characters are likely to confront him during their journey to find the Sunsword.
+- His absence creates opportunities for players to infiltrate the castle during his travels.
+- His pact with the Dark Powers allows them to be present in the world and influence events.
+- His potential self-sacrifice may come into play during critical stages of the escape plan.
+- Is returning from a visit to [[NPCs/Madam Eva|Madam Eva]], who gives him insight into the Grand Conjunction.
+- Has knowledge of various players' movements and possibly their pasts via Strahd's spies.
+- The keyring held by Rahadin includes the keys for [[NPCs/Emil Toranescu|Emil]]’s collar, a [[Items/Silverthorn Collar|silverthorn collar]].
+- His escape plan requires a pacified kingdom, loyal servants, and an escape mechanism.
+- Strahd sets up events including vivisection, imprisonment and various magical traps.
+- In upcoming scenes, may be compelled by the blade's power to revisit old memories.
+- Involvement with the Grand Conjunction suggests a long-term cosmic threat or plan.
+- His transformation into a Monster is influenced by events involving The Sunsword.
+- His influence and presence are felt throughout the manor's events and mysteries.
+- The character of the vampire [[NPCs/Escher|Escher]] is introduced, whom Strahd keeps as consort.
+- He will likely enforce further constraints or confrontations in later chapters.
+- [[Places/Whispering Wall|The Whispering Wall]] and its visions will be explored later in the campaign.
+- Connected to church lore that can guide players seeking divine direction.
+- Players will eventually confront him directly through various story arcs.
+- Will be defeated in a climactic battle after which the Mists vanish.
+- Will lead the players into Castle Ravenloft during the dinner arc.
+- Plans to use Gertruda as bait to test the players in the future.
+- Receives Tarokka fortunes that will be important in later arcs.
+- The players will face him in Act V at the Heart of Sorrow.
+- He must be defeated or he will escape by using the amulet.
+- His awakening sets the central conflict of the campaign.
+- Strahd arrives after returning from Madam Eva's tent.
+- Rahadin is positioned as a recurring security figure.
+- Will be away from the castle the night after dinner.
+- Arc R: The Tyrant's Trials.
+
+## Appears In
+
+- [[Act I - Into the Mists/Arc A - Escape From Death House|Escape From Death House]]
+- [[Act I - Into the Mists/Arc C - Into the Valley|Into the Valley]]
+- [[Act II - The Shadowed Town/Arc H - The Lost Soul|The Lost Soul]]
+- [[Act III - The Broken Land/Arc J - The Stolen Gem|The Stolen Gem]]
+- [[Act III - The Broken Land/Arc O - Dinner with the Devil|Dinner with the Devil]]
+- [[Act III - The Broken Land/Arc P - Ravenloft Heist|Ravenloft Heist]]
+- [[Act III - The Broken Land/Arc Q - A Shining Beacon|A Shining Beacon]]
+- [[Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight|A Sword of Sunlight]]
+- [[Act IV - Secrets of the Ancient/Arc U - Dreams of Dawn|Dreams of Dawn]]
+- [[Appendices/Non-Player Characters|Non-Player Characters]]
+- [[Chapter 1 - Beginning the Campaign/Character Creation|Character Creation]]
+- [[Chapter 1 - Beginning the Campaign/Session Zero|Session Zero]]
+- [[Chapter 2 - The Land of Barovia/History of Barovia|History of Barovia]]
+- [[Chapter 2 - The Land of Barovia/Lore of Barovia|Lore of Barovia]]
+- [[Chapter 2 - The Land of Barovia/Strahd von Zarovich|Strahd von Zarovich]]
+- [[Chapter 3 - Running the Game/Adventure Summary|Adventure Summary]]
+- [[Chapter 3 - Running the Game/Running the Adventure|Running the Adventure]]
+- [[Introduction/A DM's Guide to Curse of Strahd|A DM's Guide to Curse of Strahd]]
+- [[Introduction/Using This Guide|Using This Guide]]
+- [[PCs/Ren|Ren]]

@@ -1,0 +1,7390 @@
+{
+  "A gloomy, fog-enshrouded village/valley located within the Mists.": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "A gloomy, fog-enshrouded village/valley located within the Mists."
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc B - Welcome to Barovia.md"
+    ],
+    "wikilink_seeds": [
+      "[[#B2. Gates of Barovia]]",
+      "[[#B5i. The Barovian Church]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Abbey of Saint Markovia": {
+    "entity_type": "place",
+    "aliases": [
+      "Abbey",
+      "Abbey of St. Markovia",
+      "The Abbey of Saint Markovia"
+    ],
+    "all_hints": [
+      "Abbey of Saint Markovia",
+      "Abbey of St. Markovia"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc I - The Walls of Krezk.md",
+      "Act III - The Broken Land/Arc K - The Fallen Abbey.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md",
+      "Chapter 3 - Running the Game/Running the Adventure.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 5,
+    "confidence": "embedding"
+  },
+  "Adrian Martikov": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Adrian Martikov"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Alek Tyminski": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Alek Tyminski"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc O - Dinner with the Devil.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Alexei": {
+    "entity_type": "NPC",
+    "aliases": [
+      "the cousin"
+    ],
+    "all_hints": [
+      "Alexei"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc E - The Missing Vistana.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Amber Corruption": {
+    "entity_type": "item",
+    "aliases": [
+      "amber corruption"
+    ],
+    "all_hints": [
+      "Amber Corruption"
+    ],
+    "source_files": [
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md"
+    ],
+    "wikilink_seeds": [
+      "[[Amber Shards#Amber Corruption|Amber Corruption]]",
+      "[[Amber Shards#Stage Three|amber corruption]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Amber Shard": {
+    "entity_type": "item",
+    "aliases": [
+      "Elisabeth's Amber Shard",
+      "Misshapen Statue"
+    ],
+    "all_hints": [
+      "Amber Shard",
+      "Elisabeth's Amber Shard"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc A - Escape From Death House.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 3,
+    "confidence": "llm_yes"
+  },
+  "Amber Shards": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Amber Shards"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc F - Lady Wachter's Wish.md",
+      "Act III - The Broken Land/Arc M - The Dragon's Manor.md",
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md",
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md",
+      "Chapter 1 - Beginning the Campaign/Character Creation.md",
+      "Introduction/A DM's Guide to Curse of Strahd.md"
+    ],
+    "wikilink_seeds": [
+      "[[Amber Shards#Amber Corruption|Amber Corruption]]",
+      "[[Amber Shards#Stage Three|amber corruption]]",
+      "[[Amber Shards]]"
+    ],
+    "record_count": 6,
+    "confidence": "singleton"
+  },
+  "Amber Temple": {
+    "entity_type": "place",
+    "aliases": [
+      "Temple of the Amber",
+      "The Amber Temple",
+      "the temple"
+    ],
+    "all_hints": [
+      "Amber Temple"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md",
+      "Act III - The Broken Land/Arc M - The Dragon's Manor.md",
+      "Act IV - Secrets of the Ancient/Arc R - Trials of the Mountain.md",
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md",
+      "Chapter 1 - Beginning the Campaign/Character Creation.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 2 - The Land of Barovia/Strahd von Zarovich.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md",
+      "Chapter 3 - Running the Game/Running the Adventure.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 9,
+    "confidence": "singleton"
+  },
+  "Amber Vault": {
+    "entity_type": "place",
+    "aliases": [
+      "East Sarcophagus",
+      "North Sarcophagus",
+      "South Sarcophagus",
+      "West Sarcophagus"
+    ],
+    "all_hints": [
+      "Amber Vault"
+    ],
+    "source_files": [
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Amber Vault]]",
+      "[[#S6c. Amber Vault]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Amber Vestiges": {
+    "entity_type": "faction",
+    "aliases": [],
+    "all_hints": [
+      "Amber Vestiges"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/Lore of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Amulet of Knight’s Passage": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Amulet of Knight’s Passage"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc M - The Dragon's Manor.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Amulet of Ravenloft": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Amulet of Ravenloft"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Anastrasya Karelova": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Anastrasya"
+    ],
+    "all_hints": [
+      "Anastrasya",
+      "Anastrasya Karelova"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc O - Dinner with the Devil.md",
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md",
+      "Appendices/Non-Player Characters.md",
+      "Chapter 2 - The Land of Barovia/Strahd von Zarovich.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 4,
+    "confidence": "prefix"
+  },
+  "Angel's Feather": {
+    "entity_type": "item",
+    "aliases": [
+      "angel's feather"
+    ],
+    "all_hints": [
+      "Angel's Feather"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc A - Escape From Death House.md",
+      "Chapter 1 - Beginning the Campaign/Character Creation.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Anna Krezkova": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Anna",
+      "Baroness Anna Krezkova"
+    ],
+    "all_hints": [
+      "Anna Krezkova",
+      "Baroness Anna Krezkova"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc I - The Walls of Krezk.md",
+      "Act III - The Broken Land/Arc K - The Fallen Abbey.md",
+      "Act III - The Broken Land/Arc Q - A Shining Beacon.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 3,
+    "confidence": "embedding"
+  },
+  "Anton Konstantinovich": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Anton"
+    ],
+    "all_hints": [
+      "Anton Konstantinovich"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc O - Dinner with the Devil.md",
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Arabelle": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Arabelle's daughter",
+      "the girl",
+      "the missing girl"
+    ],
+    "all_hints": [
+      "Arabelle"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc E - The Missing Vistana.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Arasek Stockyard": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Arasek Stockyard"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc D - St. Andral's Feast.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Arc A - Escape From Death House": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Arc A - Escape From Death House"
+    ],
+    "source_files": [
+      "Introduction/Using This Guide.md"
+    ],
+    "wikilink_seeds": [
+      "[[Arc A - Escape From Death House]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Argynvost's skull": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Argynvost's skull"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Argynvostholt": {
+    "entity_type": "place",
+    "aliases": [
+      "Ancient Manors",
+      "Manor of Argynvostholt",
+      "the manor",
+      "the mansion of Argynvostholt"
+    ],
+    "all_hints": [
+      "Argynvostholt"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md",
+      "Act III - The Broken Land/Arc M - The Dragon's Manor.md",
+      "Chapter 1 - Beginning the Campaign/Character Creation.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 2 - The Land of Barovia/Strahd von Zarovich.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md",
+      "Chapter 3 - Running the Game/Running the Adventure.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 7,
+    "confidence": "singleton"
+  },
+  "Argynvost’s Mausoleum": {
+    "entity_type": "place",
+    "aliases": [
+      "Argynvost’s tomb",
+      "mausoleum"
+    ],
+    "all_hints": [
+      "Argynvost’s Mausoleum"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc M - The Dragon's Manor.md"
+    ],
+    "wikilink_seeds": [
+      "[[#M4a. Cemetery|Argynvost’s mausoleum]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Arrigal": {
+    "entity_type": "NPC",
+    "aliases": [
+      "the uncle"
+    ],
+    "all_hints": [
+      "Arrigal"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc E - The Missing Vistana.md",
+      "Act III - The Broken Land/Arc O - Dinner with the Devil.md",
+      "Appendices/Non-Player Characters.md"
+    ],
+    "wikilink_seeds": [
+      "[[Non-Player Characters#Arrigal|Arrigal]]"
+    ],
+    "record_count": 3,
+    "confidence": "singleton"
+  },
+  "Arturi Radanavich": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Arturi",
+      "Master Radanavich"
+    ],
+    "all_hints": [
+      "Arturi Radanavich"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md",
+      "Act IV - Secrets of the Ancient/Arc T - The Three Fanes.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [
+      "[[Arc C - Into the Valley#Arturi’s Tale|Arc C - Into the Valley]]"
+    ],
+    "record_count": 3,
+    "confidence": "singleton"
+  },
+  "Audience Hall": {
+    "entity_type": "place",
+    "aliases": [
+      "Hall"
+    ],
+    "all_hints": [
+      "Audience Hall"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Audience Hall]]",
+      "[[#Elevator Hall]]",
+      "[[#Hall of Bones]]",
+      "[[#Hall of Heroes]]",
+      "[[#King’s Dining Hall]]",
+      "[[#King’s Hall]]",
+      "[[#P11a. Dungeon Hall]]",
+      "[[#P7b. Belfry Access Hall]]",
+      "[[Arc P - Ravenloft Heist#Audience Hall|Audience Hall]]",
+      "[[Arc P - Ravenloft Heist#P11a. Dungeon Hall|Dungeon Hall]]",
+      "[[Arc P - Ravenloft Heist#P7b. Belfry Access Hall|Belfry Access Hall]]",
+      "[[Arc P - Ravenloft Heist#Second Floor South Archers’ Post Access Hall|Second Floor South Archers’ Post Access Hall]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Ba'Al Verzi Avenger": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Ba’al Verzi Avenger"
+    ],
+    "all_hints": [
+      "Ba'Al Verzi Avenger"
+    ],
+    "source_files": [
+      "Appendices/Non-Player Characters.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Baba Lysaga": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Berek",
+      "Lysaga",
+      "Of the Swamp",
+      "The Swamp-Mother",
+      "The Witch of Berez",
+      "Witch Mother"
+    ],
+    "all_hints": [
+      "Baba Lysaga"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md",
+      "Act II - The Shadowed Town/Arc I - The Walls of Krezk.md",
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md",
+      "Act III - The Broken Land/Arc L - The Den of Wolves.md",
+      "Appendices/Non-Player Characters.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 7,
+    "confidence": "singleton"
+  },
+  "Baba Lysaga's Hut": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Baba Lysaga's Hut"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Baba Zelenna": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Baba Zelenna"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Balinok Mountains": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Balinok Mountains"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Baron's Mansion": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Baron's Mansion"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc G - The Strazni Siblings.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Baroness Lydia Petrovna": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Baroness Lydia Petrovna"
+    ],
+    "source_files": [
+      "Appendices/Non-Player Characters.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Barov von Zarovich II": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Barov von Zarovich II"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Barovian Church": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Barovian Church"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Barovian Refugees": {
+    "entity_type": "faction",
+    "aliases": [],
+    "all_hints": [
+      "Barovian Refugees"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/Lore of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Barovian Relics": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Barovian Relics"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc A - Escape From Death House.md"
+    ],
+    "wikilink_seeds": [
+      "[[Running the Adventure#Adventure Hooks|Barovian Relics]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Barovian Scouts": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Kereza",
+      "Korga",
+      "Scouts"
+    ],
+    "all_hints": [
+      "Barovian Scouts"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Barovian witches": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Barovian witches"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Ba’al Verzi": {
+    "entity_type": "faction",
+    "aliases": [],
+    "all_hints": [
+      "Ba’al Verzi"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Beacon of Argynvostholt": {
+    "entity_type": "place",
+    "aliases": [
+      "Beacon Tower"
+    ],
+    "all_hints": [
+      "Beacon of Argynvostholt"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc M - The Dragon's Manor.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Bell Tower": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Bell Tower"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [
+      "[[#P7. Bell Tower]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Belladonna Sunbane": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Bella",
+      "Bella Sunbane",
+      "Bella, Night Hag",
+      "Belladonna"
+    ],
+    "all_hints": [
+      "Bella",
+      "Bella Sunbane",
+      "Belladonna Sunbane"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md",
+      "Appendices/Non-Player Characters.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 3,
+    "confidence": "prefix"
+  },
+  "Berez": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Berez"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 3 - Running the Game/Running the Adventure.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 3,
+    "confidence": "singleton"
+  },
+  "Beucephalus": {
+    "entity_type": "NPC",
+    "aliases": [
+      "nightmare"
+    ],
+    "all_hints": [
+      "Beucephalus"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md",
+      "Act IV - Secrets of the Ancient/Arc U - Dreams of Dawn.md",
+      "Chapter 2 - The Land of Barovia/Strahd von Zarovich.md"
+    ],
+    "wikilink_seeds": [
+      "[[#U3d. The Nightmares]]",
+      "[[Arc O - Dinner with the Devil#O8f. The Bloody Keep|O8. Varushka’s Nightmare]]"
+    ],
+    "record_count": 3,
+    "confidence": "singleton"
+  },
+  "Bianca Stoyanovich": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Bianca"
+    ],
+    "all_hints": [
+      "Bianca Stoyanovich"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc L - The Den of Wolves.md",
+      "Appendices/Non-Player Characters.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Black Carriage": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Black Carriage"
+    ],
+    "source_files": [
+      "Act IV - Secrets of the Ancient/Arc U - Dreams of Dawn.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Bloodthorn": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Bloodthorn"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Blue Water Inn": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Blue Water Inn"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md",
+      "Act II - The Shadowed Town/Arc E - The Missing Vistana.md",
+      "Act II - The Shadowed Town/Arc G - The Strazni Siblings.md",
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 5,
+    "confidence": "singleton"
+  },
+  "Bluetspur": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Bluetspur"
+    ],
+    "source_files": [
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Bracelet of Warding": {
+    "entity_type": "item",
+    "aliases": [
+      "silver bracelet"
+    ],
+    "all_hints": [
+      "Bracelet of Warding"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc M - The Dragon's Manor.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Brazier Room": {
+    "entity_type": "place",
+    "aliases": [
+      "The Brazier Room"
+    ],
+    "all_hints": [
+      "Brazier Room"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Brides of Strahd": {
+    "entity_type": "faction",
+    "aliases": [
+      "Ludmilla Vilisevic",
+      "Volenta Popofsky"
+    ],
+    "all_hints": [
+      "Brides of Strahd"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/Lore of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Brightblade": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Brightblade"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc M - The Dragon's Manor.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Broken Blade": {
+    "entity_type": "item",
+    "aliases": [
+      "broken blade"
+    ],
+    "all_hints": [
+      "Broken Blade"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc A - Escape From Death House.md",
+      "Chapter 1 - Beginning the Campaign/Character Creation.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Brom Martikov": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Bray Martikov"
+    ],
+    "all_hints": [
+      "Brom Martikov"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Broom of Animated Attack": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Broom of Animated Attack"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Brother Marek": {
+    "entity_type": "NPC",
+    "aliases": [
+      "the Order's former chaplain"
+    ],
+    "all_hints": [
+      "Brother Marek"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc M - The Dragon's Manor.md",
+      "Appendices/Non-Player Characters.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Brown Mold": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Brown Mold"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Burgomaster Kolyan Indirovich": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Kolyan Indirovich"
+    ],
+    "all_hints": [
+      "Burgomaster Kolyan Indirovich",
+      "Kolyan Indirovich"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "llm_yes"
+  },
+  "Butler's Quarters": {
+    "entity_type": "place",
+    "aliases": [
+      "Butler’s Quarters"
+    ],
+    "all_hints": [
+      "Butler's Quarters"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Butler’s Quarters]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Campaign Contract": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Campaign Contract"
+    ],
+    "source_files": [
+      "Chapter 1 - Beginning the Campaign/Session Zero.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Campaign Contract]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Cape of the Mountebank": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Cape of the Mountebank"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Carnival of Wonders": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Carnival of Wonders"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc D - St. Andral's Feast.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Castle Commons": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Castle Commons"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [
+      "[[#P4. Castle Commons]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Castle Crypts": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Castle Crypts"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [
+      "[[#P12. Catacombs]]",
+      "[[#P12b. Central Catacombs]]",
+      "[[Arc P - Ravenloft Heist#P12. Catacombs|Castle Crypts]]",
+      "[[Arc P - Ravenloft Heist#P12. Catacombs|P12. Catacombs]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Castle Ravenloft": {
+    "entity_type": "place",
+    "aliases": [
+      "Castles Ravenloft",
+      "Ravenloft"
+    ],
+    "all_hints": [
+      "Castle Ravenloft"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md",
+      "Act III - The Broken Land/Arc O - Dinner with the Devil.md",
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md",
+      "Chapter 1 - Beginning the Campaign/Character Creation.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 2 - The Land of Barovia/Strahd von Zarovich.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md",
+      "Chapter 3 - Running the Game/Running the Adventure.md",
+      "Introduction/A DM's Guide to Curse of Strahd.md"
+    ],
+    "wikilink_seeds": [
+      "[[Arc P - Ravenloft Heist#Hall of Bones|Arc P - Ravenloft Heist]]",
+      "[[Arc P - Ravenloft Heist#P11d. Torture Chamber|Arc P - Ravenloft Heist]]"
+    ],
+    "record_count": 9,
+    "confidence": "singleton"
+  },
+  "Catacombs": {
+    "entity_type": "place",
+    "aliases": [
+      "Central Catacombs",
+      "Central Crypts",
+      "K84. Catacombs",
+      "P12. Catacombs"
+    ],
+    "all_hints": [
+      "Catacombs",
+      "Central Catacombs",
+      "Central Crypts",
+      "P12. Catacombs"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md",
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Central Crypts]]",
+      "[[#P12. Catacombs]]",
+      "[[#P12b. Central Catacombs]]",
+      "[[#S3. Catacombs]]",
+      "[[#S3b. West Catacombs]]",
+      "[[#S3c. East Catacombs]]",
+      "[[Arc P - Ravenloft Heist#P12. Catacombs|Castle Crypts]]",
+      "[[Arc P - Ravenloft Heist#P12. Catacombs|P12. Catacombs]]"
+    ],
+    "record_count": 5,
+    "confidence": "wikilink"
+  },
+  "Cave of Eyes": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Cave of Eyes"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Chapel of Morning": {
+    "entity_type": "place",
+    "aliases": [
+      "Chapel",
+      "Chapel Balcony"
+    ],
+    "all_hints": [
+      "Chapel",
+      "Chapel Balcony",
+      "Chapel of Morning"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc M - The Dragon's Manor.md",
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Chapel Balcony]]",
+      "[[#M3c. Chapel of Morning]]"
+    ],
+    "record_count": 3,
+    "confidence": "wikilink"
+  },
+  "Character Creation": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Character Creation"
+    ],
+    "source_files": [
+      "Introduction/Using This Guide.md"
+    ],
+    "wikilink_seeds": [
+      "[[Character Creation]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Charm of Mass Heroism": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Charm of Mass Heroism"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Chernovog": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Green God"
+    ],
+    "all_hints": [
+      "Chernovog"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Chief Diegia": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Chief Diegia"
+    ],
+    "source_files": [
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Children’s Room": {
+    "entity_type": "place",
+    "aliases": [
+      "the Children’s Room"
+    ],
+    "all_hints": [
+      "Children’s Room"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc A - Escape From Death House.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Children’s Room]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Clairvoyance Stone": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Clairvoyance Stone"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Claudiu": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Claudiu"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Clovin Belview": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Clovin Belview"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc K - The Fallen Abbey.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Coffin Maker's Shop": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Coffin Maker's Shop"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc D - St. Andral's Feast.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Collapsed Ceiling": {
+    "entity_type": "place",
+    "aliases": [
+      "Collapesed Ceiling"
+    ],
+    "all_hints": [
+      "Collapsed Ceiling"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc M - The Dragon's Manor.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Coryllus": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Coryllus"
+    ],
+    "source_files": [
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Coven's Quarters": {
+    "entity_type": "place",
+    "aliases": [
+      "Coven’s Quarters",
+      "Quarters"
+    ],
+    "all_hints": [
+      "Coven's Quarters"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Butler’s Quarters]]",
+      "[[#P9. Coven’s Quarters]]",
+      "[[Arc P - Ravenloft Heist#P9. Coven’s Quarters|Coven's Quarters]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Crawling Claws": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Crawling Claws"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Creeping Hut": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Creeping Hut"
+    ],
+    "source_files": [
+      "Appendices/Non-Player Characters.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Crumpled Page": {
+    "entity_type": "item",
+    "aliases": [
+      "crumpled page"
+    ],
+    "all_hints": [
+      "Crumpled Page"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc A - Escape From Death House.md",
+      "Chapter 1 - Beginning the Campaign/Character Creation.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Crystal of Alarm": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Crystal of Alarm"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc L - The Den of Wolves.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Cult Fanatic": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Lady Wachter's Cultists"
+    ],
+    "all_hints": [
+      "Cult Fanatic"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md"
+    ],
+    "wikilink_seeds": [
+      "[[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Cult Fanatics": {
+    "entity_type": "faction",
+    "aliases": [
+      "The Cult"
+    ],
+    "all_hints": [
+      "Cult Fanatics"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Cult Headquarters": {
+    "entity_type": "place",
+    "aliases": [
+      "N4t. Cult Headquarters"
+    ],
+    "all_hints": [
+      "Cult Headquarters"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Cult of Chernovog": {
+    "entity_type": "faction",
+    "aliases": [],
+    "all_hints": [
+      "Cult of Chernovog"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Curse of Strahd": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Curse of Strahd"
+    ],
+    "source_files": [
+      "Introduction/Using This Guide.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Curse of Strahd: Reloaded": {
+    "entity_type": "item",
+    "aliases": [
+      "Reloaded"
+    ],
+    "all_hints": [
+      "Curse of Strahd: Reloaded"
+    ],
+    "source_files": [
+      "Introduction/A DM's Guide to Curse of Strahd.md",
+      "Introduction/Using This Guide.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Cyrus Belview": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Belviews",
+      "Cyrus"
+    ],
+    "all_hints": [
+      "Belviews",
+      "Cyrus Belview"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc K - The Fallen Abbey.md",
+      "Act III - The Broken Land/Arc O - Dinner with the Devil.md",
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md",
+      "Appendices/Non-Player Characters.md",
+      "Chapter 1 - Beginning the Campaign/Session Zero.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 5,
+    "confidence": "llm_yes"
+  },
+  "Daern’s instant fortress": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Daern’s instant fortress"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Dag Tomescu": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Dag Tomescu"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Daggerford": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Daggerford"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc A - Escape From Death House.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Dahlver-Nar, He of the Many Teeth": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Dahlver-Nar",
+      "Many Teeth"
+    ],
+    "all_hints": [
+      "Dahlver-Nar, He of the Many Teeth"
+    ],
+    "source_files": [
+      "Appendices/Amber Shards.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Dalvan Olensky": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Dalvan Olensky"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md"
+    ],
+    "wikilink_seeds": [
+      "[[Act I - Into the Mists/Arc B - Welcome to Barovia#B3. Svalich Woods|Dalvan Olensky's corpse]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Danika Dorakova": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Danika",
+      "the woman"
+    ],
+    "all_hints": [
+      "Danika Dorakova"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md",
+      "Act II - The Shadowed Town/Arc E - The Missing Vistana.md",
+      "Act II - The Shadowed Town/Arc F - Lady Wachter's Wish.md",
+      "Act II - The Shadowed Town/Arc G - The Strazni Siblings.md",
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md",
+      "Appendices/Non-Player Characters.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [
+      "[[Non-Player Characters#Danika Dorakova|Danika]]"
+    ],
+    "record_count": 7,
+    "confidence": "singleton"
+  },
+  "Dark Powers": {
+    "entity_type": "faction",
+    "aliases": [
+      "The Dark Powers"
+    ],
+    "all_hints": [
+      "Dark Powers"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc O - Dinner with the Devil.md",
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md",
+      "Act IV - Secrets of the Ancient/Arc U - Dreams of Dawn.md",
+      "Chapter 2 - The Land of Barovia/Lore of Barovia.md"
+    ],
+    "wikilink_seeds": [
+      "[[Lore of Barovia#Dark Powers|Dark Powers]]"
+    ],
+    "record_count": 4,
+    "confidence": "singleton"
+  },
+  "Davian Martikov": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Davian",
+      "Martikov"
+    ],
+    "all_hints": [
+      "Davian Martikov"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 3,
+    "confidence": "singleton"
+  },
+  "Death House": {
+    "entity_type": "faction",
+    "aliases": [],
+    "all_hints": [
+      "Death House"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/Strahd von Zarovich.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Delban, the Star of Ice and Hate": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Delban",
+      "Star of Ice and Hate"
+    ],
+    "all_hints": [
+      "Delban, the Star of Ice and Hate"
+    ],
+    "source_files": [
+      "Appendices/Amber Shards.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Dezdrelda Konstaninova": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Dezdrelda Konstaninova"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc O - Dinner with the Devil.md",
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Diavola": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Diavola"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc O - Dinner with the Devil.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Diona": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Chief Diegia's daughter"
+    ],
+    "all_hints": [
+      "Diona"
+    ],
+    "source_files": [
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Baron Dmitri Krezkov": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Dmitri",
+      "Dmitri Krezkov",
+      "The Baron of Krezk"
+    ],
+    "all_hints": [
+      "Baron Dmitri Krezkov",
+      "Dmitri Krezkov"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc I - The Walls of Krezk.md",
+      "Act III - The Broken Land/Arc K - The Fallen Abbey.md",
+      "Act III - The Broken Land/Arc L - The Den of Wolves.md",
+      "Act III - The Broken Land/Arc Q - A Shining Beacon.md",
+      "Appendices/Non-Player Characters.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 5,
+    "confidence": "embedding"
+  },
+  "Father Donavich": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Donavich"
+    ],
+    "all_hints": [
+      "Donavich",
+      "Father Donavich"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc O - Dinner with the Devil.md",
+      "Appendices/Non-Player Characters.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 4,
+    "confidence": "llm_yes"
+  },
+  "Dorina": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Barovian Witch"
+    ],
+    "all_hints": [
+      "Dorina"
+    ],
+    "source_files": [
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Doru": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Doru the Vampire Spawn"
+    ],
+    "all_hints": [
+      "Doru"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md",
+      "Act III - The Broken Land/Arc O - Dinner with the Devil.md",
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md",
+      "Appendices/Non-Player Characters.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 6,
+    "confidence": "singleton"
+  },
+  "DragnaCarta": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "DragnaCarta"
+    ],
+    "source_files": [
+      "Introduction/A DM's Guide to Curse of Strahd.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Dragon Gargoyle": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Dragon Gargoyle"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc M - The Dragon's Manor.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Dragon's Scale": {
+    "entity_type": "item",
+    "aliases": [
+      "Dragon’s Scale",
+      "The Dragon's Scale",
+      "dragon's scale"
+    ],
+    "all_hints": [
+      "Dragon's Scale"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc A - Escape From Death House.md",
+      "Act III - The Broken Land/Arc M - The Dragon's Manor.md",
+      "Chapter 1 - Beginning the Campaign/Character Creation.md"
+    ],
+    "wikilink_seeds": [
+      "[[Character Creation#Inheritance—The Dragon's Scale|Dragon's Scale]]"
+    ],
+    "record_count": 3,
+    "confidence": "singleton"
+  },
+  "Dragon's Vault": {
+    "entity_type": "place",
+    "aliases": [
+      "Dragon’s Den",
+      "Dragon’s Vault"
+    ],
+    "all_hints": [
+      "Dragon's Vault"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc M - The Dragon's Manor.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Dragon’s Den]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Dragon’s Mausoleum": {
+    "entity_type": "place",
+    "aliases": [
+      "The Dragon’s Mausoleum"
+    ],
+    "all_hints": [
+      "Dragon’s Mausoleum"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc M - The Dragon's Manor.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Drasha": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Drasha"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc A - Escape From Death House.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Dreamer": {
+    "entity_type": "NPC",
+    "aliases": [
+      "the goddess of winter"
+    ],
+    "all_hints": [
+      "Dreamer"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Driftglobe": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Driftglobe"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Drizlash, the Nine-Eyed Spider": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Drizlash",
+      "Nine-Eyed Spider"
+    ],
+    "all_hints": [
+      "Drizlash, the Nine-Eyed Spider"
+    ],
+    "source_files": [
+      "Appendices/Amber Shards.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Druid Assailant": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Druid Naturalist"
+    ],
+    "all_hints": [
+      "Druid Assailant"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Drusilla": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Drusilla"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc E - The Missing Vistana.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Dungeon Master's Guide": {
+    "entity_type": "item",
+    "aliases": [
+      "DMG"
+    ],
+    "all_hints": [
+      "Dungeon Master's Guide"
+    ],
+    "source_files": [
+      "Introduction/Using This Guide.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Dungeons": {
+    "entity_type": "place",
+    "aliases": [
+      "Dungeon Hall",
+      "P11. Dungeons"
+    ],
+    "all_hints": [
+      "Dungeons",
+      "P11. Dungeons"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [
+      "[[#P11. Dungeons]]",
+      "[[#P11a. Dungeon Hall]]",
+      "[[Arc P - Ravenloft Heist#P11. Dungeons|Dungeons]]",
+      "[[Arc P - Ravenloft Heist#P11a. Dungeon Hall|Dungeon Hall]]"
+    ],
+    "record_count": 2,
+    "confidence": "wikilink"
+  },
+  "Duras": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Duras"
+    ],
+    "source_files": [
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Durst children": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Durst children"
+    ],
+    "source_files": [
+      "Chapter 1 - Beginning the Campaign/Session Zero.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Dusk Elf Hovels": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Dusk Elf Hovels"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc E - The Missing Vistana.md"
+    ],
+    "wikilink_seeds": [
+      "[[#E2b. Dusk Elf Hovels]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Dusk Elves": {
+    "entity_type": "faction",
+    "aliases": [],
+    "all_hints": [
+      "Dusk Elves"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Elder Burebis": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Elder Burebis"
+    ],
+    "source_files": [
+      "Chapter 1 - Beginning the Campaign/Character Creation.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Electrum Coin": {
+    "entity_type": "item",
+    "aliases": [
+      "electrum coin"
+    ],
+    "all_hints": [
+      "Electrum Coin"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc A - Escape From Death House.md",
+      "Chapter 1 - Beginning the Campaign/Character Creation.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Elevator Hall": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Elevator Hall"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Elevator Hall]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Eliza": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Eliza"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Elric Martikov": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Elric",
+      "Elvir's twin brother"
+    ],
+    "all_hints": [
+      "Elric Martikov"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md",
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Elvir Martikov": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Elvir Martikov"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Emil Toranescu": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Emil",
+      "Werewolf Pack Alpha"
+    ],
+    "all_hints": [
+      "Emil Toranescu"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc L - The Den of Wolves.md",
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md",
+      "Act III - The Broken Land/Arc Q - A Shining Beacon.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 5,
+    "confidence": "singleton"
+  },
+  "Prince Erevan Löwenhart": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Erevan"
+    ],
+    "all_hints": [
+      "Erevan",
+      "Prince Erevan Löwenhart"
+    ],
+    "source_files": [
+      "Chapter 1 - Beginning the Campaign/Character Creation.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "llm_yes"
+  },
+  "Ernst Larnak": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Ernst Larnak"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc F - Lady Wachter's Wish.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Escher": {
+    "entity_type": "NPC",
+    "aliases": [
+      "the cupbearer",
+      "the vampire spawn"
+    ],
+    "all_hints": [
+      "Escher"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md",
+      "Act II - The Shadowed Town/Arc E - The Missing Vistana.md",
+      "Act III - The Broken Land/Arc O - Dinner with the Devil.md",
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md",
+      "Appendices/Non-Player Characters.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 2 - The Land of Barovia/Strahd von Zarovich.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 7,
+    "confidence": "singleton"
+  },
+  "Ethereal Entities": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Ethereal Entities"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Ethereal Plane": {
+    "entity_type": "place",
+    "aliases": [
+      "The Border Ethereal"
+    ],
+    "all_hints": [
+      "Ethereal Plane"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Exethanter": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Exethanter's ghost"
+    ],
+    "all_hints": [
+      "Exethanter"
+    ],
+    "source_files": [
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md",
+      "Chapter 1 - Beginning the Campaign/Character Creation.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Exethanter’s Hospitality]]"
+    ],
+    "record_count": 4,
+    "confidence": "singleton"
+  },
+  "Ezmerelda d'Avenir": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Eggsmerelda",
+      "Ezmerelda",
+      "Ezmerelda d’Avenir"
+    ],
+    "all_hints": [
+      "Eggsmerelda",
+      "Ezmerelda",
+      "Ezmerelda d'Avenir"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc E - The Missing Vistana.md",
+      "Act III - The Broken Land/Arc K - The Fallen Abbey.md",
+      "Act III - The Broken Land/Arc L - The Den of Wolves.md",
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md",
+      "Act III - The Broken Land/Arc Q - A Shining Beacon.md",
+      "Act IV - Secrets of the Ancient/Arc U - Dreams of Dawn.md",
+      "Appendices/Non-Player Characters.md",
+      "Chapter 1 - Beginning the Campaign/Character Creation.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md",
+      "Chapter 3 - Running the Game/Running the Adventure.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 12,
+    "confidence": "prefix"
+  },
+  "Ezra": {
+    "entity_type": "faction",
+    "aliases": [],
+    "all_hints": [
+      "Ezra"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/Lore of Barovia.md"
+    ],
+    "wikilink_seeds": [
+      "[[#The Cult of Ezra]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Fanes of Barovia": {
+    "entity_type": "place",
+    "aliases": [
+      "Fane"
+    ],
+    "all_hints": [
+      "Fanes of Barovia"
+    ],
+    "source_files": [
+      "Act IV - Secrets of the Ancient/Arc U - Dreams of Dawn.md"
+    ],
+    "wikilink_seeds": [
+      "[[#U3g. Attack on the Swamp Fane]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Father Lucian Petrovich": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Father Lucian"
+    ],
+    "all_hints": [
+      "Father Lucian",
+      "Father Lucian Petrovich"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md",
+      "Act II - The Shadowed Town/Arc D - St. Andral's Feast.md",
+      "Act II - The Shadowed Town/Arc G - The Strazni Siblings.md",
+      "Appendices/Non-Player Characters.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [
+      "[[Non-Player Characters#Father Lucian Petrovich|Father Lucian Petrovich]]",
+      "[[Non-Player Characters#Father Lucian Petrovich|Father Lucian]]",
+      "[[Non-Player Characters#Father Lucian Petrovich|Father Petrovich]]"
+    ],
+    "record_count": 5,
+    "confidence": "wikilink"
+  },
+  "Father Petrovich": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Father Petrovich"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Fekre, Queen of Poxes": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Fekre",
+      "Queen of Poxes"
+    ],
+    "all_hints": [
+      "Fekre, Queen of Poxes"
+    ],
+    "source_files": [
+      "Appendices/Amber Shards.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Lady Fiona Wachter": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Burgomistress Fiona Wachter",
+      "Fiona",
+      "Fiona Wachter",
+      "Lady Fiona",
+      "Lady Wachter",
+      "Nikolai Wachter",
+      "Stella",
+      "Stella Wachter",
+      "Wachtercult",
+      "the friend",
+      "the girl"
+    ],
+    "all_hints": [
+      "Fiona Wachter",
+      "Lady Fiona Wachter",
+      "Lady Wachter",
+      "Nikolai Wachter",
+      "Stella Wachter"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md",
+      "Act II - The Shadowed Town/Arc E - The Missing Vistana.md",
+      "Act II - The Shadowed Town/Arc F - Lady Wachter's Wish.md",
+      "Act II - The Shadowed Town/Arc G - The Strazni Siblings.md",
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md",
+      "Act III - The Broken Land/Arc Q - A Shining Beacon.md",
+      "Act IV - Secrets of the Ancient/Arc U - Dreams of Dawn.md",
+      "Appendices/Non-Player Characters.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 2 - The Land of Barovia/Lore of Barovia.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [
+      "[[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]]"
+    ],
+    "record_count": 18,
+    "confidence": "embedding"
+  },
+  "First Folk": {
+    "entity_type": "faction",
+    "aliases": [
+      "The First Folk"
+    ],
+    "all_hints": [
+      "First Folk"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Flesh Golem": {
+    "entity_type": "item",
+    "aliases": [
+      "The Abbot's Flesh Golem"
+    ],
+    "all_hints": [
+      "Flesh Golem"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Shambling Mound": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Flesh Mound",
+      "flesh mound"
+    ],
+    "all_hints": [
+      "Flesh Mound",
+      "Shambling Mound"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc A - Escape From Death House.md",
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "llm_yes"
+  },
+  "Forest Fane": {
+    "entity_type": "place",
+    "aliases": [
+      "Forest Fane at Yester Hill",
+      "the huntress's holy place"
+    ],
+    "all_hints": [
+      "Forest Fane",
+      "Forest Fane at Yester Hill"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md",
+      "Chapter 1 - Beginning the Campaign/Character Creation.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 3,
+    "confidence": "prefix"
+  },
+  "Forest Folk": {
+    "entity_type": "faction",
+    "aliases": [
+      "Druids of the Forest Folk",
+      "Forest Folk druids"
+    ],
+    "all_hints": [
+      "Forest Folk"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md",
+      "Chapter 2 - The Land of Barovia/Lore of Barovia.md",
+      "Chapter 2 - The Land of Barovia/Strahd von Zarovich.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 3,
+    "confidence": "singleton"
+  },
+  "Franz": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Franz the Wastrel",
+      "Franze"
+    ],
+    "all_hints": [
+      "Franz"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md",
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md",
+      "Appendices/Non-Player Characters.md"
+    ],
+    "wikilink_seeds": [
+      "[[Arc H - The Lost Soul#H3b. Franz’s Tent|Franz]]"
+    ],
+    "record_count": 3,
+    "confidence": "singleton"
+  },
+  "Front Courtyard": {
+    "entity_type": "place",
+    "aliases": [
+      "Courtyard"
+    ],
+    "all_hints": [
+      "Front Courtyard"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [
+      "[[#P3a. Front Courtyard]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Fyodor": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Freek"
+    ],
+    "all_hints": [
+      "Fyodor"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Gadof Blinsky": {
+    "entity_type": "NPC",
+    "aliases": [
+      "the toymaker"
+    ],
+    "all_hints": [
+      "Gadof Blinsky"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc E - The Missing Vistana.md",
+      "Appendices/Non-Player Characters.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Speaker of the Gallows": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Gallows Speaker"
+    ],
+    "all_hints": [
+      "Gallows Speaker",
+      "Speaker of the Gallows"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md",
+      "Appendices/Non-Player Characters.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "embedding"
+  },
+  "Gargoyles": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Gargoyles"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc E - The Missing Vistana.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "P10. Garrison": {
+    "entity_type": "place",
+    "aliases": [
+      "Garrison"
+    ],
+    "all_hints": [
+      "Garrison",
+      "P10. Garrison"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [
+      "[[#P10. Garrison]]"
+    ],
+    "record_count": 2,
+    "confidence": "wikilink"
+  },
+  "Gertruda": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Gertruda"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc O - Dinner with the Devil.md",
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md",
+      "Appendices/Non-Player Characters.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 4,
+    "confidence": "singleton"
+  },
+  "Giant Skull": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Giant Skull"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Glossary": {
+    "entity_type": "faction",
+    "aliases": [],
+    "all_hints": [
+      "Glossary"
+    ],
+    "source_files": [
+      "Introduction/A DM's Guide to Curse of Strahd.md"
+    ],
+    "wikilink_seeds": [
+      "[[Glossary]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Goat Pen": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Goat Pen"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Grand Conjunction": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Grand Conjunction"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Great Entry": {
+    "entity_type": "place",
+    "aliases": [
+      "Entry"
+    ],
+    "all_hints": [
+      "Great Entry"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Great Taar Haak, the Five-Headed Destroyer": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Five-Headed Destroyer",
+      "Great Taar Haak"
+    ],
+    "all_hints": [
+      "Great Taar Haak, the Five-Headed Destroyer"
+    ],
+    "source_files": [
+      "Appendices/Amber Shards.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Great Taar Haak, the Five-Headed Destroyer]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Greater Strix": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Greater strix",
+      "Strix",
+      "The Strix"
+    ],
+    "all_hints": [
+      "Greater Strix",
+      "The Strix"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md",
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md"
+    ],
+    "wikilink_seeds": [
+      "[[#C3. The Strix]]"
+    ],
+    "record_count": 3,
+    "confidence": "llm_yes"
+  },
+  "Guest Suite": {
+    "entity_type": "place",
+    "aliases": [
+      "Hall"
+    ],
+    "all_hints": [
+      "Guest Suite"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Audience Hall]]",
+      "[[#Elevator Hall]]",
+      "[[#Hall of Bones]]",
+      "[[#Hall of Heroes]]",
+      "[[#King’s Dining Hall]]",
+      "[[#King’s Hall]]",
+      "[[#P11a. Dungeon Hall]]",
+      "[[#P7b. Belfry Access Hall]]",
+      "[[#P8. Guest Suite]]",
+      "[[Arc P - Ravenloft Heist#Audience Hall|Audience Hall]]",
+      "[[Arc P - Ravenloft Heist#P11a. Dungeon Hall|Dungeon Hall]]",
+      "[[Arc P - Ravenloft Heist#P7b. Belfry Access Hall|Belfry Access Hall]]",
+      "[[Arc P - Ravenloft Heist#P8. Guest Suite|Guest Suite]]",
+      "[[Arc P - Ravenloft Heist#Second Floor South Archers’ Post Access Hall|Second Floor South Archers’ Post Access Hall]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Gulthias Staff": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Gulthias Staff"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Gulthias tree": {
+    "entity_type": "item",
+    "aliases": [
+      "Gulthias Tree",
+      "The Gulthias Tree"
+    ],
+    "all_hints": [
+      "Gulthias tree"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Gustav Durst": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Gustav Durst"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc A - Escape From Death House.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Hag Eye": {
+    "entity_type": "item",
+    "aliases": [
+      "Coven's Eye"
+    ],
+    "all_hints": [
+      "Hag Eye"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Hall of Bones": {
+    "entity_type": "place",
+    "aliases": [
+      "Bones",
+      "The Hall of Bones"
+    ],
+    "all_hints": [
+      "Hall of Bones"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Hall of Bones]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Hall of Faith": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Hall of Faith"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Hall of Heroes]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Hall of Heroes": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Hall of Heroes"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Hall of Heroes]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Heart of Sorrow": {
+    "entity_type": "item",
+    "aliases": [
+      "Sorrow's Heart",
+      "The Heart of Sorrow",
+      "crystal heart"
+    ],
+    "all_hints": [
+      "Heart of Sorrow"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md",
+      "Act IV - Secrets of the Ancient/Arc U - Dreams of Dawn.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 2 - The Land of Barovia/Strahd von Zarovich.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 5,
+    "confidence": "singleton"
+  },
+  "Heartstone": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Heartstone"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Heinrich Stolt": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Heinrich Stolt"
+    ],
+    "source_files": [
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Henrik": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Henrik"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Highharvesttide": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Highharvesttide"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc A - Escape From Death House.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "History of Barovia": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "History of Barovia"
+    ],
+    "source_files": [
+      "Introduction/Using This Guide.md"
+    ],
+    "wikilink_seeds": [
+      "[[History of Barovia]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Holy Symbol of Ravenkind": {
+    "entity_type": "item",
+    "aliases": [
+      "The Holy Symbol of Ravenkind"
+    ],
+    "all_hints": [
+      "Holy Symbol of Ravenkind"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md",
+      "Act III - The Broken Land/Arc L - The Den of Wolves.md",
+      "Act III - The Broken Land/Arc O - Dinner with the Devil.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 3 - Running the Game/Running the Adventure.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 5,
+    "confidence": "singleton"
+  },
+  "Holy Symbol of Ravenloft": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Holy Symbol of Ravenloft"
+    ],
+    "source_files": [
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "House Wachter": {
+    "entity_type": "faction",
+    "aliases": [],
+    "all_hints": [
+      "House Wachter"
+    ],
+    "source_files": [
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Huntress": {
+    "entity_type": "NPC",
+    "aliases": [
+      "the goddess of summer"
+    ],
+    "all_hints": [
+      "Huntress"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Huntress's sacred spear": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Huntress's sacred spear"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Icon of Dawn's Grace": {
+    "entity_type": "item",
+    "aliases": [
+      "Icon of Dawn’s Grace"
+    ],
+    "all_hints": [
+      "Icon of Dawn's Grace"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc K - The Fallen Abbey.md",
+      "Act III - The Broken Land/Arc M - The Dragon's Manor.md",
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 4,
+    "confidence": "singleton"
+  },
+  "Ilya Krezkov": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Ilya"
+    ],
+    "all_hints": [
+      "Ilya Krezkov"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc I - The Walls of Krezk.md",
+      "Act III - The Broken Land/Arc K - The Fallen Abbey.md",
+      "Act III - The Broken Land/Arc L - The Den of Wolves.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Ilya’s Bedroom]]",
+      "[[Arc K - The Fallen Abbey#Ilya’s Bedroom|Arc K - The Fallen Abbey]]"
+    ],
+    "record_count": 3,
+    "confidence": "singleton"
+  },
+  "Imp": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Imp"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Ireena Kolyana": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Ireena",
+      "Ireena Strazni"
+    ],
+    "all_hints": [
+      "Ireena",
+      "Ireena Kolyana",
+      "Ireena Strazni"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md",
+      "Act II - The Shadowed Town/Arc G - The Strazni Siblings.md",
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md",
+      "Act III - The Broken Land/Arc O - Dinner with the Devil.md",
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md",
+      "Act III - The Broken Land/Arc Q - A Shining Beacon.md",
+      "Act IV - Secrets of the Ancient/Arc U - Dreams of Dawn.md",
+      "Appendices/Non-Player Characters.md",
+      "Chapter 1 - Beginning the Campaign/Session Zero.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 2 - The Land of Barovia/Lore of Barovia.md",
+      "Chapter 2 - The Land of Barovia/Strahd von Zarovich.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md",
+      "Chapter 3 - Running the Game/Running the Adventure.md"
+    ],
+    "wikilink_seeds": [
+      "[[Non-Player Characters#Ireena Kolyana|Ireena]]"
+    ],
+    "record_count": 14,
+    "confidence": "prefix"
+  },
+  "Ismark Antonovich": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Ismark the Great"
+    ],
+    "all_hints": [
+      "Ismark Antonovich"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc O - Dinner with the Devil.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Ismark Kolyanovich": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Ismark"
+    ],
+    "all_hints": [
+      "Ismark Kolyanovich"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc Q - A Shining Beacon.md",
+      "Appendices/Non-Player Characters.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 3,
+    "confidence": "singleton"
+  },
+  "Ithuriel": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Abbot",
+      "Ithuriel, the Dawnbringer"
+    ],
+    "all_hints": [
+      "Ithuriel",
+      "Ithuriel, the Dawnbringer"
+    ],
+    "source_files": [
+      "Appendices/Non-Player Characters.md",
+      "Chapter 1 - Beginning the Campaign/Character Creation.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 3,
+    "confidence": "llm_yes"
+  },
+  "Izek Strazni": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Izek",
+      "the enforcer"
+    ],
+    "all_hints": [
+      "Izek Strazni"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md",
+      "Act II - The Shadowed Town/Arc E - The Missing Vistana.md",
+      "Act II - The Shadowed Town/Arc F - Lady Wachter's Wish.md",
+      "Act II - The Shadowed Town/Arc G - The Strazni Siblings.md",
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md",
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md",
+      "Appendices/Amber Shards.md",
+      "Appendices/Non-Player Characters.md",
+      "Chapter 1 - Beginning the Campaign/Character Creation.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 2 - The Land of Barovia/Lore of Barovia.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [
+      "[[Non-Player Characters#Izek Strazni|Izek]]"
+    ],
+    "record_count": 12,
+    "confidence": "singleton"
+  },
+  "Jakarion": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Jakarion"
+    ],
+    "source_files": [
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Kala Krezkova": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Kala"
+    ],
+    "all_hints": [
+      "Kala Krezkova"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc K - The Fallen Abbey.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Karl Wachter": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Karl Wachter"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc F - Lady Wachter's Wish.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Kasimir Velikov": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Kasimir",
+      "Kasimir's cold-weather clothing",
+      "Kasimir's hands",
+      "Kasimir's spellbook",
+      "ring of warmth",
+      "the dusk elf scholar",
+      "the scholar"
+    ],
+    "all_hints": [
+      "Kasimir",
+      "Kasimir Velikov"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc E - The Missing Vistana.md",
+      "Act IV - Secrets of the Ancient/Arc R - Trials of the Mountain.md",
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md",
+      "Appendices/Non-Player Characters.md",
+      "Chapter 1 - Beginning the Campaign/Character Creation.md",
+      "Chapter 1 - Beginning the Campaign/Session Zero.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [
+      "[[#R1. Recruiting Kasimir]]",
+      "[[Arc E - The Missing Vistana#E2c. Kasimir’s Hovel|Arc E - The Missing Vistana]]",
+      "[[Arc E - The Missing Vistana#E2c. Kasimir’s Hovel|black eye and cuts]]"
+    ],
+    "record_count": 9,
+    "confidence": "prefix"
+  },
+  "Katarina": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Katarina"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc O - Dinner with the Devil.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [
+      "[[#O8. Varushka’s Nightmare]]",
+      "[[#Varushka’s Grief]]",
+      "[[#Varushka’s Rage]]"
+    ],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Katarina's Necklace": {
+    "entity_type": "item",
+    "aliases": [
+      "Katarina's half-necklace",
+      "Katarina’s Locket",
+      "Locket"
+    ],
+    "all_hints": [
+      "Katarina's Necklace",
+      "Katarina’s Locket"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc O - Dinner with the Devil.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "llm_yes"
+  },
+  "Kavan": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Kavan the Blood-Drinker",
+      "chieftain of his tribe"
+    ],
+    "all_hints": [
+      "Kavan",
+      "Kavan the Blood-Drinker"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md",
+      "Chapter 1 - Beginning the Campaign/Character Creation.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 4,
+    "confidence": "prefix"
+  },
+  "Keeper's Whistle": {
+    "entity_type": "item",
+    "aliases": [
+      "Keeper's whistle",
+      "keeper's whistle"
+    ],
+    "all_hints": [
+      "Keeper's Whistle",
+      "Keeper's whistle"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md",
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "exact"
+  },
+  "Keepers of the Feather": {
+    "entity_type": "faction",
+    "aliases": [
+      "Keepers",
+      "The Keepers of the Feather",
+      "the secret society"
+    ],
+    "all_hints": [
+      "Keepers of the Feather"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md",
+      "Act II - The Shadowed Town/Arc E - The Missing Vistana.md",
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md",
+      "Act IV - Secrets of the Ancient/Arc U - Dreams of Dawn.md",
+      "Chapter 1 - Beginning the Campaign/Character Creation.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 2 - The Land of Barovia/Lore of Barovia.md",
+      "Chapter 2 - The Land of Barovia/Strahd von Zarovich.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [
+      "[[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]]",
+      "[[Lore of Barovia#Keepers of the Feather|Keepers of the Feather]]"
+    ],
+    "record_count": 9,
+    "confidence": "singleton"
+  },
+  "Khazan": {
+    "entity_type": "NPC",
+    "aliases": [
+      "the archmage",
+      "the wizard"
+    ],
+    "all_hints": [
+      "Khazan"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc E - The Missing Vistana.md",
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 3,
+    "confidence": "singleton"
+  },
+  "Khazan's Staff": {
+    "entity_type": "item",
+    "aliases": [
+      "Khazan's Spell Drain"
+    ],
+    "all_hints": [
+      "Khazan's Staff"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Khirad, the Star of Secrets": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Khirad",
+      "Star of Secrets"
+    ],
+    "all_hints": [
+      "Khirad",
+      "Khirad, the Star of Secrets"
+    ],
+    "source_files": [
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md",
+      "Appendices/Amber Shards.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Khirad, the Star of Secrets]]"
+    ],
+    "record_count": 2,
+    "confidence": "llm_yes"
+  },
+  "King Dostron": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Dostron the Hellborn"
+    ],
+    "all_hints": [
+      "King Dostron"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 3,
+    "confidence": "singleton"
+  },
+  "King's Hall": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "King's Hall"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "King’s Apartments": {
+    "entity_type": "place",
+    "aliases": [
+      "King's Apartments"
+    ],
+    "all_hints": [
+      "King’s Apartments"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [
+      "[[Arc P - Ravenloft Heist#P6. King’s Apartments|King's Apartments]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Kiril Stoyanovich": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Kiril",
+      "Kiril, Mutant Lycan",
+      "Kiril, Werewolf Alpha",
+      "Werewolf Kiril Stoyanovich"
+    ],
+    "all_hints": [
+      "Kiril Stoyanovich"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc L - The Den of Wolves.md",
+      "Act III - The Broken Land/Arc Q - A Shining Beacon.md",
+      "Appendices/Non-Player Characters.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [
+      "[[Non-Player Characters#Kiril Stoyanovich|Kiril Stoyanovich]]"
+    ],
+    "record_count": 4,
+    "confidence": "singleton"
+  },
+  "Kitchen": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Kitchen"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc M - The Dragon's Manor.md",
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Kitchen]]"
+    ],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Klara": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Klara"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Knights of the Order": {
+    "entity_type": "faction",
+    "aliases": [],
+    "all_hints": [
+      "Knights of the Order"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc M - The Dragon's Manor.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Knights of the Order]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Knights’ Quarters": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Knights’ Quarters"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc M - The Dragon's Manor.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Knights’ Quarters]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Kretyana Dolvof": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Kretyana Dolvof"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc K - The Fallen Abbey.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Ladies of the Fanes": {
+    "entity_type": "faction",
+    "aliases": [
+      "The Huntress",
+      "The Rozana",
+      "The Seeker",
+      "The Weaver"
+    ],
+    "all_hints": [
+      "Ladies of the Fanes"
+    ],
+    "source_files": [
+      "Chapter 1 - Beginning the Campaign/Character Creation.md",
+      "Chapter 2 - The Land of Barovia/Lore of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Lake Baratok": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Lake Baratok"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc E - The Missing Vistana.md",
+      "Act III - The Broken Land/Arc L - The Den of Wolves.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Lake Zarovich": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Lake Zarovich"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md",
+      "Act IV - Secrets of the Ancient/Arc U - Dreams of Dawn.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [
+      "[[#U2c. Lake Zarovich]]",
+      "[[#U3i. Lake Zarovich]]",
+      "[[Arc E - The Missing Vistana#E4. Lake Zarovich|Arc E - The Missing Vistana]]"
+    ],
+    "record_count": 3,
+    "confidence": "singleton"
+  },
+  "Lazlo Ulrich": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Lazlo Ulrich"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc Q - A Shining Beacon.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Lecture Hall": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Lecture Hall"
+    ],
+    "source_files": [
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Lecture Hall]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Leo Dilisnya": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Captain Dilisnya"
+    ],
+    "all_hints": [
+      "Leo Dilisnya"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md",
+      "Act III - The Broken Land/Arc O - Dinner with the Devil.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [
+      "[[History of Barovia#Arrival of the Mists|Leo Dilisnya]]"
+    ],
+    "record_count": 3,
+    "confidence": "singleton"
+  },
+  "Lesser Strix": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Lesser Strix"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Leyline beneath Wachterhaus": {
+    "entity_type": "place",
+    "aliases": [
+      "Leyline",
+      "leyline beneath Wachterhaus"
+    ],
+    "all_hints": [
+      "Leyline beneath Wachterhaus"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Library": {
+    "entity_type": "place",
+    "aliases": [
+      "the Library"
+    ],
+    "all_hints": [
+      "Library"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc A - Escape From Death House.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Library]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Lich": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Lich"
+    ],
+    "source_files": [
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Lief Lipsiege": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Lief Lipsiege"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc O - Dinner with the Devil.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Livius Martikov": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Livius",
+      "Wereraven Livius Martikov"
+    ],
+    "all_hints": [
+      "Livius Martikov"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md",
+      "Act III - The Broken Land/Arc O - Dinner with the Devil.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 3,
+    "confidence": "singleton"
+  },
+  "Argynvost": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Argynvosth",
+      "Lord Argynvost"
+    ],
+    "all_hints": [
+      "Argynvost",
+      "Lord Argynvost"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc M - The Dragon's Manor.md",
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md",
+      "Chapter 1 - Beginning the Campaign/Character Creation.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [
+      "[[#M4a. Cemetery|Argynvost’s mausoleum]]"
+    ],
+    "record_count": 6,
+    "confidence": "llm_yes"
+  },
+  "Lore of Barovia": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Lore of Barovia"
+    ],
+    "source_files": [
+      "Introduction/Using This Guide.md"
+    ],
+    "wikilink_seeds": [
+      "[[Lore of Barovia]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Lorelei": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Lorelei"
+    ],
+    "source_files": [
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Lorghoth the Decayer": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Lorghoth the Decayer"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Lovina Wachter": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Lovina Wachter"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Ludmilla": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Ludmilla Vilisevic"
+    ],
+    "all_hints": [
+      "Ludmilla",
+      "Ludmilla Vilisevic"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md",
+      "Act III - The Broken Land/Arc L - The Den of Wolves.md",
+      "Act III - The Broken Land/Arc O - Dinner with the Devil.md",
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md",
+      "Appendices/Non-Player Characters.md",
+      "Chapter 2 - The Land of Barovia/Strahd von Zarovich.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Ludmilla's Provocations]]"
+    ],
+    "record_count": 7,
+    "confidence": "prefix"
+  },
+  "Lugdana": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Paladin Lugdana"
+    ],
+    "all_hints": [
+      "Lugdana"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Luna River": {
+    "entity_type": "place",
+    "aliases": [
+      "Luna River Crossroads"
+    ],
+    "all_hints": [
+      "Luna River",
+      "Luna River Crossroads"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc E - The Missing Vistana.md",
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md"
+    ],
+    "wikilink_seeds": [
+      "[[#E5a. Luna River Bridge]]",
+      "[[#E5b. Luna River Crossroads]]"
+    ],
+    "record_count": 3,
+    "confidence": "wikilink"
+  },
+  "Luvash": {
+    "entity_type": "NPC",
+    "aliases": [
+      "the father"
+    ],
+    "all_hints": [
+      "Luvash"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc E - The Missing Vistana.md",
+      "Appendices/Non-Player Characters.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Mad Mary": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Mad Mary"
+    ],
+    "source_files": [
+      "Appendices/Non-Player Characters.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Madam Eva": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Eva",
+      "Madame Eva"
+    ],
+    "all_hints": [
+      "Madam Eva",
+      "Madame Eva"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md",
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md",
+      "Appendices/Non-Player Characters.md",
+      "Chapter 1 - Beginning the Campaign/Character Creation.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md",
+      "PCs/Ren.md"
+    ],
+    "wikilink_seeds": [
+      "[[Non-Player Characters#Madam Eva|Madam Eva]]"
+    ],
+    "record_count": 7,
+    "confidence": "llm_yes"
+  },
+  "Madame Irene Radanavich": {
+    "entity_type": "NPC",
+    "aliases": [
+      "The Raunie"
+    ],
+    "all_hints": [
+      "Madame Irene Radanavich"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Main Foyer": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Main Foyer"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Main Foyer]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Majesto": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Majesto"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Marina Ulrich": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Marina Ulrich"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Marina's Monument": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Marina's Monument"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc I - The Walls of Krezk.md",
+      "Chapter 3 - Running the Game/Running the Adventure.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Martikov family": {
+    "entity_type": "faction",
+    "aliases": [
+      "Martikov"
+    ],
+    "all_hints": [
+      "Martikov",
+      "Martikov family"
+    ],
+    "source_files": [
+      "Appendices/Non-Player Characters.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "prefix"
+  },
+  "Martin": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Viggo"
+    ],
+    "all_hints": [
+      "Martin"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Marzena Belview": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Marzena Belview"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc K - The Fallen Abbey.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Master Suite": {
+    "entity_type": "place",
+    "aliases": [
+      "the Master Suite"
+    ],
+    "all_hints": [
+      "Master Suite"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc A - Escape From Death House.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Master Suite]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Mathilda": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Mathilda"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc E - The Missing Vistana.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Meda": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Meda, the Berserker"
+    ],
+    "all_hints": [
+      "Meda"
+    ],
+    "source_files": [
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md"
+    ],
+    "wikilink_seeds": [
+      "[[Character Creation#Faith—The Sunrise Medallion|Sunrise Medallion]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Milivoj": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Milivoj"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc D - St. Andral's Feast.md",
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md",
+      "Appendices/Non-Player Characters.md"
+    ],
+    "wikilink_seeds": [
+      "[[#D2. Milivoj’s House]]",
+      "[[Non-Player Characters#Milivoj|Milivoj]]"
+    ],
+    "record_count": 3,
+    "confidence": "singleton"
+  },
+  "Minodora Taltos": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Minodora"
+    ],
+    "all_hints": [
+      "Minodora Taltos"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc M - The Dragon's Manor.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Mist Talisman": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Mist Talisman"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Mists": {
+    "entity_type": "place",
+    "aliases": [
+      "Mists of Ravenloft",
+      "The Mists"
+    ],
+    "all_hints": [
+      "Mists",
+      "Mists of Ravenloft"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc A - Escape From Death House.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 2 - The Land of Barovia/Strahd von Zarovich.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 3,
+    "confidence": "prefix"
+  },
+  "Monster Manual": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Monster Manual"
+    ],
+    "source_files": [
+      "Chapter 1 - Beginning the Campaign/Session Zero.md",
+      "Introduction/Using This Guide.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Moon-touched Rapier": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Moon-touched Rapier"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc M - The Dragon's Manor.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Mordenkainen": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Mordenkainen"
+    ],
+    "source_files": [
+      "PCs/Quill/Quill's Letter.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Morgantha": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Morgantha Stormreaver",
+      "Morgantha the Hags",
+      "Morgantha, Dream Peddler",
+      "Night Hag Morgantha"
+    ],
+    "all_hints": [
+      "Morgantha",
+      "Morgantha Stormreaver",
+      "Morgantha, Dream Peddler"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md",
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md",
+      "Appendices/Non-Player Characters.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Morgantha's Plea]]",
+      "[[Arc H - The Lost Soul#Morgantha Gets Suspicious|Morgantha Gets Suspicious]]"
+    ],
+    "record_count": 5,
+    "confidence": "prefix"
+  },
+  "Mother Night": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Mother Night"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Mount Baratok": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Mount Baratok"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc K - The Fallen Abbey.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Mountain Folk": {
+    "entity_type": "faction",
+    "aliases": [
+      "Mountain Folk Tribe",
+      "Mountain-Folk"
+    ],
+    "all_hints": [
+      "Mountain Folk"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md",
+      "Chapter 2 - The Land of Barovia/Lore of Barovia.md",
+      "Chapter 2 - The Land of Barovia/Strahd von Zarovich.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 3,
+    "confidence": "singleton"
+  },
+  "Mount Ghakis": {
+    "entity_type": "place",
+    "aliases": [
+      "Mt. Ghakis",
+      "R6. Mt. Ghakis",
+      "the roc of Mount Ghakis"
+    ],
+    "all_hints": [
+      "Mount Ghakis",
+      "Mt. Ghakis"
+    ],
+    "source_files": [
+      "Act IV - Secrets of the Ancient/Arc R - Trials of the Mountain.md",
+      "Chapter 1 - Beginning the Campaign/Character Creation.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md",
+      "Chapter 3 - Running the Game/Running the Adventure.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 5,
+    "confidence": "embedding"
+  },
+  "Muriel Vinshaw": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Muriel",
+      "blue-winged raven"
+    ],
+    "all_hints": [
+      "Muriel",
+      "Muriel Vinshaw"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md",
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md",
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md",
+      "Act IV - Secrets of the Ancient/Arc U - Dreams of Dawn.md",
+      "Appendices/Non-Player Characters.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 8,
+    "confidence": "prefix"
+  },
+  "Myrtle": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Myrtle"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Nardag": {
+    "entity_type": "NPC",
+    "aliases": [
+      "death slaad",
+      "the slaad"
+    ],
+    "all_hints": [
+      "Nardag"
+    ],
+    "source_files": [
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Needle Blight": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Needle Blights",
+      "Twig Blights",
+      "Vine Blights"
+    ],
+    "all_hints": [
+      "Needle Blight"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Neferon": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Neferon"
+    ],
+    "source_files": [
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md"
+    ],
+    "wikilink_seeds": [
+      "[[#^neferonstactics|Neferon's Tactics]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Night Hag": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Night Hag"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Nightmare’s Bridle": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Nightmare’s Bridle"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc A - Escape From Death House.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Non-Player Characters": {
+    "entity_type": "faction",
+    "aliases": [],
+    "all_hints": [
+      "Non-Player Characters"
+    ],
+    "source_files": [
+      "Introduction/A DM's Guide to Curse of Strahd.md"
+    ],
+    "wikilink_seeds": [
+      "[[Non-Player Characters]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Norganas, the Finger of Oblivion": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Finger of Oblivion",
+      "Norganas"
+    ],
+    "all_hints": [
+      "Norganas, the Finger of Oblivion"
+    ],
+    "source_files": [
+      "Appendices/Amber Shards.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "North Crypts": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "North Crypts"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [
+      "[[#North Crypts, First Row]]",
+      "[[#North Crypts, Third Row]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "North Tower Vestibule": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "North Tower Vestibule"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [
+      "[[#North Tower Vestibule]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Nothic": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Nothic"
+    ],
+    "source_files": [
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md"
+    ],
+    "wikilink_seeds": [
+      "[[Character Creation#Faith—The Sunrise Medallion|Sunrise Medallion]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Offalia Wormwiggle": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Offalia",
+      "Offalia, Night Hag"
+    ],
+    "all_hints": [
+      "Offalia",
+      "Offalia Wormwiggle"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md",
+      "Appendices/Non-Player Characters.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "prefix"
+  },
+  "Old Bonegrinder": {
+    "entity_type": "place",
+    "aliases": [
+      "Bonegrinder Windmill",
+      "The Windmill"
+    ],
+    "all_hints": [
+      "Old Bonegrinder"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 2 - The Land of Barovia/Strahd von Zarovich.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 3,
+    "confidence": "singleton"
+  },
+  "Old Svalich Road": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Old Svalich Road"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc A - Escape From Death House.md",
+      "Act II - The Shadowed Town/Arc E - The Missing Vistana.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Order of the Silver Dragon": {
+    "entity_type": "faction",
+    "aliases": [
+      "the Order"
+    ],
+    "all_hints": [
+      "Order of the Silver Dragon"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc M - The Dragon's Manor.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Knights of the Order]]"
+    ],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Mongrelfolk Otto": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Mongrelfolk Otto and Zygfrek",
+      "Otto",
+      "Otto & Zygfrek",
+      "Zygfrek Belview"
+    ],
+    "all_hints": [
+      "Mongrelfolk Otto",
+      "Otto"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc K - The Fallen Abbey.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "llm_yes"
+  },
+  "Otto and Zygfrek Belview": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Otto",
+      "Zygfrek Belview"
+    ],
+    "all_hints": [
+      "Otto and Zygfrek Belview"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc K - The Fallen Abbey.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Parlor": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Parlor"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc M - The Dragon's Manor.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Parlor]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Parriwimple": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Parri"
+    ],
+    "all_hints": [
+      "Parriwimple"
+    ],
+    "source_files": [
+      "Appendices/Non-Player Characters.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Patrina Velikovna": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Banshee of Patrina Velikovna",
+      "Patrina"
+    ],
+    "all_hints": [
+      "Patrina Velikovna"
+    ],
+    "source_files": [
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Patrina Velikovna's Manor": {
+    "entity_type": "place",
+    "aliases": [
+      "Manor of Patrina Velikovna"
+    ],
+    "all_hints": [
+      "Patrina Velikovna's Manor"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Patrina, Vengeful Wraith": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Patrina",
+      "Patrina, Half-Lich"
+    ],
+    "all_hints": [
+      "Patrina, Vengeful Wraith"
+    ],
+    "source_files": [
+      "Appendices/Non-Player Characters.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Pearls of Power": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Pearls of Power"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Phase Spiders": {
+    "entity_type": "NPC",
+    "aliases": [
+      "phase spiders"
+    ],
+    "all_hints": [
+      "Phase Spiders"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Pidlwick II": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Pidlwick"
+    ],
+    "all_hints": [
+      "Pidlwick II"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc O - Dinner with the Devil.md",
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Pillarstone of Ravenloft": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Pillarstone of Ravenloft"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/Strahd von Zarovich.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Player's Handbook": {
+    "entity_type": "item",
+    "aliases": [
+      "PHB"
+    ],
+    "all_hints": [
+      "Player's Handbook"
+    ],
+    "source_files": [
+      "Introduction/Using This Guide.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Portcullis": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Portcullis"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc A - Escape From Death House.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Portcullis]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Potion of Superior Healing": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Potion of Superior Healing"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Prison": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Prison"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc A - Escape From Death House.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Queen Ravenovia": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Queen Ravenovia"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Quill": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Quill"
+    ],
+    "source_files": [
+      "PCs/Quill/Quill's Letter.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Radanavich Clan": {
+    "entity_type": "faction",
+    "aliases": [
+      "The Radanavich Clan",
+      "Vistani Radanavich caravan"
+    ],
+    "all_hints": [
+      "Radanavich Clan"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Raven's Feather": {
+    "entity_type": "item",
+    "aliases": [
+      "raven's feather"
+    ],
+    "all_hints": [
+      "Raven's Feather"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc A - Escape From Death House.md",
+      "Chapter 1 - Beginning the Campaign/Character Creation.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Ravenous (NPC group)": {
+    "entity_type": "faction",
+    "aliases": [
+      "Ravenous"
+    ],
+    "all_hints": [
+      "Ravenous (NPC group)"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc O - Dinner with the Devil.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Reliquary": {
+    "entity_type": "place",
+    "aliases": [
+      "the Reliquary"
+    ],
+    "all_hints": [
+      "Reliquary"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc A - Escape From Death House.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Reliquary]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Revenant": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Revenant"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Rictavio": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Disguised (as Rictavio)",
+      "Ringmaster",
+      "Van Richten",
+      "the carnival leader",
+      "the disguise",
+      "the ringmaster"
+    ],
+    "all_hints": [
+      "Rictavio"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md",
+      "Act II - The Shadowed Town/Arc D - St. Andral's Feast.md",
+      "Act II - The Shadowed Town/Arc E - The Missing Vistana.md",
+      "Appendices/Non-Player Characters.md"
+    ],
+    "wikilink_seeds": [
+      "[[#E8b. Following Rictavio]]",
+      "[[Arc E - The Missing Vistana#E8b. Following Rictavio|Arc E - The Missing Vistana]]",
+      "[[Non-Player Characters#Disguised (as Rictavio)|Rictavio]]"
+    ],
+    "record_count": 4,
+    "confidence": "singleton"
+  },
+  "Ritual Chamber": {
+    "entity_type": "place",
+    "aliases": [
+      "the Ritual Chamber"
+    ],
+    "all_hints": [
+      "Ritual Chamber"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc A - Escape From Death House.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Ritual Chamber]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "River Ivlis Crossroads": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "River Ivlis Crossroads"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md",
+      "Chapter 3 - Running the Game/Running the Adventure.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Roc": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Roc"
+    ],
+    "source_files": [
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Roc of Mount Ghakis": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Roc of Mount Ghakis"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Rosavalda \"Rose\" Durst": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Elisabeth Durst",
+      "Rosavalda Durst",
+      "Rose",
+      "Rose Durst"
+    ],
+    "all_hints": [
+      "Elisabeth Durst",
+      "Rosavalda \"Rose\" Durst",
+      "Rose Durst"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc A - Escape From Death House.md",
+      "Appendices/Non-Player Characters.md",
+      "Chapter 1 - Beginning the Campaign/Character Creation.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [
+      "[[Non-Player Characters#Rosavalda \"Rose\" Durst|Rose]]"
+    ],
+    "record_count": 5,
+    "confidence": "embedding"
+  },
+  "Rozana": {
+    "entity_type": "faction",
+    "aliases": [
+      "Ladies Three",
+      "the Ladies"
+    ],
+    "all_hints": [
+      "Rozana"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Erasmus van Richten": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Dr. Rudolph van Richten",
+      "Erasmus",
+      "Rudolph van Richten",
+      "Van Richten",
+      "the son"
+    ],
+    "all_hints": [
+      "Dr. Rudolph van Richten",
+      "Erasmus",
+      "Erasmus van Richten",
+      "Rudolph van Richten",
+      "Van Richten"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md",
+      "Act II - The Shadowed Town/Arc D - St. Andral's Feast.md",
+      "Act II - The Shadowed Town/Arc E - The Missing Vistana.md",
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md",
+      "Act III - The Broken Land/Arc K - The Fallen Abbey.md",
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md",
+      "Appendices/Non-Player Characters.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [
+      "[[#H1. Erasmus' Plea]]"
+    ],
+    "record_count": 13,
+    "confidence": "prefix"
+  },
+  "Saint Andral": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Saint Andral"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Saint Markovia": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Markovia",
+      "St. Markovia",
+      "The spirit of St. Markovia"
+    ],
+    "all_hints": [
+      "Saint Markovia",
+      "St. Markovia"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc K - The Fallen Abbey.md",
+      "Act III - The Broken Land/Arc Q - A Shining Beacon.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 3,
+    "confidence": "embedding"
+  },
+  "Sangzor": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Sangzor"
+    ],
+    "source_files": [
+      "Act IV - Secrets of the Ancient/Arc R - Trials of the Mountain.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Sasha Ivliskova": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Sasha"
+    ],
+    "all_hints": [
+      "Sasha Ivliskova"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md",
+      "Act III - The Broken Land/Arc O - Dinner with the Devil.md",
+      "Act IV - Secrets of the Ancient/Arc U - Dreams of Dawn.md",
+      "Appendices/Non-Player Characters.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [
+      "[[#O6e. Sasha’s Rendezvous]]",
+      "[[#Sasha Alone]]"
+    ],
+    "record_count": 5,
+    "confidence": "singleton"
+  },
+  "Savid": {
+    "entity_type": "NPC",
+    "aliases": [
+      "the dusk elf"
+    ],
+    "all_hints": [
+      "Savid"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc E - The Missing Vistana.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Savnok, the Inscrutable": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Inscrutable",
+      "Savnok"
+    ],
+    "all_hints": [
+      "Savnok, the Inscrutable"
+    ],
+    "source_files": [
+      "Appendices/Amber Shards.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Scaffolding": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Scaffolding"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc E - The Missing Vistana.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Secret Room": {
+    "entity_type": "place",
+    "aliases": [
+      "the Secret Room"
+    ],
+    "all_hints": [
+      "Secret Room"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc A - Escape From Death House.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Secret Room]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Seeker": {
+    "entity_type": "NPC",
+    "aliases": [
+      "She Who Seeks in Storm-Clouds",
+      "the goddess of autumn"
+    ],
+    "all_hints": [
+      "Seeker"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc O - Dinner with the Devil.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Sergei's Wedding": {
+    "entity_type": "place",
+    "aliases": [
+      "The Bloody Keep"
+    ],
+    "all_hints": [
+      "Sergei's Wedding"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc O - Dinner with the Devil.md"
+    ],
+    "wikilink_seeds": [
+      "[[#O8f. The Bloody Keep]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Seriach, the Hell Hound Whisperer": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Hell Hound Whisperer",
+      "Seriach"
+    ],
+    "all_hints": [
+      "Seriach, the Hell Hound Whisperer"
+    ],
+    "source_files": [
+      "Appendices/Amber Shards.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Seriach, the Hell Hound Whisperer]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Servants’ Quarters": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Servants’ Quarters"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc M - The Dragon's Manor.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Servants’ Quarters]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Servants’ Wing": {
+    "entity_type": "place",
+    "aliases": [
+      "Servants' Wing",
+      "Wing"
+    ],
+    "all_hints": [
+      "Servants’ Wing"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [
+      "[[#P5. Servants’ Wing]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Session Zero": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Session Zero"
+    ],
+    "source_files": [
+      "Introduction/Using This Guide.md"
+    ],
+    "wikilink_seeds": [
+      "[[Session Zero]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Shadow": {
+    "entity_type": "NPC",
+    "aliases": [
+      "The Shadow"
+    ],
+    "all_hints": [
+      "Shadow"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Shami-Amourae, the Lady of Delights": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Lady of Delights",
+      "Shami-Amourae"
+    ],
+    "all_hints": [
+      "Shami-Amourae, the Lady of Delights"
+    ],
+    "source_files": [
+      "Appendices/Amber Shards.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Shield Guardian": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Shield Guardian"
+    ],
+    "source_files": [
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Shrine of Temptation": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Shrine of Temptation"
+    ],
+    "source_files": [
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Shrine of Temptation]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Shrine of the White Sun": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Shrine of the White Sun"
+    ],
+    "source_files": [
+      "Chapter 3 - Running the Game/Running the Adventure.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Sigil of the Sun": {
+    "entity_type": "item",
+    "aliases": [
+      "The Sigil of the Sun"
+    ],
+    "all_hints": [
+      "Sigil of the Sun"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc O - Dinner with the Devil.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Silverthorn Collar": {
+    "entity_type": "item",
+    "aliases": [
+      "The Silverthorn Collar"
+    ],
+    "all_hints": [
+      "Silverthorn Collar"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc L - The Den of Wolves.md",
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Silvia": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Silvia"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Sir Godfrey Gwilym": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Godfrey",
+      "Godfrey Gwilym"
+    ],
+    "all_hints": [
+      "Sir Godfrey Gwilym"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md",
+      "Act III - The Broken Land/Arc M - The Dragon's Manor.md",
+      "Appendices/Non-Player Characters.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 4,
+    "confidence": "singleton"
+  },
+  "Skeletal Rider": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Skeletal Rider"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md",
+      "Act III - The Broken Land/Arc O - Dinner with the Devil.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Skennis": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Skennis"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc L - The Den of Wolves.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Society of Amber": {
+    "entity_type": "faction",
+    "aliases": [],
+    "all_hints": [
+      "Society of Amber"
+    ],
+    "source_files": [
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Soldav": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Soldav"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md",
+      "Act IV - Secrets of the Ancient/Arc R - Trials of the Mountain.md",
+      "Chapter 1 - Beginning the Campaign/Character Creation.md",
+      "Chapter 2 - The Land of Barovia/Lore of Barovia.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [
+      "[[#R5. Soldav]]"
+    ],
+    "record_count": 5,
+    "confidence": "singleton"
+  },
+  "Soul Leech": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Soul Leech"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "South Crypts": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "South Crypts"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [
+      "[[#South Crypts, Third Row]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Spirit Mirror": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Spirit Mirror"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "St. Andral's Church": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "St. Andral's Church"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md",
+      "Act II - The Shadowed Town/Arc D - St. Andral's Feast.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 3,
+    "confidence": "singleton"
+  },
+  "St. Andral's Feast": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "St. Andral's Feast"
+    ],
+    "source_files": [
+      "Chapter 1 - Beginning the Campaign/Character Creation.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Staff of Frost": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Staff of Frost"
+    ],
+    "source_files": [
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Stanimir": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Stanimir"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md",
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Stefania Martikov": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Stefania Martikov"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Stone Crest": {
+    "entity_type": "item",
+    "aliases": [
+      "stone crest"
+    ],
+    "all_hints": [
+      "Stone Crest"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc A - Escape From Death House.md",
+      "Chapter 1 - Beginning the Campaign/Character Creation.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Storm Giant": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Storm Giant"
+    ],
+    "source_files": [
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Strahd von Zarovich": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Count Strahd",
+      "Count Strahd von Zarovich",
+      "King Barov von Zarovich I",
+      "Rahadin",
+      "Rahadin von Zarovich",
+      "Sergei",
+      "Sergei von Zarovich",
+      "Strahd",
+      "The Gentleman",
+      "The Mage"
+    ],
+    "all_hints": [
+      "King Barov von Zarovich I",
+      "Rahadin",
+      "Rahadin von Zarovich",
+      "Sergei",
+      "Sergei von Zarovich",
+      "Strahd",
+      "Strahd von Zarovich"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc A - Escape From Death House.md",
+      "Act I - Into the Mists/Arc C - Into the Valley.md",
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md",
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md",
+      "Act III - The Broken Land/Arc O - Dinner with the Devil.md",
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md",
+      "Act III - The Broken Land/Arc Q - A Shining Beacon.md",
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md",
+      "Act IV - Secrets of the Ancient/Arc U - Dreams of Dawn.md",
+      "Appendices/Non-Player Characters.md",
+      "Chapter 1 - Beginning the Campaign/Character Creation.md",
+      "Chapter 1 - Beginning the Campaign/Session Zero.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 2 - The Land of Barovia/Lore of Barovia.md",
+      "Chapter 2 - The Land of Barovia/Strahd von Zarovich.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md",
+      "Chapter 3 - Running the Game/Running the Adventure.md",
+      "Introduction/A DM's Guide to Curse of Strahd.md",
+      "Introduction/Using This Guide.md",
+      "PCs/Ren.md"
+    ],
+    "wikilink_seeds": [
+      "[[Arc R - Trials of the Mountain#R3b. The Tyrant’s First Trial|Strahd’s Game]]",
+      "[[History of Barovia#Strahd’s First Followers|Strahd's First Followers]]",
+      "[[Strahd von Zarovich#Strahd’s Tactics|Strahd’s Tactics]]",
+      "[[Strahd von Zarovich#The Gentleman|Strahd]]",
+      "[[Strahd von Zarovich#The Mage|Mage]]",
+      "[[Strahd von Zarovich#The Tyrant|Tyrant persona]]",
+      "[[Strahd von Zarovich]]",
+      "[[Strahd von Zarovich|Strahd]]"
+    ],
+    "record_count": 32,
+    "confidence": "prefix"
+  },
+  "Strahd's First Followers": {
+    "entity_type": "faction",
+    "aliases": [],
+    "all_hints": [
+      "Strahd's First Followers"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc A - Escape From Death House.md"
+    ],
+    "wikilink_seeds": [
+      "[[History of Barovia#Strahd’s First Followers|Strahd's First Followers]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Sunrise Medallion": {
+    "entity_type": "item",
+    "aliases": [
+      "sunrise medallion"
+    ],
+    "all_hints": [
+      "Sunrise Medallion"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc A - Escape From Death House.md",
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md",
+      "Chapter 1 - Beginning the Campaign/Character Creation.md"
+    ],
+    "wikilink_seeds": [
+      "[[Character Creation#Faith—The Sunrise Medallion|Sunrise Medallion]]",
+      "[[Character Creation#Justice—The Broken Blade|Broken Blade]]"
+    ],
+    "record_count": 3,
+    "confidence": "singleton"
+  },
+  "Sunsword": {
+    "entity_type": "item",
+    "aliases": [
+      "Sunsword's foretelling",
+      "Sunsword's hilt",
+      "The Sunsword"
+    ],
+    "all_hints": [
+      "Sunsword"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc M - The Dragon's Manor.md",
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md",
+      "Chapter 2 - The Land of Barovia/Strahd von Zarovich.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md",
+      "Chapter 3 - Running the Game/Running the Adventure.md",
+      "Introduction/A DM's Guide to Curse of Strahd.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 6,
+    "confidence": "singleton"
+  },
+  "Svalich Woods": {
+    "entity_type": "place",
+    "aliases": [
+      "Svalich",
+      "Svalich Wood"
+    ],
+    "all_hints": [
+      "Svalich Wood",
+      "Svalich Woods"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc A - Escape From Death House.md",
+      "Act II - The Shadowed Town/Arc E - The Missing Vistana.md",
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md",
+      "Act III - The Broken Land/Arc K - The Fallen Abbey.md",
+      "Act III - The Broken Land/Arc L - The Den of Wolves.md",
+      "Act IV - Secrets of the Ancient/Arc U - Dreams of Dawn.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 3 - Running the Game/Running the Adventure.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 8,
+    "confidence": "llm_yes"
+  },
+  "Svarog": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Svarog"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Svarog's wand": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Svarog's wand"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Swamp Fane": {
+    "entity_type": "place",
+    "aliases": [
+      "Mountain Fane"
+    ],
+    "all_hints": [
+      "Swamp Fane"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Swarm": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Swarm of lesser strix"
+    ],
+    "all_hints": [
+      "Swarm"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Sykane, the Soul Hungerer": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Soul Hungerer",
+      "Sykane"
+    ],
+    "all_hints": [
+      "Sykane, the Soul Hungerer"
+    ],
+    "source_files": [
+      "Appendices/Amber Shards.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Sykane, the Soul Hungerer]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Szoldar Szoldarovich": {
+    "entity_type": "NPC",
+    "aliases": [
+      "the hunter"
+    ],
+    "all_hints": [
+      "Szoldar Szoldarovich"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc E - The Missing Vistana.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Talisman of Echoes": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Talisman of Echoes"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc E - The Missing Vistana.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Tarakamedes, the Grave Wyrm": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Grave Wyrm",
+      "Tarakamedes"
+    ],
+    "all_hints": [
+      "Tarakamedes, the Grave Wyrm"
+    ],
+    "source_files": [
+      "Appendices/Amber Shards.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Tarokka Cards": {
+    "entity_type": "item",
+    "aliases": [
+      "Tarokka Deck",
+      "Tarokka cards",
+      "Tarokka deck"
+    ],
+    "all_hints": [
+      "Tarokka Cards",
+      "Tarokka deck"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md",
+      "Act III - The Broken Land/Arc K - The Fallen Abbey.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "embedding"
+  },
+  "Tarokka reading": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Tarokka reading"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Tattered Banner": {
+    "entity_type": "item",
+    "aliases": [
+      "tattered banner"
+    ],
+    "all_hints": [
+      "Tattered Banner"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc A - Escape From Death House.md",
+      "Chapter 1 - Beginning the Campaign/Character Creation.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Tatyana Federovna": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Tatyana"
+    ],
+    "all_hints": [
+      "Tatyana",
+      "Tatyana Federovna"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc O - Dinner with the Devil.md",
+      "Chapter 1 - Beginning the Campaign/Session Zero.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 2 - The Land of Barovia/Lore of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 4,
+    "confidence": "prefix"
+  },
+  "Teleportation Circle": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Teleportation Circle"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Tenebrous": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Tenebrous"
+    ],
+    "source_files": [
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Abbot of the Abbey of Saint Markovia": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Abbot",
+      "Abbot of Saint Markovia",
+      "Abbot of the Abbey",
+      "Ithuriel, Restored",
+      "Ithuriel, the Dawnbringer",
+      "Ithuriel, the Fallen Star",
+      "The Abbot",
+      "The Abbot of St. Markovia",
+      "The Abbot's mortal guise",
+      "The Abbot/Ithuriel"
+    ],
+    "all_hints": [
+      "Abbot",
+      "Abbot of Saint Markovia",
+      "Abbot of the Abbey of Saint Markovia",
+      "The Abbot",
+      "The Abbot of St. Markovia"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc I - The Walls of Krezk.md",
+      "Act III - The Broken Land/Arc K - The Fallen Abbey.md",
+      "Act III - The Broken Land/Arc Q - A Shining Beacon.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 5,
+    "confidence": "exact"
+  },
+  "The Belviews": {
+    "entity_type": "faction",
+    "aliases": [],
+    "all_hints": [
+      "The Belviews"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc K - The Fallen Abbey.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "The Black Carriage": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "The Black Carriage"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [
+      "[[Arc O - Dinner with the Devil#O3c. The Black Carriage|Arc O - Dinner with the Devil]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "The Bonegrinder Coven": {
+    "entity_type": "faction",
+    "aliases": [
+      "Hag Coven"
+    ],
+    "all_hints": [
+      "The Bonegrinder Coven"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md",
+      "Appendices/Non-Player Characters.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "The Chiming Clock": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "The Chiming Clock"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc O - Dinner with the Devil.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "The Devourer": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Devourer",
+      "the corrupted Dreamer"
+    ],
+    "all_hints": [
+      "Devourer",
+      "The Devourer"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "exact"
+  },
+  "The Hags' Contract": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "The Hags' Contract"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "The Nightmare Three": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "The Nightmare Three"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "The Mass Grave": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "The Mass Grave"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc M - The Dragon's Manor.md"
+    ],
+    "wikilink_seeds": [
+      "[[#The Mass Grave]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "The Mountain Fane": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "The Mountain Fane"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "The Oath Celestial": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "The Oath Celestial"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc M - The Dragon's Manor.md"
+    ],
+    "wikilink_seeds": [
+      "[[#M4c. Spiders’ Ballroom|The Oath Celestial]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "The Poisoned Mages": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Specters",
+      "wraiths"
+    ],
+    "all_hints": [
+      "The Poisoned Mages"
+    ],
+    "source_files": [
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "The Shroud of Mist": {
+    "entity_type": "place",
+    "aliases": [
+      "Shroud of Mist"
+    ],
+    "all_hints": [
+      "Shroud of Mist",
+      "The Shroud of Mist"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md"
+    ],
+    "wikilink_seeds": [
+      "[[Arc J - The Stolen Gem#The Shroud of Mist|The Shroud of Mist]]"
+    ],
+    "record_count": 2,
+    "confidence": "wikilink"
+  },
+  "The Stolen Sword": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "The Stolen Sword"
+    ],
+    "source_files": [
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md"
+    ],
+    "wikilink_seeds": [
+      "[[#The Stolen Sword]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "The Three Fanes": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "The Three Fanes"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "The Tome of Strahd": {
+    "entity_type": "item",
+    "aliases": [
+      "Tome of Strahd"
+    ],
+    "all_hints": [
+      "The Tome of Strahd",
+      "Tome of Strahd"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md",
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md",
+      "Act III - The Broken Land/Arc M - The Dragon's Manor.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md",
+      "Chapter 3 - Running the Game/Running the Adventure.md"
+    ],
+    "wikilink_seeds": [
+      "[[#H9. The Tome of Strahd]]"
+    ],
+    "record_count": 5,
+    "confidence": "exact"
+  },
+  "The Vampyr": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "The Vampyr"
+    ],
+    "source_files": [
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md"
+    ],
+    "wikilink_seeds": [
+      "[[#The Vampyr’s Sarcophagus]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "The Vampyr’s Sarcophagus": {
+    "entity_type": "place",
+    "aliases": [
+      "The Vampyr's Sarcophagus",
+      "Vampyr's Sarcophagus"
+    ],
+    "all_hints": [
+      "The Vampyr's Sarcophagus",
+      "The Vampyr’s Sarcophagus"
+    ],
+    "source_files": [
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "embedding"
+  },
+  "Thornboldt \"Thorn\" Durst": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Thorn",
+      "Thorn Durst",
+      "Thornboldt Durst"
+    ],
+    "all_hints": [
+      "Thorn Durst",
+      "Thornboldt \"Thorn\" Durst"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc A - Escape From Death House.md",
+      "Appendices/Non-Player Characters.md"
+    ],
+    "wikilink_seeds": [
+      "[[Non-Player Characters#Thornboldt \"Thorn\" Durst|Thorn]]"
+    ],
+    "record_count": 2,
+    "confidence": "llm_yes"
+  },
+  "Three Fanes": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Three Fanes"
+    ],
+    "source_files": [
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Torture Chamber": {
+    "entity_type": "place",
+    "aliases": [
+      "The Torture Chamber"
+    ],
+    "all_hints": [
+      "Torture Chamber"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Treasury": {
+    "entity_type": "place",
+    "aliases": [
+      "Chamber"
+    ],
+    "all_hints": [
+      "Treasury"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Bath Chamber & Closet]]",
+      "[[#Chamberlain’s Office]]",
+      "[[#King’s Bedchamber]]",
+      "[[#P11d. Torture Chamber]]",
+      "[[#P7a. False Treasury]]",
+      "[[#P7d. Treasury]]",
+      "[[Arc P - Ravenloft Heist#King’s Antechamber|King's Antechamber]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Tree Blight": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Tree Blight"
+    ],
+    "source_files": [
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Tser Falls": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Tser Falls"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md",
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Tser Pool Encampment": {
+    "entity_type": "place",
+    "aliases": [
+      "Tser Pool"
+    ],
+    "all_hints": [
+      "Tser Pool",
+      "Tser Pool Encampment"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md",
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md",
+      "Chapter 2 - The Land of Barovia/Strahd von Zarovich.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 4,
+    "confidence": "prefix"
+  },
+  "Tsolenka Pass": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Tsolenka Pass"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 2 - The Land of Barovia/Strahd von Zarovich.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 4,
+    "confidence": "singleton"
+  },
+  "Twilight Crest": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Twilight Crest"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Upstairs Gallery": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Upstairs Gallery"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc M - The Dragon's Manor.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Upstairs Gallery]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Urwin Martikov": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Urwin",
+      "Urwin First"
+    ],
+    "all_hints": [
+      "Urwin",
+      "Urwin Martikov"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md",
+      "Act II - The Shadowed Town/Arc F - Lady Wachter's Wish.md",
+      "Act II - The Shadowed Town/Arc G - The Strazni Siblings.md",
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md",
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md",
+      "Act IV - Secrets of the Ancient/Arc U - Dreams of Dawn.md",
+      "Appendices/Non-Player Characters.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [
+      "[[#J1a. Urwin’s Request]]",
+      "[[Non-Player Characters#Danika Dorakova|Danika Dorakova]]",
+      "[[Non-Player Characters#Father Lucian Petrovich|Father Lucian Petrovich]]",
+      "[[Non-Player Characters#Urwin Martikov|Urwin Martikov]]",
+      "[[Non-Player Characters#Urwin Martikov|Urwin]]"
+    ],
+    "record_count": 10,
+    "confidence": "prefix"
+  },
+  "Vallaki": {
+    "entity_type": "place",
+    "aliases": [
+      "Burgomaster Kolyan Indirovich's Town",
+      "Streets",
+      "The Town of Vallaki",
+      "Town of Vallaki",
+      "Vallaki Streets"
+    ],
+    "all_hints": [
+      "Town of Vallaki",
+      "Vallaki",
+      "Vallaki Streets"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md",
+      "Act II - The Shadowed Town/Arc F - Lady Wachter's Wish.md",
+      "Act III - The Broken Land/Arc O - Dinner with the Devil.md",
+      "Act IV - Secrets of the Ancient/Arc U - Dreams of Dawn.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 2 - The Land of Barovia/Lore of Barovia.md",
+      "Chapter 2 - The Land of Barovia/Strahd von Zarovich.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md",
+      "Chapter 3 - Running the Game/Running the Adventure.md",
+      "Introduction/A DM's Guide to Curse of Strahd.md"
+    ],
+    "wikilink_seeds": [
+      "[[#U3b. Vallaki Streets]]"
+    ],
+    "record_count": 11,
+    "confidence": "prefix"
+  },
+  "Vallakians": {
+    "entity_type": "faction",
+    "aliases": [],
+    "all_hints": [
+      "Vallakians"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/Lore of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Vampire Spawn": {
+    "entity_type": "faction",
+    "aliases": [],
+    "all_hints": [
+      "Vampire Spawn"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Vampyr": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Vampyr"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Van Richten's Guide to Ravenloft": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Van Richten's Guide to Ravenloft"
+    ],
+    "source_files": [
+      "Introduction/Using This Guide.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Van Richten's Tower": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Van Richten's Tower"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc E - The Missing Vistana.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Van Richten's Weapons Cache": {
+    "entity_type": "item",
+    "aliases": [
+      "Dr. Rudolph van Richten",
+      "Van Richten's weapons cache"
+    ],
+    "all_hints": [
+      "Van Richten's Weapons Cache"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Varushka": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Nightmare Maid",
+      "Soul of Despair",
+      "Varushka the Servant",
+      "Varushka's Nightmare",
+      "Varushka's spirit"
+    ],
+    "all_hints": [
+      "Varushka"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc O - Dinner with the Devil.md",
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md",
+      "Appendices/Non-Player Characters.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [
+      "[[#O8. Varushka’s Nightmare]]",
+      "[[#Varushka’s Grief]]",
+      "[[#Varushka’s Rage]]"
+    ],
+    "record_count": 4,
+    "confidence": "singleton"
+  },
+  "Vasili von Holtz": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Vasili von Holtz"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Vasilka": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Vasilka"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc K - The Fallen Abbey.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Vaund the Evasive": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Evasive",
+      "Vaund"
+    ],
+    "all_hints": [
+      "Vaund the Evasive"
+    ],
+    "source_files": [
+      "Appendices/Amber Shards.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Village of Krezk": {
+    "entity_type": "place",
+    "aliases": [
+      "Abbot's Monastery",
+      "Clergy of the Abbot",
+      "Krezk"
+    ],
+    "all_hints": [
+      "Krezk",
+      "Village of Krezk"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc I - The Walls of Krezk.md",
+      "Act III - The Broken Land/Arc K - The Fallen Abbey.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 2 - The Land of Barovia/Strahd von Zarovich.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md",
+      "Chapter 3 - Running the Game/Running the Adventure.md"
+    ],
+    "wikilink_seeds": [
+      "[[#I6. The Village of Krezk]]"
+    ],
+    "record_count": 6,
+    "confidence": "llm_yes"
+  },
+  "Vilnius, First Prisoner": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Vilnius",
+      "Vilnius's spirit"
+    ],
+    "all_hints": [
+      "Vilnius",
+      "Vilnius, First Prisoner"
+    ],
+    "source_files": [
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md",
+      "Appendices/Non-Player Characters.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "llm_yes"
+  },
+  "Vistana Arabelle": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Vistana Arabelle"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/Strahd von Zarovich.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Vistani": {
+    "entity_type": "faction",
+    "aliases": [
+      "shadow monk"
+    ],
+    "all_hints": [
+      "Vistani"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc O - Dinner with the Devil.md",
+      "Chapter 1 - Beginning the Campaign/Session Zero.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md",
+      "PCs/Ren.md"
+    ],
+    "wikilink_seeds": [
+      "[[Vistani]]"
+    ],
+    "record_count": 5,
+    "confidence": "singleton"
+  },
+  "Vistani Encampment": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Vistani Encampment"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc E - The Missing Vistana.md",
+      "Chapter 2 - The Land of Barovia/Strahd von Zarovich.md"
+    ],
+    "wikilink_seeds": [
+      "[[#E2a. The Vistani Encampment]]"
+    ],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Vladimir Horngaard": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Commander Vladimir",
+      "Commander Vladimir Horngaard",
+      "Vladimir Horngaard, Knight of Death",
+      "Vladimir Horngaard, Vengeful Revenant"
+    ],
+    "all_hints": [
+      "Commander Vladimir Horngaard",
+      "Vladimir Horngaard"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc M - The Dragon's Manor.md",
+      "Act III - The Broken Land/Arc Q - A Shining Beacon.md",
+      "Appendices/Non-Player Characters.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 4,
+    "confidence": "llm_yes"
+  },
+  "Vladimir’s Bedroom": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Vladimir’s Bedroom"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc M - The Dragon's Manor.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Vladimir’s Bedroom]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Volenta": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Volenta Popofsky"
+    ],
+    "all_hints": [
+      "Volenta",
+      "Volenta Popofsky"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc D - St. Andral's Feast.md",
+      "Act III - The Broken Land/Arc O - Dinner with the Devil.md",
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md",
+      "Appendices/Non-Player Characters.md",
+      "Chapter 2 - The Land of Barovia/Strahd von Zarovich.md"
+    ],
+    "wikilink_seeds": [
+      "[[#D4c. Volenta's Trap]]",
+      "[[Arc O - Dinner with the Devil#Volenta’s Toy|Arc O - Dinner with the Devil]]",
+      "[[Non-Player Characters#Volenta Popofsky|Volenta]]"
+    ],
+    "record_count": 5,
+    "confidence": "prefix"
+  },
+  "Wachterhaus": {
+    "entity_type": "place",
+    "aliases": [
+      "Burgomistress Fiona Wachter",
+      "Fiona Wachter",
+      "Lady Wachter"
+    ],
+    "all_hints": [
+      "Wachterhaus"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc F - Lady Wachter's Wish.md",
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md",
+      "Act IV - Secrets of the Ancient/Arc U - Dreams of Dawn.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [
+      "[[Arc H - The Lost Soul#H5. Wachterhaus|Arc H - The Lost Soul]]"
+    ],
+    "record_count": 4,
+    "confidence": "singleton"
+  },
+  "Walter, the Graveborn": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Walter",
+      "Walter Durst"
+    ],
+    "all_hints": [
+      "Walter",
+      "Walter Durst",
+      "Walter, the Graveborn"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc A - Escape From Death House.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 3,
+    "confidence": "prefix"
+  },
+  "Wanderer's Scarf": {
+    "entity_type": "item",
+    "aliases": [
+      "wanderer's scarf"
+    ],
+    "all_hints": [
+      "Wanderer's Scarf"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc A - Escape From Death House.md",
+      "Chapter 1 - Beginning the Campaign/Character Creation.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Watchtower": {
+    "entity_type": "place",
+    "aliases": [
+      "The Watchtower"
+    ],
+    "all_hints": [
+      "Watchtower"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Weaver": {
+    "entity_type": "NPC",
+    "aliases": [
+      "the goddess of spring"
+    ],
+    "all_hints": [
+      "Weaver"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Wensencia": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Wensencia, a Barovian witch",
+      "a witch"
+    ],
+    "all_hints": [
+      "Wensencia"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc I - The Walls of Krezk.md",
+      "Act III - The Broken Land/Arc M - The Dragon's Manor.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Werewolves": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Werewolf"
+    ],
+    "all_hints": [
+      "Werewolf",
+      "Werewolves"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md",
+      "Act II - The Shadowed Town/Arc E - The Missing Vistana.md",
+      "Act III - The Broken Land/Arc O - Dinner with the Devil.md"
+    ],
+    "wikilink_seeds": [
+      "[[Act I - Into the Mists/Arc C - Into the Valley#C11. The Werewolves' Hunt|Arc C - Into the Valley]]"
+    ],
+    "record_count": 3,
+    "confidence": "embedding"
+  },
+  "Werewolf Den": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Werewolf Den"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/Strahd von Zarovich.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md",
+      "Chapter 3 - Running the Game/Running the Adventure.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 3,
+    "confidence": "singleton"
+  },
+  "Werewolf Pack": {
+    "entity_type": "faction",
+    "aliases": [
+      "Children of Mother Night"
+    ],
+    "all_hints": [
+      "Werewolf Pack"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/Lore of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Whispering Wall": {
+    "entity_type": "place",
+    "aliases": [
+      "The Whispering Wall"
+    ],
+    "all_hints": [
+      "Whispering Wall"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md",
+      "Act IV - Secrets of the Ancient/Arc U - Dreams of Dawn.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [
+      "[[Arc J - The Stolen Gem#J6b. The Whispering Wall|J6b. The Whispering Wall]]"
+    ],
+    "record_count": 4,
+    "confidence": "singleton"
+  },
+  "Wights": {
+    "entity_type": "faction",
+    "aliases": [],
+    "all_hints": [
+      "Wights"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/History of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Willemina Rikalova": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Willemina Rikalova"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Wine Cellar": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Wine Cellar"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Wine Cellar]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Wine Storage": {
+    "entity_type": "place",
+    "aliases": [],
+    "all_hints": [
+      "Wine Storage"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc M - The Dragon's Manor.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Wine Storage]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Winter Wolf": {
+    "entity_type": "item",
+    "aliases": [
+      "Winter Wolves"
+    ],
+    "all_hints": [
+      "Winter Wolf"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Wintersplinter": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Wintersplinter"
+    ],
+    "source_files": [
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Witches of Mother Night": {
+    "entity_type": "faction",
+    "aliases": [],
+    "all_hints": [
+      "Witches of Mother Night"
+    ],
+    "source_files": [
+      "Chapter 2 - The Land of Barovia/Lore of Barovia.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Wizard of Wines": {
+    "entity_type": "place",
+    "aliases": [
+      "Martikov Family Winery",
+      "The Wizard of Wines",
+      "Winery"
+    ],
+    "all_hints": [
+      "Wizard of Wines"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 2 - The Land of Barovia/Strahd von Zarovich.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 4,
+    "confidence": "singleton"
+  },
+  "Wolf's Tooth": {
+    "entity_type": "item",
+    "aliases": [
+      "wolf's tooth"
+    ],
+    "all_hints": [
+      "Wolf's Tooth"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc A - Escape From Death House.md",
+      "Chapter 1 - Beginning the Campaign/Character Creation.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "singleton"
+  },
+  "Wolves": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Wolves"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md"
+    ],
+    "wikilink_seeds": [
+      "[[#C11. The Werewolves' Hunt]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Xanathar's Guide to Everything": {
+    "entity_type": "item",
+    "aliases": [],
+    "all_hints": [
+      "Xanathar's Guide to Everything"
+    ],
+    "source_files": [
+      "Introduction/Using This Guide.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Yan": {
+    "entity_type": "NPC",
+    "aliases": [
+      "a Vistana youth",
+      "the spy"
+    ],
+    "all_hints": [
+      "Yan"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc E - The Missing Vistana.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Yester Hill": {
+    "entity_type": "place",
+    "aliases": [
+      "The Hill"
+    ],
+    "all_hints": [
+      "Yester Hill"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 2 - The Land of Barovia/Strahd von Zarovich.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md",
+      "Chapter 3 - Running the Game/Running the Adventure.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 5,
+    "confidence": "singleton"
+  },
+  "Yog the Invincible": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Yog the Invincible"
+    ],
+    "source_files": [
+      "Appendices/Amber Shards.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Yog the Invincible]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Yolanda": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Yolanda"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc J - The Stolen Gem.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Yrrga, the Eye of Shadows": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Eye of Shadows",
+      "Yrrga"
+    ],
+    "all_hints": [
+      "Yrrga, the Eye of Shadows"
+    ],
+    "source_files": [
+      "Appendices/Amber Shards.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Zantras, the Kingmaker": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Kingmaker",
+      "Zantras"
+    ],
+    "all_hints": [
+      "Zantras, the Kingmaker"
+    ],
+    "source_files": [
+      "Appendices/Amber Shards.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Zhudun, the Corpse Star": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Zhudun"
+    ],
+    "all_hints": [
+      "Zhudun, the Corpse Star"
+    ],
+    "source_files": [
+      "Act IV - Secrets of the Ancient/Arc S - A Sword of Sunlight.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Zorya, Pseudodragon Spirit": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Zorya",
+      "Zorya the pseudodragon"
+    ],
+    "all_hints": [
+      "Zorya",
+      "Zorya, Pseudodragon Spirit"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc M - The Dragon's Manor.md",
+      "Appendices/Non-Player Characters.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 2,
+    "confidence": "llm_yes"
+  },
+  "Zrin-Hala, the Howling Storm": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Howling Storm",
+      "Zrin-Hala"
+    ],
+    "all_hints": [
+      "Zrin-Hala, the Howling Storm"
+    ],
+    "source_files": [
+      "Appendices/Amber Shards.md"
+    ],
+    "wikilink_seeds": [
+      "[[#Zrin-Hala, the Howling Storm]]"
+    ],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Zsolt": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Zsolt"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc E - The Missing Vistana.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Zuleika Toranescu": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Zuleika",
+      "Zuleika Krezkova",
+      "werewolf cleric"
+    ],
+    "all_hints": [
+      "Zuleika",
+      "Zuleika Krezkova",
+      "Zuleika Toranescu"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc I - The Walls of Krezk.md",
+      "Act III - The Broken Land/Arc K - The Fallen Abbey.md",
+      "Act III - The Broken Land/Arc L - The Den of Wolves.md",
+      "Act III - The Broken Land/Arc P - Ravenloft Heist.md",
+      "Act III - The Broken Land/Arc Q - A Shining Beacon.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 6,
+    "confidence": "prefix"
+  },
+  "Zygfrek": {
+    "entity_type": "NPC",
+    "aliases": [],
+    "all_hints": [
+      "Zygfrek"
+    ],
+    "source_files": [
+      "Act III - The Broken Land/Arc K - The Fallen Abbey.md"
+    ],
+    "wikilink_seeds": [],
+    "record_count": 1,
+    "confidence": "singleton"
+  },
+  "Baron Vargas Vallakovich": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Baron",
+      "Baron Valentin Vallakovich",
+      "Baron Vallakovich",
+      "Vargas Vallakovich",
+      "the Baron"
+    ],
+    "all_hints": [
+      "Baron Valentin Vallakovich",
+      "Baron Vallakovich",
+      "Baron Vargas Vallakovich"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc C - Into the Valley.md",
+      "Act II - The Shadowed Town/Arc E - The Missing Vistana.md",
+      "Act II - The Shadowed Town/Arc G - The Strazni Siblings.md",
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md",
+      "Appendices/Non-Player Characters.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "wikilink_seeds": [
+      "[[Non-Player Characters#Baron Vargas Vallakovich|Baron Vallakovich]]",
+      "[[Non-Player Characters#Baron Vargas Vallakovich|the Baron]]"
+    ],
+    "record_count": 8,
+    "confidence": "embedding"
+  },
+  "Victor Vallakovich": {
+    "entity_type": "NPC",
+    "aliases": [
+      "Victor",
+      "the son",
+      "the young man"
+    ],
+    "all_hints": [
+      "Victor Vallakovich"
+    ],
+    "source_files": [
+      "Act II - The Shadowed Town/Arc E - The Missing Vistana.md",
+      "Act II - The Shadowed Town/Arc H - The Lost Soul.md",
+      "Appendices/Non-Player Characters.md",
+      "Act IV - Secrets of the Ancient/Arc U - Dreams of Dawn.md"
+    ],
+    "wikilink_seeds": [
+      "[[Non-Player Characters#Victor Vallakovich|Victor Vallakovich]]",
+      "[[Non-Player Characters#Victor Vallakovich|Victor]]"
+    ],
+    "record_count": 3,
+    "confidence": "singleton"
+  },
+  "Barovia": {
+    "entity_type": "place",
+    "aliases": [
+      "The Land of Barovia",
+      "Valley of Barovia",
+      "the valley"
+    ],
+    "all_hints": [
+      "Barovia"
+    ],
+    "source_files": [
+      "Chapter 1 - Beginning the Campaign/Session Zero.md",
+      "Chapter 2 - The Land of Barovia/History of Barovia.md",
+      "Chapter 2 - The Land of Barovia/Lore of Barovia.md",
+      "Chapter 2 - The Land of Barovia/Strahd von Zarovich.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md",
+      "Chapter 3 - Running the Game/Running the Adventure.md",
+      "Introduction/A DM's Guide to Curse of Strahd.md"
+    ],
+    "wikilink_seeds": [
+      "[[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]]"
+    ],
+    "record_count": 6,
+    "confidence": "singleton"
+  },
+  "Village of Barovia": {
+    "entity_type": "place",
+    "aliases": [
+      "The Village of Barovia"
+    ],
+    "all_hints": [
+      "Village of Barovia"
+    ],
+    "source_files": [
+      "Act I - Into the Mists/Arc B - Welcome to Barovia.md",
+      "Chapter 3 - Running the Game/Adventure Summary.md"
+    ],
+    "record_count": 2,
+    "confidence": "singleton",
+    "wikilink_seeds": []
+  }
+}

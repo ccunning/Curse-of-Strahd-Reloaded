@@ -1,20 +1,20 @@
 _An adventure for five 4th-level characters._
 
-In this arc, the players escort Ireena Kolyana to St. Andral's Church in Vallaki, fulfilling their vow to her brother, Ismark. However, Father Lucian, the church's priest, informs them that the bones of Saint Andral—the source of the church's protective magic—have recently been stolen, placing its wards and parishioners at risk.
+In this arc, the players escort [[NPCs/Ireena Kolyana|Ireena Kolyana]] to [[Places/St. Andral's Church|St. Andral's Church]] in [[Places/Vallaki|Vallaki]], fulfilling their vow to her brother, [[NPCs/Ismark Kolyanovich|Ismark]]. However, [[NPCs/Father Lucian Petrovich|Father Lucian]], the church's priest, informs them that the bones of [[NPCs/Saint Andral|Saint Andral]]—the source of the church's protective magic—have recently been stolen, placing its wards and parishioners at risk.
 
-The players have until the night of their fifth day after arriving in Vallaki to identify the thief (the church groundskeeper, Milivoj), track down the bones to their hiding place (the Vallaki coffin maker's shop), and return them to their rightful place in the church. Their mission will bring them into direct conflict with Volenta Popofsky, Strahd's most sadistic vampiric bride, and her vampiric minions.
+The players have until the night of their fifth day after arriving in [[Places/Vallaki|Vallaki]] to identify the thief (the church groundskeeper, [[NPCs/Milivoj|Milivoj]]), track down the bones to their hiding place (the Vallaki [[Places/Coffin Maker's Shop|coffin maker's shop]]), and return them to their rightful place in the church. Their mission will bring them into direct conflict with [[NPCs/Volenta|Volenta Popofsky]], [[NPCs/Strahd von Zarovich|Strahd]]'s most sadistic vampiric bride, and her vampiric minions.
 
-Can the players defeat Volenta's plan and restore the church's protection? Or will the church be lost in darkness and blood, its flickering light snuffed out in the shadows?
+Can the players defeat [[NPCs/Volenta|Volenta]]'s plan and restore the church's protection? Or will the church be lost in darkness and blood, its flickering light snuffed out in the shadows?
 
 > [!abstract]+ **An Early Start**
-> If the players bring Ireena to St. Andral's Church on their first night in Vallaki (i.e., "day zero" in Vallaki), they arrive to find Father Lucian finishing a service to his congregation. After giving reassurances to Willemina Rikalova (see [[Act I - Into the Mists/Arc C - Into the Valley#Exiting the Inn|Arc C - Into the Valley]] for more information about Willemina), Father Lucian welcomes the players and Ireena to the church and offers his assistance.
+> If the players bring [[NPCs/Ireena Kolyana|Ireena]] to [[Places/St. Andral's Church|St. Andral's Church]] on their first night in Vallaki (i.e., "day zero" in Vallaki), they arrive to find [[NPCs/Father Lucian Petrovich|Father Lucian]] finishing a service to his congregation. After giving reassurances to [[NPCs/Willemina Rikalova|Willemina Rikalova]] (see [[Act I - Into the Mists/Arc C - Into the Valley#Exiting the Inn|Arc C - Into the Valley]] for more information about Willemina), Father Lucian welcomes the players and Ireena to the church and offers his assistance.
 > 
-> If told that Ireena hopes to find sanctuary at the church, Father Lucian is glad to offer her a pallet to sleep on in the chapel. After Ireena offers to compensate him for his kindness, Father Lucian considers her request, then invites her to assist with Yeska's chores and education for the duration of her stay—a request which Ireena graciously accepts.
+> If told that Ireena hopes to find sanctuary at the church, Father Lucian is glad to offer her a pallet to sleep on in the [[Places/Chapel of Morning|chapel]]. After Ireena offers to compensate him for his kindness, Father Lucian considers her request, then invites her to assist with Yeska's chores and education for the duration of her stay—a request which Ireena graciously accepts.
 > 
-> The following morning, after St. Andral's bones are stolen as described below, Ireena visits the players at the Blue Water Inn before their conversation with Urwin Martikov described in [[Act I - Into the Mists/Arc C - Into the Valley#Urwin's Advice|Arc C - Into the Valley]] and asks them to visit the church to speak with Father Lucian about an "incident." (Father Lucian has asked her not to speak of the incident outside of the church, for fear of raising a panic.) The remainder of this arc then proceeds normally.
+> The following morning, after St. Andral's bones are stolen as described below, Ireena visits the players at the [[Places/Blue Water Inn|Blue Water Inn]] before their conversation with [[NPCs/Urwin Martikov|Urwin Martikov]] described in [[Act I - Into the Mists/Arc C - Into the Valley#Urwin's Advice|Arc C - Into the Valley]] and asks them to visit the church to speak with Father Lucian about an "incident." (Father Lucian has asked her not to speak of the incident outside of the church, for fear of raising a panic.) The remainder of this arc then proceeds normally.
 
 > [!info]+ **Want a Hand?** 
-> Want access to a Discord community of _Reloaded_ DMs, on-demand campaign help from the author, and one-on-one session prep and mentoring? Check out the author's [Patreon](https://patreon.com/dragnacarta "Patreon (https://patreon.com/dragnacarta)") 
+> Want access to a Discord community of _Reloaded_ DMs, on-demand campaign help from the author, and one-on-one session prep and mentoring? Check out the author's [Patreon](https://patreon.com/[[NPCs/DragnaCarta|dragnacarta]] "Patreon (https://patreon.com/[[NPCs/DragnaCarta|dragnacarta]])") 
 > for: 
 > * Discord access (Bronze+) 
 > * Developer commentary blogs (Silver+) 
@@ -28,8 +28,8 @@ The church is largely as described in <span class="citation">N1. St. Andral's Ch
 
 The church's occupants follow the following schedule unless interrupted:
 
-* At dawn, Yeska joins Father Lucian for prayers in the chapel and assists him in preparing breakfast.
-* In the morning, Yeska runs errands around Vallaki while Father Lucian sweeps the chapel, dusts the pews, polishes the altar, and tidies up the kitchen.
+* At dawn, Yeska joins Father Lucian for prayers in the [[Places/Chapel of Morning|chapel]] and assists him in preparing breakfast.
+* In the morning, Yeska runs errands around Vallaki while Father Lucian sweeps the chapel, dusts the pews, polishes the altar, and tidies up the [[Places/Kitchen|kitchen]].
 * In the afternoon, Father Lucian teaches Yeska how to read, and educates him in basic history and theology.
 * In the evening, with Yeska's assistance, Father Lucian leads the congregation in prayer and delivers a sermon promising sanctuary and comfort.
 
@@ -46,24 +46,24 @@ The church's occupants follow the following schedule unless interrupted:
 >
 > **Character Information**
 >
-> ***Persona.*** To strangers, Father Lucian is a serene, humble, and compassionate priest who is always happy to share a word of praise or a few pearls of wisdom. To those he trusts, Father Lucian is a dedicated and stalwart defender of his community, who nonetheless worries about his ability to keep his congregants safe. Deep down, Father Lucian harbors a twinge of doubt about the Morninglord's providence and power, wondering if Strahd's awakening is a test of Barovians' faith or a sign that the land is forsaken forever.
+> ***Persona.*** To strangers, Father Lucian is a serene, humble, and compassionate priest who is always happy to share a word of praise or a few pearls of wisdom. To those he trusts, Father Lucian is a dedicated and stalwart defender of his community, who nonetheless worries about his ability to keep his congregants safe. Deep down, Father Lucian harbors a twinge of doubt about the Morninglord's providence and power, wondering if [[NPCs/Strahd von Zarovich|Strahd]]'s awakening is a test of Barovians' faith or a sign that the land is forsaken forever.
 >
 > ***Morale.*** In a fight, Father Lucian would prefer to dissuade his attackers, surrendering peacefully if necessary to avoid unnecessary bloodshed. However, if an innocent life or the members of his congregation were threatened, he would fight to the death with a prayer on his lips and peace in his heart.
 >
-> ***Relationships.*** Father Lucian is a mentor and father figure to the orphan and altar boy Yeska, the employer of the groundskeeper Milivoj, the brother of Baroness Lydia Petrovna, and the distant descendant of Tasha Petrovna, an ancient cleric of the Morninglord whose remains are kept in the catacombs of Castle Ravenloft.
+> ***Relationships.*** Father Lucian is a mentor and father figure to the orphan and altar boy Yeska, the employer of the groundskeeper [[NPCs/Milivoj|Milivoj]], the brother of [[NPCs/Baroness Lydia Petrovna|Baroness Lydia Petrovna]], and the distant descendant of Tasha Petrovna, an ancient cleric of the Morninglord whose remains are kept in the [[Places/Catacombs|catacombs]] of [[Places/Castle Ravenloft|Castle Ravenloft]].
 
 > [!lore]+ **The Stolen Bones**
 > Though he helped House Von Zarovich ascend to power, St. Andral ironically remained a fierce and powerful foe of the undead for all his life. As Most High Priest of the Morninglord's church, Andral directed fierce crusades against undead that lurked in the dark places of King Barov's kingdom, rooting them out wherever they could be found.
  >
-> So great was his hatred of undeath that, in his final hours of life, St. Andral vowed that his resting place would forever be a sanctuary from the forces of darkness. Since then, his bones have been interred in the crypt beneath Vallaki's church, its priests performing an annual ritual at dawn each year on his holy day - the day of St. Andral's Feast. So long as this rite is completed, the church remains hallowed ground for an additional year, as described in <span class="citation">Bones of St. Andral (p. 97)</span>.
+> So great was his hatred of undeath that, in his final hours of life, St. Andral vowed that his resting place would forever be a sanctuary from the forces of darkness. Since then, his bones have been interred in the crypt beneath Vallaki's church, its priests performing an annual ritual at dawn each year on his holy day - the day of [[Places/St. Andral's Feast|St. Andral's Feast]]. So long as this rite is completed, the church remains hallowed ground for an additional year, as described in <span class="citation">Bones of St. Andral (p. 97)</span>.
 > 
 > When Strahd awoke from his recent hibernation, his vampiric bride Volenta Popofsky decided to impress him the only way she knew how: with a wanton display of suffering, carnage, and terror. Where better, she thought, than a gruesome massacre at St. Andral's Church on the night of its most holy feast?
 > 
-> It was a dark and windy night when Volenta paid a visit to Henrik van der Voort, Vallaki's coffin-maker. Finding a macabre pleasure in the setting, and finding the lonely Henrik a perfect target for her plots, Volenta politely threatened to burn his shop to the ground unless he allowed her to use it as a base for her machinations.
+> It was a dark and windy night when Volenta paid a visit to [[NPCs/Henrik|Henrik]] van der Voort, Vallaki's coffin-maker. Finding a macabre pleasure in the setting, and finding the lonely [[NPCs/Henrik|Henrik]] a perfect target for her plots, Volenta politely threatened to burn his shop to the ground unless he allowed her to use it as a base for her machinations.
 > 
-> A terrified Henrik soon capitulated, and Volenta established a link with the teleportation brazier in Castle Ravenloft's dungeons. Using that link, she summoned two feral **vampire spawn**—former members of Doru's rebellion driven mad with bloodlust—and a trio of crates filled with grave dirt to rest in.
+> A terrified Henrik soon capitulated, and Volenta established a link with the teleportation brazier in [[Places/Castle Ravenloft|Castle Ravenloft]]'s [[Places/Dungeons|dungeons]]. Using that link, she summoned two feral **[[Factions/Vampire Spawn|vampire spawn]]**—former members of [[NPCs/Doru|Doru]]'s rebellion driven mad with bloodlust—and a trio of crates filled with grave dirt to rest in.
 > 
-> A remnant of an older age, Volenta knew that St. Andral's remains provided the church with its blessed protection. She commanded Henrik to find and steal those bones before the night of St. Andral's Feast - by any means necessary.
+> A remnant of an older age, Volenta knew that St. Andral's remains provided the church with its blessed protection. She commanded Henrik to find and steal those bones before the night of [[Places/St. Andral's Feast|St. Andral's Feast]] - by any means necessary.
 > 
 > Given his profession, Henrik had encountered Milivoj—the church's groundskeeper—on more than one occasion. He knew that Milivoj was familiar with the church's occupants and layout, that Milivoj thought little of the Morninglord's faith, and—most importantly—that Milivoj had a host of younger siblings he was desperate to feed.
 > 
@@ -71,7 +71,7 @@ The church's occupants follow the following schedule unless interrupted:
 > 
 > Henrik told Milivoj his family had searched for St. Andral's remains for centuries—but that only recently had he learned them to be located somewhere in the church. Doubtless, he claimed, the good Father Lucian would be loathe to surrender such a relic, even though their only true value was sentimental.
 > 
-> That was where Milivoj came in. In exchange for a payment of fifteen electrum pieces, Milivoj would find and retrieve Andral's remains. Old legends, Henrik noted, indicated that those remains carried St. Andral's blessing, sanctifying the church from evil—though he personally doubted they were true. He suggested Milivoj use those legends, however, as an excuse to inquire about the remains' location, either from Father Lucian or from Yeska, the altar boy. ("Of course," Henrik noted with a dry chuckle, "I'm fairly certain I've seen Izek Strazni entering the church, so perhaps those legends have lost their luster for good cause, eh?")
+> That was where Milivoj came in. In exchange for a payment of fifteen electrum pieces, Milivoj would find and retrieve Andral's remains. Old legends, Henrik noted, indicated that those remains carried St. Andral's blessing, sanctifying the church from evil—though he personally doubted they were true. He suggested Milivoj use those legends, however, as an excuse to inquire about the remains' location, either from Father Lucian or from Yeska, the altar boy. ("Of course," Henrik noted with a dry chuckle, "I'm fairly certain I've seen [[NPCs/Izek Strazni|Izek Strazni]] entering the church, so perhaps those legends have lost their luster for good cause, eh?")
 > 
 > Milivoj, eager to secure funds to care for his siblings, was easily convinced to steal those "moldy old relics" and soon agreed to Henrik's offer. He knew Yeska, a recent orphan, was a timid and fearful child who looked to Father Lucian for safety and comfort. Though he couldn't escape the guilt he felt for leveraging the boy's fear, Milivoj decided that a few nights of Yeska's nightmares were a worthy price to pay to ensure his own family had food to eat.
 > 
@@ -93,7 +93,7 @@ The players can help Henrik collect his glasses, nails, and planks as he scrambl
 
 * His name is Henrik van der Voort, and he is Vallaki's resident coffin-maker and occasional carpenter.
 * Father Lucian asked him to visit to deliver some tools and supplies to repair some damage to the floor caused by a falling tree branch the previous night.
-* His shop can be found at the south end of Arasek Stockyard. "Although," Henrik jokes awkwardly, "I do hope you won't need my services too soon."
+* His shop can be found at the south end of [[Places/Arasek Stockyard|Arasek Stockyard]]. "Although," Henrik jokes awkwardly, "I do hope you won't need my services too soon."
 
 Henrik then excuses himself and departs to return to his shop.
 ## D1b. The Chapel
@@ -124,8 +124,8 @@ Once Milivoj leaves, if Father Lucian is informed that Ireena is seeking sanctua
 If the players agree not to spread his words beyond the church, Father Lucian sorrowfully informs them that, while he would love nothing more than to extend Ireena an offer of permanent shelter, recent events have left the church's wards in a precarious state. He can also share the following additional information at the players' prompting:
 
 * The church is ordinarily hallowed ground, as though the building was protected by a *hallow* spell. This magical ward prevents fiends and undead from entering the church, and keeps them from magically charming, frightening, or possessing those within it.
-* The source of this protection is the crypt of Saint Andral, which has historically held the blessed bones of Andral himself, the founder of Vallaki's church and a great cleric of the Morninglord.
-* Originally, only Father Lucian knew of the bones' existence. However, after news the siege of Barovia reached Vallaki a few days ago, he shared the knowledge of the bones with Yeska, as described in <span class="citation">Bones of St. Andral (p. 97)</span>.
+* The source of this protection is the crypt of [[NPCs/Saint Andral|Saint Andral]], which has historically held the blessed bones of Andral himself, the founder of Vallaki's church and a great cleric of the Morninglord.
+* Originally, only Father Lucian knew of the bones' existence. However, after news the siege of [[Places/Barovia|Barovia]] reached Vallaki a few days ago, he shared the knowledge of the bones with Yeska, as described in <span class="citation">Bones of St. Andral (p. 97)</span>.
 * To retain the church's protection, Father Lucian must invoke a particular rite of protection over Saint Andral's bones once every year, at dawn on the morning of Saint Andral's Feast—a holy day that memorializes Andral's life. 
 * If the rite cannot be carried out at that time, the wards will fall until the rite is completed on a subsequent dawn.
 * Last night, someone broke into the church's crypt and stole St. Andral's bones, damaging the floorboards behind the altar and escaping through a window. Without the bones, Father Lucian can't complete the protective rite, and the wards will fall at dawn on the day of St. Andral's Feast. 
@@ -220,7 +220,7 @@ A few moments later, the nineteen-year-old [[Non-Player Characters#Milivoj|Miliv
 >
 > ***Morale.*** In a fight, Milivoj would brandish his shovel in an attempt to get his attacker to back down, but would quickly surrender if seriously wounded. (If defending his siblings, however, Milivoj would fiercely and gladly fight to the death.)
 >
-> ***Relationships.*** Milivoj is employed by Father Lucian Petrovich, secretly works for the coffin maker Henrik van der Voort, and is the eldest of nine children belonging to Oleg and Jarzinka, two dream pastry-addicted Vallakians.
+> ***Relationships.*** Milivoj is employed by Father Lucian Petrovich, secretly works for the coffin maker Henrik van der Voort, and is the eldest of nine children belonging to Oleg and Jarzinka, two dream pastry-addicted [[Factions/Vallakians|Vallakians]].
 ## D2a. Confronting Milivoj
 Upon spotting the players, Milivoj’s face visibly falls, and he gently shakes Victoria and Vasha from his arms and sets Jirko down in Bogan’s lap. A successful DC 10 Wisdom (Insight) check reveals his body language has grown tense, and that he is shifting uncomfortably. 
 
@@ -228,19 +228,19 @@ As Milivoj reaches the door, he tersely addresses Jarzinka as “Mother” and g
 
 If the players inform Milivoj that they want to speak with him about St. Andral’s bones, he scowls, insists that he knows nothing about the matter, and attempts to close the door. A player can prevent him from doing so with a successful DC 10 Strength or Dexterity check. (If Milivoj successfully closes the door, the players can make him open it again by making a sufficient nuisance of themselves, by succeeding on a DC 10 Charisma (Intimidation or Persuasion) check, or by forcing the door down with a successful DC 10 Strength check.)
 
-Milivoj denies any knowledge of the bones or their theft if asked about them outright. However, he claims to have seen a cloaked figure watching the church two days ago from an alleyway. (The description of the cloaked figure coincidentally matches the appearance of Ernst Larnak, Fiona's spy, though Milivoj doesn't know Ernst or the nature of his employment.) A successful DC 10 Wisdom (Insight) check reveals that he is speaking slightly too quickly.
+Milivoj denies any knowledge of the bones or their theft if asked about them outright. However, he claims to have seen a cloaked figure watching the church two days ago from an alleyway. (The description of the cloaked figure coincidentally matches the appearance of [[NPCs/Ernst Larnak|Ernst Larnak]], [[NPCs/Lady Fiona Wachter|Fiona]]'s spy, though Milivoj doesn't know Ernst or the nature of his employment.) A successful DC 10 Wisdom (Insight) check reveals that he is speaking slightly too quickly.
 
-If the players accuse Milivoj of stealing the bones and succeed on a DC 15 Charisma (Intimidation) check, Milivoj admits to stealing them, as described in <span class="citation">Bones of St. Andral (p. 97)</span>. Players who confront Milivoj with evidence from the crypt automatically succeed. Milivoj can't take the players to the coffin maker's shop himself, but notes that Father Lucian can lead them there.
+If the players accuse Milivoj of stealing the bones and succeed on a DC 15 Charisma (Intimidation) check, Milivoj admits to stealing them, as described in <span class="citation">Bones of St. Andral (p. 97)</span>. Players who confront Milivoj with evidence from the crypt automatically succeed. Milivoj can't take the players to the [[Places/Coffin Maker's Shop|coffin maker's shop]] himself, but notes that Father Lucian can lead them there.
 
-If asked his motive for stealing the bones, Milivoj shares the reasons described in <span class="citation">Bones of St. Andral (p. 97)</span>. He can also share that, after his father—a former Vallakian guard—was  wounded in a recent wolf attack, both of his parents began regularly purchasing dream pastries from the peddler Morgantha outside of the gates. With both parents addicted to Morgantha's wares, Milivoj sees himself as his siblings' sole means of avoiding total poverty. (If asked, Milivoj can provide a basic description of the effects of dream pastries, as described in <span class="citation">Dream Pastries (p. 125)</span>.)
+If asked his motive for stealing the bones, Milivoj shares the reasons described in <span class="citation">Bones of St. Andral (p. 97)</span>. He can also share that, after his father—a former Vallakian guard—was  wounded in a recent wolf attack, both of his parents began regularly purchasing dream pastries from the peddler [[NPCs/Morgantha|Morgantha]] outside of the gates. With both parents addicted to [[NPCs/Morgantha|Morgantha]]'s wares, Milivoj sees himself as his siblings' sole means of avoiding total poverty. (If asked, Milivoj can provide a basic description of the effects of dream pastries, as described in <span class="citation">Dream Pastries (p. 125)</span>.)
 
 If informed that the bones may have been stolen to allow an attack upon the church, Milivoj dismisses the idea, insisting that the bones are just a "moldy old relic" and that "he doesn't have time to believe in fairy tales." He can also share that Henrik told him the bones were a powerless family heirloom, and that Henrik sought to recover them to honor his ancestor.
 
 > [!abstract]+ **Milivoj’s Revelation**
 >
-> If he is later informed that Henrik's actions were directed by one of Strahd's vampire spawn, and that the theft of the bones could have allowed a slaughter at the church, [[Non-Player Characters#Milivoj|Milivoj]] is overcome with anxiety, horror, and guilt. He prostrates himself before Father Lucian and begs for his forgiveness, offering to exile himself to the Svalich Woods if doing so will make up for the harm he has caused. (Father Lucian, of course, declines, tearfully embracing and forgiving Milivoj instead.)
+> If he is later informed that Henrik's actions were directed by one of Strahd's [[Factions/Vampire Spawn|vampire spawn]], and that the theft of the bones could have allowed a slaughter at the church, [[Non-Player Characters#Milivoj|Milivoj]] is overcome with anxiety, horror, and guilt. He prostrates himself before Father Lucian and begs for his forgiveness, offering to exile himself to the [[Places/Svalich Woods|Svalich Woods]] if doing so will make up for the harm he has caused. (Father Lucian, of course, declines, tearfully embracing and forgiving Milivoj instead.)
 ## D2b. Departing the House
-Once Milivoj has admitted to the bones' theft, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] can lead the players to the coffin maker's shop. (He knows the owner, Henrik, well, and hopes that he can reason with the man.) If the players appear skeptical, Father Lucian—who has the statistics of a **priest**—reveals that he bears the holy symbol of Tasha Petrovna—his ancestor and a mighty follower of Saint Markovia—and promises them that he is more than capable of defending himself.
+Once Milivoj has admitted to the bones' theft, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] can lead the players to the coffin maker's shop. (He knows the owner, Henrik, well, and hopes that he can reason with the man.) If the players appear skeptical, Father Lucian—who has the statistics of a **priest**—reveals that he bears the holy symbol of Tasha Petrovna—his ancestor and a mighty follower of [[NPCs/Saint Markovia|Saint Markovia]]—and promises them that he is more than capable of defending himself.
 
 If the players suggest reporting the theft of the bones to the burgomaster, Father Lucian is reluctant to do so, fearing the possibility of raising a panic. With a successful DC 15 Charisma (Persuasion) check, however, the players can convince Father Lucian to join them in reporting the theft to Baron Vallakovich, who responds as described in **N6. Coffin Maker's Shop.** (If the players don't have Father Lucian with them, the burgomaster refuses to believe that the bones are responsible for the church's divine protection or to assist the players in recovering them.)
 
@@ -248,30 +248,30 @@ If the players suggest reporting the theft of the bones to the burgomaster, Fath
 >
 > If the players report the theft to Baron Vallakovich and do not accompany his guards, the four guards gain access to the coffin maker's shop as described in **N6. Coffin Maker's Shop**, but are slaughtered when they accidentally trigger Volenta's trap and alert the vampires to their presence.
 >
-> One day later, Baron Vallakovich responds by sending Izek to summon the players to **N3. Burgomaster's Mansion**, where he accuses them of causing his faithful guards to disappear and threatens to exile them from Vallaki. (The players can win back his good graces by promising to recover the bones themselves.)
+> One day later, Baron Vallakovich responds by sending [[NPCs/Izek Strazni|Izek]] to summon the players to **N3. Burgomaster's Mansion**, where he accuses them of causing his faithful guards to disappear and threatens to exile them from Vallaki. (The players can win back his good graces by promising to recover the bones themselves.)
 
 # D3. Arasek Stockyard
 <span class="citation"><em>This scene takes place in Chapter 5: Area N5.</em></span>
 
-Arasek Stockyard is largely as described in <span class="citation">N5. Arasek Stockyard (p. 115)</span>. However, while Rictavio's wagon is mostly covered by old and faded paint, the Carnival of Wonders sign on its side is brand new and fresh-painted.
+[[Places/Arasek Stockyard|Arasek Stockyard]] is largely as described in <span class="citation">N5. Arasek Stockyard (p. 115)</span>. However, while [[NPCs/Rictavio|Rictavio]]'s wagon is mostly covered by old and faded paint, the [[Places/Carnival of Wonders|Carnival of Wonders]] sign on its side is brand new and fresh-painted.
 
 If one of the players expresses an interest in breaking into the wagon, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] discourages them from doing so if he is present.
 
-If a player nonetheless attempts to unlock or force open the door to the wagon, the entire wagon suddenly rocks violently from side to side. The players can also hear the sound of something with large, heavy claws scratching against the interior of the wagon. (The rocking and scratches are made by the ghost of Erasmus van Richten, a **poltergeist** seeking to protect Arabelle by scaring visitors away.)
+If a player nonetheless attempts to unlock or force open the door to the wagon, the entire wagon suddenly rocks violently from side to side. The players can also hear the sound of something with large, heavy claws scratching against the interior of the wagon. (The rocking and scratches are made by the ghost of [[NPCs/Erasmus van Richten|Erasmus van Richten]], a **poltergeist** seeking to protect [[NPCs/Arabelle|Arabelle]] by scaring visitors away.)
 
-If the players successfully break the door to the wagon or pick its padlock, they find that the wagon’s interior contains a soft bed of straw, a comfortable woolen blanket, a few books, and a young Vistana girl—Arabelle—who is clutching a plush saber-toothed tiger to her chest and wearing a beaded necklace with a carved copper amulet. (For more information about Arabelle, see [[Arc E - The Missing Vistana]].)
+If the players successfully break the door to the wagon or pick its padlock, they find that the wagon’s interior contains a soft bed of straw, a comfortable woolen blanket, a few books, and a young Vistana girl—[[NPCs/Arabelle|Arabelle]]—who is clutching a plush saber-toothed tiger to her chest and wearing a beaded necklace with a carved copper amulet. (For more information about Arabelle, see [[Arc E - The Missing Vistana]].)
 # D4. Coffin Maker's Shop
 <span class="citation"><em>This scene takes place in Chapter 5: Area N6.</em></span>
 
 The coffin maker's shop is largely as described in <span class="citation">N6. Coffin Maker's Shop (p. 116)</span>. However, the crates in <span class="citation">N6f. Vampire Nest (p. 118)</span> have been replaced by three coffins packed with grave dirt from Castle Ravenloft, which contain two **vampire spawn** and **Volenta Popofsky**, one of Strahd's vampiric brides. In addition, players who explore <span class="citation">N6f. Vampire Nest (p. 118)</span> find a faded green-tinged pentagram 5 feet in diameter burned onto the floor at the edge of the room, just beyond the vampires' coffins.
 
 > [!lore]+ **The Burned Pentagram**
-> The green pentagram is a remnant of Volenta's use of the teleportation brazier in <span class="citation">K78. Brazier Room (p. 82)</span>. If asked, Henrik doesn't know what it signifies. However, he can share with the players that, one night shortly after he first met Volenta, a sickly green light flashed through the shop, with her two **vampire spawn** companions exiting from  <span class="citation">N6f. Vampire Nest (p. 118)</span> shortly thereafter.
+> The green pentagram is a remnant of Volenta's use of the teleportation brazier in <span class="citation">K78. [[Places/Brazier Room|Brazier Room]] (p. 82)</span>. If asked, Henrik doesn't know what it signifies. However, he can share with the players that, one night shortly after he first met Volenta, a sickly green light flashed through the shop, with her two **vampire spawn** companions exiting from  <span class="citation">N6f. Vampire Nest (p. 118)</span> shortly thereafter.
 
 Henrik van der Voort, the coffin maker, follows the following schedule:
 
 * In the morning, he sleeps in, remaining in bed in **N6e. Henrik's Bedroom**.
-* In the late morning, he anxiously checks that the wardrobe containing St. Andral's bones hasn't been disturbed, and then prepares breakfast in **N6d. Kitchen**.
+* In the late morning, he anxiously checks that the wardrobe containing St. Andral's bones hasn't been disturbed, and then prepares breakfast in **N6d. [[Places/Kitchen|Kitchen]]**.
 * In the afternoon, he builds coffins in **N6c. Workshop**.
 * In the evening, he prepares an evening meal in **N6d. Kitchen**.
 * At night, he sleeps in **N6e. Henrik's Bedroom.**
@@ -292,20 +292,20 @@ Henrik does not know that Volenta has secretly installed a poison needle trap an
 ## D4b. Recovering the Bones
 The bones have been concealed as described in <span class="citation">N6e. Henrik's Bedroom (p. 117)</span>. However, Volenta Popofsky has added two additional safeguards to the secret compartment:
 
-* a **poison needle** trap (<span class="citation">Dungeon Master's Guide, p. 123</span>), which triggers unless a particular wooden panel is pushed before the compartment is opened, and
-* a hidden wire attached to the compartment's opening, which connects to a noisemaker at the base of the compartment shaped vaguely like the head of the toymaker Gadof Blinsky, including his jester’s cap and bells. 
+* a **poison needle** trap (<span class="citation">[[Items/Dungeon Master's Guide|Dungeon Master's Guide]], p. 123</span>), which triggers unless a particular wooden panel is pushed before the compartment is opened, and
+* a hidden wire attached to the compartment's opening, which connects to a noisemaker at the base of the compartment shaped vaguely like the head of the toymaker [[NPCs/Gadof Blinsky|Gadof Blinsky]], including his jester’s cap and bells. 
 
-The poison needle trap can be identified and disarmed as described in the <span class="citation">Dungeon Master's Guide (p. 123)</span>. 
+The poison needle trap can be identified and disarmed as described in the <span class="citation">[[Items/Dungeon Master's Guide|Dungeon Master's Guide]] (p. 123)</span>. 
 
 > [!warning]+ **Which Needle?**
-> There are two official poison needle traps in *Dungeons & Dragons* 5th Edition: the ***poison needle*** provided on page 123 of the *Dungeon Master's Guide*, and the ***poison needle trap*** provided on page 114 of *Xanathar's Guide to Everything*. This guide refers to the former, which merely poisons its victim instead of paralyzing them.
+> There are two official poison needle traps in *[[Places/Dungeons|Dungeons]] & Dragons* 5th Edition: the ***poison needle*** provided on page 123 of the *Dungeon Master's Guide*, and the ***poison needle trap*** provided on page 114 of *[[Items/Xanathar's Guide to Everything|Xanathar's Guide to Everything]]*. This guide refers to the former, which merely poisons its victim instead of paralyzing them.
 
 The hidden wire can be identified before the compartment is fully opened with a successful DC 20 Intelligence (Investigation) check, and disarmed with a successful DC 20 Dexterity (Thieves' Tools) check.
 
 Opening the compartment without disabling the wire or unsuccessfully attempting to disarm the wire causes the noisemaker to loudly screech, “Is no fun, is no Blinsky!” repeatedly for 1 minute, alerting the vampires in **N6f. Vampire Nest**.
 
 > [!lore]+ **The Noisemaker**
-> Volenta purchased the noisemaker from Gadof Blinsky of Blinsky Toys, described further in <span class="citation">N7. Blinsky Toys (p. 118)</span>, several nights ago. Though tempted to kill him or take the toy by force, Blinsky's affinity for the macabre led Volenta to regard him as a kindred spirit, and she elected to spare his life on a whim. 
+> Volenta purchased the noisemaker from [[NPCs/Gadof Blinsky|Gadof Blinsky]] of Blinsky Toys, described further in <span class="citation">N7. Blinsky Toys (p. 118)</span>, several nights ago. Though tempted to kill him or take the toy by force, Blinsky's affinity for the macabre led Volenta to regard him as a kindred spirit, and she elected to spare his life on a whim. 
 
 > [!abstract]+ **Disabling the Noisemaker**
 > If the players successfully retrieve the bones without alerting the vampires, Volenta discovers the bones to be missing shortly after she awakens at dusk that night. If Henrik is still within the shop, she disembowels and beheads him, then leaves his head staked on a spear leaning against the statue at the center of <span class="citation">N8. Town Square (p. 119)</span>. In either case, Volenta then departs Vallaki for Castle Ravenloft, slinking back to the keep in shame.
@@ -331,12 +331,12 @@ If the players allow the noisemaker to activate, [[Non-Player Characters#Volenta
 >
 > ***Morale.*** In a fight, Volenta would gleefully relish the opportunity to test her custom-made weapons on hostile subjects—and, when pushed far enough, to tear those subjects apart with her bare hands and teeth.
 >
-> ***Relationships.*** Volenta is fanatically loyal to Strahd von Zarovich, and views his other brides and consorts—especially Anastrasya, Ludmilla, and Escher—with deep resentment, jealousy, and suspicion.
+> ***Relationships.*** Volenta is fanatically loyal to Strahd von Zarovich, and views his other brides and consorts—especially [[NPCs/Anastrasya Karelova|Anastrasya]], [[NPCs/Ludmilla|Ludmilla]], and [[NPCs/Escher|Escher]]—with deep resentment, jealousy, and suspicion.
 
 Volenta uses the two vampire spawn with her as cover, placing them between her and the players. She then greets them as follows, providing them with an opportunity to respond each time:
 
 * Volenta addresses the players as "her Lord's new toys" with amusement and disbelief.
-* She claims that they're "less impressive" than she'd expected, and boasts that neither they nor "Ludmilla, Anastrasya, or her Lord's skinny new plaything could hold a candle to her vision." (The "skinny new plaything" is referring to Escher.)
+* She claims that they're "less impressive" than she'd expected, and boasts that neither they nor "[[NPCs/Ludmilla|Ludmilla]], [[NPCs/Anastrasya Karelova|Anastrasya]], or her Lord's skinny new plaything could hold a candle to her vision." (The "skinny new plaything" is referring to [[NPCs/Escher|Escher]].)
 * She insists that the players couldn't stop her scheme if they tried. "Once I make the pews of your little church run red with blood," she raves, "my beloved will recognize the real gem of his realm—_me!_"
 * She observes that it's lucky that they're in a coffin shop, adding, "After all, they'll need *somewhere* to put your parts when I'm through with you." She then directs the other vampires to attack.
 
@@ -354,7 +354,7 @@ Volenta uses the two vampire spawn with her as cover, placing them between her a
 > | Volenta Popofsky | 1 | 1 | 1 | 1 |
 
 > [!warning]+ **Vampire Spawn and Grappling** 
-> To avoid vampire spawn getting trapped in place due to player abilities that slow movement, all vampire spawn in Barovia have the following ability: **Fast Grappler**. The vampire spawn does not have to spend extra movement to move a creature grappled by it if the grappled creature is the same size or smaller.
+> To avoid vampire spawn getting trapped in place due to player abilities that slow movement, all vampire spawn in [[Places/Barovia|Barovia]] have the following ability: **Fast Grappler**. The vampire spawn does not have to spend extra movement to move a creature grappled by it if the grappled creature is the same size or smaller.
 
 > [!warning]+ **Sunlight in Barovia**
 > Remember that vampires and other creatures in Barovia are unaffected by Barovian daylight, as described in <span class="citation">Sunlight in Barovia (p. 24)</span>.
@@ -507,7 +507,7 @@ If any of the players are reduced to 0 hit points, Father Lucian spends his acti
 >
 > Because Volenta and her **vampire spawn** prefer to target the players instead of Father Lucian, it's unlikely that Father Lucian will be reduced to 0 hit points in this battle.
 >
-> However, as noted in **Monsters and Death** (<span class="citation">Player's Handbook, p. 198</span>), allied non-player characters—such as Father Lucian, Ireena Kolyana, and any other NPC fighting alongside the players—should fall unconscious upon being reduced to 0 hit points. When they do, they follow the same rules for death saving throws as player characters, described further in **Death Saving Throws** (<span class="citation">Player's Handbook, p. 197</span>).
+> However, as noted in **Monsters and Death** (<span class="citation">[[Items/Player's Handbook|Player's Handbook]], p. 198</span>), allied [[Factions/Non-Player Characters|non-player characters]]—such as Father Lucian, Ireena Kolyana, and any other NPC fighting alongside the players—should fall unconscious upon being reduced to 0 hit points. When they do, they follow the same rules for death saving throws as player characters, described further in **Death Saving Throws** (<span class="citation">[[Items/Player's Handbook|Player's Handbook]], p. 197</span>).
 ### 3. The Vampire Spawn
 The two **vampire spawn** fight by using their ***claws*** to grapple enemies, who they then drag away to feast upon in private—preferably by hauling grappled prey out of the windows and onto the rooftop of the shop. Both spawn fight to the death.
 # D5. Retrieving the Bones
@@ -515,9 +515,9 @@ If the players and Father Lucian successfully return the stolen bones to St. And
 
 **_Milestone_**. Returning the bones of St. Andral completes a story milestone. Upon returning them to the church, award each player 1,250 XP.
 # D6. Rahadin's Visit
-At dusk on the first night after the bones have been restored and Lady Fiona Wachter has assumed power in [[Arc F - Lady Wachter's Wish]] or following [[Arc G - The Strazni Siblings]], Rahadin, Strahd's chamberlain, arrives in Vallaki atop his _phantom steed_. He then commands the town guard to arrest Milivoj and Henrik and bring them to the town square for judgment. (Because of Lady Wachter's standing orders to obey the laws of Castle Ravenloft—so long as they do not bring harm to the innocent people of Vallaki—the guards at the gates do not disobey.)
+At dusk on the first night after the bones have been restored and [[NPCs/Lady Fiona Wachter|Lady Fiona Wachter]] has assumed power in [[Arc F - Lady Wachter's Wish]] or following [[Arc G - The Strazni Siblings]], Rahadin, Strahd's chamberlain, arrives in Vallaki atop his _phantom steed_. He then commands the town guard to arrest Milivoj and Henrik and bring them to the town square for judgment. (Because of Lady Wachter's standing orders to obey the laws of Castle Ravenloft—so long as they do not bring harm to the innocent people of Vallaki—the guards at the gates do not disobey.)
 ## D6a. The Invitation
-Rahadin next rides to the Blue Water Inn or wherever else the players can be found. There, he delivers the players an invitation to dine at Castle Ravenloft, as described in [[Arc O - Dinner with the Devil]], before departing.
+Rahadin next rides to the [[Places/Blue Water Inn|Blue Water Inn]] or wherever else the players can be found. There, he delivers the players an invitation to dine at Castle Ravenloft, as described in [[Arc O - Dinner with the Devil]], before departing.
 
 Shortly after Rahadin leaves, a red-faced, sobbing Yeska approaches the players and pleads with them to quickly come to the town square. Milivoj, he tells them, has been taken prisoner by the town guard, and is set to be executed. (Father Lucian, who has already gone to the town square to call for clemency, sent Yeska to find and summon the players when Milivoj was taken from the church grounds.)
 ## D6b. The Trial
@@ -722,9 +722,9 @@ Milivoj himself has been relocated to his family home—both to show (not tell) 
 
 ***Return to the Church.*** Father Lucian asks to accompany the players to the coffin maker's shop in order to ensure that the party has the benefits of his *spirit guardians* spell during the fight with Volenta's **vampire spawn** (i.e., to counteract their regeneration).
 
-***Arasek Stockyard.*** Erasmus' ghost has been added to discourage the players from investigating the wagon while also carefully avoiding *encouraging* them to do it out of spite.
+***Arasek Stockyard.*** [[NPCs/Erasmus van Richten|Erasmus]]' ghost has been added to discourage the players from investigating the wagon while also carefully avoiding *encouraging* them to do it out of spite.
 
-The fresh paint for the Carnival of Wonders sign has been added to intentionally foreshadow that Rictavio (who the players will confront in [[Arc E - The Missing Vistana]]) is not all that he seems.
+The fresh paint for the [[Places/Carnival of Wonders|Carnival of Wonders]] sign has been added to intentionally foreshadow that [[NPCs/Rictavio|Rictavio]] (who the players will confront in [[Arc E - The Missing Vistana]]) is not all that he seems.
 
 ***Coffin Maker's Shop.*** Volenta's two traps have been added to increase the probability that the players do battle with the vampires, thereby introducing them directly to Strahd's minions and the threat posed by vampires. The number of **vampire spawn** has been reduced from six to three, including Volenta, to ensure that the encounter is balanced for a 4th-level party.
 

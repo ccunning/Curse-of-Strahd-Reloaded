@@ -1,46 +1,46 @@
 _An adventure for five 5th-level characters._
 
-In this arc, the first morning after the players' first full moon in Barovia, they are approached by Urwin Martikov, who asks them to investigate a mysterious shortage of wine deliveries from the Wizard of Wines winery to the southwest. If the players accept his mission, Urwin asks them to allow Muriel Vinshaw—an employee of the winery—to accompany them on the journey. (Muriel is, of course, a secret **wereraven** and a member of the Keepers of the Feather, tasked with delivering word of Strahd’s prophecy to Davian Martikov, the leader of the order.)
+In this arc, the first morning after the players' first full moon in [[Places/Barovia|Barovia]], they are approached by [[NPCs/Urwin Martikov|Urwin Martikov]], who asks them to investigate a mysterious shortage of wine deliveries from [[Places/Wizard of Wines|the Wizard of Wines]] winery to the southwest. If the players accept his mission, [[NPCs/Urwin Martikov|Urwin]] asks them to allow [[NPCs/Muriel Vinshaw|Muriel Vinshaw]]—an employee of the winery—to accompany them on the journey. ([[NPCs/Muriel Vinshaw|Muriel]] is, of course, a secret **wereraven** and a member of [[Factions/Keepers of the Feather|the Keepers of the Feather]], tasked with delivering word of [[NPCs/Strahd von Zarovich|Strahd]]’s prophecy to [[NPCs/Davian Martikov|Davian Martikov]], the leader of the order.)
 
-Before the players depart Vallaki, Ireena Kolyana—inspired by the players’ exploits there and filled with grim determination following her encounters with Izek Strazni—asks them to allow her to accompany them on their travels, forsaking the sanctuary of Vallaki for an opportunity to join the fight against Strahd. If the players accept her request, Ireena joins the party as a permanent companion for the remainder of the campaign.
+Before the players depart [[Places/Vallaki|Vallaki]], [[NPCs/Ireena Kolyana|Ireena Kolyana]]—inspired by the players’ exploits there and filled with grim determination following her encounters with [[NPCs/Izek Strazni|Izek Strazni]]—asks them to allow her to accompany them on their travels, forsaking the sanctuary of [[Places/Vallaki|Vallaki]] for an opportunity to join the fight against [[NPCs/Strahd von Zarovich|Strahd]]. If the players accept her request, [[NPCs/Ireena Kolyana|Ireena]] joins the party as a permanent companion for the remainder of the campaign.
 
-Upon arriving at the Wizard of Wines, the players meet Davian Martikov—the patriarch of the Martikov family—and his assorted children and grandchildren, who have taken shelter in a hidden cavern beneath the nearby woods. Davian shares that the winery has been invaded by a group of druids known as the Forest Folk alongside a horde of twisted plant creatures called **blights**. Davian asks the players to defeat the Forest Folk and break the staff that their leader uses to control the blights, allowing the Martikovs to reclaim their home.
+Upon arriving at [[Places/Wizard of Wines|the Wizard of Wines]], the players meet [[NPCs/Davian Martikov|Davian]] [[Factions/Martikov family|Martikov]]—the patriarch of the [[Factions/Martikov family|Martikov family]]—and his assorted children and grandchildren, who have taken shelter in a hidden cavern beneath the nearby woods. Davian shares that the winery has been invaded by a group of druids known as the [[Factions/Forest Folk|Forest Folk]] alongside a horde of twisted plant creatures called **blights**. Davian asks the players to defeat the [[Factions/Forest Folk|Forest Folk]] and break the staff that their leader uses to control the blights, allowing the Martikovs to reclaim their home.
 
-To do so, the players must enter the winery through a secret tunnel that leads into the cellar, then do battle with the druids and their corrupted blight servants. The druids, however, are nurturing a cutting of the “Gulthias tree"—a vampiric tree that grows atop Yester Hill to the south—within the walls of the winery, complicating the players’ efforts to reach the upper levels.
+To do so, the players must enter the winery through a secret tunnel that leads into the cellar, then do battle with the druids and their corrupted blight servants. The druids, however, are nurturing a cutting of the “[[Items/Gulthias tree|Gulthias tree]]"—a vampiric tree that grows atop [[Places/Yester Hill|Yester Hill]] to the south—within the walls of the winery, complicating the players’ efforts to reach the upper levels.
 
-Should the players defeat the druids, they learn that the Forest Folk are planning a ritual to summon a being called “Wintersplinter" at Yester Hill the following day—a being that threatens to smash the winery into pieces. Davian asks the players and Muriel to journey to Yester Hill and prevent Wintersplinter’s birth. Davian also asks the players to retrieve an enchanted gemstone that the winery previously used to grow grapes before it was stolen by the druids.
+Should the players defeat the druids, they learn that the Forest Folk are planning a ritual to summon a being called “[[NPCs/Wintersplinter|Wintersplinter]]" at [[Places/Yester Hill|Yester Hill]] the following day—a being that threatens to smash the winery into pieces. Davian asks the players and Muriel to journey to Yester Hill and prevent [[NPCs/Wintersplinter|Wintersplinter]]’s birth. Davian also asks the players to retrieve an enchanted gemstone that the winery previously used to grow grapes before it was stolen by the druids.
 
-At Yester Hill, Muriel first guides the players to a grove in the shadow of the Svalich Woods. There, she summons the spirit of Kavan, an ancient chieftain of the Forest Folk, who provides information regarding the druids’ plans and defenses. Kavan warns the players that Svarog, the druids’ leader, is a mighty foe, and invites them to return to his cairn should they defeat Svarog and retrieve his yew wand.
+At Yester Hill, Muriel first guides the players to a grove in the [[NPCs/Shadow|shadow]] of the [[Places/Svalich Woods|Svalich Woods]]. There, she summons the spirit of [[NPCs/Kavan|Kavan]], an ancient chieftain of the Forest Folk, who provides information regarding the druids’ plans and defenses. [[NPCs/Kavan|Kavan]] warns the players that [[NPCs/Svarog|Svarog]], the druids’ leader, is a mighty foe, and invites them to return to his cairn should they defeat [[NPCs/Svarog|Svarog]] and retrieve his yew wand.
 
-As the players continue their journey to Yester Hill, they are met by Strahd von Zarovich riding his **nightmare**, Beucephalus. Should the players convince Strahd to allow them to oppose the druids, Strahd suggests a wager and offers a reward should they win, which the players can collect at the Whispering Wall west of Yester Hill after the battle.
+As the players continue their journey to Yester Hill, they are met by Strahd von Zarovich riding his **nightmare**, [[NPCs/Beucephalus|Beucephalus]]. Should the players convince Strahd to allow them to oppose the druids, Strahd suggests a wager and offers a reward should they win, which the players can collect at [[Places/Whispering Wall|the Whispering Wall]] west of Yester Hill after the battle.
 
-The players must climb Yester Hill without alerting the druids’ patrols, fight their way past the guardians of the stone ring atop the hill, and defeat Svarog’s circle of druids before they can summon Wintersplinter, a fearsome **tree blight** that threatens to lay siege to the Wizard of Wines winery. If the players succeed, they can obtain the Martikovs’ stolen gemstone from Wintersplinter’s heart and end the threat of the Forest Folk for good.
+The players must climb Yester Hill without alerting the druids’ patrols, fight their way past the guardians of the stone ring atop the hill, and defeat Svarog’s circle of druids before they can summon Wintersplinter, a fearsome **[[NPCs/Tree Blight|tree blight]]** that threatens to lay siege to the Wizard of Wines winery. If the players succeed, they can obtain the Martikovs’ stolen gemstone from Wintersplinter’s heart and end the threat of the Forest Folk for good.
 
-Should the players meet Strahd at the Whispering Wall, he shares a brief history of the wall and invites them to venture into its misted depths, where they can face visions of their deepest desires. Before departing, Strahd presents the players with their reward, as well as additional gifts for each player who entered and returned from the Whispering Wall.
+Should the players meet Strahd at [[Places/Whispering Wall|the Whispering Wall]], he shares a brief history of the wall and invites them to venture into its misted depths, where they can face visions of their deepest desires. Before departing, Strahd presents the players with their reward, as well as additional gifts for each player who entered and returned from the Whispering Wall.
 
-Should the players return to Kavan’s cairn and present him with Svarog’s wand, he shares with them the story of the schism between the Forest Folk (who chose to worship Strahd) and the Mountain Folk (who defied Strahd’s authority) long ago. Kavan tells the players of the Ladies of the Fanes, and instructs them to travel to the hidden Mountain Folk settlement of Soldav in Tsolenka Pass if they wish to find a way to reverse the land’s corruption.
+Should the players return to Kavan’s cairn and present him with Svarog’s wand, he shares with them the story of the schism between the Forest Folk (who chose to worship Strahd) and the [[Factions/Mountain Folk|Mountain Folk]] (who defied Strahd’s authority) long ago. Kavan tells the players of the [[Factions/Ladies of the Fanes|Ladies of the Fanes]], and instructs them to travel to the hidden [[Factions/Mountain Folk|Mountain Folk]] settlement of [[Places/Soldav|Soldav]] in [[Places/Tsolenka Pass|Tsolenka Pass]] if they wish to find a way to reverse the land’s corruption.
 # J1. The Blue Water Inn
 ### J1a. Urwin’s Request
-The morning after the night of the players’ first full moon in Barovia, if they have been staying at the Blue Water Inn, Urwin Martikov approaches them with an expression of obvious concern. 
+The morning after the night of the players’ first full moon in [[Places/Barovia|Barovia]], if they have been staying at the [[Places/Blue Water Inn|Blue Water Inn]], Urwin Martikov approaches them with an expression of obvious concern. 
 
-After exchanging pleasantries, Urwin reluctantly (though quietly) asks if they would be willing to assist him and Danika with a problem that the inn is currently facing. If the players agree, Urwin shares the following information:
+After exchanging pleasantries, Urwin reluctantly (though quietly) asks if they would be willing to assist him and [[NPCs/Danika Dorakova|Danika]] with a problem that the inn is currently facing. If the players agree, Urwin shares the following information:
 
-* The Blue Water Inn ordinarily receives regular shipments of wine once a fortnight from the Wizard of Wines, located at the southwest end of the Barovian valley, including both the popular Purple Grapemash No. 3 and the pricier Red Dragon Crush.
-* However, this fortnight’s shipment is late by two days, and the inn’s supplies are beginning to run low. Urwin and Danika have enough in savings that this shouldn’t be an immediate problem, but they’re worried about the welfare of the winery, which hasn’t been heard from since the last shipment arrived.
+* The [[Places/Blue Water Inn|Blue Water Inn]] ordinarily receives regular shipments of wine once a fortnight from the Wizard of Wines, located at the southwest end of the Barovian valley, including both the popular Purple Grapemash No. 3 and the pricier Red Dragon Crush.
+* However, this fortnight’s shipment is late by two days, and the inn’s supplies are beginning to run low. Urwin and [[NPCs/Danika Dorakova|Danika]] have enough in savings that this shouldn’t be an immediate problem, but they’re worried about the welfare of the winery, which hasn’t been heard from since the last shipment arrived.
 
 Urwin asks the players to travel to the Wizard of Wines and speak with the owner, a man named Davian Martikov, to discern the reason for the delay and resolve it, if necessary. (If the players point out Davian’s last name, Urwin grimly admits that Davian is his father, but refuses to elaborate, sharing only that he and his father have not spoken in many years.) Urwin warns the players that Davian is a “stubborn old bird," and that his short temper might wear on their patience.
 
 Urwin notes, however, that the Inn has sufficient wine stock to last at least a few days. If the players have more pressing business to attend to, he’s happy for them to take an additional day or two before departing.
 
-If the players accept Urwin’s mission, he asks them to join him in the Blue Water Inn's kitchen in one hour to meet with Muriel Vinshaw, a former employee of the Wizard of Wines who can take them to the winery. (If asked, Urwin shares that Muriel has business of her own at the winery and that she is similarly concerned for the winery’s safety, but declines to provide any further information.)
+If the players accept Urwin’s mission, he asks them to join him in the Blue Water Inn's [[Places/Kitchen|kitchen]] in one hour to meet with Muriel Vinshaw, a former employee of the Wizard of Wines who can take them to the winery. (If asked, Urwin shares that Muriel has business of her own at the winery and that she is similarly concerned for the winery’s safety, but declines to provide any further information.)
 
 > [!lore]+ **What Urwin Knows**
 > Urwin believes that something terrible has happened to the winery—though what, he isn't sure. Although he sent out a half-dozen ravens to investigate when the first delivery failed to appear, none returned.
 > 
-> Urwin knows, thanks to Muriel, that Baba Lysaga's **strix** have recently begun to patrol the valley in greater force and numbers. Although Muriel has volunteered to investigate, he and Muriel have decided that the skies are likely no longer safe, and that the best way for her to proceed is on foot, preferably with skilled bodyguards.
+> Urwin knows, thanks to Muriel, that [[NPCs/Baba Lysaga|Baba Lysaga]]'s **strix** have recently begun to patrol the valley in greater force and numbers. Although Muriel has volunteered to investigate, he and Muriel have decided that the skies are likely no longer safe, and that the best way for her to proceed is on foot, preferably with skilled bodyguards.
 ## J1b. Setting Off
 ### Meeting Muriel
-When the players meet Urwin in the Blue Water Inn's kitchen after accepting his mission, he introduces them to Muriel Vinshaw. Read:
+When the players meet Urwin in the Blue Water Inn's [[Places/Kitchen|kitchen]] after accepting his mission, he introduces them to Muriel Vinshaw. Read:
 
 <div class="description">
 <p>A young woman leans against the stove, her arms crossed. She is short and dusky-skinned, with jet-black hair and dark eyes.  A  mud-stained cloak hangs across her shoulders, and a small, dark feather hangs on a leather cord around her neck between two carved wooden beads. A wooden crossbow hangs from a mount on her back, and a shortsword rests sheathed at her hip.</p>
@@ -52,31 +52,31 @@ When the players meet Urwin in the Blue Water Inn's kitchen after accepting his 
 
 > [!profile]+ **Profile: Muriel Vinshaw**
 > **Roleplaying Information**
-> ***Resonance.*** Muriel should inspire endearment with her enthusiastic, go-getter attitude, amusement with her snarky comments and cheerful sense of humor, and mild irritation with her stubbornness and occasional (though apologetic) refusals to reveal the secrets of the Keepers of the Feather.
+> ***Resonance.*** Muriel should inspire endearment with her enthusiastic, go-getter attitude, amusement with her snarky comments and cheerful sense of humor, and mild irritation with her stubbornness and occasional (though apologetic) refusals to reveal the secrets of [[Factions/Keepers of the Feather|the Keepers of the Feather]].
 > 
 > ***Emotions.*** Muriel most often feels curious, excited, determined, triumphant, gleeful, amused, angry, or sad.
 > 
-> ***Motivations.*** Muriel wants to honor Elric's life through her resistance to Strahd and make a difference in the everyday lives of Barovians in her capacity as a field agent for the Keepers of the Feather.
+> ***Motivations.*** Muriel wants to honor [[NPCs/Elric Martikov|Elric]]'s life through her resistance to Strahd and make a difference in the everyday lives of Barovians in her capacity as a field agent for the Keepers of the Feather.
 > 
 > ***Inspirations.*** When playing Muriel, channel Amethyst (*Steven Universe*), Sokka (*Avatar: the Last Airbender*), and Peter Parker (*Spider-Man*).
 > 
 > **Character Information**
-> ***Persona.*** To the world, Muriel is a cheerful, if occasionally scatterbrained young woman. To those she trusts, Muriel is a determined field agent for the Keepers of the Feather, with a strong sense of justice and a fierce independent streak. Deep down, Muriel is still grieving the death of her fiancé, Elric Martikov, and wonders whether she'll ever fix what his death broke inside of her.
+> ***Persona.*** To the world, Muriel is a cheerful, if occasionally scatterbrained young woman. To those she trusts, Muriel is a determined field agent for the Keepers of the Feather, with a strong sense of justice and a fierce independent streak. Deep down, Muriel is still grieving the death of her fiancé, [[NPCs/Elric Martikov|Elric Martikov]], and wonders whether she'll ever fix what his death broke inside of her.
 > 
 > ***Morale.*** In a fight, Muriel would gladly pull out her shortsword or crossbow and dare her opponent to strike first, fleeing only if her regeneration were blocked or outmatched.
 > 
-> ***Relationships.*** Muriel is an agent of the Keepers of the Feather under Davian Martikov, a contact and ally of Keeper spymaster Urwin Martikov, and the once-fiancé of Davian's deceased son, Elric Martikov, who was imprisoned while assisting Doru's rebellion against Castle Ravenloft.
+> ***Relationships.*** Muriel is an agent of the Keepers of the Feather under Davian Martikov, a contact and ally of Keeper spymaster Urwin Martikov, and the once-fiancé of Davian's deceased son, Elric Martikov, who was imprisoned while assisting [[NPCs/Doru|Doru]]'s rebellion against [[Places/Castle Ravenloft|Castle Ravenloft]].
 
 Muriel greets the players warmly and introduces herself, noting that Urwin has told her that she’ll be bringing them to the Wizard of Wines even as they make sure that she “doesn’t get killed." Following their reply, she then chides the players briefly, playfully suggesting that they “don’t seem like the adventuring type". If the players share any of their exploits in Vallaki or beyond, Muriel cheerfully concedes that they do indeed look well-equipped and well-prepared and thanks them for taking the job.
 
 > [!lore]+ **Muriel’s Secret Identity**
-> Muriel is, of course, a **wereraven** and a secret member of the Keepers of the Feather—the same blue-winged wereraven, in fact, that the players previously encountered in the village of Barovia and on the path to Tser Pool.
+> Muriel is, of course, a **wereraven** and a secret member of the Keepers of the Feather—the same blue-winged wereraven, in fact, that the players previously encountered in [[Places/Village of Barovia|the village of Barovia]] and on the path to [[Places/Tser Pool Encampment|Tser Pool]].
 > 
 > If the players confront Muriel and suggest that she’s secretly a wereraven, druid, or other shapeshifter, she scoffs at the prospect and summarily denies the allegations with a healthy dose of sarcasm, laughter, and good-natured humor, spinning off a series of excuses as she does:
 > 
 > * (If accused of being a shapeshifter) “What, like some kind of tree-hugging druid? I don’t even have a wooden staff. And I *hate* trees."
 > * (If accused of being a wereraven) “Oh, so like a werewolf but for ravens instead? That’s so stupid. ‘Oh, look at me, I’m a dangerous werewolf who turns into birds!’"
-> * (If her blue streak of hair is pointed out) “I once saw a wolf with an ugly face, but that doesn’t mean it was Izek Strazni in disguise. Good on that bird, though. He’s got good taste."
+> * (If her blue streak of hair is pointed out) “I once saw a wolf with an ugly face, but that doesn’t mean it was [[NPCs/Izek Strazni|Izek Strazni]] in disguise. Good on that bird, though. He’s got good taste."
 > * (If the players continue to insist that Muriel was the blue-winged raven) "Believe what you want. But if I catch you sneaking birdseed into my rations, we're probably gonna have a problem."
 
 If the players provide undeniable evidence for their suggestion (such as Muriel’s uncanny ability to regenerate from her wounds), she winces, then insists that she can’t say anything further without first speaking to her “boss." (She won’t disclose her boss’s identity, but can truthfully promise that her boss is neither Strahd nor one of his servants.)
@@ -137,40 +137,40 @@ If the players provide undeniable evidence for their suggestion (such as Muriel�
 ### Ireena's Request
 Before the players depart the Blue Water Inn, if they have previously treated Ireena Kolyana with kindness and respect, she enters the inn’s taproom to meet them—once again wearing her rapier and breastplate.
 
-Ireena, who has learned of the players’ destination from Danika, Father Petrovich, or another friendly Vallakian with connections to the Martikovs, first confirms that the players are leaving Vallaki to investigate the Wizard of Wines. Once she does, she asks the players for an opportunity to accompany them—to journey at their side in their fight to aid Barovia and defy Strahd’s will. She can share the following information to explain her decision:
+Ireena, who has learned of the players’ destination from Danika, [[NPCs/Father Petrovich|Father Petrovich]], or another friendly Vallakian with connections to the Martikovs, first confirms that the players are leaving Vallaki to investigate the Wizard of Wines. Once she does, she asks the players for an opportunity to accompany them—to journey at their side in their fight to aid Barovia and defy Strahd’s will. She can share the following information to explain her decision:
 
 * Ireena shares that, after seeing the players’ exploits in Vallaki, she has realized the importance of fighting for others, rather than simply speaking for them. She wants to learn to be a warrior for her people, and to resist Strahd’s tyranny directly—without fear or hesitation.
 * If Ireena was stalked or kidnapped by Izek Strazni in ***Act H: The Strazni Siblings***, she shares that she is tired of hiding from those who seek to use her for their own ends, and finished with allowing others to be harmed in their efforts to protect her. She is determined to stand on her own two feet and to fight her own battles instead of allowing others to fight them for her.
-* Ireena notes that St. Andral’s Church has already been targeted by Strahd’s servants once—and that while Ismark sent her to Vallaki in the hopes that she would be beyond Strahd’s reach, her experiences there have shown her that nowhere in the valley is truly safe.
+* Ireena notes that St. Andral’s Church has already been targeted by Strahd’s servants once—and that while [[NPCs/Ismark Kolyanovich|Ismark]] sent her to Vallaki in the hopes that she would be beyond Strahd’s reach, her experiences there have shown her that nowhere in the valley is truly safe.
 
 If the players appear concerned for Ireena’s safety, she points out that, throughout their travels, none of Strahd’s servants or minions have dared attack her, suggesting that he has ordered them to leave her unharmed. 
 
-If the players suggest that Ireena will be ill-equipped for a life of adventuring, she points out that she is a trained healer (due to her mother’s tutelage); that she is a capable swordswoman (thanks to Ismark’s training); and that she can further assist them by serving as a liaison and sharing information about the valley.
+If the players suggest that Ireena will be ill-equipped for a life of adventuring, she points out that she is a trained healer (due to her mother’s tutelage); that she is a capable swordswoman (thanks to [[NPCs/Ismark Kolyanovich|Ismark]]’s training); and that she can further assist them by serving as a liaison and sharing information about the valley.
 
 If the players suggest that Ireena’s presence will draw Strahd’s attention or otherwise bring them ill luck, she stiffens, then asks them quietly if they truly wish to send her away, as Ismark did. If they repeat their refusal, she acquiesces to their decision.
 # J2. The Old Svalich Road
 The journey from the town of Vallaki to the **Wizard of Wines winery** is just under seven miles long and takes two-and-one-quarter hours to complete. To get to the winery, the players must travel to the Raven River Crossroads, then head south.
 ## J2a. Crossing the River
-As the players cross the bridge over the Luna River, read the following:
+As the players cross the bridge over the [[Places/Luna River|Luna River]], read the following:
 
 <div class="description">
 <p>The path narrows, flanked by dense, towering trees. Up ahead, you can see an old wooden bridge come into view, its age-worn planks spanning the rushing river below. As you approach, you can see the dark river tumbling over the smooth stones of the riverbed, bordered on either side by gnarled bushes and trees.</p>
 <p>As you step onto the bridge, your boots echo against the old, damp wood. To the north, you can see the river meander upstream around the tree line before vanishing around a curve. To the south, the river winds like a ribbon between its banks, then gradually vanishes into mist.</p>
 </div>
 
-The Luna River Crossroads are as described in <span class="citation">P. Luna River Crossroads (p. 40)</span>. However, do not check for a random encounter when the players reach this area.
+The [[Places/Luna River|Luna River Crossroads]] are as described in <span class="citation">P. Luna River Crossroads (p. 40)</span>. However, do not check for a random encounter when the players reach this area.
 
-As the players pass it, the path to Argynvostholt is largely as described in <span class="citation">Approaching the Mansion (p. 130)</span>. Read:
+As the players pass it, the path to [[Places/Argynvostholt|Argynvostholt]] is largely as described in <span class="citation">Approaching the Mansion (p. 130)</span>. Read:
 
 <div class="description">
-<p>A dirt path branches off from the Old Svalich Road here, winding its way south up a craggy mountain spur. The earth of the path is hard-packed, its color a pallid gray-brown reminiscent of cold ashes. The trees on either side stand silent and stoic, their leaves a faded green. As the path winds upward, it's eventually replaced by the deep shadows of the mountain's forested incline, vanishing into the gloom of the woods beyond.</p>
+<p>A dirt path branches off from the [[Places/Old Svalich Road|Old Svalich Road]] here, winding its way south up a craggy mountain spur. The earth of the path is hard-packed, its color a pallid gray-brown reminiscent of cold ashes. The trees on either side stand silent and stoic, their leaves a faded green. As the path winds upward, it's eventually replaced by the deep shadows of the mountain's forested incline, vanishing into the gloom of the woods beyond.</p>
 </div>
 
 ## J2b. The Path to Tsolenka Pass
-Just before the players reach the Raven River Crossroads, they come across the path to Lake Baratok and <span class="citation">Chapter 11: Van Richten’s Tower (p. 167)</span>, not far from the path that leads to <span class="citation">Chapter 9: Tsolenka Pass (p. 157)</span>. Read:
+Just before the players reach the Raven River Crossroads, they come across the path to [[Places/Lake Baratok|Lake Baratok]] and <span class="citation">Chapter 11: Van Richten’s Tower (p. 167)</span>, not far from the path that leads to <span class="citation">Chapter 9: [[Places/Tsolenka Pass|Tsolenka Pass]] (p. 157)</span>. Read:
 
 <div class="description">
-<p>An old hunting trail cuts away from the Old Svalich Road here, winding north between old, gnarled trees before vanishing into the underbrush. A hundred yards beyond it, an alpine path splits from the main road to travel south toward the mountains, rising in elevation until it disappears around a steep, tree-covered escarpment.</p>
+<p>An old hunting trail cuts away from the [[Places/Old Svalich Road|Old Svalich Road]] here, winding north between old, gnarled trees before vanishing into the underbrush. A hundred yards beyond it, an alpine path splits from the main road to travel south toward the mountains, rising in elevation until it disappears around a steep, tree-covered escarpment.</p>
 </div>
 
 As the players pass the entrance to the alpine path, they’re watched by a Mountain Folk **berserker** lurking in the southern underbrush. Read:
@@ -185,11 +185,11 @@ If the players investigate, they can make a DC 11 Wisdom (Perception) check to d
 <p>You startle a broad-shouldered woman clad in thick, mud-caked furs and clutching a stone axe. Obsidian ornaments hang from her ears and neck, and a thin layer of gray mud is smeared across her face, blending with the dark trees around her.</p>
 </div>
 
-The woman immediately attempts to flee into the woods. If the players attempt to stop or attack her, Muriel warns them that the woman is one of the Mountain Folk—a tribe of hunter—gatherers that live amongst the Balinok Mountains—and that their people are neither servants of Strahd nor dangerous unless attacked. 
+The woman immediately attempts to flee into the woods. If the players attempt to stop or attack her, Muriel warns them that the woman is one of the Mountain Folk—a tribe of hunter—gatherers that live amongst the [[Places/Balinok Mountains|Balinok Mountains]]—and that their people are neither servants of Strahd nor dangerous unless attacked. 
 
 Muriel doesn’t know why the woman was watching the road, but shares that the Mountain Folk have been more active lately, though no one is quite sure why. Reports suggest that they’re looking for something, however. (If asked how she knows so much about the Mountain Folk, Muriel laughs and claims only that she’s well-traveled and has “many friends" across the valley.)
 
-If the players ask Muriel about the druid of the Forest Folk that they saw on the Old Svalich Road in [[Arc H - The Lost Soul]] she shares that the Forest Folk are known to be loyal servants of Strahd, who they worship like a deity. She advises the players to steer clear of the druids’ lair: a terraced mound called Yester Hill in the southwest corner of the Svalich Woods, south of the Wizard of Wines.
+If the players ask Muriel about the druid of the Forest Folk that they saw on the Old [[Places/Svalich Woods|Svalich]] Road in [[Arc H - The Lost Soul]] she shares that the Forest Folk are known to be loyal servants of Strahd, who they worship like a deity. She advises the players to steer clear of the druids’ lair: a terraced mound called Yester Hill in the southwest corner of the Svalich Woods, south of the Wizard of Wines.
 ## J2c. The Raven River Crossroads
 The Raven River Crossroads are largely as described in <span class="citation">R. Raven River Crossroads (p. 40)</span>. However, do not check for a random encounter when the players reach this area. Additionally, add the following text to the end of the area description:
 
@@ -197,13 +197,13 @@ The Raven River Crossroads are largely as described in <span class="citation">R.
 <p>A figure clad in rusty armor stands alone on the bridge, clutching a gleaming longsword in its pale hands.</p>
 </div>
 
-The figure is recognizably similar to the revenant standing guard at Tser Falls. If approached, it hails the players and asks after their destination.
+The figure is recognizably similar to the [[NPCs/Revenant|revenant]] standing guard at [[Places/Tser Falls|Tser Falls]]. If approached, it hails the players and asks after their destination.
 
-If the players tell the revenant that they are traveling to the Wizard of Wines, it warns them that the Forest Folk of Yester Hill have been increasingly agitated as of late, and that they have been joined by the children of the Gulthias Tree—a twisted husk that grows atop Yester Hill and gives birth to “blights" that crawl forth from its gnarled roots. The revenant advises them to be wary of the blights, which see without eyes and disguise themselves among the flora of the wilds.
+If the players tell the [[NPCs/Revenant|revenant]] that they are traveling to the Wizard of Wines, it warns them that the Forest Folk of Yester Hill have been increasingly agitated as of late, and that they have been joined by the children of [[Items/Gulthias tree|the Gulthias Tree]]—a twisted husk that grows atop Yester Hill and gives birth to “blights" that crawl forth from its gnarled roots. The revenant advises them to be wary of the blights, which see without eyes and disguise themselves among the flora of the wilds.
 
 If the players ask the revenant about the Mountain Folk or Forest Folk, it shares only that the “First People" were split long ago in the face of tragedy and strife, and that their descendants remained apart ever since. It notes that the Forest Folk have embraced Strahd von Zarovich as their lord and ruler, but that the Mountain Folk still hold to the old ways, worshipping ancient goddesses that once dwelled in the valley. (The revenant doesn’t know where the Mountain Folk dwell, but has heard that their settlement is hidden somewhere in the mountains.)
 
-If the players' weapons are clearly visible, it asks the players if they oppose the lord of Castle Ravenloft. If the players claim to oppose Strahd, the revenant advises them to travel to Argynvostholt to the southeast, where Sir Godfrey Gwilym awaits those who would raise their swords against the darkness that lurks in the castle's depths. If the players ask for directions to Argynvostholt, the revenant advises them to travel "east, then south upon the ash-gray path."
+If the players' weapons are clearly visible, it asks the players if they oppose the lord of [[Places/Castle Ravenloft|Castle Ravenloft]]. If the players claim to oppose Strahd, the revenant advises them to travel to [[Places/Argynvostholt|Argynvostholt]] to the southeast, where [[NPCs/Sir Godfrey Gwilym|Sir Godfrey Gwilym]] awaits those who would raise their swords against the darkness that lurks in the castle's depths. If the players ask for directions to Argynvostholt, the revenant advises them to travel "east, then south upon the ash-gray path."
 
 The revenant will not leave its post on the bridge under any circumstances.
 ## J2d. The Spiked Pit Trap
@@ -216,7 +216,7 @@ As the players proceed south from the Raven River Crossroads, read:
 
 As the players enter this area, Muriel whispers that something isn’t right, noting that the road “didn’t smell like death" the last time she passed through here.
 
-The road here hides a spiked pit trap (<span class="citation">Dungeon Master's Guide, p. 122</span>), concealed as described in <span class="citation">False Trail (p. 30)</span>. The clumps of vines (and the source of the scent of decay) are five **vine blights**, concealed through the use of their ***false appearance*** feature.
+The road here hides a spiked pit trap (<span class="citation">[[Items/Dungeon Master's Guide|Dungeon Master's Guide]], p. 122</span>), concealed as described in <span class="citation">False Trail (p. 30)</span>. The clumps of vines (and the source of the scent of decay) are five **vine blights**, concealed through the use of their ***false appearance*** feature.
 
 A player with a passive Wisdom (Perception) score of 15 or greater or who succeeds on a DC 15 Wisdom (Perception) check spots the pit. If any players fall into the pit, attempt to bypass the pit, or attack the vine blights, the vine blights attack. Any player who has not already recognized the clumps of vines as a threat is surprised.
 
@@ -242,43 +242,43 @@ As the players proceed past the pit trap, read:
 <p>The road continues, bending again as the trees begin to pull back from the path. Not far from the road, amidst a small grove of berry-bearing bushes stands an old stone stele standing just under six feet in height. It stands within a circle of old, cracked cobblestones, and seems to bear some kind of carving.</p>
 </div>
 
-If the players choose to investigate the slab, they find that it bears a carving of a wolf over an engraved three-pointed star.  (The slab is an ancient monument to the Huntress, and the three-pointed star the symbol of the Ladies Three. Unlike the other three slabs in Barovia, there is no lichen or moss on this monument, which is ordinarily well-maintained by the Martikovs. Although the Martikovs don't remember the names or natures of the Ladies of the Fanes, they retain a strong respect for Barovia's old gods.)
+If the players choose to investigate the slab, they find that it bears a carving of a wolf over an engraved three-pointed star.  (The slab is an ancient monument to the [[NPCs/Huntress|Huntress]], and the three-pointed star the symbol of the Ladies Three. Unlike the other three slabs in Barovia, there is no lichen or moss on this monument, which is ordinarily well-maintained by the Martikovs. Although the Martikovs don't remember the names or natures of the [[Factions/Ladies of the Fanes|Ladies of the Fanes]], they retain a strong respect for Barovia's old gods.)
 # J3. The Wizard of Wines
 The last stretch of the journey to the Wizard of Wines is largely as described in <span class="citation">Approaching the Vineyard (p. 174)</span>. If Muriel is with the party, she recognizes the man's cloak as Davian Martikov’s and urges the players to meet him.
 
 > [!lore]+ **History of the Winery**
-> Long ago, before Strahd von Zarovich first conquered the valley, the tribes of the First Folk were brutally united when Kavan the Blood-Drinker, a young chieftain, destroyed the hierarchy of the druidic caste and waged bloody war upon his neighbors.
+> Long ago, before Strahd von Zarovich first conquered the valley, the tribes of [[Factions/First Folk|the First Folk]] were brutally united when Kavan the Blood-Drinker, a young chieftain, destroyed the hierarchy of the druidic caste and waged bloody war upon his neighbors.
 > 
-> The servants of the Seeker—a clan of **wereravens**—feared Kavan’s conquest. To protect the power of the Ladies Three from his ambition, the wereravens stole the three life—giving gemstones from their places amidst the Fanes and hid them away. 
+> The servants of the [[NPCs/Seeker|Seeker]]—a clan of **wereravens**—feared Kavan’s conquest. To protect the power of the Ladies Three from his ambition, the wereravens stole the three life—giving gemstones from their places amidst the Fanes and hid them away. 
 > 
 > Centuries later, the descendants of these wereravens—the Martikov family—would use these gemstones to found the Wizard of Wines Winery, hiding their bountiful power in plain sight. Even when Strahd conquered the valley and bestowed the winery to the Krezkov family as a reward for their loyalty, few generations had passed before the Martikovs married into the Krezkov line and retook possession by means of inheritance.
 > 
-> One hundred years ago, a **wereraven** named Livius Martikov—the grandfather of Davian Martikov—defied his family’s wishes and helped Burgomaster Ismark Antonovich and the paladin Lugdana to steal the *Sigil of the Sun* (now named the *Holy Symbol of Ravenkind*) and the *Tome of Strahd* from Castle Ravenloft while Strahd slumbered. 
+> One hundred years ago, a **wereraven** named [[NPCs/Livius Martikov|Livius Martikov]]—the grandfather of Davian Martikov—defied his family’s wishes and helped Burgomaster [[NPCs/Ismark Antonovich|Ismark Antonovich]] and the paladin [[NPCs/Lugdana|Lugdana]] to steal the *[[Items/Sigil of the Sun|Sigil of the Sun]]* (now named the *[[Items/Holy Symbol of Ravenkind|Holy Symbol of Ravenkind]]*) and the *[[Items/The Tome of Strahd|Tome of Strahd]]* from Castle Ravenloft while Strahd slumbered. 
 > 
-> Livius adventured with Ismark and Lugdana for nearly a decade afterward, scouting out dangers and spying on their enemies. When he finally retired from adventuring, he used the wealth and notoriety he had gained to found the Keepers of the Feather, a secret society of wereravens dedicated to opposing the forces of darkness across Barovia. Though the Keepers would not themselves enter the fray, they vowed to serve, guide, and shelter any heroes who might one day rise in Lugdana’s memory.
+> [[NPCs/Livius Martikov|Livius]] adventured with Ismark and [[NPCs/Lugdana|Lugdana]] for nearly a decade afterward, scouting out dangers and spying on their enemies. When he finally retired from adventuring, he used the wealth and notoriety he had gained to found the Keepers of the Feather, a secret society of wereravens dedicated to opposing the forces of darkness across Barovia. Though the Keepers would not themselves enter the fray, they vowed to serve, guide, and shelter any heroes who might one day rise in Lugdana’s memory.
 > 
-> Ten years ago, Madam Eva—assisted by the **roc of Mount Ghakis** disguised as an ordinary raven—stole one of the three enchanted gemstones from the winery. Davian blamed his son, Urwin, as described in <span class="citation">Chapter 12: The Wizard of Wines (p. 173)</span>. Urwin told Davian that he had seen a raven carrying the gem away into the night—a claim that Davian dismissed as ludicrous, because the Keepers knew and commanded all of the ravens in the valley. After a furious fight, Urwin and his betrothed, Danika Dorakova, left for Vallaki the following morning, never to return.
+> Ten years ago, [[NPCs/Madam Eva|Madam Eva]]—assisted by the **[[NPCs/Roc of Mount Ghakis|roc of Mount Ghakis]]** disguised as an ordinary raven—stole one of the three enchanted gemstones from the winery. Davian blamed his son, Urwin, as described in <span class="citation">Chapter 12: The Wizard of Wines (p. 173)</span>. Urwin told Davian that he had seen a raven carrying the gem away into the night—a claim that Davian dismissed as ludicrous, because the Keepers knew and commanded all of the ravens in the valley. After a furious fight, Urwin and his betrothed, Danika Dorakova, left for Vallaki the following morning, never to return.
 > 
-> Just over three months ago, when the ravens caught word of Doru’s brewing rebellion, the **wereraven** Elric Martikov—one of Davian’s youngest sons and Elvir Martikov’s twin brother—became determined to fight alongside them. Davian, however, forbade him from doing so.
+> Just over three months ago, when the ravens caught word of [[NPCs/Doru|Doru]]’s brewing rebellion, the **wereraven** Elric Martikov—one of Davian’s youngest sons and [[NPCs/Elvir Martikov|Elvir Martikov]]’s twin brother—became determined to fight alongside them. Davian, however, forbade him from doing so.
 > 
 > A fight ensued, and an enraged Davian banished Elric from the winery for his defiance. Elric perished in Castle Ravenloft soon thereafter.
 > 
-> Ludmilla Vilisevic and the witches’ coven of Castle Ravenloft found Elric’s broken body soon thereafter. They brought his corpse to Baba Lysaga, the witch of Berez, whose *scrying* spells and ritual magic soon uncovered the source of the **wereraven** scourge: the Wizard of Wines winery to the west.
+> [[NPCs/Ludmilla|Ludmilla Vilisevic]] and the witches’ coven of Castle Ravenloft found Elric’s broken body soon thereafter. They brought his corpse to [[NPCs/Baba Lysaga|Baba Lysaga]], the witch of [[Places/Berez|Berez]], whose *scrying* spells and ritual magic soon uncovered the source of the **wereraven** scourge: the Wizard of Wines winery to the west.
 > 
-> As Baba Lysaga set about crafting **greater** and **lesser strix** to patrol the skies for the Keepers and their raven servants, Ludmilla brokered an agreement with the druids of Yester Hill to aid in her plot against the Keepers. Ludmilla taught the druids to extract cuttings of the Gulthias Tree atop Yester Hill, which they used to command the blights the tree produced.
+> As Baba Lysaga set about crafting **greater** and **[[NPCs/Lesser Strix|lesser strix]]** to patrol the skies for the Keepers and their raven servants, [[NPCs/Ludmilla|Ludmilla]] brokered an agreement with the druids of Yester Hill to aid in her plot against the Keepers. Ludmilla taught the druids to extract cuttings of the Gulthias Tree atop Yester Hill, which they used to command the blights the tree produced.
 > 
-> Baba Lysaga’s **scarecrows** have repeatedly attacked the winery since then. On one such occasion, Ludmilla detected the presence of the two remaining magic gems. Three weeks ago, during one such attack, the scarecrows found one of the gems, dug it up, and spirited it away to Baba Lysaga in Berez.
+> Baba Lysaga’s **scarecrows** have repeatedly attacked the winery since then. On one such occasion, Ludmilla detected the presence of the two remaining magic gems. Three weeks ago, during one such attack, the scarecrows found one of the gems, dug it up, and spirited it away to Baba Lysaga in [[Places/Berez|Berez]].
 > 
 > Five days ago, the druids of Yester Hill found the second gem and stole it. The wereravens launched a counterattack as described in <span class="citation">Chapter 12: The Wizard of Wines (p. 173)</span>, but were unable to overcome the druids and their defenses. Three days ago, the druids marched on the winery with a small army of corrupted blights and drove the Martikovs out.
 > 
-> The druids have remained in the winery ever since, searching for the third gemstone that they believe to be hidden there. They have also planted a cutting of the Gulthias Tree within the winery, which they plan to use to extend their reach north, toward Krezk. Soon, however, the druids will give up their search—and the **tree blight** Wintersplinter will march upon the winery and destroy it for good.
+> The druids have remained in the winery ever since, searching for the third gemstone that they believe to be hidden there. They have also planted a cutting of the Gulthias Tree within the winery, which they plan to use to extend their reach north, toward Krezk. Soon, however, the druids will give up their search—and the **[[NPCs/Tree Blight|tree blight]]** Wintersplinter will march upon the winery and destroy it for good.
 
-If the players linger on the road, a piercing screech splits the air from the south—the familiar call of a **greater strix**. Just a moment later, it’s answered by a second, similar call from the east—and a third, similar call from the west. As the three shrieks echo across the vineyard, the cloaked figure glances upward and its gestures become more urgent, while Muriel urges the players to seek cover.
+If the players linger on the road, a piercing screech splits the air from the south—the familiar call of a **[[NPCs/Greater Strix|greater strix]]**. Just a moment later, it’s answered by a second, similar call from the east—and a third, similar call from the west. As the three shrieks echo across the vineyard, the cloaked figure glances upward and its gestures become more urgent, while Muriel urges the players to seek cover.
 
 If the players approach the cloaked figure, it beckons them deeper into the woods. Read: 
 
 <div class="description">
-<p>The figure vanishes into a small grove of beech trees tucked away amidst the woods, their smooth, silvery-gray trunks standing in a ring like ancient sentinels. The canopy above forms a dense, near-unbroken ceiling of foliage, casting the forest floor in an otherworldly shadow.</p>
+<p>The figure vanishes into a small grove of beech trees tucked away amidst the woods, their smooth, silvery-gray trunks standing in a ring like ancient sentinels. The canopy above forms a dense, near-unbroken ceiling of foliage, casting the forest floor in an otherworldly [[NPCs/Shadow|shadow]].</p>
 <p>All around you, the trees' uniform, near-symmetrical branches reach upward like slender arms toward the sky. Dozens of ravens sit perched upon them, their dark eyes watching silently as you approach.</p>
 <p>The figure is nowhere to be seen, but a well-disguised trapdoor has been pulled open at the center of the clearing, exposing a wooden ladder that descends down a shaft in the earth.</p>
 </div>
@@ -299,7 +299,7 @@ If the players descend the ladder, read:
 <p>The patched green cloak he wears has clearly seen better days, but appears to have been proudly decorated with clusters of raven's feathers meticulously sewn into the cowl and shoulders, as well as a menagerie of nearly a dozen old pewter medallions and trinkets that have been haphazardly stitched into the fabric. His weight leans against an old wooden cane, its wide surface carved with intricate patterns of grapes and vines, and his thick fingers tap impatiently against its edge.</p>
 </div>
 
-The two men resembling Urwin Martikov are Adrian and Elvir Martikov, respectively. The woman is Stefania Martikov and the man beside her is Dag Tomescu, her husband. The two boys are Martin and Viggo, the infant is Yolanda, and the teenager is Claudiu. The cloaked man is Davian Martikov.
+The two men resembling Urwin Martikov are Adrian and [[NPCs/Elvir Martikov|Elvir Martikov]], respectively. The woman is [[NPCs/Stefania Martikov|Stefania Martikov]] and the man beside her is [[NPCs/Dag Tomescu|Dag Tomescu]], her husband. The two boys are [[NPCs/Martin|Martin]] and Viggo, the infant is [[NPCs/Yolanda|Yolanda]], and the teenager is [[NPCs/Claudiu|Claudiu]]. The cloaked man is Davian Martikov.
 
 > [!profile]+ **Meet the Martikovs**
 > When roleplaying the Martikov family, keep the following information in mind:
@@ -308,8 +308,8 @@ The two men resembling Urwin Martikov are Adrian and Elvir Martikov, respectivel
 > * **Elvir** is ten years younger than Urwin and the twin brother of the late Elric Martikov, and is generally sharp, sarcastic, and quick-tempered. He believes that Davian was wrong to scorn Urwin, and that the theft of the third enchanted gem likely wasn’t Urwin’s fault. He shares freely his position that Elric’s death was worthless, and that the whole family would be better off had he never gone to Castle Ravenloft to fight in Doru’s rebellion. Deep down, however, Elvir feels deeply betrayed that Elric would go to fight Strahd without him. Elvir should make the players feel irritated, insulted, sympathetic, and endeared to him, and most often feels frustrated, annoyed, melancholy, angry, determined, or amused.
 > * **Stefania** is five years older than Urwin. She doesn’t begrudge Urwin for the theft of the third enchanted gem, but shares Davian’s position that Urwin was most likely mistaken about what he saw. She believes that Elric’s death was a tragedy, but that he was an adult member of the Keepers of the Feather and that his choice therefore deserves respect. Stefania should make the players feel comforted and grateful, and most often feels cheerful or determined.
 > * **Dag**, who married into the Martikov family, takes no position on Davian’s feud with Urwin, though he shares Stefania’s position that Elric’s death was a tragedy but his choice deserves respect. He most often feels amused, thoughtful, playful, or determined, and should make the players feel grateful, amused, and endeared to him.
-> * **Claudiu** doesn’t care about Davian’s feud with Urwin, and believes that Elric’s death was a clear signal that resisting Strahd is hopeless and anyone who does so is doomed to failure. He most often feels grim, bored, annoyed, frustrated, or melancholy, and should make the players feel irritated, insulted, and sympathetic to him.
-> * **Martin and Viggo** don’t know about Davian’s feud with Urwin, who they have never met. They don’t understand the full nature of Elric’s revolt against Castle Ravenloft, but know enough to understand that he died there. They most often feel playful, bored, fearful, intrigued, or excited, and should make the players feel flattered, amused, and endeared to them.
+> * **[[NPCs/Claudiu|Claudiu]]** doesn’t care about Davian’s feud with Urwin, and believes that Elric’s death was a clear signal that resisting Strahd is hopeless and anyone who does so is doomed to failure. He most often feels grim, bored, annoyed, frustrated, or melancholy, and should make the players feel irritated, insulted, and sympathetic to him.
+> * **[[NPCs/Martin|Martin]] and Viggo** don’t know about Davian’s feud with Urwin, who they have never met. They don’t understand the full nature of Elric’s revolt against Castle Ravenloft, but know enough to understand that he died there. They most often feel playful, bored, fearful, intrigued, or excited, and should make the players feel flattered, amused, and endeared to them.
 > * **Davian** is the patriarch of the Martikov family and the widower of his late wife, Angelika Oraonova. Publicly, he avows that Elric was a fool, insubordinate, and disobedient for refusing Davian’s command to stay away from Castle Ravenloft. Deep down, Davian is shattered that the last words he spoke to his son before Elric’s death were, “*And don’t come back!*" Davian most often feels annoyed, irritated, satisfied, or grumpy, and should make the players feel insulted, grateful, and sympathetic to him.
 
 Davian greets Muriel with obvious familiarity, then gruffly asks the players to identify themselves and explain their presence. If informed that the players have been sent by Urwin Martikov, Davian snorts and scoffs at “the audacity of that lout." 
@@ -319,14 +319,14 @@ Davian curtly introduces each member of the family if asked. He is also willing 
 Upon learning that the players have been sent to investigate the delayed wine shipments, Davian is glad to share the following information:
 
 * Three days before the players received Urwin’s request (see [[#J1a. Urwin’s Request]] above), four druids of the Forest Folk invaded the Wizard of Wines and drove the Martikovs out. Davian and his family have hidden themselves away in this hidden cavern ever since.
-* The druids are accompanied by several dozen blights, created by the Gulthias Tree upon Yester Hill, as well as three **greater strix** created by the swamp-witch, Baba Lysaga, who dwells in Berez. The strix have been patrolling the skies, preventing the Martikovs from escaping.
+* The druids are accompanied by several dozen blights, created by the Gulthias Tree upon Yester Hill, as well as three **[[NPCs/Greater Strix|greater strix]]** created by the swamp-witch, Baba Lysaga, who dwells in Berez. The strix have been patrolling the skies, preventing the Martikovs from escaping.
 * Davian isn’t entirely sure why the druids attacked the winery, why they’re still inside, or why Baba Lysaga is assisting them. 
 
 A DC 12 Wisdom (Insight) check suggests that Davian might know more than he’s letting on, but he steadfastly refuses to explain further beyond noting that, “Yester Hill isn’t far from here. The Forest Folk have been terrible neighbors for years, and we haven’t been shy about letting them know that. Looks like this is their revenge." A second DC 12 Wisdom (Insight) check reveals that he’s not telling the entire truth; if challenged, Davian responds by irritatedly promising to give the players his family’s “whole damn ledger" if they get rid of the druids first.
 
 Davian welcomes the players’ help in defeating the druids. If the players agree to do so, Davian can share the following additional information:
 
-* There are four druids, eight **needle blights**, eight **vine blights**, and more than a few dozen **twig blights** in the winery. The skies above the winery are guarded by three patrolling **greater strix**, and the vineyard is guarded by too many **needle blights** to count.
+* There are four druids, eight **[[NPCs/Needle Blight|needle blights]]**, eight **vine blights**, and more than a few dozen **twig blights** in the winery. The skies above the winery are guarded by three patrolling **greater strix**, and the vineyard is guarded by too many **[[NPCs/Needle Blight|needle blights]]** to count.
 * The leader of the druids bears a strange magical staff, which appears to be the source of the blights’ strength and the means by which the druids are controlling them. If the players can obtain the staff and break it, the hordes of blights in the vineyard (as well as any other blights in the winery) would likely be greatly weakened, if not killed outright.
 * The safest route into the Wizard of Wines is an underground tunnel that leads from this cavern and exits through a secret door into the winery’s cellar. From there, the players will need to sneak or fight their way up until they find the druid with the magical staff.
 
@@ -350,7 +350,7 @@ As the family splinters, Dag approaches the players and greets them with a sheep
 Dag can share the following information if asked:
 
 * Ten years ago, someone stole something valuable from the winery while Urwin Martikov was keeping watch. Davian blamed Urwin for the theft, convinced that he’d been fooling around with his betrothed, Danika Dorakova, instead of paying attention. Davian and Urwin had a furious fight the following morning, which ended with Urwin departing the winery for Vallaki. Urwin hasn’t returned since, and Davian never recovered the thing that was stolen, nor did he ever find the culprit. (If asked what was stolen, Dag says only that it was a gemstone—a prized family heirloom, and one of Davian’s most treasured possessions.)
-* Just over three months ago, Elric Martikov, Elvir’s twin brother and Muriel’s betrothed, joined a rebellion in the village of Barovia that marched on Castle Ravenloft. Elric had always been bright-eyed and optimistic—a dreamer who believed in a better future for his loved ones. Davian forebade him from going, and ordered Elric never to return when he disobeyed. Davian’s words came true—Elric died in the castle, and his death shattered the Martikov family once again.
+* Just over three months ago, Elric Martikov, Elvir’s twin brother and Muriel’s betrothed, joined a rebellion in [[Places/Village of Barovia|the village of Barovia]] that marched on Castle Ravenloft. Elric had always been bright-eyed and optimistic—a [[NPCs/Dreamer|dreamer]] who believed in a better future for his loved ones. Davian forebade him from going, and ordered Elric never to return when he disobeyed. Davian’s words came true—Elric died in the castle, and his death shattered the Martikov family once again.
 * Claudiu was especially close to his two youngest uncles, and Elric most of all. He and Elvir haven’t taken Elric’s death well, with both falling into a kind of melancholic despair and Elvir lashing out at anyone who gets on his bad side.
 
 If asked, Muriel confirms in a raw, quiet whisper that Elric “inspired us all," but that she—and Elric’s family—have had to learn to get by without him. She then excuses herself and moves to sit beside Elvir.
@@ -364,7 +364,7 @@ After the players have spoken with Dag and the other Martikovs to their satisfac
 
 If the players are still willing to enter the winery to defeat the druids within, Davian can share the following final warnings:
 
-* First, Davian shares that the tunnel that leads into the cellar passes through a cavern filled with **brown mold**, which the Martikovs use to keep the wine stored in the cellar cool. Davian advises the players to stick to the path through the center of the mold, and not to approach, attack, or touch the mold lest it harm them.
+* First, Davian shares that the tunnel that leads into the cellar passes through a cavern filled with **[[Items/Brown Mold|brown mold]]**, which the Martikovs use to keep the wine stored in the cellar cool. Davian advises the players to stick to the path through the center of the mold, and not to approach, attack, or touch the mold lest it harm them.
 * Second, Davian warns that the druids can conjure the force of thunder to defeat their enemies. If the players fail to swiftly defeat any individual druid they come across, the sound of their thunder might alert the others, summoning them to defend the first. (The same is true for any loud spells that the players might use, so Davian warns them to stay quiet to avoid detection. Davian is reasonably confident, however, that the sound of the storm should help to cover up the sounds of any ordinary combat.)
 * Third, Davian reminds the players that the winery is an old structure built of wood. If any of the players appear to be spellcasters, Davian makes them promise not to set it on fire by mistake “like a bloody flaming fool."
 
@@ -385,7 +385,7 @@ As the players pass through the tunnel, read:
 
 <div class="description">
 <p>The tunnel marches silently through the earth, a thin veil of mist clinging to the ground as it delves deeper into the darkness. The further you travel, the colder it gets, your breath misting on the air. Moisture pooling in the tunnel's nooks and crannies gradually gives way to patches of ice, their brittle surfaces splintering and crunching under your boots.</p>
-<p>The tunnel soon opens into a shallow, freezing cavern. Thick brown mold carpets the walls, floor, and ceiling, its expanse interrupted only by a narrow dirt path that cuts across the floor to a dark stone archway at the opposite end. </p>
+<p>The tunnel soon opens into a shallow, freezing cavern. Thick [[Items/Brown Mold|brown mold]] carpets the walls, floor, and ceiling, its expanse interrupted only by a narrow dirt path that cuts across the floor to a dark stone archway at the opposite end. </p>
 </div>
 
 This area is as described in <span class="citation">W15. Brown Mold (p. 178)</span>. If the players approach the archway, read:
@@ -397,9 +397,9 @@ This area is as described in <span class="citation">W15. Brown Mold (p. 178)</sp
 
 The players can’t proceed safely down the tunnel without first destroying the brown mold obstructing it. A player who makes a successful DC 10 Intelligence (Nature) check to remember information about brown mold learns the information described in <span class="citation">Brown Mold (<em>Dungeon Master’s Guide</em>, p. 105</span>). 
 
-A player who casts *detect magic* notices that three small objects within the box are glimmering with transmutation magic. If the players retrieve the box—which is mounted to the wall five feet down the corridor— by magic or other means, they find that it contains three **winter wolf** teeth, each of which are six inches long, cold to the touch, and carved with intricate runic inscriptions. (The teeth were obtained, carved, and enchanted by the Mountain Folk, who sold them to Davian many years ago.) 
+A player who casts *detect magic* notices that three small objects within the box are glimmering with transmutation magic. If the players retrieve the box—which is mounted to the wall five feet down the corridor— by magic or other means, they find that it contains three **[[Items/Winter Wolf|winter wolf]]** teeth, each of which are six inches long, cold to the touch, and carved with intricate runic inscriptions. (The teeth were obtained, carved, and enchanted by the Mountain Folk, who sold them to Davian many years ago.) 
 
-A successful DC 15 Intelligence (Nature) check identifies the teeth as belonging to one or more **winter wolves.** A player looking to identify a tooth’s properties must study it for 1 minute and make a DC 10 Intelligence (Arcana) check, succeeding automatically by taking ten times as long. On a success, the player learns that the tooth bears the following properties:
+A successful DC 15 Intelligence (Nature) check identifies the teeth as belonging to one or more **winter [[NPCs/Wolves|wolves]].** A player looking to identify a tooth’s properties must study it for 1 minute and make a DC 10 Intelligence (Arcana) check, succeeding automatically by taking ten times as long. On a success, the player learns that the tooth bears the following properties:
 
 * A creature can use their action to pierce their stomach with the tooth. That creature can then immediately exhale a blast of freezing wind in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
 * A creature can use their action to pierce their bicep with the tooth. That creature gains immunity to cold damage for 1 minute.
@@ -408,7 +408,7 @@ The tooth dissipates into frigid mist if either of these properties are used.
 ## J3b. Into the Winery
 <span class="citation"><em>This scene takes place in Chapter 12, Area W14.</em></span>
 
-The wine cellar is largely as described in <span class="citation">W14. Wine Cellar (p. 178)</span>. However, modify the descriptive text to read as follows:
+The [[Places/Wine Cellar|wine cellar]] is largely as described in <span class="citation">W14. [[Places/Wine Cellar|Wine Cellar]] (p. 178)</span>. However, modify the descriptive text to read as follows:
 
 <div class="description">
 <p>Wooden pillars and beams support the ten-foot-high ceiling of this unseasonably warm cellar, which is split in two by a five-foot-thick brick wall. A thick, humid mist curls across the floor, which is criss-crossed by tiny black roots.</p>
@@ -426,10 +426,10 @@ As the players step into the cellar, read:
 
 A player who inspects the roots can easily discern that they appear to be originating from the upper floors of the winery.
 
-The antlered silhouette, which stands closest to the players' entry point, is a **druid assailant**, and is accompanied by eight **needle blights**. If the players are moving quietly, they can try to sneak past or ambush the druid and blights. (However, because the blights have blindsight, the *invisibility* spell and similar magic won’t work to conceal the players from the blights’ vision.)
+The antlered silhouette, which stands closest to the players' entry point, is a **[[NPCs/Druid Assailant|druid assailant]]**, and is accompanied by eight **needle blights**. If the players are moving quietly, they can try to sneak past or ambush the druid and blights. (However, because the blights have blindsight, the *invisibility* spell and similar magic won’t work to conceal the players from the blights’ vision.)
 
 <div class="statblock">
-    <h2>Druid Assailant</h2>
+    <h2>[[NPCs/Druid Assailant|Druid Assailant]]</h2>
     <em>Medium human, neutral evil</em>
     <hr>
     <strong>Armor Class</strong> 11 (16 with <em>barkskin</em>)
@@ -532,7 +532,7 @@ The scream originates from the large room containing the winery’s fermentation
 
 <div class="description">
 <p>Beneath the sloping roof stretch thick rafters, from which hang six wooden cages arranged side-by-side. Each cage holds more than a dozen ravens crammed together, with little space to move or breathe. Most of the ravens bear cuts or broken beaks, and all of them are missing feathers.</p>
-<p>A wild-looking female figure stands on the western balcony beside the leftmost cage, surrounded by a swarm of nearly two-dozen small, twiglike creatures. She holds a long, gnarled wand in her hand, and wears a gown made of animal skins and a headdress with goat horns. </p>
+<p>A wild-looking female figure stands on the western balcony beside the leftmost cage, surrounded by a [[NPCs/Swarm|swarm]] of nearly two-dozen small, twiglike creatures. She holds a long, gnarled wand in her hand, and wears a gown made of animal skins and a headdress with goat horns. </p>
 <p>Two twiglike creatures, slightly larger than the others, cling to the sides of the wooden cage before her, their sharp, pointed arms pushed through the bars of the cage. The woman nods, and the creatures pierce the sides of a battered-looking raven, which screams again in helpless agony.</p>
 </div>
 
@@ -552,10 +552,10 @@ The woman is a **druid naturalist** (see statistics below) and is surrounded by 
 > 
 > A player who speaks Druidic recognizes the druids’ words as: “Hurt him."
 
-If the players reveal themselves without attacking, the druid tilts her head and asks, in a sing-song voice, how such “little mice" found their way into the winery. The druid, who is named Silvia, knows the following information, which she can share as a means of luring the players into a false sense of security:
+If the players reveal themselves without attacking, the druid tilts her head and asks, in a sing-song voice, how such “little mice" found their way into the winery. The druid, who is named [[NPCs/Silvia|Silvia]], knows the following information, which she can share as a means of luring the players into a false sense of security:
 
 * The Forest Folk have come from Yester Hill to the south, which lies beside the Whispering Wall. (The Whispering Wall is largely as described in **Y5. Wall of Fog**, except that the ancient god that created the Wall was female.)
-* The Forest Folk have a long enmity with the ravens of the winery and their masters, the “feathered ones," whose ancient service to “the Shadowed Lord" (the Forest Folk’s name for Strahd) inspired the name and sigil of Castle Ravenloft. (This is a lie. A player who makes a DC 10 Wisdom (Insight) check identifies that Silvia sounds slightly too eager as she says it, her voice slightly too smooth.)
+* The Forest Folk have a long enmity with the ravens of the winery and their masters, the “feathered ones," whose ancient service to “the Shadowed Lord" (the Forest Folk’s name for Strahd) inspired the name and sigil of Castle Ravenloft. (This is a lie. A player who makes a DC 10 Wisdom (Insight) check identifies that [[NPCs/Silvia|Silvia]] sounds slightly too eager as she says it, her voice slightly too smooth.)
 * The “feathered ones" have powerful magic here—magic that the Forest Folk seek to restore to its rightful place. (Silvia is referring to the Keepers of the Feather and the third enchanted gem, which she describes as “the seed of the pine tree, wrought in crystal stone.")
 * Silvia is torturing the raven because it is a servant of the “feathered ones," and therefore knows where the magic seed may be kept. (Silvia is mistaken.)
 * The Forest Folk have allied with the “witch of the swamp," whose flying servants are called “strix." (Silvia is referring to Baba Lysaga.) The witch despises ravens and resents the authority of Castle Ravenloft. (This is a lie. A player who makes a DC 10 Wisdom (Insight) check identifies that Silvia hesitates slightly in delivering her words.)
@@ -573,7 +573,7 @@ Silvia invites the players to approach the caged raven and see “the mark of th
 > 
 > In its current state, the damaged spigot has AC 10, 5 hit points, and immunity to piercing, poison, and psychic damage. If the spigot is reduced to 0 hit points, or if a creature successfully makes a DC 10 Strength check to break the spigot while within 5 feet, the vat bursts and releases a wave of wine that crashes down upon all creatures in a 15-foot cube to the north of the vat.
 > 
-> When this happens, each Small or smaller creature within that area must make a DC 15 Strength saving throw. On a failure, that creature is pushed 15 feet away from the vat, is knocked prone, and takes 7 (2d6) bludgeoning damage. (A swarm of Small or smaller creatures, such as the swarm of twig blights, must also make the saving throw.) On a successful save, the creature takes half as much damage, and is not pushed or knocked prone.
+> When this happens, each Small or smaller creature within that area must make a DC 15 Strength saving throw. On a failure, that creature is pushed 15 feet away from the vat, is knocked prone, and takes 7 (2d6) bludgeoning damage. (A [[NPCs/Swarm|swarm]] of Small or smaller creatures, such as the swarm of twig blights, must also make the saving throw.) On a successful save, the creature takes half as much damage, and is not pushed or knocked prone.
 > 
 > Once the vat bursts, all ground within a 20-foot radius becomes difficult terrain until the wine is cleaned up.
 
@@ -839,18 +839,18 @@ This area is largely as described in <span class="citation">W16. Loading Winch (
 <p>As you watch, the man waves the staff toward the dead tree, which groans, bark snapping and splintering, as its branches rustle and its trunk grows slightly taller.</p>
 </div>
 
-The two artificial birds are **greater strixes.** The man is a **druid naturalist** with 136 hit points named Lorghoth the Decayer. However, instead of the ***gift of the Gulthias*** feature, Lorghoth gains the following additional features:
+The two artificial birds are **greater strixes.** The man is a **druid naturalist** with 136 hit points named [[NPCs/Lorghoth the Decayer|Lorghoth the Decayer]]. However, instead of the ***gift of the Gulthias*** feature, Lorghoth gains the following additional features:
 
 * ***Indomitable.*** <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Lorghoth can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.).
-* ***Master of Blights.*** As an action, Lorghoth can use the *Gulthias staff* that he carries to summon and command any blights within a 1-mile radius.
-* ***Guardian of the Gulthias (1/day).*** In response to being targeted by an attack or spell, Lorghoth can use his reaction to magically polymorph into a **shambling mound** for 1 minute, summoning the roots and vines around him to encase his humanoid form. Any equipment he is wearing or carrying is absorbed or borne by the new form (Lorghoth’s choice). In his new form, Lorghoth retains his game statistics (including his hit points), spellcasting abilities, and ability to speak, but his AC, movement modes, Strength, Dexterity, resistances, immunities, and special senses are replaced by those of his new form, and he gains any statistics and capabilities that his new form has but that he lacks. While in this form, Lorghoth also gains the following feature: ***Mulchform.*** Lorghoth can move through a space as narrow as 5 feet wide without squeezing.
+* ***Master of Blights.*** As an action, Lorghoth can use the *[[Items/Gulthias Staff|Gulthias staff]]* that he carries to summon and command any blights within a 1-mile radius.
+* ***Guardian of the Gulthias (1/day).*** In response to being targeted by an attack or spell, Lorghoth can use his reaction to magically polymorph into a **[[NPCs/Shambling Mound|shambling mound]]** for 1 minute, summoning the roots and vines around him to encase his humanoid form. Any equipment he is wearing or carrying is absorbed or borne by the new form (Lorghoth’s choice). In his new form, Lorghoth retains his game statistics (including his hit points), spellcasting abilities, and ability to speak, but his AC, movement modes, Strength, Dexterity, resistances, immunities, and special senses are replaced by those of his new form, and he gains any statistics and capabilities that his new form has but that he lacks. While in this form, Lorghoth also gains the following feature: ***Mulchform.*** Lorghoth can move through a space as narrow as 5 feet wide without squeezing.
 
-The *Gulthias staff* is largely as described in <span class="citation">Gulthias Staff (p. 221)</span>. However, the staff’s dying wail can be heard in a 1-mile radius, rather than a 300-foot radius. Breaking the staff kills both the blights and the cutting of the Gulthias tree, which rapidly rots into a dark, grayish-black sludge.
+The *[[Items/Gulthias Staff|Gulthias staff]]* is largely as described in <span class="citation">Gulthias Staff (p. 221)</span>. However, the staff’s dying wail can be heard in a 1-mile radius, rather than a 300-foot radius. Breaking the staff kills both the blights and the cutting of the Gulthias tree, which rapidly rots into a dark, grayish-black sludge.
 
 > [!info]+ **Strix Statistics**
 > A **greater strix** uses the statistics of a **manticore**, but is Medium and has vulnerability to fire damage. Instead of actual tail spikes, the greater strix’s **_tail spikes_** attack releases a volley of dozens of tiny silver barbs from its wings.
 > 
-> Should you adjust this encounter to include one or more **swarms of lesser strix** (see below), each swarm uses the statistics of a **swarm of ravens**.
+> Should you adjust this encounter to include one or more **swarms of [[NPCs/Lesser Strix|lesser strix]]** (see below), each swarm uses the statistics of a **swarm of ravens**.
 
 Lorghoth greets the players with maddened cackling upon their arrival, inviting them to “revel in the glory of the spawn of the Gulthias tree" and asking if they have come to “honor the might of the Shadowed Lord."
 
@@ -971,9 +971,9 @@ A player who speaks Druidic notices that the runes on the mound form an epitaph.
 <div class="description" style="text-align: center">
 <p>KAVAN, THE BLOOD-DRINKER
 <br>
-FORSAKEN OF THE ROZANA
+FORSAKEN OF THE [[Factions/Rozana|ROZANA]]
 <br>
-FIRST AND LAST CHIEFTAIN OF THE BALINOK MOUNTAINS.
+FIRST AND LAST CHIEFTAIN OF THE [[Places/Balinok Mountains|BALINOK MOUNTAINS]].
 <br>
 MAY HIS SPIRIT REAP THE HARVEST OF HIS ARROGANCE</p>
 </div>
@@ -983,7 +983,7 @@ Unless prevented, Muriel kneels before the cairn, produces a dagger from her boo
 When she does, read:
 
 <div class="description">
-<p>As Muriel's blood drips into the basin, the low curtain of mist around the cairn seems to quiver. The mists rise, gently swirling into the air, until the spectral form of a man steps forth from their moonlit depths.</p>
+<p>As Muriel's blood drips into the basin, the low curtain of mist around the cairn seems to quiver. The [[Places/Mists|mists]] rise, gently swirling into the air, until the spectral form of a man steps forth from their moonlit depths.</p>
 <p>His face is lined and weather-worn, his thick brow creased above dark, piercing eyes. He is clad in simple, leather armor and roughspun cloth, his arms and chest marked with a tapestry of scars and tattoos that seem to shimmer in the pale, eerie light. Earrings forged of animal bone and jagged obsidian hang down to his shoulders, which are near-covered by a cascade of long, dark hair.</p>
 <p>His hands are calloused and rough, a wooden buckler grasped in his left. In his right hand, he wields a long, wicked spear forged of mist, its point seeming to devour the ethereal light that suffuses the clearing. </p>
 <p>"Greetings, Muriel Vinshaw," the spirit rumbles. "I see you have brought new companions this time."</p>
@@ -994,13 +994,13 @@ When she does, read:
 Muriel introduces the spirit as the **ghost** of Kavan, an ancestor of the Mountain Folk, and introduces the players by name.
 
 > [!lore]+ **Kavan's Legacy**
-> Long before Strahd arrived in the valley, Kavan was the young chieftain of one of several tribes of the First Folk that dwelled among the Balinok Mountains. Ambitious and proud, he entered the Whispering Wall in defiance of the ancient strictures. There, an echo of the Devourer whispered to him the secrets of the Huntress’s sacred spear, and the means by which he could claim its power for his own.
+> Long before Strahd arrived in the valley, Kavan was the young chieftain of one of several tribes of [[Factions/First Folk|the First Folk]] that dwelled among the Balinok Mountains. Ambitious and proud, he entered the Whispering Wall in defiance of the ancient strictures. There, an echo of [[NPCs/The Devourer|the Devourer]] whispered to him the secrets of the [[NPCs/Huntress|Huntress]]’s sacred spear, and the means by which he could claim its power for his own.
 > 
-> Kavan stole the Huntress’s spear from the Forest Fane, and used the Devourer’s secrets to strengthen his warriors and deface the shrines of the Ladies Three. Named “Blood-Drinker" for the power of his spear and his savage rituals in combat, Kavan waged brutal war on the neighboring tribes, seeking to unite them beneath the glory of his own tribe and banner.
+> Kavan stole the Huntress’s spear from the [[Places/Forest Fane|Forest Fane]], and used [[NPCs/The Devourer|the Devourer]]’s secrets to strengthen his warriors and deface the shrines of the Ladies Three. Named “Blood-Drinker" for the power of his spear and his savage rituals in combat, Kavan waged brutal war on the neighboring tribes, seeking to unite them beneath the glory of his own tribe and banner.
 > 
-> The druids of the First Folk, horrified by his blasphemy, withdrew to the sacred village of Soldav on Mount Ghakis. There, they named him “enemy," banishing him from the holy center of their faith. The Ladies, weakened by Kavan’s acts, withdrew their grace from their people, leaving them despondent under the new tyrant’s rule.
+> The druids of the First Folk, horrified by his blasphemy, withdrew to the sacred village of [[Places/Soldav|Soldav]] on [[Places/Mount Ghakis|Mount Ghakis]]. There, they named him “enemy," banishing him from the holy center of their faith. The Ladies, weakened by Kavan’s acts, withdrew their grace from their people, leaving them despondent under the new tyrant’s rule.
 > 
-> Kavan lived long enough to see his sons and daughters turn and squabble amongst themselves, fracturing the nation he had worked long ago to build. As Kavan lay sick and dying in his elder years, the last news he received was that of a new invasion—this time, from the east, as King Dostron the Hellborn swept into the valley in search of new lands to conquer.
+> Kavan lived long enough to see his sons and daughters turn and squabble amongst themselves, fracturing the nation he had worked long ago to build. As Kavan lay sick and dying in his elder years, the last news he received was that of a new invasion—this time, from the east, as [[NPCs/King Dostron|King Dostron]] the Hellborn swept into the valley in search of new lands to conquer.
 > 
 > When Kavan died, instead of burying him in a place of honor upon Yester Hill with the great chieftains of the past, the druids he had once spurned buried his body in a lonely cairn far away from Yester Hill, cursing his spirit to linger amidst the twilight without glory, fear, or favor.
 
@@ -1023,7 +1023,7 @@ A player with a passive Wisdom (Perception) score of 17 or higher sees a humanoi
 > 
 > <hr>
 > 
-> The light comes from Beucephalus, Strahd’s **nightmare.**
+> The light comes from [[NPCs/Beucephalus|Beucephalus]], Strahd’s **nightmare.**
 > 
 > If the player moves toward or attempts to interact with the light, read:
 > 
@@ -1065,7 +1065,7 @@ Kavan advises the players that the druids of the Forest Folk appear to be far le
 
 Should the players express interest in destroying the Gulthias Tree itself, Kavan warns them against doing so, noting that, while he does not know the source of its power, it is the host to a great and terrible evil. He can share, however, that until the mage taught the druids to command its children, the tree took little action on its own and appeared content to remain atop Yester Hill. Should the players defeat the druids of the Forest Folk, he notes, they will likely find the Gulthias Tree to pose little threat to them or their friends.
 
-As the players depart, or if they have additional questions about Kavan, the Forest Folk, or the enchanted gemstones, Kavan informs them that one of the druids—an elder named Svarog—wields a gnarled wand forged of petrified wood. Kavan asks them to retrieve Svarog's wand, which was once wielded by the spiritual leaders among his people. "Should you return it to me and prove that you are trustworthy," he promises, "I shall tell you where you may find a weapon of great strength to aid you in your fight.
+As the players depart, or if they have additional questions about Kavan, the Forest Folk, or the enchanted gemstones, Kavan informs them that one of the druids—an elder named Svarog—wields a gnarled wand forged of petrified wood. Kavan asks them to retrieve [[Items/Svarog's wand|Svarog's wand]], which was once wielded by the spiritual leaders among his people. "Should you return it to me and prove that you are trustworthy," he promises, "I shall tell you where you may find a weapon of great strength to aid you in your fight.
 
 > [!abstract]+ **Kavan's Shame**
 > If a player asks Kavan about his epitaph, he replies, "I failed my people in life. In death, I wish to atone for those mistakes."
@@ -1092,15 +1092,15 @@ The object in Beucephalus’ saddlebags is **Strahd’s animated armor** (as des
 Strahd greets the players with familiarity. He also addresses their companions as follows:
 
 * If Ireena is present, he bows lightly and greets her with a polite smile. "Lady Kolyana," he says. "A pleasure, as always."
-* If Muriel is present, he greets her with lazy, feigned surprise, asking the players to introduce him to their "new friend." His eyes then flicker to Muriel's hairline, and he suggests, quietly, that she appears familiar, before wondering aloud whether they have met before. (Muriel's eyes widen, and she swiftly denies it. Strahd knows, of course, that Muriel is the **wereraven** that eavesdropped on him at Tser Pool in [[Act I - Into the Mists/Arc C - Into the Valley]]. He allows her to live because he presumes she has already delivered her message, and because he has already accepted the need to sacrifice his *animated armor* in Arabelle's place.)
+* If Muriel is present, he greets her with lazy, feigned surprise, asking the players to introduce him to their "new friend." His eyes then flicker to Muriel's hairline, and he suggests, quietly, that she appears familiar, before wondering aloud whether they have met before. (Muriel's eyes widen, and she swiftly denies it. Strahd knows, of course, that Muriel is the **wereraven** that eavesdropped on him at [[Places/Tser Pool Encampment|Tser Pool]] in [[Act I - Into the Mists/Arc C - Into the Valley]]. He allows her to live because he presumes she has already delivered her message, and because he has already accepted the need to sacrifice his *animated armor* in [[NPCs/Arabelle|Arabelle]]'s place.)
 
 Strahd then asks what business the players might have on the road to Yester Hill—especially at such a dark and forsaken time of night. “I find that it is always the final hours before dawn that I most enjoy," Strahd says, “but I confess I did not expect to find kindred spirits on such a lonely path this eve."
 
 If the players attempt to conceal their purpose, Strahd guesses aloud that they have come for much the same reason he has—to witness the Forest Folks’ great “triumph," the birth of the **tree blight** they call Wintersplinter. “Although," he notes with amusement, his dark eyes glittering in the darkness, “I would hazard to guess that you have come not to celebrate the druids’ mighty victory, but to vanquish it—by sword and spell."
 
-In either case, Strahd invites the players to walk alongside him as he rides to Yester Hill, “for the road is dark, and company always welcome." If they decline, he chides them for their rudeness and directs Beucephalus forward before vanishing amidst the shadows ahead. (This is Beucephalus’s ***ethereal stride*** feature, spiriting it and Strahd away to the Ethereal Plane.)
+In either case, Strahd invites the players to walk alongside him as he rides to Yester Hill, “for the road is dark, and company always welcome." If they decline, he chides them for their rudeness and directs Beucephalus forward before vanishing amidst the shadows ahead. (This is Beucephalus’s ***ethereal stride*** feature, spiriting it and Strahd away to the [[Places/Ethereal Plane|Ethereal Plane]].)
 ### Walking with Strahd
-If the players accept Strahd’s invitation and walk alongside him, he begins by asking them how they have enjoyed their time in Barovia following their last meeting. If the players drove off Volenta Popofsky in [[Arc D - St. Andral's Feast]], Strahd notes that she appears to have had *quite* the memorable encounter with them—a tale he quite enjoyed hearing upon her return to Castle Ravenloft. (“Like my other brides, she does always endeavor to please me—though I must abashedly confess that my favor can be a fickle one.")
+If the players accept Strahd’s invitation and walk alongside him, he begins by asking them how they have enjoyed their time in Barovia following their last meeting. If the players drove off [[NPCs/Volenta|Volenta Popofsky]] in [[Arc D - St. Andral's Feast]], Strahd notes that she appears to have had *quite* the memorable encounter with them—a tale he quite enjoyed hearing upon her return to Castle Ravenloft. (“Like my other brides, she does always endeavor to please me—though I must abashedly confess that my favor can be a fickle one.")
 
 If the players ask, Strahd is glad to introduce his **nightmare** steed, Beucephalus. “The Wonder-Horse, they called him in life," Strahd notes, tracing his hands through the flames of the nightmare’s mane. “He is a different sort of wonder now."
 
@@ -1121,12 +1121,12 @@ As he and the players approach Yester Hill, Strahd asks them—in a bored, disin
 
 As in his first encounter with the players, Strahd is glad to accept any reasonable argument that the players might make in support of Strahd’s neutrality, though he once again revels in playing Devil’s advocate throughout the conversation. Strahd might eventually accept the following arguments, among others:
 
-* As with Volenta, Strahd appears to enjoy seeing his servants tested and challenged. Allowing the players to fight the Forest Folk at Yester Hill will provide an additional opportunity to do so.
+* As with [[NPCs/Volenta|Volenta]], Strahd appears to enjoy seeing his servants tested and challenged. Allowing the players to fight the Forest Folk at Yester Hill will provide an additional opportunity to do so.
 * Strahd appears to be interested enough in the players to have invited them to dine personally at his castle. Killing the players now, before they’ve had a chance to do so, would be a waste.
 * The Wizard of Wines is an economic pillar of the Barovian community. Depriving Strahd’s people of wine would do harm to an old and honorable family, and bring sadness and despair to the people they serve.
 
 > [!abstract] **The Players Attack**
-> If the players move to attack Strahd or Beucephalus at any point, Beucephalus immediately uses its ***ethereal escape*** reaction to step into the Ethereal Plane, bringing Strahd along with it. Strahd then reappears astride Beucephalus a short distance away the following round, whereupon he chides the players for their hastiness and rudeness.
+> If the players move to attack Strahd or Beucephalus at any point, Beucephalus immediately uses its ***ethereal escape*** reaction to step into the [[Places/Ethereal Plane|Ethereal Plane]], bringing Strahd along with it. Strahd then reappears astride Beucephalus a short distance away the following round, whereupon he chides the players for their hastiness and rudeness.
 > 
 > If the players then move to attack Strahd or Beucephalus again, Strahd doesn’t return a second time, instead proceeding directly to meet the druids of Yester Hill.
 
@@ -1190,7 +1190,7 @@ Shortly after the players enter the circle, any players still looking at the cir
 > 
 > ***Emotions.*** Ludmilla most often feels intrigued, annoyed, thoughtful, or (mildly) amused.
 > 
-> ***Motivations.*** Ludmilla wants to conquer the secrets of magic and impress Strahd sufficiently to become his arcane advisor, as Khazan once was.
+> ***Motivations.*** Ludmilla wants to conquer the secrets of magic and impress Strahd sufficiently to become his arcane advisor, as [[NPCs/Khazan|Khazan]] once was.
 > 
 > ***Inspirations.*** When playing Ludmilla, channel Severus Snape (*Harry Potter*), Sherlock Holmes (*Sherlock*), and Dr. Gregory House (*House*).
 > 
@@ -1199,7 +1199,7 @@ Shortly after the players enter the circle, any players still looking at the cir
 > 
 > ***Morale.*** In a fight, Ludmilla would seek to lure her opponent into a pre-prepared trap, fleeing if outmatched and unable to meet the fight with some sort of advantage.
 > 
-> ***Relationships.*** Ludmilla is Strahd's second-eldest vampiric bride and the matron of the coven of **Barovian witches** at Castle Ravenloft.
+> ***Relationships.*** Ludmilla is Strahd's second-eldest vampiric bride and the matron of the coven of **[[NPCs/Barovian witches|Barovian witches]]** at Castle Ravenloft.
 
 Unless the players intervene, the following scene then unfolds:
 
@@ -1212,7 +1212,7 @@ Ludmilla then greets the players. If they have previously defeated Volenta in [[
 
 As this conversation unfolds, the two **berserkers** and two **druid assailants** split off from the protective ring around the circle of druids and approach the players, moving to flank Ludmilla. They arrive at Ludmilla's location two rounds after she first greets the players.
 
-Ludmilla flees if attacked, using her ***misty step*** feature to teleport thirty feet into the air and toward the chanting druids. As she does, she creates a *shroud of mist* with a 60-foot radius centered on the statue to cover her retreat. (See **Shroud of Mist** below.)
+Ludmilla flees if attacked, using her ***misty step*** feature to teleport thirty feet into the air and toward the chanting druids. As she does, she creates a *[[Places/The Shroud of Mist|shroud of mist]]* with a 60-foot radius centered on the statue to cover her retreat. (See **[[Places/The Shroud of Mist|Shroud of Mist]]** below.)
 
 Otherwise, Ludmilla can share the following information if asked:
 
@@ -1497,7 +1497,7 @@ After a period of time — which may be subjective minutes, hours, or even years
 
 When the hook first manifests, a tall arch formed of fog and swirling mist appears ten feet behind the player, in the direction from whence they came. A faint sound similar to wind chimes echoes from its threshold, and a woman's voice, distant and cold, whispers from behind the player: "_The way back comes but once._" The arch begins to fade one round afterward.
 
-After three rounds, the arch vanishes forever, and the player character is trapped within the Whispering Wall for eternity, with no means of escape. (The character can be freed only if the players restore the memory of the Dreamer in the **Epilogue.**)
+After three rounds, the arch vanishes forever, and the player character is trapped within the Whispering Wall for eternity, with no means of escape. (The character can be freed only if the players restore the memory of the [[NPCs/Dreamer|Dreamer]] in the **Epilogue.**)
 
 > [!abstract]+ **What Ireena Sees**
 > If Muriel is with the players, she declines to enter the Wall alongside them. “I’ll take no gift from von Zarovich," she says quietly. “And I know what I’d see, anyway." (Muriel is referring to Elric.)
@@ -1514,9 +1514,9 @@ A creature can crush a *gray gemstone of desire* as an action to cast _locate ob
 
 If the players ask about the nature of the spark Strahd holds, he holds it up to the light and remarks, thoughtfully, "A glede — a dragon's eye, it's called in some cultures. A spark of power, made tangible." If the players ask how Strahd obtained it, he offers a small, tight smile and notes only that, "Some things must be earned."
 
-When the players all either return from the Whispering Wall or decline to do so, Strahd presents them their reward for defeating the Forest Folk: the *twilight crest* (see below). “It is said that the god who died here, though its name is lost to time, left several relics behind. This is one of them."
+When the players all either return from the Whispering Wall or decline to do so, Strahd presents them their reward for defeating the Forest Folk: the *[[Items/Twilight Crest|twilight crest]]* (see below). “It is said that the god who died here, though its name is lost to time, left several relics behind. This is one of them."
 
-> [!item]+ **Twilight Crest**
+> [!item]+ **[[Items/Twilight Crest|Twilight Crest]]**
 > _Uncommon wondrous item_
 > 
 > This small medallion is carved from petrified wood and dotted with tiny gleaming clusters of azurite. From dawn until dusk, the azurite is colored a deep blue. From dusk until dawn, the azure is instead a dark, vivid purple.
@@ -1541,7 +1541,7 @@ The players should have no reason to visit the grove of the Gulthias Tree at thi
 <p>A circle of craggy, jagged megaliths stands hunkered down among the undergrowth, draped with rotted vines and overgrown by large brambles and dead shrubs. The air here is thick and unseasonably warm, and a sickly, putrid smell chokes the air.</p>
 </div>
 
-These megaliths demarcate the boundaries of the Forest Fane: the shrine to the Huntress of the Ladies Three.
+These megaliths demarcate the boundaries of the [[Places/Forest Fane|Forest Fane]]: the shrine to the Huntress of the Ladies Three.
 
 A character who inspects the eight carved megaliths finds the following animals’ images carved into their stone surfaces, moving clockwise from the north: bear, owl, goat, wolf, hawk, elk, panther, and raven.
 
@@ -1551,7 +1551,7 @@ One minute after the players enter the grove, their presence draws the attention
 If the players return to Kavan’s cairn bearing Svarog’s wand and summon Kavan by dripping their blood into the basin, Kavan can share the following additional information about the Forest Folk and his own people:
 
 * Long ago, Kavan was a chieftain among the First Folk, whose people arrived in the valley long before Kavan’s own birth.
-* The First Folk worshipped a trio of goddesses known as the Rozana, or the Ladies Three: the Seeker, the Weaver, and the Huntress. The druids of the First Folk paid homage to the Ladies at their holy sites—three fanes that dwelled within the valley, known as the Mountain Fane, the Forest Fane, and the Swamp Fane. Each Fane held a gemstone imbued with the power of the Weaver, which was said to give life and vitality to the wilderness around it. "This wand," Kavan notes somberly, "was once wielded by those who connected our people to the Rozana."
+* The First Folk worshipped a trio of goddesses known as the [[Factions/Rozana|Rozana]], or the Ladies Three: the [[NPCs/Seeker|Seeker]], the [[NPCs/Weaver|Weaver]], and the Huntress. The druids of the First Folk paid homage to the Ladies at their holy sites—[[Items/Three Fanes|three fanes]] that dwelled within the valley, known as [[Places/The Mountain Fane|the Mountain Fane]], the Forest Fane, and the [[Places/Swamp Fane|Swamp Fane]]. Each Fane held a gemstone imbued with the power of the [[NPCs/Weaver|Weaver]], which was said to give life and vitality to the wilderness around it. "This wand," Kavan notes somberly, "was once wielded by those who connected our people to the Rozana."
 
 Before proceeding further, Kavan asks the players whether they have ever betrayed anyone close to them or whether their pride wounded someone they loved. (A player must make a DC 16 Charisma (Deception) check in order to successfully lie to Kavan.) 
 
@@ -1566,7 +1566,7 @@ Before proceeding further, Kavan asks the players a question: What do they hold 
 
 If he is satisfied that any of the players would choose sanctity over comfort, Kavan first dismisses any who would choose comfort over sanctity, and then proceeds:
 
-* In Kavan’s ailing years, a tyrant named King Dostron the Hellborn invaded the valley with his army, scattering the First Folk and destroying their homes. He dammed up the Luna River to make farmland, and shattered the First Folks’ faith in the Ladies Three. When Dostron died, his armies withdrew and abandoned his fortress, but the First Folk remained apart and weak.
+* In Kavan’s ailing years, a tyrant named [[NPCs/King Dostron|King Dostron]] the Hellborn invaded the valley with his army, scattering the First Folk and destroying their homes. He dammed up the Luna River to make farmland, and shattered the First Folks’ faith in the Ladies Three. When Dostron died, his armies withdrew and abandoned his fortress, but the First Folk remained apart and weak.
 * When Strahd invaded the valley hundreds of years later, many members of the druidic caste—still angered by Kavan’s betrayal and Dostron’s oppression—sought out his protection. A great schism split the First Folk, with those who opposed Strahd retreating to Soldav and those who favored Strahd remaining within the Svalich Wood. Today, Barovians know them as the Mountain Folk and the Forest Folk.
 * The land of Barovia, which the First Folk once called “Girvisa"—meaning “fertile land"—has been corrupted by Strahd’s will and magic. Kavan doesn’t understand the nature of Strahd’s corruption, but he knows that Strahd draws power from the land, and that this profane connection causes great suffering to the creatures and landscape of the valley. To learn how to cleanse Strahd’s corruption, the players must travel to Soldav to seek the guidance of an elder of the faith of the Rozana among the Mountain Folk. (Only an elder of the faith of the Rozana can conjure and maintain the mist that shields Soldav from outsiders.)
 * Soldav is hidden somewhere in the Balinok Mountains, protected by a shroud of enchanted mist. So long as the mist remains, Soldav’s enemies can never find it, nor can they remember where it lies. Kavan remembers only the landmark that marks its entrance: a place in the mountains where two waterfalls run together. "Without a token of the Ladies, however," he warns, "you will never find the entrance, nor will Soldav's elders grant you entry."
@@ -1575,7 +1575,7 @@ If the players ask why Kavan withheld this information during their initial meet
 
 As the conversation comes to a close, Kavan informs the players that, while he cannot give it to them directly, he can tell them where to find the spear that he stole from the Forest Fane of the Huntress, whose return may convince the people of Soldav to grant them entry. “The spear's power waned when I took it, and it has no doubt grown ever-weaker since," he says. "But, should it serve your purposes, you can find it in the tomb of King Dostron, who claimed it from my tent when my chiefdom crumbled in the wake of his armies." 
 
-Kavan can inform the players that the tomb of King Dostron was hewn from the stone beneath Dostron’s fortress, which Dostron built in the eastern mountains—upon what is now called the Pillarstone of Ravenloft. Should they find it, Kavan asks that they take it to the shrine of the Ladies Three in Soldav, to reconsecrate it there and redeem his past mistakes.
+Kavan can inform the players that the tomb of King Dostron was hewn from the stone beneath Dostron’s fortress, which Dostron built in the eastern mountains—upon what is now called the [[Places/Pillarstone of Ravenloft|Pillarstone of Ravenloft]]. Should they find it, Kavan asks that they take it to the shrine of the Ladies Three in Soldav, to reconsecrate it there and redeem his past mistakes.
 
 When the players depart, Kavan bids them farewell, offering: “Go with the blessings of the Ladies Three, if they still listen."
 ## J7b. Returning the Gem
@@ -1585,15 +1585,15 @@ If asked, Davian now willingly shares the following information:
 
 * He is the leader of the Keepers of the Feather, a secret society of **wereravens** dedicated to aiding those who oppose Strahd von Zarovich and his servants. (Davian admits that he himself is a **wereraven**, as are all of his children and grandchildren.)
 * Despite the abilities bestowed by their curse, the Keepers are spies, not warriors. Many among them are untrained at combat, and fear the dark magic that Strahd wields.
-* The Keepers were first founded by Livius Martikov, Davian’s grandfather and a little-known accomplice of the paladin Lugdana, who rooted out nests of **vampire spawn** across the valley using the *Holy Symbol of Ravenkind* one hundred years ago.
-* As a younger man, Livius helped Lugdana and Burgomaster Ismark Antonovich steal the *Holy Symbol of Ravenkind*—then called the *Sigil of the Sun*—from Castle Ravenloft shortly after Strahd began his hibernation. (Livius stole it, as well as the *Tome of Strahd*, from the depths of the catacombs while Ismark and Lugdana distracted Strahd’s servants and children.)
-* It was Ismark the Great who proposed renaming the *Sigil* to be the *Holy Symbol of Ravenkind* in order to inspire the Barovian people and conceal its origins, crafting a tale in which an angel in the shape of a raven delivered the relic to Lugdana directly. (Livius always found the tale incredibly amusing.) Lugdana would continue to wield the *Holy Symbol* until her death fighting the Green God Chernovog, a greater demon conjured by the mad witch Baba Zelenna, atop Yester Hill. The *Holy Symbol* was thought lost when Lugdana fell—seemingly for good.
+* The Keepers were first founded by Livius Martikov, Davian’s grandfather and a little-known accomplice of the paladin Lugdana, who rooted out nests of **[[Factions/Vampire Spawn|vampire spawn]]** across the valley using the *[[Items/Holy Symbol of Ravenkind|Holy Symbol of Ravenkind]]* one hundred years ago.
+* As a younger man, Livius helped Lugdana and Burgomaster [[NPCs/Ismark Antonovich|Ismark Antonovich]] steal the *Holy Symbol of Ravenkind*—then called the *[[Items/Sigil of the Sun|Sigil of the Sun]]*—from Castle Ravenloft shortly after Strahd began his hibernation. (Livius stole it, as well as the *[[Items/The Tome of Strahd|Tome of Strahd]]*, from the depths of the [[Places/Catacombs|catacombs]] while Ismark and Lugdana distracted Strahd’s servants and children.)
+* It was Ismark the Great who proposed renaming the *Sigil* to be the *Holy Symbol of Ravenkind* in order to inspire the Barovian people and conceal its origins, crafting a tale in which an angel in the shape of a raven delivered the relic to Lugdana directly. (Livius always found the tale incredibly amusing.) Lugdana would continue to wield the *Holy Symbol* until her death fighting the Green God [[NPCs/Chernovog|Chernovog]], a greater demon conjured by the mad witch [[NPCs/Baba Zelenna|Baba Zelenna]], atop Yester Hill. The *Holy Symbol* was thought lost when Lugdana fell—seemingly for good.
 
 Davian flatly refuses to infect any of the players with **wereraven** lycanthropy, noting with scorn that they would require months of training to master the ability. He refuses to speak further of the matter.
 
 In gratitude for the players’ efforts in recovering the gem from Yester Hill, Davian provides them with an obsidian whistle shaped like a raven. (Davian can share that it is one of several such whistles passed down through his family across the generations.)
 
-Davian also informs the players that Muriel, a key field operative with the Keepers of the Feather, recently overheard a troubling prophecy involving Strahd. Muriel can inform the players that the prophecy took the form of a Tarokka reading delivered by Madam Eva to Strahd on the day the players rescued Muriel from the **greater strix**.
+Davian also informs the players that Muriel, a key field operative with the Keepers of the Feather, recently overheard a troubling prophecy involving Strahd. Muriel can inform the players that the prophecy took the form of a [[Items/Tarokka reading|Tarokka reading]] delivered by [[NPCs/Madam Eva|Madam Eva]] to Strahd on the day the players rescued Muriel from the **greater strix**.
 
 Although Muriel was chased away before she could hear the end of the reading, she can share that the first part unfolded as follows:
 
@@ -1607,7 +1607,7 @@ Although Muriel was chased away before she could hear the end of the reading, sh
 
 ***Milestone.*** Defeating the druids of Yester Hill completes a story milestone. When the players return the stolen gem to Davian Martikov, award each player 2,500 XP. (This should bring the players to 6th level.)
 
-> [!item]+ **Keeper's Whistle**
+> [!item]+ **[[Items/Keeper's Whistle|Keeper's Whistle]]**
 > The whistle is a magic item tied to the curse of wereraven lycanthropy. Once per day, the players can blow the whistle to summon the nearest **wereraven** agent of the Keepers of the Feather within five miles (if any). (The agent takes a reasonable amount of time to arrive, flying from its current location to the location where the players blew the whistle.)
 > 
 > When the agent arrives (in **raven** form), the players can ask that the agent do one of the following tasks, within reason:
@@ -1622,18 +1622,18 @@ Although Muriel was chased away before she could hear the end of the reading, sh
 
 ![[Keepers_Whistle.png]]
 
-<span class="credit">"Keeper's Whistle" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"[[Items/Keeper's Whistle|Keeper's Whistle]]" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!abstract]+ **The Wine Shipments**
 > With the winery saved and the gem recovered, Davian sets Adrian and Elvir to preparing the winery's remaining wine for shipment. The following morning, the two brothers load an additional three barrels onto the (freshly repaired) cart in <span class="citation">W2. Loading Dock (p. 176)</span> and set off, delivering three barrels first to Krezk then an additional three barrels to the Blue Water Inn in Vallaki. 
 > 
 > Should the players mention an interest in traveling to Krezk, Adrian asks them to accompany the wagon, noting, "Krezk can be unwelcoming to strangers, but with a good word from us and a shipment of wine, they'll be sure to welcome you with open arms."
 > 
-> While visiting Krezk, the brothers mention the players' names and descriptions to Burgomaster Dmitri Krezkov. The players are welcome guests in Krezk should they visit the village thereafter. See [[Arc K - The Fallen Abbey]] for more information about the players' adventures in Krezk.
+> While visiting Krezk, the brothers mention the players' names and descriptions to Burgomaster [[NPCs/Baron Dmitri Krezkov|Dmitri Krezkov]]. The players are welcome guests in Krezk should they visit the village thereafter. See [[Arc K - The Fallen Abbey]] for more information about the players' adventures in Krezk.
 
 > [!abstract]+ **News from Barovia**
 > If the players use the *Keeper's whistle* to seek news from the village of Barovia, they can receive the following information:
 > 
-> * The village is still recovering from Strahd's siege. If Bildrath lived, he has become something of a magnet for malcontents. More and more, however, the people of the village have been looking to Ismark, and—if Doru passed his trial successfully—Father Donavich for leadership.
+> * The village is still recovering from Strahd's siege. If Bildrath lived, he has become something of a magnet for malcontents. More and more, however, the people of the village have been looking to Ismark, and—if Doru passed his trial successfully—[[NPCs/Father Donavich|Father Donavich]] for leadership.
 > * If Doru passed his trial, he is being reintroduced into the village and has deeply apologized to the families that lost loved ones as a consequence of his failed rebellion. Not all have accepted his apologies, and many are wary of his vampirism, but he appears to have mastered his bloodlust and is overcome with remorse.
 > * The departure of the refugees and casualties of the siege have left the town hollowed out, with many businesses no longer in existence and those that survived struggling to make do with far fewer customers. Overall, the process of rebuilding has been a difficult one, but many families whose houses were damaged or destroyed have been able to relocate into the surplus homes still standing. 

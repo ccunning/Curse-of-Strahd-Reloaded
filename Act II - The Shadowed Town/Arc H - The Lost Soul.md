@@ -1,46 +1,46 @@
 _An adventure for five 5th-level characters._
 
-In this arc, following either a ghostly visitation at the Blue Water Inn or a wary bargain at the Baron’s mansion, Victor Vallakovich asks the players to help him restore the soul of Stella Wachter to her body by finding a means of accessing the Ethereal Plane, where her spirit is trapped. To do so, the players must help Victor obtain the heartstone of a **night hag** by the night of the full moon, which will take place on the sixth day after the players first arrive in Vallaki.
+In this arc, following either a ghostly visitation at the [[Places/Blue Water Inn|Blue Water Inn]] or a wary bargain at the Baron’s mansion, [[NPCs/Victor Vallakovich|Victor Vallakovich]] asks the players to help him restore the soul of Stella Wachter to her body by finding a means of accessing the [[Places/Ethereal Plane|Ethereal Plane]], where her spirit is trapped. To do so, the players must help [[NPCs/Victor Vallakovich|Victor]] obtain the [[Items/Heartstone|heartstone]] of a **[[NPCs/Night Hag|night hag]]** by the night of the full moon, which will take place on the sixth day after the players first arrive in [[Places/Vallaki|Vallaki]].
 
-Should the players accept Victor’s request, he tells them that Stella, from her place in the Ethereal Plane, has seen a **night hag** preying upon the dreams of several members of the Barovian refugee camp. He advises them to visit the camp to investigate the hag’s location while he prepares the rituals necessary to transport the players to the Ethereal Plane and return Stella’s soul to her body.
+Should the players accept Victor’s request, he tells them that Stella, from her place in the [[Places/Ethereal Plane|Ethereal Plane]], has seen a **[[NPCs/Night Hag|night hag]]** preying upon the dreams of several members of the Barovian refugee camp. He advises them to visit the camp to investigate the hag’s location while he prepares the rituals necessary to transport the players to the Ethereal Plane and return Stella’s soul to her body.
 
-In the refugee camp, the players can learn about the peddler Morgantha, who has regularly sold dream pastries to the refugees and several Vallakians since the refugees’ arrival nearly three months ago. While there, the players can also meet Franz, a widower refugee who has suffered from a wasting disease for the past two nights. Franz confesses to the players that he sold his children, Myrtle and Feodor, to Morgantha two days ago to pay for his dreams, and that he is now suffering the penance of his sins. The players can learn from the refugees that Morgantha hasn’t visited the town since Franz sold her his children.
+In the refugee camp, the players can learn about the peddler [[NPCs/Morgantha|Morgantha]], who has regularly sold dream pastries to the refugees and several [[Factions/Vallakians|Vallakians]] since the refugees’ arrival nearly three months ago. While there, the players can also meet [[NPCs/Franz|Franz]], a widower refugee who has suffered from a wasting disease for the past two nights. [[NPCs/Franz|Franz]] confesses to the players that he sold his children, [[NPCs/Myrtle|Myrtle]] and Feodor, to [[NPCs/Morgantha|Morgantha]] two days ago to pay for his dreams, and that he is now suffering the penance of his sins. The players can learn from the refugees that Morgantha hasn’t visited the town since Franz sold her his children.
 
-Shortly after speaking with Franz, the players receive a *sending* spell from Victor inviting them to return to the attic of the Baron’s mansion. There, Victor provides them with two paths they can take in order to obtain the night hag’s heartstone: they can bargain with her to obtain it, or they can attempt to seal her in a binding circle and then kill her. If the players select the latter, Victor tells them that he will need an additional day to research the binding circle before they can set off for Morgantha’s lair.
+Shortly after speaking with Franz, the players receive a *sending* spell from Victor inviting them to return to the attic of the Baron’s mansion. There, Victor provides them with two paths they can take in order to obtain the night hag’s [[Items/Heartstone|heartstone]]: they can bargain with her to obtain it, or they can attempt to seal her in a binding circle and then kill her. If the players select the latter, Victor tells them that he will need an additional day to research the binding circle before they can set off for Morgantha’s lair.
 
-When the players return the following day, Victor anxiously informs them that he has been unable to find a means of performing the binding ritual. However, Stella can inform the group that a similar circle of enormous size surrounds the entirety of Wachterhaus, which Stella saw while exploring through the Ethereal Plane.
+When the players return the following day, Victor anxiously informs them that he has been unable to find a means of performing the binding ritual. However, Stella can inform the group that a similar circle of enormous size surrounds the entirety of [[Places/Wachterhaus|Wachterhaus]], which Stella saw while exploring through the Ethereal Plane.
 
-If the players request Lady Wachter’s help, she assists them only if they have already won her favor by killing Izek Strazni, or if they can persuade her to lower the binding circle around Wachterhaus to allow Stella to communicate her presence. Otherwise, Lady Wachter assumes that they and Victor are playing a cruel joke upon her and dismisses them with disgust. 
+If the players request Lady Wachter’s help, she assists them only if they have already won her favor by killing [[NPCs/Izek Strazni|Izek Strazni]], or if they can persuade her to lower the binding circle around [[Places/Wachterhaus|Wachterhaus]] to allow Stella to communicate her presence. Otherwise, Lady Wachter assumes that they and Victor are playing a cruel joke upon her and dismisses them with disgust. 
 
-If the players successfully obtain Lady Wachter’s aid, she and four of her **cult fanatics** join the players for a journey to Morgantha’s lair at Old Bonegrinder. Lady Wachter warns the players that they will need to obtain the names of all hags within the windmill in order to bind them, lest any members of the coven escape to attack her or her cultists. Once the players have obtained the names of Morgantha’s daughters (and, hopefully, rescued the children imprisoned inside the windmill), Bella Sunbane and Offalia Wormwiggle, Lady Wachter leads her cultists in creating an enormous binding circle that binds the **night hags** to the Material Plane, allowing the players and Victor to destroy them.
+If the players successfully obtain Lady Wachter’s aid, she and four of her **[[Factions/Cult Fanatics|cult fanatics]]** join the players for a journey to Morgantha’s lair at [[Places/Old Bonegrinder|Old Bonegrinder]]. Lady Wachter warns the players that they will need to obtain the names of all hags within the windmill in order to bind them, lest any members of the coven escape to attack her or her cultists. Once the players have obtained the names of Morgantha’s daughters (and, hopefully, rescued the children imprisoned inside the windmill), Bella Sunbane and [[NPCs/Offalia Wormwiggle|Offalia Wormwiggle]], Lady Wachter leads her cultists in creating an enormous binding circle that binds the **night hags** to the Material Plane, allowing the players and Victor to destroy them.
 
-If the players fail to obtain Lady Wachter’s aid and instead elect to bargain with Morgantha for a loan of her heartstone, Morgantha agrees to lend it to the players on the condition that the players promise to later deliver a *soul leech* to the desk of Strahd’s chamberlain, Rahadin, whose twisted soul Morgantha craves. As collateral, Morgantha takes the players’ dreams, preventing the players from gaining the benefits of a long rest if they fail to fulfill Morgantha’s request within the next fourteen days.
+If the players fail to obtain Lady Wachter’s aid and instead elect to bargain with Morgantha for a loan of her heartstone, Morgantha agrees to lend it to the players on the condition that the players promise to later deliver a *[[Items/Soul Leech|soul leech]]* to the desk of [[NPCs/Strahd von Zarovich|Strahd]]’s chamberlain, Rahadin, whose twisted soul Morgantha craves. As collateral, Morgantha takes the players’ dreams, preventing the players from gaining the benefits of a long rest if they fail to fulfill Morgantha’s request within the next fourteen days.
 
-Should the players successfully obtain a heartstone through assault or negotiation, Victor sends the group—and Lady Wachter, if she is present—into the Ethereal Plane to perform the ritual and defend Stella’s spirits from a tide of ravenous spirits intent on taking her soulless body for their own. The horde, however, is not alone, and their leader—a sadistic **gallows speaker** dominated by the spirit of Leo Dilisnya—bears an ancient enmity for the house of Wachter...
+Should the players successfully obtain a heartstone through assault or negotiation, Victor sends the group—and Lady Wachter, if she is present—into the Ethereal Plane to perform the ritual and defend Stella’s spirits from a tide of [[Factions/Ravenous (NPC group)|ravenous]] spirits intent on taking her soulless body for their own. The horde, however, is not alone, and their leader—a sadistic **gallows speaker** dominated by the spirit of [[NPCs/Leo Dilisnya|Leo Dilisnya]]—bears an ancient enmity for the house of Wachter...
 
 > [!lore]+ **The Fate of Stella Wachter**
 >
-> Three years ago, Victor found a spellbook in his father’s library, as described in **N3t. Victor’s Workroom** (p. 109). It was not, however, just any spellbook—it was the lost spellbook of the lich Khazan himself, long thought destroyed in the accident that had led to Khazan’s death. Victor studied its secrets intensely, using Khazan’s precise notes and his own powerful intellect to master many of the spells within.
+> Three years ago, Victor found a spellbook in his father’s [[Places/Library|library]], as described in **N3t. Victor’s Workroom** (p. 109). It was not, however, just any spellbook—it was the lost spellbook of the [[NPCs/Lich|lich]] [[NPCs/Khazan|Khazan]] himself, long thought destroyed in the accident that had led to [[NPCs/Khazan|Khazan]]’s death. Victor studied its secrets intensely, using Khazan’s precise notes and his own powerful intellect to master many of the spells within.
 > 
-> Six months ago, Victor met Stella Wachter, the youngest child of Lady Fiona Wachter, while skipping stones by Lake Zarovich. Stella and Victor were surprised to find that they shared a mutual interest in magic, myths, and philosophy. Despite their parents’ clear disapproval, the two became fast friends.
+> Six months ago, Victor met Stella Wachter, the youngest child of [[NPCs/Lady Fiona Wachter|Lady Fiona Wachter]], while skipping stones by [[Places/Lake Zarovich|Lake Zarovich]]. Stella and Victor were surprised to find that they shared a mutual interest in magic, myths, and philosophy. Despite their parents’ clear disapproval, the two became fast friends.
 > 
 > After swearing Stella to secrecy, Victor shyly showed her his spellbook and some of the magic he could perform. Stella was fascinated, and immediately volunteered to serve as his research assistant, an offer that left Victor stunned and flattered.
 > 
-> When Strahd awoke from his hibernation, Victor and Stella agreed that escaping his tyranny was imperative. (Victor also hoped for an opportunity to escape his parents’ grasp, while Stella hoped to bring her family with her from Barovia.) The two dove together into a new research project: the construction of a teleportation circle capable of escaping Barovia.
+> When [[NPCs/Strahd von Zarovich|Strahd]] awoke from his hibernation, Victor and Stella agreed that escaping his tyranny was imperative. (Victor also hoped for an opportunity to escape his parents’ grasp, while Stella hoped to bring her family with her from [[Places/Barovia|Barovia]].) The two dove together into a new research project: the construction of a [[Items/Teleportation Circle|teleportation circle]] capable of escaping [[Places/Barovia|Barovia]].
 > 
-> Ten weeks ago, their prototype teleportation circle was complete. After the two performed some minor experiments using undead rabbits Victor animated from animal bones, Stella excitedly insisted on a live, human trial and volunteered to go first. Victor reluctantly did so—and tragedy struck.
+> Ten weeks ago, their prototype [[Items/Teleportation Circle|teleportation circle]] was complete. After the two performed some minor experiments using undead rabbits Victor animated from animal bones, Stella excitedly insisted on a live, human trial and volunteered to go first. Victor reluctantly did so—and tragedy struck.
 > 
-> Neither Stella nor Victor could have known it, but the Mists of Barovia formed a unique metaphysical barrier against Victor’s teleportation circle. The spell failed—and the psychic backlash briefly exposed Stella’s soul to the raw energies of the Ethereal Plane.
+> Neither Stella nor Victor could have known it, but the [[Places/Mists|Mists]] of Barovia formed a unique metaphysical barrier against Victor’s teleportation circle. The spell failed—and the psychic backlash briefly exposed Stella’s soul to the raw energies of the Ethereal Plane.
 > 
-> There, the vengeful spirit of Leo Dilisnya, a **gallows speaker** lured by the magical beacon of Victor’s spell, sensed the presence of its ancient enemy and struck, severing Stella’s soul from her body.
+> There, the vengeful spirit of [[NPCs/Leo Dilisnya|Leo Dilisnya]], a **gallows speaker** lured by the magical beacon of Victor’s spell, sensed the presence of its ancient enemy and struck, severing Stella’s soul from her body.
 > 
-> Before Leo could kill her, however, the ghost of Erasmus van Richten swiftly swept her away, concealing her from sight.
+> Before Leo could kill her, however, the ghost of [[NPCs/Erasmus van Richten|Erasmus van Richten]] swiftly swept her away, concealing her from sight.
 > 
 > Back on the Material Plane, when the smoke and light cleared, Victor saw Stella standing limply at the center of the circle, her eyes dull and unresponsive.
 > 
-> Terrified that his father might learn of Victor’s magical abilities—or, worse, blame Victor for Stella’s fate— Victor told him that she had abruptly become catatonic for no apparent reason. Vargas, displeased with Stella's presence from the beginning, was all too glad to have an excuse to be rid of “the Wachter girl,” and directed Izek to return her to Wachterhaus immediately. Fiona was horrified by Stella’s fate and began plotting the downfall of the Vallakovich family in quiet fury.
+> Terrified that his father might learn of Victor’s magical abilities—or, worse, blame Victor for Stella’s fate— Victor told him that she had abruptly become catatonic for no apparent reason. Vargas, displeased with Stella's presence from the beginning, was all too glad to have an excuse to be rid of “the Wachter girl,” and directed [[NPCs/Izek Strazni|Izek]] to return her to Wachterhaus immediately. [[NPCs/Lady Fiona Wachter|Fiona]] was horrified by Stella’s fate and began plotting the downfall of the Vallakovich family in quiet fury.
 > 
-> Victor spent two weeks wracked with guilt and sorrow before, strangely, one of the servants mentioned seeing a spirit resembling Stella in the mirror in his mother’s parlor. It was through the *spirit mirror* that Victor learned that Stella’s soul still lived in the Ethereal Plane—and it was through that mirror, communicating with handsigns and lip-reading, that the two—now aided by the ghost of Erasmus van Richten—began to work to restore Stella’s soul to her body.
+> Victor spent two weeks wracked with guilt and sorrow before, strangely, one of the servants mentioned seeing a spirit resembling Stella in the mirror in his mother’s [[Places/Parlor|parlor]]. It was through the *[[Items/Spirit Mirror|spirit mirror]]* that Victor learned that Stella’s soul still lived in the Ethereal Plane—and it was through that mirror, communicating with handsigns and lip-reading, that the two—now aided by the ghost of [[NPCs/Erasmus van Richten|Erasmus van Richten]]—began to work to restore Stella’s soul to her body.
 > 
 > Since then, Victor has been rapidly attempting to enhance his magical abilities, either to somehow repurpose the faulty *teleportation circle* to restore Stella’s soul or to become powerful enough to cast the high-level _etherealness_ spell in Khazan’s spellbook.
 > 
@@ -49,19 +49,19 @@ Should the players successfully obtain a heartstone through assault or negotiati
 # H1. Erasmus' Plea
 Shortly before dawn on the first night after the players reach 5th level, the party is awoken in the night by the sound of a window slamming open and the feel of a cold draft filling the room. Closer inspection reveals that one of the windows has flown open, seemingly of its own accord. (The window was opened by the **poltergeist** of Erasmus van Richten.)
 
-The players can notice that the panes of the windows looking into the room have frosted over, and that their breath now mists in the chill air. Shortly afterward, several items in the room begin levitating into the air, and the shutters to the room’s windows begin rattling. As they do, an invisible finger begins inscribing a message in the frost on one of the windows: *Help Victor.* After a moment, it then adds—almost hesitantly—*Please.*
+The players can notice that the panes of the windows looking into the room have frosted over, and that their breath now [[Places/Mists|mists]] in the chill air. Shortly afterward, several items in the room begin levitating into the air, and the shutters to the room’s windows begin rattling. As they do, an invisible finger begins inscribing a message in the frost on one of the windows: *Help Victor.* After a moment, it then adds—almost hesitantly—*Please.*
 
 If the players ask for the spirit’s name, it writes its name in the frost: *Erasmus.* If the players agree to carry out his request, the items then fall to the ground and the shutters stop rattling, the frost slowly evaporating. Erasmus’s spirit then departs.
 
 While Erasmus’s spirit is present, a player who succeeds on a DC 10 Wisdom (Insight or Perception) check senses a ghostly presence within the room—a presence that shines with innocence and a sense of fierce determination.
 
-The players can learn from Urwin Martikov, Danika Dorakova, Father Lucian Petrovich, or Lady Fiona Wachter that “Victor” is the name of Baron Vallakovich’s teenage son.
+The players can learn from [[NPCs/Urwin Martikov|Urwin Martikov]], [[NPCs/Danika Dorakova|Danika Dorakova]], [[NPCs/Father Lucian Petrovich|Father Lucian Petrovich]], or Lady Fiona Wachter that “Victor” is the name of Baron Vallakovich’s teenage son.
 # H2. Burgomaster’s Mansion
 <span class="citation"><em>This scene takes place in Chapter 5: Area N3t.</em></span>
 
 If the players received [[#H1. Erasmus' Plea]] and ask to speak with Victor, Baron Vallakovich allows them to do so with a successful DC 12 Charisma (Persuasion or Deception) check, or automatically if they sufficiently flatter him or if Lady Wachter has already seized power. 
 
-If the players describe Erasmus' visitation to Victor, Victor glances at the *spirit mirror* in his workroom and says, sounding hurt, “I thought I told you I had this under control!” 
+If the players describe Erasmus' visitation to Victor, Victor glances at the *[[Items/Spirit Mirror|spirit mirror]]* in his workroom and says, sounding hurt, “I thought I told you I had this under control!” 
 
 A moment later, Victor's face softens, and he reluctantly tells the players that “Stella” and "Erasmus" have decided that he needs help, and that they might not be entirely wrong. He then asks the players if they would be willing to assist him “Stella,” and "Erasmus"—the spirit that they encountered—with a particular task.
 ### What Victor Knows
@@ -73,12 +73,12 @@ Victor then shares the following information:
 
 * Three months ago, Victor and his friend, Stella Wachter, heard that the Devil Strahd had returned to the land and agreed that escape was imperative. Using knowledge that Victor had gleaned from an old spellbook, they began construction of a *teleportation circle* that would allow them to free themselves from the valley.
 * Ten weeks ago, they’d finally finished a prototype circle. After two experiments involving undead rabbits that Victor animated using bones purchased from Szoldar and Yevgeni, Stella insisted on volunteering as a live, human trial. However, the test went horribly wrong—the circle failed to teleport Stella’s body anywhere, and the backlash exposed her soul to the Ethereal Plane. 
-* During the brief moments that her spirit was within the Ethereal Plane, Stella was attacked by a dark shadow, whose claws severed her soul from her body. She would have died had Erasmus not spirited her away to safety.
-* After two weeks of worrying that he had accidentally somehow destroyed his friend’s mind, Victor learned that one of his parents’ servants had seen the ghost of a young woman reflected in a mirror in his mother’s parlor. Victor learned that the mirror was a *spirit mirror* that reflected both the Material and Ethereal Planes. Using it, he was able to see and communicate with Stella’s wandering spirit—first through gestures and crude lip-reading, and eventually through handsigns learned from a book in his father’s library.
+* During the brief moments that her spirit was within the Ethereal Plane, Stella was attacked by a dark [[NPCs/Shadow|shadow]], whose claws severed her soul from her body. She would have died had Erasmus not spirited her away to safety.
+* After two weeks of worrying that he had accidentally somehow destroyed his friend’s mind, Victor learned that one of his parents’ servants had seen the ghost of a young woman reflected in a mirror in his mother’s [[Places/Parlor|parlor]]. Victor learned that the mirror was a *spirit mirror* that reflected both the Material and Ethereal Planes. Using it, he was able to see and communicate with Stella’s wandering spirit—first through gestures and crude lip-reading, and eventually through handsigns learned from a book in his father’s [[Places/Library|library]].
 * Since then, Victor and Stella have been working hard to restore her soul to her body, but nothing has worked. In the meantime, Stella has had to conceal herself from the many wandering spirits that roam the Border Ethereal, many of which would harm her if they could. 
 * Stella feels like she’s slowly losing memories of her life, even as her form in the Ethereal Plane is slowly growing more insubstantial. Sometimes, she can’t tell whether she’s herself or someone else; when that happens, she feels as though a part of her is curled up in a warm and wet place, with a comforting heartbeat echoing through the darkness.
 * To make matters worse, the tether between Stella’s shoulder blades that once connected her soul to her body is slowly growing shorter, leaving Victor fearing that she has little more than a week left before she disappears forever. (The shorter it gets, the more frequent Stella’s visions become, and the foggier her memory grows.)
-* Neither Victor, Stella, nor Erasmus know the identity of the spirit that severed Stella’s soul from her body. However, Victor can inform the players that Erasmus has seen it haunting the Ethereal Plane around Vallaki numerous times since its arrival—seemingly searching for Stella—and has identified it as a *gallows speaker*. (Erasmus, who learned of the creatures while reading his father’s notes, has provided Victor with all of the information about gallows speakers provided on <span class="citation">p. 234 of Van Richten's Guide to Ravenloft</span>.)
+* Neither Victor, Stella, nor Erasmus know the identity of the spirit that severed Stella’s soul from her body. However, Victor can inform the players that Erasmus has seen it haunting the Ethereal Plane around [[Places/Vallaki|Vallaki]] numerous times since its arrival—seemingly searching for Stella—and has identified it as a *gallows speaker*. (Erasmus, who learned of the creatures while reading his father’s notes, has provided Victor with all of the information about gallows speakers provided on <span class="citation">p. 234 of [[Items/Van Richten's Guide to Ravenloft|Van Richten's Guide to Ravenloft]]</span>.)
 * If asked why they haven’t sought others’ help, Victor stubbornly insists that he doesn’t trust Lady Fiona Wachter; that his own father, the Baron, would be worse than useless; and that he and Stella are perfectly capable of solving her problem on their own. 
 
 If confronted with the fact that he and Stella *haven’t* been capable of solving her problem on their own, Victor’s face crumples, and he briefly looks to be on the verge of tears as he struggles to find a retort.
@@ -89,31 +89,31 @@ If the players agree to help him and Stella, Victor shares with them the followi
 
 * To guide Stella’s soul back into her body, he needs to find a way to enter the Ethereal Plane in his own, mortal body and perform an altered version of the teleportation ritual from the other side of the veil.
 * There is a spell—*etherealness*—that would allow him to enter the Ethereal Plane using his own power, but despite his best efforts, he has been unable to master it thus far, and is unlikely to be able to cast it before Stella’s soul disappears into the Deep Ethereal.
-* In the book *Ethereal Entities: Denizens of the Unseen Realm,* written by the archmage Mordenkainen, Victor learned of a ritual that can replicate the effects of the *etherealness* spell for up to nine creatures. The ritual must be performed on the night of the full moon, and requires the heartstone of a **night hag** as a material component. 
+* In the book *[[Items/Ethereal Entities|Ethereal Entities]]: Denizens of the Unseen Realm,* written by the archmage [[NPCs/Mordenkainen|Mordenkainen]], Victor learned of a ritual that can replicate the effects of the *etherealness* spell for up to nine creatures. The ritual must be performed on the night of the full moon, and requires the heartstone of a **night hag** as a material component. 
 
 > [!info]+ **When’s the Full Moon?**
 >
 > The players’ first full moon in Barovia always takes place on the night of their sixth full day in Vallaki. (For example, if the players arrive in Vallaki on Sunday night, the full moon will take place on Saturday night.) Victor is aware of this date.
 
-Victor informs the players that Stella, while exploring the Ethereal Plane, has regularly seen a gaunt, female figure with sallow, gray-blue skin, deep-set eyes, matted hair, small ram's horns, and a wide mouth of sharp, yellowed teeth haunting the area of the Border Ethereal that overlaps with the Barovian refugee camp. While neither Victor nor Stella are sure what the night hag wants with the refugees, Victor is confident that Stella’s description perfectly matches the appearance of a **night hag** as described in Mordenkainen’s book.
+Victor informs the players that Stella, while exploring the Ethereal Plane, has regularly seen a gaunt, female figure with sallow, gray-blue skin, deep-set eyes, matted hair, small ram's horns, and a wide mouth of sharp, yellowed teeth haunting the area of the Border Ethereal that overlaps with the Barovian refugee camp. While neither Victor nor Stella are sure what the night hag wants with the refugees, Victor is confident that Stella’s description perfectly matches the appearance of a **night hag** as described in [[NPCs/Mordenkainen|Mordenkainen]]’s book.
 
 Victor asks the players to visit the refugee camp and investigate the night hag’s presence. While Stella has only seen the hag in the Ethereal Plane thus far, Victor strongly suspects that her interest in it extends into the Material Plane as well. While the players investigate, Victor will continue his research into the *etherealness* ritual and the ritual to return Stella’s soul to her body.
 
-If the players express an interest in it, Victor is glad to lend them his copy of *Ethereal Entities* to read. 
+If the players express an interest in it, Victor is glad to lend them his copy of *[[Items/Ethereal Entities|Ethereal Entities]]* to read. 
 
 > [!lore]+ **Ethereal Entities**
 >
 > _Ethereal Entities: Denizens of the Unseen Realm_ by Mordenkainen is a slim hardback book with a leather cover dyed a deep, midnight blue. Its title and author's name are embossed in silver script along the spine and front cover, and the corners of the book are adorned with small, silver filigree resembling ethereal wisps. Its pages are filled with neatly-written text and beautifully detailed illustrations.
 >
-> The book is a treatise on the Ethereal Plane and the creatures that dwell within or visit it. It contains all of the information provided in **Ethereal Plane** (<span class="citation">Dungeon Master's Guide, p. 48</span>), as well as a bestiary divided into the following three sections:
+> The book is a treatise on the Ethereal Plane and the creatures that dwell within or visit it. It contains all of the information provided in **Ethereal Plane** (<span class="citation">[[Items/Dungeon Master's Guide|Dungeon Master's Guide]], p. 48</span>), as well as a bestiary divided into the following three sections:
 >
 > - _**Etherborn: Natives of the Deep Ethereal**_, containing information about creatures that are said to dwell solely in the Deep Ethereal, such as the mythological mistfiends, ethershades, and shimmerlings.
 > - _**Phantomfolk: Travelers from the Border Ethereal**_, containing information about incorporeal creatures that dwell in the Border Ethereal and often cross into the Material Plane, such as **ghosts** (_Monster Manual_, p. 147) and **phantom warriors** (_Curse of Strahd_, p. 235).
-> - _**Veil-Walkers: Visitors to the Ethereal**_, containing information about physical creatures that can cross into the Ethereal Plane, such as **night hags** (_Monster Manual_, p. 178), **nightmares** (_Monster Manual_, p. 235), and **phase spiders** (_Monster Manual_, p. 334). (See **Matrons of Malevolence** below for the chapter on night hags.)
+> - _**Veil-Walkers: Visitors to the Ethereal**_, containing information about physical creatures that can cross into the Ethereal Plane, such as **night hags** (_Monster Manual_, p. 178), **nightmares** (_Monster Manual_, p. 235), and **[[NPCs/Phase Spiders|phase spiders]]** (_Monster Manual_, p. 334). (See **Matrons of Malevolence** below for the chapter on night hags.)
 >
-> The subsection discussing **phase spiders** includes a brief sidenote discussing the immunity that most incorporeal undead have to elemental, natural, and nonmagical weapon damage while on the Material Plane, as well as the natural means that phase spiders have developed to counteract those immunities through the use of their fangs and venom. It notes that a spellcaster can deal damage to an incorporeal spirit normally by using a phase spider's fang as an additional material component to cast their spells, while a martial combatant can deal damage to an incorporeal spirit by coating one weapon or up to three pieces of ammunition with phase spider venom or holy water.
+> The subsection discussing **[[NPCs/Phase Spiders|phase spiders]]** includes a brief sidenote discussing the immunity that most incorporeal undead have to elemental, natural, and nonmagical weapon damage while on the Material Plane, as well as the natural means that phase spiders have developed to counteract those immunities through the use of their fangs and venom. It notes that a spellcaster can deal damage to an incorporeal spirit normally by using a phase spider's fang as an additional material component to cast their spells, while a martial combatant can deal damage to an incorporeal spirit by coating one weapon or up to three pieces of ammunition with phase spider venom or holy water.
 >
-> The subsection discussing **night hags** includes a brief sidenote discussing a ritual that uses a night hag's ***heartstone*** and the energies of a leyline to replicate the effects of the *Etherealness* spell for up to ten individuals for one hour on the night of the full moon.
+> The subsection discussing **night hags** includes a brief sidenote discussing a ritual that uses a night hag's ***heartstone*** and the energies of a [[Places/Leyline beneath Wachterhaus|leyline]] to replicate the effects of the *Etherealness* spell for up to ten individuals for one hour on the night of the full moon.
 >
 > The chapter regarding **night hags** is titled "Night Hags: Matrons of Malevolence." It reads as follows:
 > 
@@ -140,7 +140,7 @@ If the players express an interest in it, Victor is glad to lend them his copy o
 > To combat their inherently selfish natures, the hags in a coven must enter into a written contract with the others, signed by each hag's true name. The hags of a coven guard their contract jealously, often sealing it within the heart of their lair, ever-careful to keep their names from falling into enemy hands.
 
 > [!info]+ **Harvesting Phase Spiders**
-> The players will later encounter **phase spiders** in Argynvostholt and have an opportunity to harvest their fangs and venom to combat the **phantom warriors** that lurk there. See [[Arc M - The Dragon's Manor#M4c. Spiders’ Ballroom|Arc M - The Dragon's Manor]] for more information regarding the harvesting and use of phase spider parts.
+> The players will later encounter **phase spiders** in [[Places/Argynvostholt|Argynvostholt]] and have an opportunity to harvest their fangs and venom to combat the **phantom warriors** that lurk there. See [[Arc M - The Dragon's Manor#M4c. Spiders’ Ballroom|Arc M - The Dragon's Manor]] for more information regarding the harvesting and use of phase spider parts.
 # H3. The Refugee Camp
 If it's been at least six hours since Lady Wachter's inauguration in [[Arc F - Lady Wachter's Wish]], the refugee camp has been relocated to <span class="citation">N8. Town Square (p. 119)</span>. (The refugees are still living in tents, however, while Lady Wachter works to find them suitable housing.)
 
@@ -159,10 +159,10 @@ Emeric and Magda are cautious of outsiders, but curious to know why the players 
 
 Emeric and Magda can share the following general information about the camp (modified as necessary depending on current events):
 
-* The first Barovian refugees arrived at Vallaki's gates three months ago, but were barred from entering. When they attempted to breach the gates by force, the guards summoned a man they called Izek, who bore a twisted devil's arm and conjured fire to drive the refugees back.
+* The first [[Factions/Barovian Refugees|Barovian refugees]] arrived at Vallaki's gates three months ago, but were barred from entering. When they attempted to breach the gates by force, the guards summoned a man they called Izek, who bore a twisted devil's arm and conjured fire to drive the refugees back.
 * Since then, the refugees have set up camp outside the town's walls, clustering together for protection and warmth. They've managed to secure some minor necessities, such as the tents, by bribing the guards at the gates, but have been unable to persuade the guards to allow them entry or to even invite the town's Baron to discuss their plight.
-* Swarms of bats and packs of wolves have plagued the camp each night since they've arrived. Thankfully, no one has died yet, but several refugees have been wounded.
-* Due to losses they suffered on the road and the threat of the Devil in Castle Ravenloft, the refugees are unwilling to risk the journey back home, instead hoping to wait until the Baron sees reason and allows them to enter the walls.
+* Swarms of bats and packs of [[NPCs/Wolves|wolves]] have plagued the camp each night since they've arrived. Thankfully, no one has died yet, but several refugees have been wounded.
+* Due to losses they suffered on the road and the threat of the Devil in [[Places/Castle Ravenloft|Castle Ravenloft]], the refugees are unwilling to risk the journey back home, instead hoping to wait until the Baron sees reason and allows them to enter the walls.
 * Roughly one-quarter of the refugees have become addicted to "dream pastries," a foodstuff sold by the peddler Morgantha. These refugees seek an escape from the misery and despair of their situation. Those who eat a dream pastry fall into a trance as described in <span class="citation">Dream Pastries (p. 125)</span>. (Emeric and Magda can add that Morgantha hasn't been to the camp in a few days.)
 
 If the players ask about the **night hag**, Emeric and Magda exchange glances and inform them that their description matches that of a recurring nightmare that Franz, another refugee, has been suffering for the past two nights. 
@@ -178,14 +178,14 @@ Emeric and Magda lead the players to a small, lonely tent set up at the end of t
 
 The man is Franz. The woman is his sister, a woman named Nyanka. Nyanka has been tending to Franz since morning, but has been unable to identify or treat his condition.
 
-Upon seeing the players, Franz wheezes with laughter and asks whether they are demons sent by Mother Night, come to drag his soul into the Mists. Nyanka apologizes for his behavior and mentions that he’s been delirious ever since the nightmares and sickness began.
+Upon seeing the players, Franz wheezes with laughter and asks whether they are demons sent by [[NPCs/Mother Night|Mother Night]], come to drag his soul into the Mists. Nyanka apologizes for his behavior and mentions that he’s been delirious ever since the nightmares and sickness began.
 
 If the players ask Franz about the **night hag**, he first demands that Nyanka, Emeric, and Magda depart and leave him alone with the players. (None of the three other refugees mind this request.) Franz can then share the following information with the players:
 
-* Three months ago, not long after his wife, Alana died of illness, Franz joined the first two-dozen refugees who left the village of Barovia for the fortified town of Vallaki to the west. Franz brought their two children—seven-year-old Fyodor and five-year-old Myrtle—with him to Vallaki, hoping to keep them safe from Strahd’s servants.
+* Three months ago, not long after his wife, Alana died of illness, Franz joined the first two-dozen refugees who left [[Places/Village of Barovia|the village of Barovia]] for the fortified town of Vallaki to the west. Franz brought their two children—seven-year-old [[NPCs/Fyodor|Fyodor]] and five-year-old [[NPCs/Myrtle|Myrtle]]—with him to Vallaki, hoping to keep them safe from Strahd’s servants.
 * A few weeks after arriving in the camp, Franz began to purchase dream pastries from the peddler Morgantha. The visions brought by these pastries allowed him to dream of Alana, returned to his arms as though she had never died at all.
 * Franz purchased Morgantha’s dream pastries regularly, spending hours, then days lost in peaceful dreams. Eventually, however, his savings ran out, and Morgantha refused to sell him additional pastries—unless he paid a terrible price.
-* Three nights ago, Franz led Fyodor and Myrtle down past the tree line at the edge of the woods. There, Morgantha placed the children into a magical sleep and stuffed them into a sack that she carried over her shoulder. In return, she promised Franz as many dream pastries as he could eat, each time she returned, for the rest of his life.
+* Three nights ago, Franz led [[NPCs/Fyodor|Fyodor]] and Myrtle down past the tree line at the edge of the woods. There, Morgantha placed the children into a magical sleep and stuffed them into a sack that she carried over her shoulder. In return, she promised Franz as many dream pastries as he could eat, each time she returned, for the rest of his life.
 * As Morgantha turned to depart, Franz heard Myrtle cry out for him in her sleep, and immediately regretted what he had done. He demanded Morgantha return his children at once; when she laughed and told him their bargain was final, he attempted to take his children by force. With a wave of her hands, however, she put him to sleep—and when he awoke, she was nowhere to be found.
 * Franz searched the woods for hours, but found no trace of Morgantha or his children. When he finally collapsed, exhausted, back in his tent at the camp, he suffered terrible nightmares, which have repeated each night since.
 * In the nightmare, he is strapped to a millstone, its four arms raised above him. On his chest sits a gaunt, female figure with sallow, gray-blue skin, deep-set eyes, matted hair, small ram's horns, and a wide mouth of sharp, yellowed teeth, holding a twisted onyx-black stone against his forehead and whispering of damnation. In the background, he can hear Fyodor and Myrtle sobbing beyond his view, a pair of high-pitched cackles, and the sound of a windmill’s blades grinding in the wind. 
@@ -193,7 +193,7 @@ If the players ask Franz about the **night hag**, he first demands that Nyanka, 
 
 With a croaking voice, Franz begs the players to save Fyodor and Myrtle from Morgantha’s clutches. While he believes that his current condition is a curse sent by the gods as punishment for his sins and welcomes the penance of death, he believes that his children don’t deserve the suffering that Morgantha is likely inflicting upon them. He can offer the players no gold and no treasure for their efforts—only his gratitude. 
 
-If the players ask, Franz can tell them that his sister Nyanka, who currently believes the children were devoured by werewolves in the Svalich Wood, would gladly watch and care for them while he recovers. "I know I don't deserve to be their father," he rasps, tears falling from his eyes. "All I want is to see them safe and happy."
+If the players ask, Franz can tell them that his sister Nyanka, who currently believes the children were devoured by [[NPCs/Werewolves|werewolves]] in the [[Places/Svalich Woods|Svalich Wood]], would gladly watch and care for them while he recovers. "I know I don't deserve to be their father," he rasps, tears falling from his eyes. "All I want is to see them safe and happy."
 
 Before the players leave Franz’s tent, he grabs for the closest one and rasps, "I could feel it—the heart of the windmill—three black hearts beating as one in the millstone beneath me. The gnarled arm holds the key." He then collapses, falling into a deep, fitful sleep.
 
@@ -230,31 +230,31 @@ Stella, through Victor, suggests that the players visit Wachterhaus to request L
 
 > [!lore]+ **Wachterhaus’s Protective Circle**
 >
-> **_The Betrayal of Leo Dilisnya._** Strahd von Zarovich made many enemies over the course of his many conquests. One of them was a man named Leo Dilisnya, who hated Strahd for the death of his brother, Reinhold Dilisnya, the captain of a platoon that Strahd had knowingly sent to die in order to win a battle against the Order of the Silver Dragon.
+> **_The Betrayal of Leo Dilisnya._** Strahd von Zarovich made many enemies over the course of his many conquests. One of them was a man named Leo Dilisnya, who hated Strahd for the death of his brother, Reinhold Dilisnya, the captain of a platoon that Strahd had knowingly sent to die in order to win a battle against the [[Factions/Order of the Silver Dragon|Order of the Silver Dragon]].
 >
-> When Strahd settled in Castle Ravenloft, Leo—a member of the Ba’al Verzi, a mysterious guild of assassins—began to plot his revenge. Hoping to gain closer access to Strahd, Leo became a castle guard, wearing the Von Zarovich livery while preparing the right moment to strike.
+> When Strahd settled in [[Places/Castle Ravenloft|Castle Ravenloft]], Leo—a member of the [[Factions/Ba’al Verzi|Ba’al Verzi]], a mysterious guild of assassins—began to plot his revenge. Hoping to gain closer access to Strahd, Leo became a castle guard, wearing the Von Zarovich livery while preparing the right moment to strike.
 >
-> That moment finally came on the morning of Sergei’s wedding. With all attention focused on the blushing bride-to-be, Leo disguised himself in assassin’s clothes and climbed the stonework to reach Strahd’s private chambers. Even taken by surprise, however, Strahd was more than a match for Leo, disarming him of his cursed Ba’al Verzi blade and sending him fleeing through the window.
+> That moment finally came on the morning of Sergei’s wedding. With all attention focused on the blushing bride-to-be, Leo disguised himself in assassin’s clothes and climbed the stonework to reach Strahd’s private chambers. Even taken by surprise, however, Strahd was more than a match for Leo, disarming him of his cursed [[Factions/Ba’al Verzi|Ba’al Verzi]] blade and sending him fleeing through the window.
 >
-> **_A New Opportunity._** Bitter and enraged, Leo hid himself away in his quarters to lick his wounds—until he learned that Sergei had been found murdered in his quarters, and that Strahd had chased Tatyana into the gardens while vowing to take her hand in marriage. Seeing an immediate opportunity, Leo gathered a contingent of the castle guards and directed them to attack Strahd in vengeance for the death of the beloved prince, Sergei.
+> **_A New Opportunity._** Bitter and enraged, Leo hid himself away in his quarters to lick his wounds—until he learned that Sergei had been found murdered in his quarters, and that Strahd had chased [[NPCs/Tatyana Federovna|Tatyana]] into the gardens while vowing to take her hand in marriage. Seeing an immediate opportunity, Leo gathered a contingent of the castle guards and directed them to attack Strahd in vengeance for the death of the beloved prince, Sergei.
 >
-> However, Leo’s plot did not go unopposed. Leo’s elder sister, Lovina Wachter née Dilisnya—now the wife of Vladislav Wachter—led her family’s personal guards in Strahd’s defense. Leo’s traitorous guards drove the Wachters into **K62. Servants' Hall**, killing Lovina’s husband and butchering many of his relatives. There, Lovina and her family took shelter alongside Katarina, a castle servant and (unknown to Strahd) Strahd’s secret half-sister, in <span class="citation">K65. Kitchen (p. 78)</span>.
+> However, Leo’s plot did not go unopposed. Leo’s elder sister, [[NPCs/Lovina Wachter|Lovina Wachter]] née Dilisnya—now the wife of Vladislav Wachter—led her family’s personal guards in Strahd’s defense. Leo’s traitorous guards drove the Wachters into **K62. Servants' Hall**, killing Lovina’s husband and butchering many of his relatives. There, Lovina and her family took shelter alongside [[NPCs/Katarina|Katarina]], a castle servant and (unknown to Strahd) Strahd’s secret half-sister, in <span class="citation">K65. [[Places/Kitchen|Kitchen]] (p. 78)</span>.
 >
-> When Strahd arose as a vampire, Leo fled into <span class="citation">K23. Servants' Entrance (p. 59)</span>, down through **K62. Servants’ Hall**, and through <span class="citation">K67. Hall of Bones (p. 78)</span> into <span class="citation">K68. Guards' Run (p. 79)</span>. As Strahd pursued, he slaughtered the guards terrorizing the Wachters, and—in a moment of rare lucidity—thanked the Wachters for their loyalty and allowed Lovina and Katarina to depart in peace. As Strahd bathed the stone of Castle Ravenloft in the blood of the castle guards—both innocent and traitorous alike—their spirits combined in death to form a dreadful **gallows speaker** (<span class="citation">Van Richten’s Guide to Ravenloft, p. 234</span>) that would haunt Castle Ravenloft for years to come.
+> When Strahd arose as a vampire, Leo fled into <span class="citation">K23. Servants' Entrance (p. 59)</span>, down through **K62. Servants’ Hall**, and through <span class="citation">K67. [[Places/Hall of Bones|Hall of Bones]] (p. 78)</span> into <span class="citation">K68. Guards' Run (p. 79)</span>. As Strahd pursued, he slaughtered the guards terrorizing the Wachters, and—in a moment of rare lucidity—thanked the Wachters for their loyalty and allowed Lovina and [[NPCs/Katarina|Katarina]] to depart in peace. As Strahd bathed the stone of Castle Ravenloft in the blood of the castle guards—both innocent and traitorous alike—their spirits combined in death to form a dreadful **gallows speaker** (<span class="citation">Van Richten’s Guide to Ravenloft, p. 234</span>) that would haunt Castle Ravenloft for years to come.
 >
-> **_Leo's Punishment._** Leo successfully escaped Castle Ravenloft along with a half-dozen of the traitorous guards. Years later, however, with Lovina’s aid, Strahd tracked Leo to the darkened corridors of the now-abandoned Abbey of Saint Markovia.
+> **_Leo's Punishment._** Leo successfully escaped Castle Ravenloft along with a half-dozen of the traitorous guards. Years later, however, with Lovina’s aid, Strahd tracked Leo to the darkened corridors of the now-abandoned [[Places/Abbey of Saint Markovia|Abbey of Saint Markovia]].
 >
-> Strahd transformed Leo into a vampire spawn and, with Lovina’s approval, entombed him in a mausoleum beneath the Wachters’ manor where he would suffer for his crimes for all eternity. As a safeguard in the chance that Leo somehow escaped, Strahd crafted for Lovina a magical ruby amulet that, when broken, would kill Leo instantly.
+> Strahd transformed Leo into a [[Factions/Vampire Spawn|vampire spawn]] and, with Lovina’s approval, entombed him in a mausoleum beneath the Wachters’ manor where he would suffer for his crimes for all eternity. As a safeguard in the chance that Leo somehow escaped, Strahd crafted for Lovina a magical ruby amulet that, when broken, would kill Leo instantly.
 > 
 > **_Enter Fiona Wachter._** Centuries passed, and Fiona Wachter was born, the daughter of Balthazar and Lavinia Wachter and the younger sister of Frederich Wachter. Although Fiona’s parents never told her the true nature of the vampire sealed below their estate, they often told her of the “monster in the basement” that fed on disobedient children and forbade her from ever entering the cellar.
 >
-> When she was sixteen years old, the teenage Fiona had an explosive argument with her parents and brother. In her anger, Fiona toppled a shelf of fine porcelain and jewelry—including, among them, the magical amulet that Strahd had once forged for Lovina Wachter. Though Fiona had no knowledge of Leo’s existence or the amulet’s true nature, Leo died the moment that it shattered, his soul finally freed from the prison of his body.
+> When she was sixteen years old, the teenage Fiona had an explosive argument with her parents and brother. In her anger, Fiona toppled a shelf of fine porcelain and jewelry—including, among them, the magical amulet that Strahd had once forged for [[NPCs/Lovina Wachter|Lovina Wachter]]. Though Fiona had no knowledge of Leo’s existence or the amulet’s true nature, Leo died the moment that it shattered, his soul finally freed from the [[Places/Prison|prison]] of his body.
 >
 > **_The Haunted Estate._** Soon after Fiona fled from Wachterhaus, Leo’s spirit—now a part of the **gallows speaker** that had arisen from his compatriots’ gruesome deaths centuries before—returned to haunt and terrorize the estate. Objects were found in strange places, and food mysteriously spoiled. Portraits were found damaged or defaced, and the family was often awoken by chilling howls or loud knocks on their doors and windows.
 >
 > Fiona’s father, Balthazar Wachter, sought the advice of an amateur occultist that dwelled in Vallaki. The family stripped the flesh from Leo’s bones and sealed them in a chest under lock and key. That, however, only enraged Leo further. That same night, the **gallows speaker** began appearing to the Wachters as an apparition in reflections in mirrors and windows. Within days, it had escalated its activities to physical violence, throwing items across rooms, shattering glass windows, and even starting spontaneous fires.
 >
-> Desperate for a solution, Frederich Wachter, Fiona’s elder brother, learned that a powerful witch named Baba Lysaga dwelled in the swamps of Berez nearby. Alone, and without his parents’ knowledge, Frederich traveled to Berez in search of answers. When a **will-’o-wisp** lured Frederich into a hidden bog, however, he was rescued by Fiona herself, who had since become a student and disciple of Baba Lysaga.
+> Desperate for a solution, Frederich Wachter, Fiona’s elder brother, learned that a powerful witch named [[NPCs/Baba Lysaga|Baba Lysaga]] dwelled in the swamps of [[Places/Berez|Berez]] nearby. Alone, and without his parents’ knowledge, Frederich traveled to [[Places/Berez|Berez]] in search of answers. When a **will-’o-wisp** lured Frederich into a hidden bog, however, he was rescued by Fiona herself, who had since become a student and disciple of [[NPCs/Baba Lysaga|Baba Lysaga]].
 >
 > Frederich begged her to return to Wachterhaus to help them, but Fiona—wary of her brothers’ intentions and still harboring resentment from her fight with their parents—lied and told him harshly that Baba Lysaga had no magic with which to help him. (In truth, Baba Lysaga taught all of her students the means to create a protective circle soon after they arrived in Berez, as a means of defense against the **phase spiders** that haunted the swamps.)
 >
@@ -303,7 +303,7 @@ After a moment, she wipes her eyes and says, “Let us assume that I believe you
 
 If the players successfully persuade Lady Wachter to assist them and ask her for aid in creating a binding circle to entrap the hags within the Material Plane, she reluctantly and cautiously reveals the following information:
 
-* She is indeed capable of crafting such things, though she is long out of practice. To create a circle large enough to entrap an entire windmill from a distance would require the aid of several of Lady Wachter’s “associates,” whose aid it may take some time to secure. (Lady Wachter can direct Ernst and Haliq to recruit her associates—four **cult fanatics**—and gather them within as little as four hours if necessary.)
+* She is indeed capable of crafting such things, though she is long out of practice. To create a circle large enough to entrap an entire windmill from a distance would require the aid of several of Lady Wachter’s “associates,” whose aid it may take some time to secure. (Lady Wachter can direct Ernst and Haliq to recruit her associates—four **[[Factions/Cult Fanatics|cult fanatics]]**—and gather them within as little as four hours if necessary.)
 
 * There are two ways for such a circle to work: it can keep things out, or it can keep things in. To keep the hags from escaping the circle, the players will first need to secure the true names of any hags within the windmill, including those that are not the players’ primary target. Should even a single hag remain free to escape, it could attack Lady Wachter and her associates and bring the entire circle crashing down.
 
@@ -314,11 +314,11 @@ If Lady Wachter is informed of the possible presence of children within the wind
 If the players and Lady Wachter come to an agreement, she promises to meet them—along with her associates—at Vallaki’s eastern Morning Gate at the allotted time, once she’s prepared herself for the journey.
 # H6. The Old Svalich Road
 ## H6a. The Morning Gate
-If the players recruit [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] to their cause, she and her four **cult fanatic** associates meet them promptly at the Morning Gate at the chosen time. Lady Wachter has exchanged her dress for a practical pair of pants, flat-soled leather boots, and a chain shirt tucked under a forest-green tunic, with a round-headed mace hanging from her belt and a black hooded riding cloak covering the ensemble. Majesto, her **imp** familiar, accompanies her in **crow** form.
+If the players recruit [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] to their cause, she and her four **[[NPCs/Cult Fanatic|cult fanatic]]** associates meet them promptly at the Morning Gate at the chosen time. Lady Wachter has exchanged her dress for a practical pair of pants, flat-soled leather boots, and a chain shirt tucked under a forest-green tunic, with a round-headed mace hanging from her belt and a black hooded riding cloak covering the ensemble. [[NPCs/Majesto|Majesto]], her **[[NPCs/Imp|imp]]** familiar, accompanies her in **crow** form.
 
-The fanatics are as described in <span class="citation">N4t. Cult Headquarters (p. 114)</span> and are named Andrej, Boris, Miruna, and Ruxandra, respectively. None of the fanatics are particularly talkative.
+The fanatics are as described in <span class="citation">N4t. [[Places/Cult Headquarters|Cult Headquarters]] (p. 114)</span> and are named Andrej, Boris, Miruna, and Ruxandra, respectively. None of the fanatics are particularly talkative.
 ## H6b. The Druid
-The journey from the Town of Vallaki to Old Bonegrinder is five-and-three-quarter miles long and takes two hours.
+The journey from the Town of Vallaki to [[Places/Old Bonegrinder|Old Bonegrinder]] is five-and-three-quarter miles long and takes two hours.
 
 Midway through the trip, the players are disturbed by a rustling in the trees above. Read:
 
@@ -326,27 +326,27 @@ Midway through the trip, the players are disturbed by a rustling in the trees ab
 <p>A gaunt figure with wild hair and bare feet crouches on a thick, gnarled branch above your heads, wearing a tattered gown of stitched animal skins. Red streaks run across its cheeks, with two more fang-shaped streaks staining the skin beneath its lips.  It stops, sniffs the air, and laughs like a lunatic. “Little songbirds wandering the dark woods?” it asks, leering down at you.</p>
 </div>
 
-The figure is a **druid** of Yester Hill, and a spy for Strahd. They intend no harm toward the players, but are eager to provoke them in interesting ways.
+The figure is a **druid** of [[Places/Yester Hill|Yester Hill]], and a spy for Strahd. They intend no harm toward the players, but are eager to provoke them in interesting ways.
 
 If [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] is with the players, the conversation proceeds as follows unless the players intervene:
 
-* Lady Wachter steps forward and says, “I am no songbird, child of Yester Hill. You know me, and my sign. Do the Forest Folk demand tolls to travel the Svalich Wood?”
-* The druid’s eyes linger on Majesto, and they reply, “No tolls, dear ones. Mere . . . curiosity. You keep strange company, daughter of Mother Night.”
+* Lady Wachter steps forward and says, “I am no songbird, child of [[Places/Yester Hill|Yester Hill]]. You know me, and my sign. Do the [[Factions/Forest Folk|Forest Folk]] demand tolls to travel the [[Places/Svalich Woods|Svalich Wood]]?”
+* The druid’s eyes linger on [[NPCs/Majesto|Majesto]], and they reply, “No tolls, dear ones. Mere . . . curiosity. You keep strange company, daughter of [[NPCs/Mother Night|Mother Night]].”
 * Lady Wachter replies curtly, “My company is no concern of yours. Trouble us no more, and tell your master that the House of Wachter remembers its debts.”
 * “Debts indeed!” the druid rasps. “But to whom, this one wonders?” With a mud-stained grin and a cackle, they vanish into the trees and disappear from sight.
 
 If the players ask about her conversation with the druid, Lady Wachter is willing to provide the following information:
 
-* The individual was a druid of the Forest Folk, a loose society of hermits that dwell amidst the Svalich Woods and generally shun the civilized settlements. The druids treat Yester Hill, a hill at the southwest edge of the Barovian valley, as a sacred place, and worship Strahd as a deity for his control over the land and weather.
-* Lady Wachter first encountered and learned of the druids while a student of her mentor, Lysa. Lysa, a woodswitch who dwelled in the swamps of Berez, was a worshipper of Mother Night, a deity of darkness, trickery, and the occult. Lady Wachter was never able to hear the “voice” of Mother Night (as Lysa called it), however, and adopted the faith of Ezra soon after returning to Vallaki.
+* The individual was a druid of the [[Factions/Forest Folk|Forest Folk]], a loose society of hermits that dwell amidst the Svalich Woods and generally shun the civilized settlements. The druids treat Yester Hill, a hill at the southwest edge of the Barovian valley, as a sacred place, and worship Strahd as a deity for his control over the land and weather.
+* Lady Wachter first encountered and learned of the druids while a student of her mentor, Lysa. Lysa, a woodswitch who dwelled in the swamps of Berez, was a worshipper of Mother Night, a deity of darkness, trickery, and the occult. Lady Wachter was never able to hear the “voice” of Mother Night (as Lysa called it), however, and adopted the faith of [[Factions/Ezra|Ezra]] soon after returning to Vallaki.
 * Lysa did not take Lady Wachter’s departure lightly. A prideful woman, she considered her students her children, and took Lady Wachter’s decision to return to Vallaki as a personal betrayal. Lady Wachter has been banished from Berez ever since.
-* Lady Wachter’s “debt” to Strahd arises from his effort to save Lady Wachter’s ancestor, Lady Lovina Wachter, from death at the hands of the traitor Leo Dilisnya centuries ago. When a traitor and assassin named Leo Dilisnya murdered Lovina’s husband and attempted to kill Lovina as well, Strahd defended her, then hunted Dilisnya down to punish him for his treachery. House Wachter has remained loyal to Strahd ever since.
+* Lady Wachter’s “debt” to Strahd arises from his effort to save Lady Wachter’s ancestor, Lady Lovina Wachter, from death at the hands of the traitor Leo Dilisnya centuries ago. When a traitor and assassin named Leo Dilisnya murdered Lovina’s husband and attempted to kill Lovina as well, Strahd defended her, then hunted Dilisnya down to punish him for his treachery. [[Factions/House Wachter|House Wachter]] has remained loyal to Strahd ever since.
 # H7. Old Bonegrinder
 <span class="citation"><em>This scene takes place in Chapter 6: Area O.</em></span>
 
-Old Bonegrinder is largely as described in <span class="citation">Chapter 6: Old Bonegrinder (p. 125)</span>. However, there are no ravens at or near the windmill. Additionally, Freek is named Fyodor instead, and both he and Myrtle are the children of the Barovian refugee Franz. Finally, the millstone in <span class="citation">O2. Bone Mill (p. 127)</span> bears a stone keyhole on one side, and contains a compartment that holds the hags' contract. 
+Old Bonegrinder is largely as described in <span class="citation">Chapter 6: Old Bonegrinder (p. 125)</span>. However, there are no ravens at or near the windmill. Additionally, Freek is named Fyodor instead, and both he and Myrtle are the children of the Barovian refugee Franz. Finally, the millstone in <span class="citation">O2. Bone Mill (p. 127)</span> bears a stone keyhole on one side, and contains a compartment that holds [[Items/The Hags' Contract|the hags' contract]]. 
 
-If [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] is present as the players approach the windmill, she first gathers the players, [[Non-Player Characters#Victor Vallakovich|Victor]], and the four **cult fanatics** in a darkened copse of trees beside the Old Svalich Road to assemble a plan of attack.
+If [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] is present as the players approach the windmill, she first gathers the players, [[Non-Player Characters#Victor Vallakovich|Victor]], and the four **cult fanatics** in a darkened copse of trees beside the [[Places/Old Svalich Road|Old Svalich Road]] to assemble a plan of attack.
 
 Lady Wachter then attempts to confirm the following details:
 
@@ -354,7 +354,7 @@ Lady Wachter then attempts to confirm the following details:
 * whether there are children within the windmill, and how the players intend to rescue them
 * how the players intend to combat the hags once the binding circle is raised
 
-Lady Wachter is glad to offer the players the service of her **imp** familiar Majesto as a scout. (Majesto can use his **crow**, **spider**, and **rat** forms to surveil the exterior and interior of the windmill while remaining invisible using his ***invisibility*** ability.) Meanwhile, Victor offers to aid the players in retrieving Franz’s children from the windmill, using his *misty step*, *fly*, and *greater invisibility* spells as-needed to assist with the rescue mission.
+Lady Wachter is glad to offer the players the service of her **[[NPCs/Imp|imp]]** familiar Majesto as a scout. (Majesto can use his **crow**, **spider**, and **rat** forms to surveil the exterior and interior of the windmill while remaining invisible using his ***invisibility*** ability.) Meanwhile, Victor offers to aid the players in retrieving Franz’s children from the windmill, using his *misty step*, *fly*, and *greater invisibility* spells as-needed to assist with the rescue mission.
 
 > [!info]+ **Layout of the Windmill**
 > The windmill rests upon a small, bare, grassy hill approximately one thousand feet in diameter, with a hilltop approximately four hundred feet in diameter. Its north and western edges are flanked by the trees of the Svalich Wood, which press closely toward its base.
@@ -380,18 +380,18 @@ As such, he'll need to conserve his strength—and, specifically, his 5th- and 4
 >
 > If the players complete Morgantha's task within the allotted time, however, she will release their dreams and allow them to return to their owners. In either case, the players can take long rests normally until the fourteen days have elapsed.
 >
-> Morgantha’s task is simple. The players must deliver a **soul leech**—a Tiny **fiend** resembling a leech with ghost-white, translucent flesh and purple-blue veins, and which Morgantha has imprisoned in a corked glass vial—to the office of Strahd’s chamberlain, Rahadin. Upon arriving in Rahadin’s office, the players must uncork the vial and allow the leech to attach itself to the underside of his desk, where it will render itself invisible and virtually undetectable.
+> Morgantha’s task is simple. The players must deliver a **[[Items/Soul Leech|soul leech]]**—a Tiny **fiend** resembling a leech with ghost-white, translucent flesh and purple-blue veins, and which Morgantha has imprisoned in a corked glass vial—to the office of Strahd’s chamberlain, Rahadin. Upon arriving in Rahadin’s office, the players must uncork the vial and allow the leech to attach itself to the underside of his desk, where it will render itself invisible and virtually undetectable.
 > 
 >![[Soul Leech.png]]
 ><span class="credit">"Soul Leech" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 >
 >The players can convince Morgantha to reveal her plans for the leech with a DC 10 Charisma (Persuasion) check: When Rahadin returns, the leech will secretly attach itself to his flesh, ensuring that—when Rahadin eventually dies—his evil soul will be ensnared and entrapped in Morgantha’s *soul bag,* where it will be transformed into a **soul larva** that Morgantha can use for nefarious purposes.
 >
-> Morgantha can tell the players that Rahadin’s office is located in the cellar of Castle Ravenloft, not far from the kitchens. However, Morgantha won’t share where she obtained her information. (Her source is, of course, the **mongrelfolk** Cyrus Belview, the unwitting bearer of the coven’s *hag eye.*)
+> Morgantha can tell the players that Rahadin’s office is located in the cellar of Castle Ravenloft, not far from the kitchens. However, Morgantha won’t share where she obtained her information. (Her source is, of course, the **mongrelfolk** [[NPCs/Cyrus Belview|Cyrus Belview]], the unwitting bearer of the coven’s *[[Items/Hag Eye|hag eye]].*)
 
 > [!info]+ **The Megaliths**
 >
-> The megaliths beyond Old Bonegrinder demarcate the boundaries of the Mountain Fane: the shrine to the Seeker of the Ladies Three. Once atop the windmill's hill, the players can see the megaliths in the valley below. Read:
+> The megaliths beyond Old Bonegrinder demarcate the boundaries of [[Places/The Mountain Fane|the Mountain Fane]]: the shrine to the [[NPCs/Seeker|Seeker]] of the Ladies Three. Once atop the windmill's hill, the players can see the megaliths in the valley below. Read:
 >
 ><hr>
 >
@@ -403,19 +403,19 @@ As such, he'll need to conserve his strength—and, specifically, his 5th- and 4
 ## H7a. Raiding the Windmill
 The players can obtain the hags' true names by retrieving the contract from the locked stone compartment in the millstone in <span class="citation">O2. Bone Mill (p. 127)</span>. 
 
-One of the arms of the millstone in the bone mill is more gnarled than the rest, and is visibly segmented at the end. Twisting the end of the gnarled arm detaches it, revealing an iron key hidden inside. The players can unlock the millstone compartment by using the iron key, or by succeeding on a DC 15 Dexterity (Thieves' Tools) check. The compartment contains the hags' contract, as well as the treasure described in <span class="citation">O3. Bedroom (p. 127)</span>.
+One of the arms of the millstone in the bone mill is more gnarled than the rest, and is visibly segmented at the end. Twisting the end of the gnarled arm detaches it, revealing an iron key hidden inside. The players can unlock the millstone compartment by using the iron key, or by succeeding on a DC 15 Dexterity (Thieves' Tools) check. The compartment contains [[Items/The Hags' Contract|the hags' contract]], as well as the treasure described in <span class="citation">O3. Bedroom (p. 127)</span>.
 
-The hags' contract is written in Abyssal on a piece of leather made of human skin, and is signed with their true names at the bottom: Morgantha Stormreaver, Belladonna Sunbane, and Offalia Wormwiggle. (If none of the players can read Abyssal, Lady Wachter is able to read the hags' names instead, having learned the language's alphabet as a student of Baba Lysaga.)
+The hags' contract is written in Abyssal on a piece of leather made of human skin, and is signed with their true names at the bottom: Morgantha Stormreaver, [[NPCs/Belladonna Sunbane|Belladonna Sunbane]], and [[NPCs/Offalia Wormwiggle|Offalia Wormwiggle]]. (If none of the players can read Abyssal, Lady Wachter is able to read the hags' names instead, having learned the language's alphabet as a student of Baba Lysaga.)
 
 > [!info]+ **Damaging the Contract**
 > The hags' contract, which has AC 20 and 1 hit point, is immune to all damage except damage dealt by the hags' own ***claws*** attack, a fact that a player can recall with a successful DC 20 Intelligence (Arcana) check. If the contract is destroyed, the coven is disbanded, leaving all three members to use the statistics of an ordinary **night hag**.
 
-The stone compartment also contains a *charm of mass heroism*, resembling a golden medallion adorned with three interlocking rings engraved at its center. 
+The stone compartment also contains a *[[Items/Charm of Mass Heroism|charm of mass heroism]]*, resembling a golden medallion adorned with three interlocking rings engraved at its center. 
 
-> [!item]+ **Charm of Mass Heroism**
+> [!item]+ **[[Items/Charm of Mass Heroism|Charm of Mass Heroism]]**
 > As an action, the wielder of this charm can give any number of creatures within 30 feet the benefit of a *potion of heroism*. Once they do so, the charm vanishes from their person.
 
-Fyodor and Myrtle are imprisoned on the third floor of the windmill and guarded by the **night hags** Belladonna "Bella" Sunbane and Offalia Wormwiggle, as described in <span class="citation">O3. Bedroom (p. 127)</span>. However, Fyodor and Myrtle have no particular knowledge of Ireena or Ismark, and wish only to be returned to their father, Franz.
+Fyodor and Myrtle are imprisoned on the third floor of the windmill and guarded by the **night hags** [[NPCs/Belladonna Sunbane|Belladonna]] "Bella" Sunbane and Offalia Wormwiggle, as described in <span class="citation">O3. Bedroom (p. 127)</span>. However, Fyodor and Myrtle have no particular knowledge of [[NPCs/Ireena Kolyana|Ireena]] or [[NPCs/Ismark Kolyanovich|Ismark]], and wish only to be returned to their father, Franz.
 
 ![[The Three Hags.png]]
 <span class="credit">"The Three Hags" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -426,7 +426,7 @@ If one or more players knock on the door to <span class="citation">O1. Ground Fl
 
 > [!info]+ **The Hag Coven**
 >
-> While Morgantha and her two daughters are all within 1 mile of one another, they share the statistics of **The Bonegrinder Coven** and **The Nightmare Three**, rather than using their individual **night hag** statblocks.
+> While Morgantha and her two daughters are all within 1 mile of one another, they share the statistics of **[[Factions/The Bonegrinder Coven|The Bonegrinder Coven]]** and **[[NPCs/The Nightmare Three|The Nightmare Three]]**, rather than using their individual **night hag** statblocks.
 >
 > While the coven exists, damage dealt to each individual hag is instead subtracted from the coven’s hit points, causing similar wounds or injuries to visibly appear on the bodies of all three hags. (If damage is dealt to multiple hags at once, the damage is subtracted from the coven’s hit points that many times.)
 >
@@ -438,7 +438,7 @@ Alternatively, if the players use a different convincing cover story, they can c
 
 If the players successfully convince Morgantha that they're addicted to dream pastries or are otherwise harmless, Morgantha informs them that her current batch of dream pastries is still baking and invites them to remain until they're done. Until then, she's glad to make smalltalk.
 
-The players can also persuade Morgantha to invite her daughters down into the kitchen (in order to lure them away from the children upstairs) with a successful DC 16 Charisma (Persuasion or Deception) check. If they succeed in doing so, Bella and Offalia introduce themselves with a pair of clumsy curtsies.
+The players can also persuade Morgantha to invite her daughters down into the [[Places/Kitchen|kitchen]] (in order to lure them away from the children upstairs) with a successful DC 16 Charisma (Persuasion or Deception) check. If they succeed in doing so, Bella and Offalia introduce themselves with a pair of clumsy curtsies.
 
 On a failure, a wary Morgantha claims that her daughters are, unfortunately, too busy to speak with visitors, but that she would be glad to relay any compliments or other comments to them should the players desire. She then asks the players what they thought of her dream pastries and what dreams they experienced upon eating them. 
 
@@ -506,7 +506,7 @@ If the players challenge Morgantha's predation of Franz and the children, she sc
 Morgantha declines to explain her statement further, noting only that "darker powers" than Strahd von Zarovich command the Mists that encircle the valley—and that she may be willing to share more information if the players return the children. (If the players then do so, Morgantha shares the three secrets noted in [[#Morgantha's Plea]] below.)
 
 ![[The Bonegrinder Coven.png]]
-<span class="credit">"The Bonegrinder Coven" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"[[Factions/The Bonegrinder Coven|The Bonegrinder Coven]]" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 ### Battle with the Hags
 The hags fight in self-defense, or if the players make clear that they will not otherwise return the children or the coven's contract. The combatants fight as follows:
@@ -568,7 +568,7 @@ The hags fight in self-defense, or if the players make clear that they will not 
 <p><strong><em>Magic Resistance.</em></strong> The coven has advantage on saving throws against spells and magical effects.</p>
 <p><strong><em>Spellcasting.</em></strong> The coven's spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks).
 <p><strong><em>Complex Casting.</em></strong> If a hag casts a spell on her turn using a bonus action, she can also use her action to cast a non-cantrip spell on the same turn.</p>
-<p><strong><em>Second Phase.</em></strong> If the coven is reduced to 0 hit points, its statistics are instantly replaced by those of <strong>The Nightmare Three</strong>. Its initiative remains the same. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form. Any spells requiring concentration end.</p>
+<p><strong><em>Second Phase.</em></strong> If the coven is reduced to 0 hit points, its statistics are instantly replaced by those of <strong>[[NPCs/The Nightmare Three|The Nightmare Three]]</strong>. Its initiative remains the same. Excess damage doesn't carry over to its new form, but it retains any conditions it had in its previous form. Any spells requiring concentration end.</p>
 <h3>Actions</h3>
 <p><strong><em>Blindness/Deafness (Bella Only).</em></strong> Bella casts <em>blindness/deafness</em>. A target takes an additional 7 (2d6) necrotic damage if it fails the saving throw, or half damage on a success.</p>
 <p><strong><em>Putrid Radiance (Bella Only).</em></strong> <em>2nd-level necromancy</em>, 30 feet, components V S M, instantaneous. <em>Effect:</em>: Dim, greenish light bursts within a 10-foot-radius sphere centered on a point that Bella chooses within range. Each creature within that area must succeed on a DC 17 Constitution saving throw or take 2d6 radiant damage and be poisoned until the end of its next turn.</p>
@@ -660,7 +660,7 @@ The hags fight in self-defense, or if the players make clear that they will not 
 <h3>Reactions</h3>
 <p><strong><em>Tail Lash (Bella Only).</em></strong> In response to taking damage from a creature within 10 feet, Bella makes a <strong><em>tail</strong></em> attack against her attacker.</p>
 <p><strong><em>Tusks (Offalia Only).</em></strong> In response to taking damage from a melee attack, Offalia makes a <strong><em>gore</strong></em> attack against her attacker.</p>
-<p><strong><em>Shadow Step (Morgantha Only).</em></strong> In response to taking damage from a creature that she can see, Morgantha instead takes half as much damage (rounded down) and teleports up to 30 feet.</p>
+<p><strong><em>[[NPCs/Shadow|Shadow]] Step (Morgantha Only).</em></strong> In response to taking damage from a creature that she can see, Morgantha instead takes half as much damage (rounded down) and teleports up to 30 feet.</p>
 <p><strong><em>Matron's Rebuke (Morgantha Only).</em></strong> In response to taking damage from a creature within 60 feet of her that she can see, Morgantha points her finger and surrounds the creature that damaged her with writhing shadows, forcing it to succeed on a DC 17 Dexterity saving throw or take 11 (2d10) necrotic damage.</p>
 <p><strong><em>Absorb Elements (Any).</em></strong> In response to taking acid, cold, fire, lightning, or thunder damage, the hag uses her reaction to cast <em>absorb elements</em>.</p>
 </div>
@@ -727,9 +727,9 @@ Morgantha initially refuses to reveal anything until Lady Wachter’s binding ci
 
 Morgantha's secrets are as follows:
 
-* Strahd’s most carefully guarded secret is a temple of forbidden lore hidden in the mountains. It is known as the Amber Temple, and it is the place where he first met the entity with which he forged his terrible pact. (Morgantha doesn’t know the temple’s location or the nature of Strahd’s pact.)
-* Strahd von Zarovich seeks to escape from the grasp of the Mists. He has prepared a dark and secret plot to do so, harnessing the power of three ancient shrines to defy the will of the Dark Powers that rule this land. (Morgantha doesn’t know the specifics of his plot or the nature of the shrines, but knows that one of the three shrines is located among the circle of standing stones located at the base of the windmill’s hill.)
-* Unbeknownst to Strahd, a traitor lurks in his midst: his eldest wife and **vampire spawn** Sasha Ivliskova. (Morgantha is wildly amused by this treachery, and has taken no action to warn Strahd of her conflicted loyalties.)
+* Strahd’s most carefully guarded secret is a temple of forbidden lore hidden in the mountains. It is known as [[Places/Amber Temple|the Amber Temple]], and it is the place where he first met the entity with which he forged his terrible pact. (Morgantha doesn’t know the temple’s location or the nature of Strahd’s pact.)
+* Strahd von Zarovich seeks to escape from the grasp of the Mists. He has prepared a dark and secret plot to do so, harnessing the power of three ancient shrines to defy the will of [[Factions/Dark Powers|the Dark Powers]] that rule this land. (Morgantha doesn’t know the specifics of his plot or the nature of the shrines, but knows that one of the three shrines is located among the circle of standing stones located at the base of the windmill’s hill.)
+* Unbeknownst to Strahd, a traitor lurks in his midst: his eldest wife and **[[Factions/Vampire Spawn|vampire spawn]]** [[NPCs/Sasha Ivliskova|Sasha Ivliskova]]. (Morgantha is wildly amused by this treachery, and has taken no action to warn Strahd of her conflicted loyalties.)
 
 Before the binding circle is lowered, the players can also demand that Morgantha lend them a heartstone with a successful DC 10 Charisma (Intimidation) check. If persuaded to do so, Morgantha commands Bella to produce her heartstone, which—after a loud and vehement dissent—Bella grimly offers to the players.
 
@@ -787,7 +787,7 @@ Morgantha distributes the vials to herself and her daughters, and then directs B
 
 The players can convince Morgantha to reveal her plans for the leech with a DC 10 Charisma (Persuasion) check: When Rahadin returns, the leech will secretly attach itself to his flesh, ensuring that—when Rahadin eventually dies—his evil soul will be ensnared and entrapped in Morgantha’s *soul bag,* where it will be transformed into a **soul larva** that Morgantha can use for nefarious purposes.
 
-Morgantha can tell the players that Rahadin’s office is located in the cellar of Castle Ravenloft, not far from the kitchens. However, Morgantha won’t share where she obtained her information. (Her source is, of course, the **mongrelfolk** Cyrus Belview, the unwitting bearer of the coven’s *hag eye.*)
+Morgantha can tell the players that Rahadin’s office is located in the cellar of Castle Ravenloft, not far from the kitchens. However, Morgantha won’t share where she obtained her information. (Her source is, of course, the **mongrelfolk** [[NPCs/Cyrus Belview|Cyrus Belview]], the unwitting bearer of the coven’s *[[Items/Hag Eye|hag eye]].*)
 
 As a form of insurance to ensure the players’ compliance, Morgantha takes their dreams as collateral once they accept her offer, bottling them up in a glass vial that she wears on a cord around her neck.
 
@@ -796,7 +796,7 @@ Morgantha warns the players that, if they fail to complete her task within fourt
 If the players complete Morgantha's task within the allotted time, however, she will release their dreams and allow them to return to their owners. In either case, the players can take long rests normally until the fourteen days have elapsed.
 
 > [!info]+ **Curing Cackle Fever**
-> Players infected with cackle fever can use Morgantha's heartstone to cure their illness as described in <span class="citation">Night Hag (<em>Monster Manual</em>, p. 178)</span>
+> Players infected with cackle fever can use Morgantha's heartstone to cure their illness as described in <span class="citation">Night Hag (<em>[[Items/Monster Manual|Monster Manual]]</em>, p. 178)</span>
 ### Escaping the Windmill
 If Morgantha abandons the players in the windmill attic, they are approached shortly thereafter by Lady Wachter’s **imp**, Majesto, in his invisible **spider** form. Majesto whispers the following information to the players:
 
@@ -808,7 +808,7 @@ Every twenty minutes, two of the six **dretches** guarding the players return to
 
 Shortly after dusk, Morgantha vanishes from the windmill, entering the Ethereal Plane to torment Franz in the Barovian refugee camp. Bella and Offalia remain in **O3. Bedroom** to guard Myrtle and Fyodor, taunting them with tales of their imminent and terrible deaths to pass the time. 
 
-Unlike their mother, Bella and Offalia are easily distracted. They can be lured to <span class="citation">O2. Bone Mill (p. 127)</span> or <span class="citation">O4. Domed Attic (p. 127)</span> with a successful DC 13 Charisma (Performance) check and any reasonably relevant means (e.g., a *minor illusion* spell). If rescued, Fyodor and Myrtle have no particular knowledge of Ireena or Ismark, and wish only to be returned to their father, Franz.
+Unlike their mother, Bella and Offalia are easily distracted. They can be lured to <span class="citation">O2. Bone Mill (p. 127)</span> or <span class="citation">O4. Domed Attic (p. 127)</span> with a successful DC 13 Charisma (Performance) check and any reasonably relevant means (e.g., a *minor illusion* spell). If rescued, Fyodor and Myrtle have no particular knowledge of [[NPCs/Ireena Kolyana|Ireena]] or [[NPCs/Ismark Kolyanovich|Ismark]], and wish only to be returned to their father, Franz.
 
 If the players do not escape and rescue Myrtle and Fyodor by midnight, Morgantha returns soon thereafter and uses her lair actions to put the children to sleep. Bella and Offalia then slit the children’s throats, skin them, and grind their bones between the millstones in **O2. Bone Mill.** As they do, the vanes of the windmill turn, whipping through the chill night air of the hilltop as the hags perform their gruesome work.
 ### Finding a Cure
@@ -827,7 +827,7 @@ As noted in **Cackle Fever** (*Dungeon Master’s Guide*, p. 257), the disease o
 
 The players can identify these remedies, as well as the symptoms of cackle fever, with a successful DC 15 Wisdom (Medicine) check or by asking Lady Wachter for a diagnosis.
 
-Though the players cannot find healing magic capable of curing cackle fever in Vallaki, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]], [[Non-Player Characters#Urwin Martikov|Urwin Martikov]], [[Non-Player Characters#Danika Dorakova|Danika Dorakova]], and [[Non-Player Characters#Father Lucian Petrovich|Father Lucian Petrovich]] can all inform them that the Abbot of the Abbey of Saint Markovia in Krezk is said to be a masterful healer—perhaps even capable of curing their disease by magical means.
+Though the players cannot find healing magic capable of curing cackle fever in Vallaki, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]], [[Non-Player Characters#Urwin Martikov|Urwin Martikov]], [[Non-Player Characters#Danika Dorakova|Danika Dorakova]], and [[Non-Player Characters#Father Lucian Petrovich|Father Lucian Petrovich]] can all inform them that the [[NPCs/Abbot of the Abbey of Saint Markovia|Abbot of the Abbey of Saint Markovia]] in Krezk is said to be a masterful healer—perhaps even capable of curing their disease by magical means.
 
 If the players choose to travel to Krezk, they will need to first gain passage through its gates. See [[Arc I - The Walls of Krezk]] for more information regarding the players’ journey to Krezk and the means by which they can gain entry into the village.
 # H8. The Ritual
@@ -835,9 +835,9 @@ Once the players have obtained a *heartstone*, they will need a location at whic
 ![[Heartstone.png]]
 <span class="credit">"Heartstone" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-[[Non-Player Characters#Victor Vallakovich|Victor]] informs the players that he will need access to a leyline—a font of natural magic—in order to fuel the *etherealness* ritual. If she is present, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] informs the players that the cellar of Wachterhaus was built atop one such leyline, and offers its use for the ritual. Otherwise, Victor sheepishly informs the players that he has identified a leyline that runs through Vallaki—and that he believes it to lie somewhere beneath Wachterhaus.
+[[Non-Player Characters#Victor Vallakovich|Victor]] informs the players that he will need access to a [[Places/Leyline beneath Wachterhaus|leyline]]—a font of natural magic—in order to fuel the *etherealness* ritual. If she is present, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] informs the players that the cellar of Wachterhaus was built atop one such leyline, and offers its use for the ritual. Otherwise, Victor sheepishly informs the players that he has identified a leyline that runs through Vallaki—and that he believes it to lie somewhere beneath Wachterhaus.
 
-If present, Lady Wachter first disables the protective circle around Wachterhaus in order to allow creatures to pass through the boundary of the Ethereal Plane. She then leads the players and Victor to <span class="citation">N4t. Cult Headquarters (p. 114)</span>, setting her **cult fanatics** to guard the cellar entrances. Otherwise, the players must gain access to the Wachterhaus cellar themselves, whereupon Victor leads them to **N4t. Cult Headquarters** to enact the ritual.
+If present, Lady Wachter first disables the protective circle around Wachterhaus in order to allow creatures to pass through the boundary of the Ethereal Plane. She then leads the players and Victor to <span class="citation">N4t. [[Places/Cult Headquarters|Cult Headquarters]] (p. 114)</span>, setting her **cult fanatics** to guard the cellar entrances. Otherwise, the players must gain access to the Wachterhaus cellar themselves, whereupon Victor leads them to **N4t. Cult Headquarters** to enact the ritual.
 
 The inside of the chamber is largely as described in **N4t. Cult Headquarters**. However, modify the descriptive text to read as follows:
 
@@ -904,7 +904,7 @@ The voice belongs to the **specter** of the sixteen-year-old Stella Wachter, who
 > 
 > ***Motivations.*** Stella wants to help Victor master his magic and help her family escape Barovia.
 > 
-> ***Inspirations.*** When playing Stella, channel Rapunzel (*Tangled*), Ariel (*The Little Mermaid*), and Anna (*Frozen*).
+> ***Inspirations.*** When playing Stella, channel Rapunzel (*Tangled*), Ariel (*The Little Mermaid*), and [[NPCs/Anna Krezkova|Anna]] (*Frozen*).
 > 
 > **Character Information**
 > ***Persona.*** To the world, Stella is a polite, quiet, and docile—if fidgety—young noblewoman. To her family and friends, Stella is a bright and inquisitive mind with a fierce optimism and an unwavering dedication to those she cares about.
@@ -1003,35 +1003,35 @@ At the end of the first round of combat with the specters, any surviving specter
 ![[Gallows Speaker.png]]
 <span class="credit">"Gallows Speaker" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-The **gallows speaker** is an agglomeration of Leo Dilisnya’s spirit with the spirits of the dozens of castle guards that Strahd slaughtered on the day of Sergei’s wedding. The book held to its chest is the *Tome of Strahd*, which Leo stole from Wachterhaus after killing Lady Wachter's parents during their seance.
+The **gallows speaker** is an agglomeration of Leo Dilisnya’s spirit with the spirits of the dozens of castle guards that Strahd slaughtered on the day of Sergei’s wedding. The book held to its chest is the *[[Items/The Tome of Strahd|Tome of Strahd]]*, which Leo stole from Wachterhaus after killing Lady Wachter's parents during their seance.
 
 > [!lore]+ **What Happened to the Tome?**
-> One hundred years ago, Strahd used his Tome as a repository for his secret plans involving the Grand Conjunction and the Fanes of Barovia. When he began his hibernation amidst the crypts of Ravenloft, he did his best to hide his Tome away, safe from prying eyes. Nonetheless, it was found—by the **wereraven** Livius, who was searching for the legendary _Sigil of the Sun_ (later renamed the _Holy Symbol of Ravenkind_) while Lugdana and Ismark Antonovich kept the guardians of the castle occupied.
+> One hundred years ago, Strahd used his Tome as a repository for his secret plans involving the [[Places/Grand Conjunction|Grand Conjunction]] and the [[Places/Fanes of Barovia|Fanes of Barovia]]. When he began his hibernation amidst the crypts of Ravenloft, he did his best to hide his Tome away, safe from prying eyes. Nonetheless, it was found—by the **wereraven** [[NPCs/Livius Martikov|Livius]], who was searching for the legendary _Sigil of the Sun_ (later renamed the _Holy Symbol of Ravenkind_) while [[NPCs/Lugdana|Lugdana]] and [[NPCs/Ismark Antonovich|Ismark Antonovich]] kept the guardians of the castle occupied.
 > 
-> When the trio escaped the castle, Livius shared with them the Tome, wondering aloud which of Strahd’s secrets it might hold. Because they could not open its magical lock, however, Lugdana took the Tome to a bookbinder in Vallaki with a reputation for puzzle-solving and lockpicking, hoping that he might be able to open it instead.
+> When the trio escaped the castle, [[NPCs/Livius Martikov|Livius]] shared with them the Tome, wondering aloud which of Strahd’s secrets it might hold. Because they could not open its magical lock, however, [[NPCs/Lugdana|Lugdana]] took the Tome to a bookbinder in Vallaki with a reputation for puzzle-solving and lockpicking, hoping that he might be able to open it instead.
 > 
-> Lugdana, however, was betrayed. The bookbinder’s apprentice—a scion of House Wachter—overheard their conversation and made plans to steal the Tome instead. The apprentice hid the Tome away in the bookbinder’s desk, then returned that night to steal it. The Tome remained locked away in Wachterhaus until the gallows speaker stole it on the night the Wachters died. (Because her parents died while she was still a teenager, Lady Fiona Wachter never learned of the Tome’s true origins.)
+> Lugdana, however, was betrayed. The bookbinder’s apprentice—a scion of [[Factions/House Wachter|House Wachter]]—overheard their conversation and made plans to steal the Tome instead. The apprentice hid the Tome away in the bookbinder’s desk, then returned that night to steal it. The Tome remained locked away in Wachterhaus until the gallows speaker stole it on the night the Wachters died. (Because her parents died while she was still a teenager, Lady Fiona Wachter never learned of the Tome’s true origins.)
 
 The gallows speaker shares freely that it intends to kill Stella’s spirit, followed by Lady Wachter. Once it has done so, it intends to cross over into the Material Plane, where it will kill Lady Wachter’s sons, Nikolai and Karl.
 
 If the players obstruct the gallows speaker, it attempts to persuade them to stand aside, providing the following information in support of its argument:
 
-* In life, it was Leo Dilisnya, a guard of Castle Ravenloft. When Strahd killed his brother, Sergei, and pursued Sergei’s bride, Tatyana, through the castle gardens, it was Leo who gave the order for the guards to kill Strahd to defend Tatyana and avenge Sergei’s death.
+* In life, it was Leo Dilisnya, a guard of Castle Ravenloft. When Strahd killed his brother, Sergei, and pursued Sergei’s bride, [[NPCs/Tatyana Federovna|Tatyana]], through the castle gardens, it was Leo who gave the order for the guards to kill Strahd to defend Tatyana and avenge Sergei’s death.
 * When Strahd became a vampire, he slaughtered his castle guards in a bloody and gruesome massacre. Lady Lovina Wachter née Dilisnya, Leo’s sister and a faithful devotee of Strahd von Zarovich, directed her bodyguards to assist Strahd in the bloodshed.
-* Leo himself barely escaped, and hid himself away in the deserted Abbey of Saint Markovia on a spur of Mount Baratok. However, Strahd and Lovina eventually found him—and when they did, they turned him into a **vampire spawn** and sealed him in a lightless stone vault beneath Wachterhaus. 
+* Leo himself barely escaped, and hid himself away in the deserted [[Places/Abbey of Saint Markovia|Abbey]] of [[NPCs/Saint Markovia|Saint Markovia]] on a spur of [[Places/Mount Baratok|Mount Baratok]]. However, Strahd and Lovina eventually found him—and when they did, they turned him into a **vampire spawn** and sealed him in a lightless stone vault beneath Wachterhaus. 
 * They left him there to starve for four hundred years, slowly growing mad as the bloodthirst destroyed his mind and his hatred sharpened and burned. (“Do you have *any* idea what that’s like?” the gallows speaker snarls, the faces within its cloak moaning with a chorus of mournful wails. “*Feeling* your sanity slip away, year by year, as the hunger within you twists and grows, never to be sated?”)
 * More than thirty years ago, Leo finally died, his spirit arising as a **ghost** that reunited with the tormented spirits of the castle guards, forming a **gallows speaker.** As he lurked unseen among Wachterhaus, he came to learn that he had been granted the release of death on the same night that Fiona Wachter—then a teenager—had fled her family estate, destroying an enchanted ruby gemstone that Strahd had given Lovina’s family as security should Leo ever escape.
 * Not long after his death, Leo killed the Wachters that remained at Wachterhaus, but was unable to finish the job when Fiona Wachter sealed him out. Now, however, Leo seeks to “rip out the poisoned Wachter family tree, root and branch,” and finally “see justice done.”
 
 A player who makes a successful DC 15 Wisdom (Insight) check discerns that the gallows speaker’s words are a half-truth at best. If challenged, it reveals the truth: 
 
-* In life, Leo was an assassin of the Ba’al Verzi who betrayed his order’s vows when he sought to kill Strahd in vengeance for the death of his brother, Reinhold, who Strahd knowingly sent to die to win a battle against the Order of the Silver Dragon. 
+* In life, Leo was an assassin of the Ba’al Verzi who betrayed his order’s vows when he sought to kill Strahd in vengeance for the death of his brother, Reinhold, who Strahd knowingly sent to die to win a battle against the [[Factions/Order of the Silver Dragon|Order of the Silver Dragon]]. 
 * On the morning of Sergei’s wedding, Leo climbed to the window of Strahd’s royal chambers, carrying with him a cursed Ba’al Verzi dagger that prevented its victims from being resurrected.
 * When Lovina Wachter’s bodyguards engaged the castle guards to defend Strahd, it was Leo who gave the order to have the Wachters themselves killed, furious that his sister had elected to “betray” him and Reinhold’s memory.
 
 If the players ask about the tome clutched to its chest, the gallows speaker shares that it is a ledger of the hubris and crimes of the Wachters' lord, and a reminder of the hatred that kindled the speaker's strength. It cannot be persuaded to surrender the *Tome*, even temporarily.
 ### Fighting the Gallows Speaker
-If the players refuse to allow the gallows speaker to kill the Wachters, it vows to tear them apart while Stella and Lady Wachter watch. It then attacks with its **Speaker of the Gallows** form. Lady Wachter leaps to the players’ aid, snarling with defiance.
+If the players refuse to allow the gallows speaker to kill the Wachters, it vows to tear them apart while Stella and Lady Wachter watch. It then attacks with its **[[NPCs/Speaker of the Gallows|Speaker of the Gallows]]** form. Lady Wachter leaps to the players’ aid, snarling with defiance.
 
 > [!info]+ **How Long Does Leo Speak?**
 > Unless the players immediately attack it, assume the conversation with the gallows speaker takes more than one minute, but fewer than ten minutes (e.g., for the purposes of determining spell duration).
@@ -1042,13 +1042,13 @@ If the players refuse to allow the gallows speaker to kill the Wachters, it vows
 
 ***The Gallows Speaker.*** Throughout the fight, the gallows speaker taunts Lady Wachter, rhapsodizing at length about the agonies that it will visit upon her and her family. However, it never attacks either Lady Wachter, Stella, or Victor, preferring to focus its attention upon the players who have defied it.
 
-In its first phase, the **Speaker of the Gallows**, the gallows speaker never retreats, nor does it reposition except to pursue a target. 
+In its first phase, the **[[NPCs/Speaker of the Gallows|Speaker of the Gallows]]**, the gallows speaker never retreats, nor does it reposition except to pursue a target. 
 
-In its second phase, the **Ba'al Verzi Avenger**, the gallows speaker becomes mobile, attempting to grapple the toughest-looking target with its **grasp of the grave*** feature and dragging them into the upper floors of the house, while using its **wail of the forsaken*** whenever it recharges and its ***Ba'al Verzi daggers*** to attack from range.
+In its second phase, the **[[NPCs/Ba'Al Verzi Avenger|Ba'al Verzi Avenger]]**, the gallows speaker becomes mobile, attempting to grapple the toughest-looking target with its **grasp of the grave*** feature and dragging them into the upper floors of the house, while using its **wail of the forsaken*** whenever it recharges and its ***Ba'al Verzi daggers*** to attack from range.
 
 When reduced to 0 hit points in its second phase, the gallows speaker taunts the players with its dying breath, rasping: “When I failed to kill him, Zarovich took my cursed blade from me. Perhaps I shall still have my satisfaction when he uses it to *carve your hearts from your chests!*” It then lurches forward, skeletal claws grasping for Stella’s throat—and dissipates into mist, the maddened whispers of the many spirits within his cloak fading into silence.
 
-When the gallows speaker dies, the *Tome of Strahd* drops to the ground below. See [[#H9. The Tome of Strahd]] for more information about the *Tome* and its contents.
+When the gallows speaker dies, the *[[Items/The Tome of Strahd|Tome of Strahd]]* drops to the ground below. See [[#H9. The Tome of Strahd]] for more information about the *Tome* and its contents.
 
 <div class="statblock">
 <h2>Speaker of the Gallows</h2>
@@ -1234,7 +1234,7 @@ The following morning, Victor also sends the players the following message with 
 > [!abstract]+ **Van Richten & the Spirit Mirror**
 > Dr. Rudolph van Richten's curse prevents him from perceiving his son, Erasmus, in the *spirit mirror*. See [[Arc T - The Three Fanes]] for more information about lifting Van Richten's curse.
 # H9. The Tome of Strahd
-The *Tome of Strahd* is kept closed by a locked steel clasp enchanted with an *arcane lock* spell cast at 5th level. The pass phrase to suppress it is "I come in Dostron's memory." (Only Strahd and his eldest bride, Sasha Ivliskova, know this pass phrase. See [[Arc O - Dinner with the Devil]] for more information about Sasha Ivliskova.) The _arcane lock_ can also be suppressed as normal with a _knock_ spell, a _dispel magic_ spell, or similar magic (e.g., the *antimagic field* surrounding <span class="citation">Chapter 11. Van Richten's Tower (p. 167)</span>).
+The *Tome of Strahd* is kept closed by a locked steel clasp enchanted with an *arcane lock* spell cast at 5th level. The pass phrase to suppress it is "I come in Dostron's memory." (Only Strahd and his eldest bride, [[NPCs/Sasha Ivliskova|Sasha Ivliskova]], know this pass phrase. See [[Arc O - Dinner with the Devil]] for more information about Sasha Ivliskova.) The _arcane lock_ can also be suppressed as normal with a _knock_ spell, a _dispel magic_ spell, or similar magic (e.g., the *antimagic field* surrounding <span class="citation">Chapter 11. [[Places/Van Richten's Tower|Van Richten's Tower]] (p. 167)</span>).
 
 The clasp ordinarily takes a successful DC 15 Strength check to break, but requires a successful DC 25 Strength check instead while under the effects of the spell. Similarly, the lock itself ordinarily requires a DC 15 Dexterity (Thieves’ Tools) check to open, but requires a successful DC 25 Dexterity (Thieves’ Tools) check instead while under the effects of the spell. An attempt to pick the lock takes 1 minute to complete.
 ## H9a. Reading the Tome
@@ -1246,34 +1246,34 @@ Once successfully opened, the contents of the *Tome* now read as follows: <sup><
 <p>From the families of the valley, one spirit shone above all others: a rare beauty, who was called 'perfection,' 'joy,' and 'treasure.' Her name was Tatyana, and I longed for her to be mine. But 'Old One' was my name to her—'elder' and 'brother' also. Her heart went to Sergei. They were betrothed. The date was set.</p>
 <p>With words she called me "brother," but when I looked into her eyes they reflected another name: "death." It was the death of the aged that she saw in me. She loved her youth and enjoyed it, but I had squandered mine. And so I came to hate death—my death. </p>
 <p>But I would not be called "death" so soon. I made a pact with Death. On the day of the wedding, I killed Sergei, my brother, and sealed my pact with his blood.</p>
-<p>I found Tatyana weeping in the garden east of the chapel. She fled from me, and I pursued. Finally, in despair, she flung herself from the walls of Ravenloft, and I watched everything I ever wanted fall from my grasp forever.</p>
+<p>I found Tatyana weeping in the garden east of the [[Places/Chapel of Morning|chapel]]. She fled from me, and I pursued. Finally, in despair, she flung herself from the walls of Ravenloft, and I watched everything I ever wanted fall from my grasp forever.</p>
 <p>It was a thousand feet through the mists. No trace of her was ever found, and not even I know her final fate. Arrows from the castle guards pierced me to my soul, but I did not die. Nor did I live. I became undead, forever.</p>
-<p>I have studied much since then. 'Vampyr' is my new name. I still lust for life and youth, and I curse the living that took them from me. Even the sun is against me, but little else can harm me now. Even a stake through my heart does not kill me, though it holds me from movement. Only the sword, that cursed sword that Sergei brought! I hated it as much as the sun. But it is long gone now, and no other weapon shall stay my hand.</p>
-<p>I have learned much, too, about this land of Barovia. Ancient are its ways, ancient beyond the knowledge of the simple folk of the valley. Ancient gods dwelt in this valley long before my coming, and three hidden fanes still give tribute to their memories. I visited the Swamp Fane, the Forest Fane, and the Mountain Fane, and claimed their power for my own. Their servants now serve me, and thus I have become the Land.</p>
+<p>I have studied much since then. '[[Items/Vampyr|Vampyr]]' is my new name. I still lust for life and youth, and I curse the living that took them from me. Even the sun is against me, but little else can harm me now. Even a stake through my heart does not kill me, though it holds me from movement. Only the sword, that cursed sword that Sergei brought! I hated it as much as the sun. But it is long gone now, and no other weapon shall stay my hand.</p>
+<p>I have learned much, too, about this land of Barovia. Ancient are its ways, ancient beyond the knowledge of the simple folk of the valley. Ancient gods dwelt in this valley long before my coming, and three hidden fanes still give tribute to their memories. I visited the [[Places/Swamp Fane|Swamp Fane]], the [[Places/Forest Fane|Forest Fane]], and [[Places/The Mountain Fane|the Mountain Fane]], and claimed their power for my own. Their servants now serve me, and thus I have become the Land.</p>
 <p>Since my passage into eternity, I have often hunted for Tatyana. I have even felt her within my grasp, though she fled from me once again. But she cannot run forever—and I have nothing but time.</p>
 <p>I write this now to crystallize my rage in the face of time's bitter winds. As the chill of the grave grips my heart, I feel all that I was leave me—the death of the man, and the birth of the immortal. Yet this memory shall persevere, a scion of that righteous fury. I shall bury the past, and so begin anew.</p>
 <p>I now reside far below Ravenloft. I live among the dead and sleep beneath the very stones of this hollow castle of despair. I have abandoned the riches of my conquests beneath the toll of the belfry, sealed behind a reminder of the treasure I once lost. Yet one day, I shall rise again from the ashes of my glory and reclaim what is rightfully mine.</p></div>
 
-The pages following the legible text are filled with diagrams, equations, and thousands of strange symbols. The symbols are not written language, but a cipher devised by Strahd to conceal his secret plans. (Only the **lich** Exethanter knows the key to decode Strahd's cipher. See [[Arc S - A Sword of Sunlight]] for more information about Exethanter.) Several diagrams appear to depict a large, crystalline human heart, while others depict circles of standing stones. 
+The pages following the legible text are filled with diagrams, equations, and thousands of strange symbols. The symbols are not written language, but a cipher devised by Strahd to conceal his secret plans. (Only the **[[NPCs/Lich|lich]]** [[NPCs/Exethanter|Exethanter]] knows the key to decode Strahd's cipher. See [[Arc S - A Sword of Sunlight]] for more information about [[NPCs/Exethanter|Exethanter]].) Several diagrams appear to depict a large, crystalline human heart, while others depict circles of standing stones. 
 
-Players who read through these sections find numerous annotations referencing (in Common) an individual named Exethanter. Multiple instances of Exethanter’s name are accompanied by the symbol of the Amber Temple: a thick-bordered equilateral triangle containing an inverted equilateral triangle, which in turn contain a vertical wavy line. (The triangle represents the god of secrets, the inverted triangle the amber sarcophagi, and the wavy line the vestiges sealed within.)
+Players who read through these sections find numerous annotations referencing (in Common) an individual named Exethanter. Multiple instances of Exethanter’s name are accompanied by the symbol of [[Places/Amber Temple|the Amber Temple]]: a thick-bordered equilateral triangle containing an inverted equilateral triangle, which in turn contain a vertical wavy line. (The triangle represents the god of secrets, the inverted triangle the amber sarcophagi, and the wavy line the vestiges sealed within.)
 
 ***Milestone.*** Obtaining the *Tome of Strahd* completes a story milestone. When the players obtain the tome, award each player 750 XP.
 
 > [!abstract]+ **The Symbol**
 >
-> The symbol of the Amber Temple can be identified by the dusk elf Kasimir Velikov (who has seen it in his dreams), by the revenant Sir Godfrey Gwilym (who once guarded the Temple), or by Victor Vallakovich (who has seen the symbol in his spellbook). Of these three, only Kasimir and Godfrey know what the Amber Temple is and where it can be found, and only Kasimir—once the players complete [[Arc Q - A Shining Beacon]]—is willing to tell them how to get there.
+> The symbol of the Amber Temple can be identified by the dusk elf [[NPCs/Kasimir Velikov|Kasimir Velikov]] (who has seen it in his dreams), by the [[NPCs/Revenant|revenant]] [[NPCs/Sir Godfrey Gwilym|Sir Godfrey Gwilym]] (who once guarded the Temple), or by Victor Vallakovich (who has seen the symbol in his spellbook). Of these three, only [[NPCs/Kasimir Velikov|Kasimir]] and [[NPCs/Sir Godfrey Gwilym|Godfrey]] know what the Amber Temple is and where it can be found, and only Kasimir—once the players complete [[Arc Q - A Shining Beacon]]—is willing to tell them how to get there.
 # Design Notes: The Lost Soul
 The original module presents a number of interesting ideas and set pieces—the hag coven at Old Bonegrinder, the dream pastry addicts, Victor Vallakovich's teleportation circle, Stella Wachter's strange illness, and the betrayal of Leo Dilisnya—but ultimately fails to do anything interesting or meaningful with them. 
 
-In the original module, the players have few to no hooks that lead them to take an interest in any of these elements, and those that *do* present any hooks (e.g., Morgantha's appearance in the village of Barovia) provide little narrative depth to actually explore.
+In the original module, the players have few to no hooks that lead them to take an interest in any of these elements, and those that *do* present any hooks (e.g., Morgantha's appearance in [[Places/Village of Barovia|the village of Barovia]]) provide little narrative depth to actually explore.
 
 As such, this arc aims to comprehensively rework these stray narrative elements into a more cohesive whole that still remains true to the intent and flavor of the original module. 
 
-* Victor Vallakovich, who most *Curse of Strahd* playgroups inevitably befriend despite his ostensibly Evil alignment, has been altered to be a far more sympathetic character. 
-* Stella Wachter, whose illness inevitably confounds and amuses *Curse of Strahd* players, has been altered to provide a direct tie-in to the hags of Old Bonegrinder and the ghosts of the Ethereal Plane. (Ghosts in particular are an aspect of gothic horror that is sorely undeveloped in the original module.) 
+* Victor Vallakovich, who most *[[Items/Curse of Strahd|Curse of Strahd]]* playgroups inevitably befriend despite his ostensibly Evil alignment, has been altered to be a far more sympathetic character. 
+* Stella Wachter, whose illness inevitably confounds and amuses *[[Items/Curse of Strahd|Curse of Strahd]]* players, has been altered to provide a direct tie-in to the hags of Old Bonegrinder and the ghosts of the Ethereal Plane. (Ghosts in particular are an aspect of gothic horror that is sorely undeveloped in the original module.) 
 * The players now have a true opportunity to witness and intervene in the suffering wrought by night hags upon their victims, and to destroy their corruption once and for all.
-* Finally, the players now have a chance to learn about the dark history of Leo Dilisnya, enhancing the themes developed in the *Tome of Strahd*, foreshadowing Strahd's use of Leo's Ba'al Verzi dagger to seal the leeches corrupting the Fanes of Barovia, and providing emotional closure to Lady Wachter's character arc as it pertains to her deceased parents and brother.
+* Finally, the players now have a chance to learn about the dark history of Leo Dilisnya, enhancing the themes developed in the *Tome of Strahd*, foreshadowing Strahd's use of Leo's Ba'al Verzi dagger to seal the leeches corrupting the [[Places/Fanes of Barovia|Fanes of Barovia]], and providing emotional closure to Lady Wachter's character arc as it pertains to her deceased parents and brother.
 
 This arc also serves to cement Lady Wachter's alliance with the players, strengthening the themes of resonance and unity that run throughout the adventure and providing a clear narrative progression to their relationship in [[Arc F - Lady Wachter's Wish]]
 
@@ -1303,9 +1303,9 @@ This guide intentionally has Victor give the players a choice between killing an
 
 The binding circle around Wachterhaus has been added to foreshadow the threat of Leo Dilisnya's spirit, and to clearly signal to the players that Lady Wachter is a powerful ally in their effort to save Stella's soul.
 
-The leyline beneath Wachterhaus has been placed there to ensure that the players carry out the *etherealness* ritual within Leo Dilisnya's former prison—Lady Wachter's cult headquarters—which is otherwise a foreboding and uncomfortable location.
+The leyline beneath Wachterhaus has been placed there to ensure that the players carry out the *etherealness* ritual within Leo Dilisnya's former [[Places/Prison|prison]]—Lady Wachter's cult headquarters—which is otherwise a foreboding and uncomfortable location.
 
-***Wachterhaus's Protective Circle.*** Leo's assassination attempt has been added to provide Strahd with an inciting incident that spurred the latter to take note of his own mortality, thereby driving him to accept the Dark Powers' pact on the day of Sergei's wedding.
+***Wachterhaus's Protective Circle.*** Leo's assassination attempt has been added to provide Strahd with an inciting incident that spurred the latter to take note of his own mortality, thereby driving him to accept [[Factions/Dark Powers|the Dark Powers]]' pact on the day of [[Places/Sergei's Wedding|Sergei's wedding]].
 
 Leo's imprisonment beneath Wachterhaus—an artifact of older editions of *Ravenloft*—and his subsequent haunting of the estate have been added in order to convey the depths of Strahd's cruelty, to create a clear antagonist opposing Stella's rescue, and to create an inciting incident that drove Lady Wachter to depart Baba Lysaga's tutelage and return to Vallaki.
 
@@ -1313,9 +1313,9 @@ Lady Wachter's rejection of Frederich Wachter's request for aid serves to create
 
 ***Wachterhaus.*** Lady Wachter's doubt regarding Stella's fate is one of two narrative elements added to ensure that the protective barrier around Wachterhaus is dropped before the finale, therefore allowing the spirit of Leo Dilisnya to attack the players during the arc's climax. (The other narrative element is the leyline beneath Wachterhaus, which requires the barrier to be lowered in order for Stella to participate in the ritual to restore her soul.)
 
-Lady Wachter's reliance upon the members of her cult for the binding ritual has been added to introduce the cult to the players, and to discourage the players from attempting any such binding rituals on their own in the future (e.g., in an effort to incapacitate Strahd or his **nightmare**, Beucephalus).
+Lady Wachter's reliance upon the members of her cult for the binding ritual has been added to introduce the cult to the players, and to discourage the players from attempting any such binding rituals on their own in the future (e.g., in an effort to incapacitate Strahd or his **nightmare**, [[NPCs/Beucephalus|Beucephalus]]).
 
-***The Old Svalich Road.*** The **druid** random encounter has been added to introduce the Forest Folk faction prior to their official presence in [[Arc J - The Stolen Gem]], and to further foreshadow Lady Wachter's relationships with Baba Lysaga and Leo Dilisnya.
+***The [[Places/Old Svalich Road|Old Svalich Road]].*** The **druid** random encounter has been added to introduce the Forest Folk faction prior to their official presence in [[Arc J - The Stolen Gem]], and to further foreshadow Lady Wachter's relationships with Baba Lysaga and Leo Dilisnya.
 
 ***Bargain With the Hags.*** This brief alternative path is offered for parties that may wish to use a diplomatic solution instead of a hostile one, notwithstanding the hags' predation of Franz and his children. The soul leech has been added to provide the players with an additional impetus to raid Castle Ravenloft in [[Arc P - Ravenloft Heist]] and to foster a closer interest in Rahadin, Strahd's chamberlain. 
 
@@ -1327,7 +1327,7 @@ This guide intentionally foregoes alternative bargains that the hags might seek 
 3. While such moral dilemmas may make for great media, few players are willing (let alone eager) to play a child-trafficking/drug-dealing TTRPG, and 
 4. The players are undertaking such tasks under duress (i.e., to save Stella), and are therefore not truly "choosing" to fall into corruption to the hags' satisfaction.
 
-***The Megaliths.*** The Mountain Fane has been placed by Old Bonegrinder due to its proximity to the eastern Balinok Mountains (which form a clustered mountain range around Castle Ravenloft) and to Madam Eva's current residence at Tser Pool. 
+***The Megaliths.*** The Mountain Fane has been placed by Old Bonegrinder due to its proximity to the eastern [[Places/Balinok Mountains|Balinok Mountains]] (which form a clustered mountain range around Castle Ravenloft) and to [[NPCs/Madam Eva|Madam Eva]]'s current residence at [[Places/Tser Pool Encampment|Tser Pool]]. 
 
 The vampiric mists have been added to discourage the players from lingering in this area, to create an additional barrier to the leech's demiplane, and to hint to the players that this site is not all that it seems.
 

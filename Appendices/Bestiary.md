@@ -43,7 +43,7 @@
 <strong>Proficiency Bonus</strong> +4
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> The object makes two <strong><em>slam</em></strong> attacks.
-<p><strong><em>Slam.</em></strong> <em>Melee Weapon Attack:</em> +8 to hit, one target, reach 5 ft. <em>Hit:</em> 15 (2d10 + 4) bludgeoning damage and the target must succeed on a DC 16 Strength saving throw or be pushed up to 10 feet (Varushka’s choice). If the target then comes into contact with a hard surface or heavy object, the target takes 1d6 bludgeoning damage per 5 feet not moved and is grappled by the object (escape DC 16).</p>
+<p><strong><em>Slam.</em></strong> <em>Melee Weapon Attack:</em> +8 to hit, one target, reach 5 ft. <em>Hit:</em> 15 (2d10 + 4) bludgeoning damage and the target must succeed on a DC 16 Strength saving throw or be pushed up to 10 feet ([[NPCs/Varushka|Varushka]]’s choice). If the target then comes into contact with a hard surface or heavy object, the target takes 1d6 bludgeoning damage per 5 feet not moved and is grappled by the object (escape DC 16).</p>
 </div>
 
 ### Animated Minor Object
@@ -155,7 +155,7 @@
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
-    <h2>Druid Assailant</h2>
+    <h2>[[NPCs/Druid Assailant|Druid Assailant]]</h2>
     <em>Medium human, neutral evil</em>
     <hr>
     <strong>Armor Class</strong> 11 (16 with <em>barkskin</em>)
@@ -213,7 +213,7 @@
 <div style="clear: both; padding-top: 0.8rem;"></div>
 
 <div class="statblock">
-    <h2>Druid Naturalist</h2>
+    <h2>[[NPCs/Druid Assailant|Druid Naturalist]]</h2>
     <em>Medium human, neutral evil</em>
     <hr>
     <strong>Armor Class</strong> 11 (16 with <em>barkskin</em>)
@@ -380,7 +380,7 @@
 
 <div class="statblock">
 <h2>Plague of Rats</h2>
-<em>Large swarm of Tiny beasts, chaotic evil</em>
+<em>Large [[NPCs/Swarm|swarm]] of Tiny beasts, chaotic evil</em>
 <hr>
 <strong>Armor Class</strong> 10
 <br>
@@ -418,7 +418,7 @@
 <strong>Challenge</strong> 2<br>
 <strong>Proficiency Bonus</strong> +2<br>
 <hr>
-<p><strong><em>Swarm.</em></strong> The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain hit points or gain temporary hit points.</p>
+<p><strong><em>[[NPCs/Swarm|Swarm]].</em></strong> The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain hit points or gain temporary hit points.</p>
 <p><strong><em>Keen Smell.</em></strong> The swarm has advantage on Wisdom (Perception) checks that rely on smell.</p>
 <p><strong><em>Tide of Vermin.</em></strong> An enemy that starts its turn in the swarm’s space must succeed on a DC 13 Strength saving throw or be grappled (escape DC 13). While grappled in this way, a creature is prone, blinded, and restrained, and can’t breathe. (A creature that can’t breathe in this way can hold its breath as described in the <span class="citation">Player’s Handbook</span>.)</p>
 <h3>Actions</h3>
@@ -793,5 +793,5 @@
   <h3>Actions</h3>
   <p><strong><em>Multiattack.</em></strong> The plague spreader makes two Slam attacks.</p>
   <p><strong><em>Slam.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) bludgeoning damage plus 9 (2d8) necrotic damage.</p>
-  <p><strong><em>Virulent Miasma (1/Day).</em></strong> The plague spreader releases toxic gas in a 30‑foot‑radius sphere centered on itself. Each creature in that area must make a DC 12 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much on a successful one. A Humanoid reduced to 0 hit points by this damage dies and rises as a zombie (see its stat block in the Monster Manual) 1 minute later. The zombie acts immediately after the plague spreader in the initiative count.</p>
+  <p><strong><em>Virulent Miasma (1/Day).</em></strong> The plague spreader releases toxic gas in a 30‑foot‑radius sphere centered on itself. Each creature in that area must make a DC 12 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much on a successful one. A Humanoid reduced to 0 hit points by this damage dies and rises as a zombie (see its stat block in the [[Items/Monster Manual|Monster Manual]]) 1 minute later. The zombie acts immediately after the plague spreader in the initiative count.</p>
 </div>

@@ -1,87 +1,87 @@
 _An adventure for five 8th-level characters._
 
-In this arc, after learning that the dusk elf Kasimir Velikov knows the location of the Amber Temple after lighting Argynvost's beacon in [[Arc Q - A Shining Beacon]], the players must recruit Kasimir to their cause and traverse the treacherous Tsolenka Pass as they ascend toward the snowy peak of Mt. Ghakis. As their journey unfolds, however, a wrathful Strahd—now determined to turn the players into vampire spawn—calls down blizzards, avalanches, and monsters to test their resolve and exhaust their strength.
+In this arc, after learning that the dusk elf [[NPCs/Kasimir Velikov|Kasimir Velikov]] knows the location of [[Places/Amber Temple|the Amber Temple]] after lighting [[NPCs/Argynvost|Argynvost]]'s beacon in [[Arc Q - A Shining Beacon]], the players must recruit [[NPCs/Kasimir Velikov|Kasimir]] to their cause and traverse the treacherous [[Places/Tsolenka Pass|Tsolenka Pass]] as they ascend toward the snowy peak of Mt. Ghakis. As their journey unfolds, however, a wrathful [[NPCs/Strahd von Zarovich|Strahd]]—now determined to turn the players into [[Factions/Vampire Spawn|vampire spawn]]—calls down blizzards, avalanches, and monsters to test their resolve and exhaust their strength.
 
-The players’ sole respite arrives in the form of Soldav, the hidden refuge of the Mountain Folk. There, the players learn that Strahd has desecrated the three Fanes of the valley—the Forest Fane of Yester Hill, the Swamp Fane in Berez, and the Mountain Fane near Old Bonegrinder—and, in doing so, claimed their power as his own.
+The players’ sole respite arrives in the form of [[Places/Soldav|Soldav]], the hidden refuge of the [[Factions/Mountain Folk|Mountain Folk]]. There, the players learn that [[NPCs/Strahd von Zarovich|Strahd]] has desecrated [[Places/The Three Fanes|the three Fanes]] of the valley—the [[Places/Forest Fane|Forest Fane]] of [[Places/Yester Hill|Yester Hill]], the [[Places/Swamp Fane|Swamp Fane]] in [[Places/Berez|Berez]], and [[Places/The Mountain Fane|the Mountain Fane]] near [[Places/Old Bonegrinder|Old Bonegrinder]]—and, in doing so, claimed their power as his own.
 
-Should the players survive the final leg of their journey, they emerge before the great facade of the Amber Temple. Each night as they rest, however, Strahd pays them a personal visit, hoping to drain a victim’s blood and bring them closer to the abyss of vampirism. Can the players stop Strahd’s dark plans—or will one of them find themselves eternally chained to the grave?
+Should the players survive the final leg of their journey, they emerge before the great facade of [[Places/Amber Temple|the Amber Temple]]. Each night as they rest, however, Strahd pays them a personal visit, hoping to drain a victim’s blood and bring them closer to the abyss of vampirism. Can the players stop Strahd’s dark plans—or will one of them find themselves eternally chained to the grave?
 
 > [!warning]+ **Beacon of Protection**
-> Don’t forget: whilst Argynvost’s beacon is lit, any NPCs who oppose Strahd also gain a +1 bonus to AC and saving throws. 
+> Don’t forget: whilst [[NPCs/Argynvost|Argynvost]]’s beacon is lit, any NPCs who oppose Strahd also gain a +1 bonus to AC and saving throws. 
 # R1. Recruiting Kasimir
-Upon learning from the spirit of Sir Godfrey in [[Arc Q - A Shining Beacon#Q6c. Argynvost’s Return|Arc Q - A Shining Beacon]] that the dusk elf Kasimir knows the location of the Amber Temple, the players can find Kasimir in his hovel at the Vallakian Vistani encampment, which is as described in [[Arc E - The Missing Vistana#E2. Vistani Camp|Arc E - The Missing Vistana]].
+Upon learning from the spirit of Sir [[NPCs/Sir Godfrey Gwilym|Godfrey]] in [[Arc Q - A Shining Beacon#Q6c. Argynvost’s Return|Arc Q - A Shining Beacon]] that the dusk elf Kasimir knows the location of the Amber Temple, the players can find Kasimir in his hovel at the Vallakian [[Places/Vistani Encampment|Vistani encampment]], which is as described in [[Arc E - The Missing Vistana#E2. Vistani Camp|Arc E - The Missing Vistana]].
 
 > [!info]+ **Kasimir’s Spellbook**
 > Kasimir’s spellbook largely contains the spells described in <span class="citation">N9a. Kasimir’s Hovel (p. 121)</span>. However, remove *polymorph*, *counterspell*, *suggestion*, *nondetection*, and *fly* from the spells in his spellbook.
 
-When the players first arrive, Kasimir is drinking tea and reading a book titled *The Crags of Mount Ghakis* by Finderway Ulbrek. If the players knock on the door, Kasimir marks his page, places it on his meditation mat by the fireplace, and goes to greet them.
+When the players first arrive, Kasimir is drinking tea and reading a book titled *The Crags of [[Places/Mount Ghakis|Mount Ghakis]]* by Finderway Ulbrek. If the players knock on the door, Kasimir marks his page, places it on his meditation mat by the fireplace, and goes to greet them.
 
 When he answers the door, the players can observe that Kasimir’s [[Arc E - The Missing Vistana#E2c. Kasimir’s Hovel|black eye and cuts]] appear to have healed, though a player with a passive Wisdom (Insight) score of 15 or greater notices that Kasimir seems to be in a gloomy, melancholic mood. His prior mood notwithstanding, however, Kasimir brightens at the players’ appearance and warmly invites them inside, promising to brew a fresh batch of tea as they talk.
 
 > [!abstract]+ **Kasimir’s Mood**
 > If asked about his mood, Kasimir claims that he has merely suffered poor visions during his meditations as of late. "Old memories," he adds, wincing slightly. This is a lie; a player who succeeds on a DC 10 Wisdom (Insight) check observes that Kasimir appeared to hesitate for a moment before answering. In truth, Kasimir is depressed because he fears that he will never conquer Mt. Ghakis’s slopes and reach the Amber Temple.
 
-> [!lore]+ **Kasimir, Patrina, and the Amber Temple**
-> More than four hundred years ago, before King Barov von Zarovich II—Strahd’s father—and Rahadin invaded and crushed the dusk elf principality of Othrondil, Kasimir was a scribe in the court of the dusk elf prince Erevan Löwenhart, his uncle. Kasimir’s elder sister, Patrina, was Erevan’s court **mage** and Kasimir’s arcane tutor.
+> [!lore]+ **Kasimir, [[NPCs/Patrina Velikovna|Patrina]], and the Amber Temple**
+> More than four hundred years ago, before King [[NPCs/Barov von Zarovich II|Barov von Zarovich II]]—Strahd’s father—and Rahadin invaded and crushed the dusk elf principality of Othrondil, Kasimir was a scribe in the court of the dusk elf [[NPCs/Prince Erevan Löwenhart|prince Erevan Löwenhart]], his uncle. Kasimir’s elder sister, [[NPCs/Patrina Velikovna|Patrina]], was [[NPCs/Prince Erevan Löwenhart|Erevan]]’s court **mage** and Kasimir’s arcane tutor.
 >
 > When King Barov’s armies swept into the Forest of Twilight and subjugated the dusk elf people, Kasimir and Patrina lost their homes, positions, and many members of their family, including their uncle. Though Kasimir urged his sister to make peace with their fate, Patrina’s rage simmered. When Barov died and was succeeded by his son, Strahd, Patrina joined the rebellion against him, determined to drive the invaders out of her homeland.
 >
-> Strahd, however, crushed the dusk elf rebellion brutally and swiftly, leaving the survivors to the Vistani as described in <span class="citation">Kasimir Velikov (p. 232)</span>. Kasimir again attempted to comfort a despondent Patrina, but to no avail.
+> Strahd, however, crushed the dusk elf rebellion brutally and swiftly, leaving the survivors to the [[Factions/Vistani|Vistani]] as described in <span class="citation">Kasimir Velikov (p. 232)</span>. Kasimir again attempted to comfort a despondent Patrina, but to no avail.
 >
-> After the siblings arrived in the valley, it wasn’t long before Patrina caught whisperings of the Amber Temple—a place of ancient magic and great, but terrible power. Unable to reach the Temple due to the protection of the Order of the Silver Dragon, however, she bided her time and kept the Temple’s existence a secret from Kasimir, her rage smoldering but never going out.
+> After the siblings arrived in the valley, it wasn’t long before Patrina caught whisperings of the Amber Temple—a place of ancient magic and great, but terrible power. Unable to reach the Temple due to the protection of the [[Factions/Order of the Silver Dragon|Order of the Silver Dragon]], however, she bided her time and kept the Temple’s existence a secret from Kasimir, her rage smoldering but never going out.
 >
-> It was, ironically, Strahd’s conquest of Barovia and slaughter of the Order of the Silver Dragon that freed Patrina to investigate the Amber Temple at last, several months after the dusk elves had first arrived in the valley. After slipping away from the dusk elf encampment in secret, she braved the slopes of Mt. Ghakis and fought her way to the Temple’s great facade. There, she became the apprentice of Exethanter, the spirit of an **archmage** that once led the secret order of wizards that first raised the Temple.
+> It was, ironically, Strahd’s conquest of [[Places/Barovia|Barovia]] and slaughter of the [[Factions/Order of the Silver Dragon|Order of the Silver Dragon]] that freed Patrina to investigate the Amber Temple at last, several months after the [[Factions/Dusk Elves|dusk elves]] had first arrived in the valley. After slipping away from the dusk elf encampment in secret, she braved the slopes of Mt. Ghakis and fought her way to the Temple’s great facade. There, she became the apprentice of [[NPCs/Exethanter|Exethanter]], the spirit of an **archmage** that once led the secret order of wizards that first raised the Temple.
 >
-> Patrina spent two years in Exethanter’s tutelage, devouring every ounce of knowledge and power he could bequeath to her. The speed of her education, however, proved insufficient; determined to obtain enough power to lay waste to Strahd’s kingdom, Patrina turned to the dark arts, studying forbidden tomes sealed away in Exethanter’s library against his express commands. It wasn’t long before she began to commune with the vestige of Tenebrous that dwelled in the Temple’s amber vault, seeking the secrets of lichdom.
+> Patrina spent two years in [[NPCs/Exethanter|Exethanter]]’s tutelage, devouring every ounce of knowledge and power he could bequeath to her. The speed of her education, however, proved insufficient; determined to obtain enough power to lay waste to Strahd’s kingdom, Patrina turned to the dark arts, studying forbidden tomes sealed away in Exethanter’s [[Places/Library|library]] against his express commands. It wasn’t long before she began to commune with the vestige of [[NPCs/Tenebrous|Tenebrous]] that dwelled in the Temple’s [[Places/Amber Vault|amber vault]], seeking the secrets of lichdom.
 >
 > When Exethanter discovered Patrina’s treachery, he attempted to banish her from the Temple—but she had grown far more powerful than he. Patrina bound his spirit in amber, sealing it away for as long as she lived. With her mentor now imprisoned, Patrina set about remaking the Amber Temple in her own image, raising the skulls of long-dead wizards as **flameskulls** bound to her service and binding the **amber golems** that dwelled in its halls to her will.
 >
-> As the construction of Castle Ravenloft concluded to the east, Patrina found herself drawn to a new vision: one in which she, not Strahd, ruled the empire he had claimed, with the dusk elves exalted above all others in repayment of the suffering they had endured. She devised a cunning scheme: She would lure Strahd himself to the Temple, filling his aging human mind with promises of immortality, and offer him an opportunity to pursue the dark gift of lichdom alongside her. In exchange, Strahd would make her his queen, sharing with her the power he had claimed in his father’s name.
+> As the construction of [[Places/Castle Ravenloft|Castle Ravenloft]] concluded to the east, Patrina found herself drawn to a new vision: one in which she, not Strahd, ruled the empire he had claimed, with the [[Factions/Dusk Elves|dusk elves]] exalted above all others in repayment of the suffering they had endured. She devised a cunning scheme: She would lure Strahd himself to the Temple, filling his aging human mind with promises of immortality, and offer him an opportunity to pursue the dark gift of lichdom alongside her. In exchange, Strahd would make her his queen, sharing with her the power he had claimed in his father’s name.
 >
 > Though Patrina would promise to train him in the ways of magic, honing his skills until the necessary rituals lay within his reach, she—as Exethanter had once done to her—would never truly conclude his education. Instead, in a scant thirty years—or even fewer, with a little "help"—Strahd von Zarovich would die in his bed, a withered and old human man. Patrina, an ageless dusk elf still in the prime of her life, would claim his throne as her own—and so a new dynasty would begin.
 >
-> To Patrina’s delight, Strahd appeared intrigued by her offer and, following a series of lessons in the magical arts, at last accompanied her to the Amber Temple. As he marveled at the power it contained, she grew confident that her plan was within reach. Under her watchful eye, Strahd communed with the vestige of Tenebrous, there beholding the dark gift of lichdom for the first time. As Patrina and Strahd departed the Temple, Patrina assured him that, beneath her tutelage, he would one day grow powerful enough to claim Tenebrous’s dark gift as his own.
+> To Patrina’s delight, Strahd appeared intrigued by her offer and, following a series of lessons in the magical arts, at last accompanied her to the Amber Temple. As he marveled at the power it contained, she grew confident that her plan was within reach. Under her watchful eye, Strahd communed with the vestige of [[NPCs/Tenebrous|Tenebrous]], there beholding the dark gift of lichdom for the first time. As Patrina and Strahd departed the Temple, Patrina assured him that, beneath her tutelage, he would one day grow powerful enough to claim Tenebrous’s dark gift as his own.
 >
-> Their lessons continued until the day of Sergei’s wedding, when Strahd bathed Castle Ravenloft in blood and ascended from death as a vampire. Struggling to plot a path forward, Patrina returned at last to the dusk elf encampment by Vallaki. There, she reunited with Kasimir, though she stubbornly refused to discuss her whereabouts across the past several years.
+> Their lessons continued until the day of Sergei’s wedding, when Strahd bathed [[Places/Castle Ravenloft|Castle Ravenloft]] in blood and ascended from death as a vampire. Struggling to plot a path forward, Patrina returned at last to the dusk elf encampment by [[Places/Vallaki|Vallaki]]. There, she reunited with Kasimir, though she stubbornly refused to discuss her whereabouts across the past several years.
 >
 > Realizing that her plot to entrap Strahd with promises of immortality was no longer within reach, Patrina devised a final, desperate plan: she would return to Strahd’s court and seek to woo him outright. As she did, she would pursue the path of lichdom in secret, relying upon her magical might to defend herself from Strahd’s predations until she could craft a phylactery and potion of transformation. Once she had gained his trust and won the keys to his defenses, she would reveal her true, undead form—and destroy him. 
 >
-> Gritting her teeth at the need for obeisance in the face of Strahd’s dark ascension, Patrina returned to Castle Ravenloft, gradually winning her way back into his good graces. Meanwhile, she continued her research in secret in a subterranean laboratory beneath her cottage in the dusk elf encampment. When Strahd sent Sergei’s *Brightblade* to the archmage Khazan to be destroyed, Patrina charmed Khazan’s apprentice and bade him to steal the weapon for her own purposes. Though the apprentice succeeded in stealing only the hilt, Patrina turned it into a lich’s phylactery, then sealed it away in a demiplane conjured within the amber sarcophagus of the vestige of the Vampyr. (The apprentice, Patrina disposed of swiftly, leaving his corpse for the wolves to ensure that word of her treachery never reached Strahd’s ears.)
+> Gritting her teeth at the need for obeisance in the face of Strahd’s dark ascension, Patrina returned to Castle Ravenloft, gradually winning her way back into his good graces. Meanwhile, she continued her research in secret in a subterranean laboratory beneath her cottage in the dusk elf encampment. When Strahd sent Sergei’s *[[Items/Brightblade|Brightblade]]* to the archmage [[NPCs/Khazan|Khazan]] to be destroyed, Patrina charmed [[NPCs/Khazan|Khazan]]’s apprentice and bade him to steal the weapon for her own purposes. Though the apprentice succeeded in stealing only the hilt, Patrina turned it into a [[NPCs/Lich|lich]]’s phylactery, then sealed it away in a demiplane conjured within the amber sarcophagus of the vestige of [[NPCs/The Vampyr|the Vampyr]]. (The apprentice, Patrina disposed of swiftly, leaving his corpse for the [[NPCs/Wolves|wolves]] to ensure that word of her treachery never reached Strahd’s ears.)
 >
-> Yet Patrina’s final scheme never came to fruition. When Kasimir learned from a Vistani acquaintance that Patrina had not only become a consort of Strahd’s, but had in fact served as his arcane tutor for nearly a year before, he grew enraged at her evident betrayal. He stormed into her cottage, determined to confront her—and found, by Patrina’s arrogant negligence, the hidden entrance to her arcane laboratory below. Though Patrina had never dreamed that her fellow dusk elves might investigate her household, Kasimir now wandered amidst her trappings of black magic with a dawning horror.
+> Yet Patrina’s final scheme never came to fruition. When Kasimir learned from a [[Factions/Vistani|Vistani]] acquaintance that Patrina had not only become a consort of Strahd’s, but had in fact served as his arcane tutor for nearly a year before, he grew enraged at her evident betrayal. He stormed into her cottage, determined to confront her—and found, by Patrina’s arrogant negligence, the hidden entrance to her arcane laboratory below. Though Patrina had never dreamed that her fellow dusk elves might investigate her household, Kasimir now wandered amidst her trappings of black magic with a dawning horror.
 >
-> It was on the deepest floor of Patrina’s lair that Kasimir found the remnants of her most vile act: the corpses of seven kidnapped and tortured Vallakians, their disemboweled entrails used to craft the potion of transformation. It was there that Kasimir found Patrina’s notes, written in a royal cipher that only the two of them still remembered, that spoke of the potion’s true nature. And it was there that Kasimir found Patrina herself, mere minutes away from imbibing the potion and ascending to lichdom.
+> It was on the deepest floor of Patrina’s lair that Kasimir found the remnants of her most vile act: the corpses of seven kidnapped and tortured [[Factions/Vallakians|Vallakians]], their disemboweled entrails used to craft the potion of transformation. It was there that Kasimir found Patrina’s notes, written in a royal cipher that only the two of them still remembered, that spoke of the potion’s true nature. And it was there that Kasimir found Patrina herself, mere minutes away from imbibing the potion and ascending to lichdom.
 >
 > Horrified by what he had found, Kasimir demanded Patrina surrender herself and face justice. Patrina feigned contrition—but when she attacked Kasimir with dark magic, Kasimir struck back, weaving the same spells she had taught him long ago.
 >
 > Patrina was by far the more powerful mage—but with much of her magic bound up in the potion of transformation, it was Kasimir who had the advantage. When the battle was done, Patrina’s laboratory lay in ruins—and Patrina herself lay dead on the floor.
 >
-> Patrina’s soul, however, lived on. Instead of falling to the Barovian cycle of reincarnation, her spirit was drawn to the phylactery she had crafted mere weeks ago, sealed within the broken hilt of Sergei’s *brightblade*. Without the potion of transformation, however, she was unable to manifest a body, remaining trapped within the demiplane she had forged. 
+> Patrina’s soul, however, lived on. Instead of falling to the Barovian cycle of reincarnation, her spirit was drawn to the phylactery she had crafted mere weeks ago, sealed within the broken hilt of Sergei’s *[[Items/Brightblade|brightblade]]*. Without the potion of transformation, however, she was unable to manifest a body, remaining trapped within the demiplane she had forged. 
 >
-> Kasimir collapsed Patrina’s laboratory and buried the Vallakians she had murdered. Determined to protect his sister’s once-sterling legacy, Kasimir told his people a half-truth: that she had become a consort of Strahd’s, and he had slain her to prevent her from becoming a vampire. When Kasimir’s tale reached Strahd’s ears, however, Strahd had no choice but to punish this dusk elf who claimed to have defied him—and sent Rahadin to execute the slaughter of every dusk elf woman and child amidst the encampment that had defied him.
+> Kasimir collapsed Patrina’s laboratory and buried the [[Factions/Vallakians|Vallakians]] she had murdered. Determined to protect his sister’s once-sterling legacy, Kasimir told his people a half-truth: that she had become a consort of Strahd’s, and he had slain her to prevent her from becoming a vampire. When Kasimir’s tale reached Strahd’s ears, however, Strahd had no choice but to punish this dusk elf who claimed to have defied him—and sent Rahadin to execute the slaughter of every dusk elf woman and child amidst the encampment that had defied him.
 >
-> Centuries passed. Strahd, craving release from the Mists, returned time after time to the Amber Temple—and soon discovered Exethanter’s lingering presence within its ancient library. Though he did not free Exethanter from Patrina’s bindings, Strahd summoned his spirit many times to discuss the nature of Barovia’s imprisonment and the means by which the land might be freed. Though he initially proved reluctant to assist a bearer of the Vampyr’s dark gift, Exethanter soon agreed to assist Strahd’s "theoretical" research—both because he found the work fascinating, and because he was desperate to escape the stasis that Patrina had left him in, if only for a few days at a time.
+> Centuries passed. Strahd, craving release from the [[Places/Mists|Mists]], returned time after time to the Amber Temple—and soon discovered Exethanter’s lingering presence within its ancient [[Places/Library|library]]. Though he did not free Exethanter from Patrina’s bindings, Strahd summoned his spirit many times to discuss the nature of [[Places/Barovia|Barovia]]’s imprisonment and the means by which the land might be freed. Though he initially proved reluctant to assist a bearer of the [[Items/Vampyr|Vampyr]]’s dark gift, Exethanter soon agreed to assist Strahd’s "theoretical" research—both because he found the work fascinating, and because he was desperate to escape the stasis that Patrina had left him in, if only for a few days at a time.
 > 
-> More than four hundred years after her death, Patrina felt the Grand Conjunction approaching from her place in the Amber Temple. Having eavesdropped on Strahd’s conversations with Exethanter, she strongly suspected that her best chance to escape her prison was approaching—as well as a golden opportunity to claim Strahd’s power over the Fanes while his attention lay elsewhere.
+> More than four hundred years after her death, Patrina felt the [[Places/Grand Conjunction|Grand Conjunction]] approaching from her place in the Amber Temple. Having eavesdropped on Strahd’s conversations with Exethanter, she strongly suspected that her best chance to escape her [[Places/Prison|prison]] was approaching—as well as a golden opportunity to claim Strahd’s power over the Fanes while his attention lay elsewhere.
 >
-> Patrina sent Kasimir a dream: a vision of the Amber Temple, a promise of vengeance against Strahd, and a path to the amber sarcophagus where salvation purportedly lay. She sent him whispers of contrition and shame, as described in <span class="citation">Kasimir Velikov (p. 232)</span>, and vowed that she merely wished to avenge the deaths of her sisters that had perished at Rahadin’s treacherous hands. As proof of her goodwill, Patrina told him of a map case, hidden away in the ruins of Argynvostholt, whose contents would lead him to the Temple’s long-lost location.
+> Patrina sent Kasimir a dream: a vision of the Amber Temple, a promise of vengeance against Strahd, and a path to the amber sarcophagus where salvation purportedly lay. She sent him whispers of contrition and shame, as described in <span class="citation">Kasimir Velikov (p. 232)</span>, and vowed that she merely wished to avenge the deaths of her sisters that had perished at Rahadin’s treacherous hands. As proof of her goodwill, Patrina told him of a map case, hidden away in the ruins of [[Places/Argynvostholt|Argynvostholt]], whose contents would lead him to the Temple’s long-lost location.
 >
-> Though Kasimir remained suspicious of Patrina’s motives, Strahd’s vengeance against the village of Barovia disturbed and alarmed him. With his sister’s dream weighing heavily on his mind, Kasimir journeyed to Argynvostholt, where he found Sir Godfrey Gwilym chained amidst the manor’s ruined chapel. 
+> Though Kasimir remained suspicious of Patrina’s motives, Strahd’s vengeance against [[Places/Village of Barovia|the village of Barovia]] disturbed and alarmed him. With his sister’s dream weighing heavily on his mind, Kasimir journeyed to [[Places/Argynvostholt|Argynvostholt]], where he found [[NPCs/Sir Godfrey Gwilym|Sir Godfrey Gwilym]] chained amidst the manor’s ruined [[Places/Chapel of Morning|chapel]]. 
 > 
 > Sir Godfrey warned Kasimir against meddling with the Temple’s evil—but his words fell on deaf ears. Leaving Sir Godfrey behind, Kasimir soon located the map Patrina had told him of. With Strahd’s darkness rapidly spreading once more across the valley, Kasimir set off for the slopes of Mt. Ghakis to reach Patrina’s promised vengeance.
 >
-> The journey, however, proved to be more than Kasimir could take. The first time, a wayward blizzard turned him back; the second, the **vrocks** of the Tsolenka Pass gatehouse drove him to fall amidst a snow bluff in an icy chasm. As described in [[Arc E - The Missing Vistana#E2c. Kasimir’s Hovel|Arc E - The Missing Vistana]], Kasimir returned to his home in pain and shame, desperate to find a way to reach a goal that lay tantalizingly out of reach.
+> The journey, however, proved to be more than Kasimir could take. The first time, a wayward blizzard turned him back; the second, the **vrocks** of the [[Places/Tsolenka Pass|Tsolenka Pass]] gatehouse drove him to fall amidst a snow bluff in an icy chasm. As described in [[Arc E - The Missing Vistana#E2c. Kasimir’s Hovel|Arc E - The Missing Vistana]], Kasimir returned to his home in pain and shame, desperate to find a way to reach a goal that lay tantalizingly out of reach.
 
-Kasimir is glad to make small talk with the players while he prepares their tea. In particular, Kasimir was astounded by the lighting of the beacon of Argynvostholt in [[Arc Q - A Shining Beacon]], and is fascinated to learn that the players were responsible for its appearance. (A lump rising in his throat, Kasimir glances in the beacon’s direction and says softly: "Looking at it, I felt something that I hadn’t in a long, long time, though I couldn’t say quite what." If a player suggests "hope" or any similar emotion as what Kasimir felt, he pauses for a moment, then chuckles, replying, "I suppose it was. Strange, perhaps, that it should be such an unfamiliar feeling.")
+Kasimir is glad to make small talk with the players while he prepares their tea. In particular, Kasimir was astounded by the lighting of the [[Places/Beacon of Argynvostholt|beacon of Argynvostholt]] in [[Arc Q - A Shining Beacon]], and is fascinated to learn that the players were responsible for its appearance. (A lump rising in his throat, Kasimir glances in the beacon’s direction and says softly: "Looking at it, I felt something that I hadn’t in a long, long time, though I couldn’t say quite what." If a player suggests "hope" or any similar emotion as what Kasimir felt, he pauses for a moment, then chuckles, replying, "I suppose it was. Strange, perhaps, that it should be such an unfamiliar feeling.")
 
 > [!abstract]+ **Kasimir’s Gratitude**
-> If he hasn’t encountered the players since meeting them [[Arc E - The Missing Vistana]] and is aware that Arabelle has been reunited with Luvash, Kasimir thanks them for their efforts in doing so. "I regret that I was unable to investigate the ring’s history myself," he adds. "Did it ultimately prove useful in finding her?" If Kasimir isn’t aware of Arabelle’s fate, he asks the players what became of their efforts to find her. (Kasimir asks these questions not out of a desire to pry, but out of a sense of kinship to the Vistani and a genuine interest in Arabelle’s safety.)
+> If he hasn’t encountered the players since meeting them [[Arc E - The Missing Vistana]] and is aware that [[NPCs/Arabelle|Arabelle]] has been reunited with [[NPCs/Luvash|Luvash]], Kasimir thanks them for their efforts in doing so. "I regret that I was unable to investigate the ring’s history myself," he adds. "Did it ultimately prove useful in finding her?" If Kasimir isn’t aware of [[NPCs/Arabelle|Arabelle]]’s fate, he asks the players what became of their efforts to find her. (Kasimir asks these questions not out of a desire to pry, but out of a sense of kinship to the Vistani and a genuine interest in Arabelle’s safety.)
 >
-> If Lady Fiona Wachter has become the burgomaster of Vallaki following [[Arc F - Lady Wachter's Wish]] or [[Arc G - The Strazni Siblings]], Kasimir notes, as the conversation unfolds, that he is grateful that the town’s new leadership has opened its gates to the Vistani and dusk elves once again. "Even so," he muses mournfully, "it has been many years since I last visited Vallaki. I imagine none of the friends I once had there still live today. Perhaps even their children and grandchildren have passed as well."
+> If [[NPCs/Lady Fiona Wachter|Lady Fiona Wachter]] has become the burgomaster of [[Places/Vallaki|Vallaki]] following [[Arc F - Lady Wachter's Wish]] or [[Arc G - The Strazni Siblings]], Kasimir notes, as the conversation unfolds, that he is grateful that the town’s new leadership has opened its gates to the Vistani and dusk elves once again. "Even so," he muses mournfully, "it has been many years since I last visited Vallaki. I imagine none of the friends I once had there still live today. Perhaps even their children and grandchildren have passed as well."
 
 If any player asks him about the Amber Temple or his visit to Argynvostholt, however, a player with a passive Wisdom (Insight) score of 10 or greater notices Kasimir immediately stiffens. He is willing to share the following information:
 
-* ***If asked about Argynvostholt.*** Kasimir claims he recently found himself in the vicinity of Argynvostholt while assisting in the search for Arabelle. However, he took refuge in the manor for the reasons described in <span class="citation">Q11. Wine Storage (p. 133)</span>. "I do recall speaking with one of the knights there to ask whether he had seen her," he says, his brow furrowing. "It had been some time since I had last encountered the Order of the Silver Dragon, so our conversation may have wandered down other paths. I can’t recall which other specific topics we discussed, however." (This is a lie. A player who succeeds on a DC 10 Wisdom (Insight) check discerns that Kasimir is sweating slightly, his eyes occasionally darting to the side as he speaks.)
+* ***If asked about Argynvostholt.*** Kasimir claims he recently found himself in the vicinity of Argynvostholt while assisting in the search for Arabelle. However, he took refuge in the manor for the reasons described in <span class="citation">Q11. [[Places/Wine Storage|Wine Storage]] (p. 133)</span>. "I do recall speaking with one of the knights there to ask whether he had seen her," he says, his brow furrowing. "It had been some time since I had last encountered the Order of the Silver Dragon, so our conversation may have wandered down other paths. I can’t recall which other specific topics we discussed, however." (This is a lie. A player who succeeds on a DC 10 Wisdom (Insight) check discerns that Kasimir is sweating slightly, his eyes occasionally darting to the side as he speaks.)
 * ***If asked about the existence of the Amber Temple.*** Kasimir pauses in mock-thought, then shares that the Amber Temple was once rumored, according to legend, to guard "secrets hidden in amber." "No one has ever seen it, however," he adds with a wry laugh. "Some legends are just legends, I suppose." (This is a lie. A player who succeeds on a DC 10 Wisdom (Insight) check discerns that Kasimir’s voice trembles slightly as he speaks, and that he seems to be avoiding making eye contact.)
 * ***If asked about his interest in the Amber Temple.*** Kasimir chuckles, then asks whether the players have acquired an interest in "dusty old legends." "I’m afraid I have no knowledge of what you’re talking about," he insists. "I don’t think I’ve heard anyone mention that particular myth in centuries." (This is a lie. A player who succeeds on a DC 10 Wisdom (Insight) check discerns that Kasimir’s chuckle is more nervous than mirthful, and that his hands are trembling as he speaks.)
 
@@ -100,8 +100,8 @@ As the players work to convince Kasimir to reveal the truth, secretly place a si
 
 Increment the die as follows:
 
-* Increase the die’s value by three if the players point out Kasimir’s injuries and frostbite from [[Arc E - The Missing Vistana#E2c. Kasimir’s Hovel|Arc E - The Missing Vistana]] and note that the Amber Temple is located on Mt. Ghakis. (If this doesn’t cause the persuasion die to reach six, Kasimir stammers that he was merely investigating the mountain for magical components, but was caught in a sudden blizzard and "foolishly fell from a cliff while attempting to make his way through the storm." This is an obvious lie. If the players subsequently recall that Kasimir’s story contradicts his previous story from [[Arc E - The Missing Vistana#E2c. Kasimir’s Hovel|Arc E - The Missing Vistana]] (i.e., that he had been hiking across Mount Ghakis in search of something of personal significance, but fell when the frozen bluff he’d been walking on crumbled beneath his weight), increase the persuasion die to six).
-* Increase the die’s value by two if the players share that Madam Eva foretold that the Amber Temple holds a weapon necessary to defeat Strahd. If the players mention that the weapon is a "sword of sunlight," increase the die’s value by three instead, and allow the players to make all subsequent Charisma (Persuasion) checks to convince Kasimir with advantage. (If this doesn’t cause the persuasion die to reach six, Kasimir stutters that such a weapon would be "an incredible boon" if found, but that Strahd is far too powerful for a single weapon to defeat him, and that even Madam Eva’s vision can sometimes be clouded. This is an obvious deflection. If the players subsequently mention their heist of Castle Ravenloft and their multiple defeats of Strahd’s brides and/or chamberlain, increase the persuasion die to six.)
+* Increase the die’s value by three if the players point out Kasimir’s injuries and frostbite from [[Arc E - The Missing Vistana#E2c. Kasimir’s Hovel|Arc E - The Missing Vistana]] and note that the Amber Temple is located on Mt. Ghakis. (If this doesn’t cause the persuasion die to reach six, Kasimir stammers that he was merely investigating the mountain for magical components, but was caught in a sudden blizzard and "foolishly fell from a cliff while attempting to make his way through the storm." This is an obvious lie. If the players subsequently recall that Kasimir’s story contradicts his previous story from [[Arc E - The Missing Vistana#E2c. Kasimir’s Hovel|Arc E - The Missing Vistana]] (i.e., that he had been hiking across [[Places/Mount Ghakis|Mount Ghakis]] in search of something of personal significance, but fell when the frozen bluff he’d been walking on crumbled beneath his weight), increase the persuasion die to six).
+* Increase the die’s value by two if the players share that [[NPCs/Madam Eva|Madam Eva]] foretold that the Amber Temple holds a weapon necessary to defeat Strahd. If the players mention that the weapon is a "sword of sunlight," increase the die’s value by three instead, and allow the players to make all subsequent Charisma (Persuasion) checks to convince Kasimir with advantage. (If this doesn’t cause the persuasion die to reach six, Kasimir stutters that such a weapon would be "an incredible boon" if found, but that Strahd is far too powerful for a single weapon to defeat him, and that even [[NPCs/Madam Eva|Madam Eva]]’s vision can sometimes be clouded. This is an obvious deflection. If the players subsequently mention their heist of Castle Ravenloft and their multiple defeats of Strahd’s brides and/or chamberlain, increase the persuasion die to six.)
 * Increase the die’s value by two if the players mention (for the first time) that Sir Godfrey told them of Kasimir’s interest in the Amber Temple.
 * Increase the die’s value by two if the players mention the lighting of Argynvostholt’s beacon, beseech Kasimir to follow that feeling of hope, and succeed on a DC 10 Charisma (Persuasion) check.
 * Increase the die’s value by one if the players insist that they must find the Amber Temple for an important purpose and succeed on a DC 15 Charisma (Persuasion) check, made with advantage if Kasimir is aware that the players reunited Arabelle with her family.
@@ -113,14 +113,14 @@ Kasimir is willing to share his true interest in the Amber Temple once the persu
 
 * He has been searching for the Amber Temple for the past several weeks, in the hopes of finding therein a weapon capable of defeating Strahd. (He doesn’t know what the weapon is, but he knows that it was hidden in the Amber Temple.)
 * He recently visited Argynvostholt in the hopes of obtaining a map to the Amber Temple’s location, which he successfully recovered from an old map case long-since forgotten amidst the ruins. (He has since committed the map to memory and destroyed it, for fear of allowing any others to find the Temple.)
-* Since obtaining the map, he has attempted the trek up Mt. Ghakis twice. The first time, a wayward blizzard forced him to turn back. The second time, a pair of demonic gargoyles at the Tsolenka Pass gatehouse drove him to crash amidst a snow bluff in an icy chasm. (This crash occurred two days before the players encountered Kasimir in [[Arc E - The Missing Vistana]].)
+* Since obtaining the map, he has attempted the trek up Mt. Ghakis twice. The first time, a wayward blizzard forced him to turn back. The second time, a pair of demonic [[Items/Gargoyles|gargoyles]] at the Tsolenka Pass gatehouse drove him to crash amidst a snow bluff in an icy chasm. (This crash occurred two days before the players encountered Kasimir in [[Arc E - The Missing Vistana]].)
 
-"The weapon I search for was hidden away within a sarcophagus of amber," Kasimir says, "in an amber vault concealed deep within the heart of the temple. Until now, however, I have despaired at even reaching the temple’s gates—let alone piercing whatever horrors might dwell within." (Kasimir doesn’t know what the weapon is or looks like; only that it is deadly to Strahd.)
+"The weapon I search for was hidden away within a sarcophagus of amber," Kasimir says, "in an [[Places/Amber Vault|amber vault]] concealed deep within the heart of the temple. Until now, however, I have despaired at even reaching the temple’s gates—let alone piercing whatever horrors might dwell within." (Kasimir doesn’t know what the weapon is or looks like; only that it is deadly to Strahd.)
 
 If the players ask Kasimir how he learned of the weapon or who hid it, Kasimir can share the following information:
 
 * The weapon was hidden four centuries ago by his sister, Patrina Velikovna, who concealed it in a place where "Strahd would fear to tread." (Kasimir doesn’t know what this means, but doesn’t believe that it refers to the Amber Temple itself—rather, he feels it refers to some location *within* or *accessible from* the Temple. "According to Patrina," Kasimir notes, "the Amber Temple itself was a place that Strahd knew well.")
-* In the wake of Strahd’s punishment of the rebellious village of Barovia, Patrina’s spirit reached out to Kasimir in his dreams and told him of the weapon, warning him that, without it, all of Barovia might perish beneath Strahd’s shadow.
+* In the wake of Strahd’s punishment of the rebellious [[Places/Village of Barovia|village of Barovia]], Patrina’s spirit reached out to Kasimir in his dreams and told him of the weapon, warning him that, without it, all of Barovia might perish beneath Strahd’s [[NPCs/Shadow|shadow]].
 
 > [!abstract]+ **What Patrina Knew**
 > If the players ask Kasimir how Patrina learned of the weapon, how she knew of the Amber Temple, or why she hid the weapon there, or ask Kasimir why he lied about his interest in the Amber Temple, Kasimir hesitates, then tells the players that he will answer their questions once they set off on their journey. It is, he adds, a "*very* long story."
@@ -129,30 +129,30 @@ With his secret revealed, Kasimir is glad to guide the players to the Amber Temp
 
 If Kasimir and the players agree to travel to the Amber Temple together, Kasimir advises them to obtain cold-weather clothing from Vallaki and stock up on any supplies they might need for the journey ahead. "We may well be gone for multiple days," he says, "and I cannot speak to what darkness we may find within the Temple itself. I would advise you to be prepared for anything." He instructs the players to inform him once they are ready to leave, noting that their party will set out at first light on the morning after they do.
 # R2. The Tyrant’s Descent
-As the players make their way from the Vistani encampment to Vallaki or the Old Svalich Road, they pass through a wooded crossroad. Read:
+As the players make their way from the [[Places/Vistani Encampment|Vistani encampment]] to Vallaki or the [[Places/Old Svalich Road|Old Svalich Road]], they pass through a wooded crossroad. Read:
 
 <div class="description">
-<p>The grassy hill that houses the dusk-elf hamlet and Vistani encampment recedes into the distance as the gnarled canopy of the Svalich Wood swallows it up once again. The muddy, faded hunter’s trail continues north, pushing through the dense foliage.</p>
-<p>As the northern treeline comes into view, the hunter’s trail splits, the eastern branch meandering further into the woods while the northern branch curves toward the pale thread of the Old Svalich Road in the distance. The air here is cool and quiet, with nothing but the rustling of leaves to fill the silence.</p>
+<p>The grassy hill that houses the dusk-elf hamlet and Vistani encampment recedes into the distance as the gnarled canopy of the [[Places/Svalich Woods|Svalich Wood]] swallows it up once again. The muddy, faded hunter’s trail continues north, pushing through the dense foliage.</p>
+<p>As the northern treeline comes into view, the hunter’s trail splits, the eastern branch meandering further into the woods while the northern branch curves toward the pale thread of the [[Places/Old Svalich Road|Old Svalich Road]] in the distance. The air here is cool and quiet, with nothing but the rustling of leaves to fill the silence.</p>
 </div>
 
 ## R2a. The Baron’s Revenge
-If Baron Vargas Vallakovich is alive, Lady Fiona Wachter is the current burgomaster of Vallaki, and the players made no efforts to conceal their travel to the Vistani encampment, a drunken Vargas and six **guards** attempt to corner the players on the road. Add:
+If [[NPCs/Baron Vargas Vallakovich|Baron Vargas Vallakovich]] is alive, [[NPCs/Lady Fiona Wachter|Lady Fiona Wachter]] is the current burgomaster of Vallaki, and the players made no efforts to conceal their travel to the Vistani encampment, a drunken Vargas and six **guards** attempt to corner the players on the road. Add:
 
 <div class="description">
-<p>The stillness is broken by the crunching of wet mulch beneath boots. Seven mud-stained figures emerge from the eastern trail, their faces dark and stony. Six bear spears and crossbows, their chests decorated with the familiar rusted mail of the Vallakian guard. The seventh, you recognize instantly: Baron Vargas Vallakovich.</p>
+<p>The stillness is broken by the crunching of wet mulch beneath boots. Seven mud-stained figures emerge from the eastern trail, their faces dark and stony. Six bear spears and crossbows, their chests decorated with the familiar rusted mail of the Vallakian guard. The seventh, you recognize instantly: [[NPCs/Baron Vargas Vallakovich|Baron Vargas Vallakovich]].</p>
 <p>The Baron does not seem to have endured his retirement well. His greasy hair is unkempt, and his clothes are unwashed and haggard. His jowls have grown only looser, and deep, puffy circles mark the flesh beneath his eyes, just above the coarse, messy stubble that lines his jaws and chin. He wears an ill-fitting breastplate, with an unpolished scabbard tied to his hip. Even from a distance, he reeks of sweat and stale wine.</p>
 <p>"There they are," Vargas rasps, his bloodshot eyes twitching. "The treacherous <em>vermin</em>."</p>
 </div>
 
 > [!lore]+ **Vargas’s Revenge**
-> In the wake of Lady Wachter’s rise to power, Vargas Vallakovich has simmered with quiet rage toward those responsible for his ouster. Though he has not thought to blame the players for Lady Wachter’s ascent, that recently changed when two of his still-loyal **guards** learned, from a drunk Nikolai and Karl Wachter, that the players met with Lady Wachter shortly before Izek’s death.
+> In the wake of Lady Wachter’s rise to power, Vargas Vallakovich has simmered with quiet rage toward those responsible for his ouster. Though he has not thought to blame the players for Lady Wachter’s ascent, that recently changed when two of his still-loyal **guards** learned, from a drunk Nikolai and [[NPCs/Karl Wachter|Karl Wachter]], that the players met with Lady Wachter shortly before [[NPCs/Izek Strazni|Izek]]’s death.
 >
 > To satisfy his need for vengeance, Vargas directed one of his loyal guards to report back to him when the players were sighted approaching the town. Upon receiving the guard’s report, Vargas gathered a half-dozen loyal guards and set off for the Vistani encampment to "punish" the players for their treachery. (The guards, who previously received preferences and favors during Vargas’s rule, have soured at Vallaki’s new burgomaster, who has integrated her own loyalists into the town guard and done away with much of Vargas’s corruption.) 
 >
-> Unfortunately, none of Vargas’s guards knew quite how to find the Vistani encampment. As a result, his group lost its way rather quickly, circling the muddy hunting trails of the Svalich Woods several times before finally encountering the party.
+> Unfortunately, none of Vargas’s guards knew quite how to find the Vistani encampment. As a result, his group lost its way rather quickly, circling the muddy hunting trails of the [[Places/Svalich Woods|Svalich Woods]] several times before finally encountering the party.
 >
-> Vargas, who is heavily drunk, believes that the players could not have killed Izek without foul play and trickery. As a result, he is convinced that they are a group of cowardly frauds, and that any tales of their heroism or deeds are overblown at best—and flat-out lies at worst.
+> Vargas, who is heavily drunk, believes that the players could not have killed [[NPCs/Izek Strazni|Izek]] without foul play and trickery. As a result, he is convinced that they are a group of cowardly frauds, and that any tales of their heroism or deeds are overblown at best—and flat-out lies at worst.
 
 Vargas is determined to punish and shame the players for their treachery, as well as their "murder" of Izek Strazni. As the conversation unfolds, he rants that the players have "allied themselves with the Devil" and "brought ruin to the good people of Vallaki." He freely accuses the players of being cowards, poisoners, and usurpers, as well as dabblers in the dark arts. ("The Wachters have always been known to consort with vampires and devils," he sneers. "I suppose it’s no surprise that they would lower themselves to filth such as you.")
 
@@ -173,13 +173,13 @@ On initiative count 10 of the first round of combat, or shortly after the player
 Give the players a moment to respond. Then continue:
 
 <div class="description">
-<p>With a swift, curving motion, one of the lowest, blackest clouds begins to descend toward the ground. As it plummets toward the earth, however, it becomes clear that it’s no cloud at all, but a swarm of thousands of chittering, shrieking bats.</p>
+<p>With a swift, curving motion, one of the lowest, blackest clouds begins to descend toward the ground. As it plummets toward the earth, however, it becomes clear that it’s no cloud at all, but a [[NPCs/Swarm|swarm]] of thousands of chittering, shrieking bats.</p>
 </div>
 
 Give the players another moment to respond. Then, if the players were fighting Vargas and his guards, add:
 
 <div class="description">
-<p>The swarm descends upon the Baron and his remaining guards, the bats’ tiny claws and teeth biting, ripping, tearing. Terrified, agonized screams ring out through the air as the black cloud turns partially red, the dying Vallakians staining the swarm’s fangs a bloody scarlet. Within seconds, nothing but bones and a few shreds of fabric lie upon the bloodstained earth</p>
+<p>The [[NPCs/Swarm|swarm]] descends upon the Baron and his remaining guards, the bats’ tiny claws and teeth biting, ripping, tearing. Terrified, agonized screams ring out through the air as the black cloud turns partially red, the dying Vallakians staining the swarm’s fangs a bloody scarlet. Within seconds, nothing but bones and a few shreds of fabric lie upon the bloodstained earth</p>
 </div>
 
 Alternatively, if the players successfully convinced Vargas and his guards to stand down, read:
@@ -209,17 +209,17 @@ Increment the die as follows:
 
 * Increase the die’s value by six if the players offer to perform some task or service of Strahd’s choice. (If the players do so, but the die’s value remains below twelve, Strahd notes his interest in the players’ offer, but confesses his reluctance to "let them off quite so easily," and asks whether, in addition to their vow, they have "any other reasons worth his time." If the persuasion die then subsequently reaches twelve, Strahd provides his terms as described in ***Success*** below.)
 * Increase the die’s value by five if the players appeal to Strahd’s need for amusement (e.g., by arguing that their suffering is worth more to him than their swift deaths) and succeed on a DC 15 Charisma (Persuasion) check, or by three if the check fails.
-* Increase the die’s value by five if the players point out that Strahd intentionally lured the players to the castle to rescue Gertruda and succeed on a DC 15 Charisma (Persuasion) check, or by three if the check fails.
+* Increase the die’s value by five if the players point out that Strahd intentionally lured the players to the castle to rescue [[NPCs/Gertruda|Gertruda]] and succeed on a DC 15 Charisma (Persuasion) check, or by three if the check fails.
 * Increase the die’s value by three if the players offer to return what was stolen and succeed on a DC 15 Charisma (Persuasion) check, or by one if the check fails.
 * Increase the die’s value by three if the players argue that they have "culled the weak" within his ranks by killing servants who were too weak to serve him well (e.g., the Brides) and succeed on a DC 15 Charisma (Persuasion) check, or by one if the check fails.
 * Increase the die’s value by three if the players appeal to Strahd’s need for challenge (e.g., by arguing that they may one day become worthy adversaries to him) and succeed on a DC 15 Charisma (Persuasion) check, or by one if the check fails.
 * Increase the die’s value by six if the players make any other excellent argument and succeed on a DC 15 Charisma (Persuasion) check, or by three if the check fails.
 * Increase the die’s value by three if the players make any other good argument and succeed on a DC 15 Charisma (Persuasion) check, or by one if the check fails.
-* Keep the die’s current value if the players offer to surrender Ireena to Strahd. ("You cannot trade what is already mine," Strahd notes. "I may take her as and when I choose. She shall walk free while it pleases me, and I shall take her when it pleases me—with or without your consent.")
+* Keep the die’s current value if the players offer to surrender [[NPCs/Ireena Kolyana|Ireena]] to Strahd. ("You cannot trade what is already mine," Strahd notes. "I may take her as and when I choose. She shall walk free while it pleases me, and I shall take her when it pleases me—with or without your consent.")
 * Keep the die’s current value if the players make any other argument that is unlikely to convince or anger Strahd.
 * Decrease the die’s value by six if the players humble themselves before Strahd and, at his invitation, succeed on a DC 15 Charisma (Performance) check. ("If you wish to grovel like another worm in my dirt," Strahd intones coldly, "then *grovel*.") (The die’s value decreases because Strahd is disgusted by displays of weakness.) Whether the check succeeds or fails, Strahd responds, with disgust, that "the line between naivete and hopefulness is very nearly invisible."^[Inspired by Jorge Rivera-Herrans, *Ruthlessness*, EPIC: The Ocean Saga.]
-* Decrease the die’s value by four if the players argue that their invasion of Castle Ravenloft was for the good of Barovia, or otherwise attempt to appeal to Strahd’s better nature. ("You forget yourselves," Strahd says softly. "Am I not lord of Barovia, master of Castle Ravenloft, and protector of the Balinok Mountains? Yet you claim that you invaded *my* home for the betterment of *my* subjects—a presumption I neither requested nor tolerate." Strahd’s eyes narrow as he adds, "Barovia’s fate is mine to decide, not yours."
-* Decrease the die’s value by four if the players insult Strahd or otherwise threaten him. ("Careful," Strahd says softly. "When you lie in the shadow of the wolf, you do not ask him to show his teeth—unless you wish to feel his bite.")
+* Decrease the die’s value by four if the players argue that their invasion of Castle Ravenloft was for the good of Barovia, or otherwise attempt to appeal to Strahd’s better nature. ("You forget yourselves," Strahd says softly. "Am I not lord of Barovia, master of Castle Ravenloft, and protector of the [[Places/Balinok Mountains|Balinok Mountains]]? Yet you claim that you invaded *my* home for the betterment of *my* subjects—a presumption I neither requested nor tolerate." Strahd’s eyes narrow as he adds, "Barovia’s fate is mine to decide, not yours."
+* Decrease the die’s value by four if the players insult Strahd or otherwise threaten him. ("Careful," Strahd says softly. "When you lie in the [[NPCs/Shadow|shadow]] of the wolf, you do not ask him to show his teeth—unless you wish to feel his bite.")
 * Decrease the die’s value by four if the players make any other poor argument, or otherwise act in any other way that is likely to anger or disgust Strahd.
 
 > [!warning]+ **Use the Majority Opinion**
@@ -241,13 +241,13 @@ Strahd invites the players to name the "blood," "wealth," and "fire" that shall 
 
 Strahd is willing to accept any of the following penalties, as well as any other of similar severity:
 
-* **Blood.** Using his longsword, Strahd executes a member of the party (excepting Ireena), an NPC who helped the players invade Ravenloft, or an NPC who directly benefited from the players’ invasion of Ravenloft. (Strahd won’t accept the sacrifice of any other character, or use any other means to carry out a chosen victim’s execution.) If the chosen sacrifice isn’t present at the crossroads, Strahd finds and executes them after departing.
-* **Gold.** Strahd takes a non-consumable magic item of Rare or greater value from the party, such as the *Holy Symbol of Ravenkind* or Vladimir Horngaard’s *+2 greatsword*. (If no member of the party is currently using or attuned to the item, they must succeed on a DC 19 Charisma (Deception) check to convince Strahd of its worth.)
-* **Fire.** Strahd destroys the Blue Water Inn, the Barovian burgomaster’s mansion, or any other place in Barovia the players call "home." (Strahd destroys the chosen location after departing the crossroads. Players who subsequently visit the chosen location find the aftermath of Strahd’s attack, which has destroyed any structures and wounded any inhabitants.)
+* **Blood.** Using his longsword, Strahd executes a member of the party (excepting [[NPCs/Ireena Kolyana|Ireena]]), an NPC who helped the players invade Ravenloft, or an NPC who directly benefited from the players’ invasion of Ravenloft. (Strahd won’t accept the sacrifice of any other character, or use any other means to carry out a chosen victim’s execution.) If the chosen sacrifice isn’t present at the crossroads, Strahd finds and executes them after departing.
+* **Gold.** Strahd takes a non-consumable magic item of Rare or greater value from the party, such as the *[[Items/Holy Symbol of Ravenkind|Holy Symbol of Ravenkind]]* or [[NPCs/Vladimir Horngaard|Vladimir Horngaard]]’s *+2 greatsword*. (If no member of the party is currently using or attuned to the item, they must succeed on a DC 19 Charisma (Deception) check to convince Strahd of its worth.)
+* **Fire.** Strahd destroys the [[Places/Blue Water Inn|Blue Water Inn]], the Barovian burgomaster’s mansion, or any other place in Barovia the players call "home." (Strahd destroys the chosen location after departing the crossroads. Players who subsequently visit the chosen location find the aftermath of Strahd’s attack, which has destroyed any structures and wounded any inhabitants.)
 
 If the players refuse to name a penalty, or if they fail to name penalties of sufficient severity, Strahd names his own penalties from the list above. 
 
-If the players agree for Strahd to kill a member of the party under the assumption that they will use the Abbot’s feathers or other means to resurrect the victim, Strahd notes that the party agreed to a sacrifice "intriguingly swiftly" and invites them to justify the severity of their choice, "lest he decide this punishment insufficient." To convince Strahd to accept their choice, the players must justify its sufficiency and succeed on a DC 19 Charisma (Deception) check. On a failure, Strahd kills the chosen victim and an additional target of his choice, preferring an NPC who helped the players invade Ravenloft or who directly benefited from the raid.
+If the players agree for Strahd to kill a member of the party under the assumption that they will use the [[NPCs/Abbot of the Abbey of Saint Markovia|Abbot]]’s feathers or other means to resurrect the victim, Strahd notes that the party agreed to a sacrifice "intriguingly swiftly" and invites them to justify the severity of their choice, "lest he decide this punishment insufficient." To convince Strahd to accept their choice, the players must justify its sufficiency and succeed on a DC 19 Charisma (Deception) check. On a failure, Strahd kills the chosen victim and an additional target of his choice, preferring an NPC who helped the players invade Ravenloft or who directly benefited from the raid.
 
 If any of the players attack him or attempt to stop him from enacting his penalties, Strahd attacks those players, continuing until defiant players have all died or escaped. (Strahd doesn’t accept those players’ surrender.) In combat, Strahd begins in his Soldier phase, rather than his Mage phase, and assumes his Vampire phase only once both his Soldier and Mage phases have been reduced to 0 hit points.
 
@@ -256,11 +256,11 @@ If any of the players attack him or attempt to stop him from enacting his penalt
 > 
 > On initiative count 20 (losing initiative ties), Strahd can take one of the following lair action options, or forgo using any of them in that round:
 >
-> ***Plant Growth (requires Forest Fane, Soldier phase only).*** Strahd casts *plant growth* without components or concentration.
+> ***Plant Growth (requires [[Places/Forest Fane|Forest Fane]], Soldier phase only).*** Strahd casts *plant growth* without components or concentration.
 >
 > ***Wrath of Nature (requires Forest Fane, Soldier phase only).*** Strahd casts *wrath of nature* without components or concentration. When he casts it in this way, Strahd can’t use the spell’s ***rocks*** effect.
 >
-> ***Control Water (requires Swamp Fane, Mage phase only).*** Strahd casts or uses *control water* without components or concentration.
+> ***Control Water (requires [[Places/Swamp Fane|Swamp Fane]], Mage phase only).*** Strahd casts or uses *control water* without components or concentration.
 >
 > ***Fog Cloud (requires Swamp Fane, Mage phase only).*** Strahd casts *fog cloud* at 5th level without components or concentration. While the fog remains, Strahd has blindsight out to its edges.
 > 
@@ -271,17 +271,17 @@ If any of the players attack him or attempt to stop him from enacting his penalt
 Before departing, whether the players name sufficient penalties or not, Strahd informs them that they have "worn his patience thin." "I once found your boldness amusing," he adds, "but the thread of your lives grows thin." He informs the players that he will need new servants to replenish those he lost in the players’ raid; to this end, he shall visit them nightly to see which among them are worthy of a place in his court and which "are worthy only of a place among my legions—or the worms that writhe in the earth." His form then bursts into a swarm of thousands of bats, which ascend into the sky and fly for Castle Ravenloft to the east.
 
 > [!info]+ **The Tyrant’s Trials**
-> From this point on, until the end of [[Arc S - A Sword of Sunlight]], Strahd visits the players nightly to torment them, as described in [[#R3b. The Tyrant’s First Trial]] and beyond. While most players will struggle to resist Strahd’s machinations—and will prove unable to prevent them until they have obtained the *Sunsword* at the end of [[Arc S - A Sword of Sunlight]]—clever, resourceful, and (occasionally) ruthless players may be able to prevent Strahd from entering their place of rest—or, better yet, from tracking them at all. (See [[#R3b. The Tyrant’s First Trial]] for more information on how Strahd attempts to do so.)
+> From this point on, until the end of [[Arc S - A Sword of Sunlight]], Strahd visits the players nightly to torment them, as described in [[#R3b. The Tyrant’s First Trial]] and beyond. While most players will struggle to resist Strahd’s machinations—and will prove unable to prevent them until they have obtained the *[[Items/Sunsword|Sunsword]]* at the end of [[Arc S - A Sword of Sunlight]]—clever, resourceful, and (occasionally) ruthless players may be able to prevent Strahd from entering their place of rest—or, better yet, from tracking them at all. (See [[#R3b. The Tyrant’s First Trial]] for more information on how Strahd attempts to do so.)
 # R3. Town of Vallaki
 ## R3a. Purchasing Cold-Weather Clothing
-The players can purchase cold-weather clothing from <span class="citation">N5. Arasek Stockyard (p. 115)</span> at a price of 10gp per set. If they do, Gunther Arasek asks curiously if the players are "planning a trip to Krezk," adding offhandedly that winter is "a month off yet." (Gunther is just curious, and is trying to make smalltalk. If told that the players expect to journey to Mt. Ghakis, he scoffs and warns them that "there’s nothing on those mountain slopes but barbarians, ice, and death.")
+The players can purchase cold-weather clothing from <span class="citation">N5. [[Places/Arasek Stockyard|Arasek Stockyard]] (p. 115)</span> at a price of 10gp per set. If they do, Gunther Arasek asks curiously if the players are "planning a trip to Krezk," adding offhandedly that winter is "a month off yet." (Gunther is just curious, and is trying to make smalltalk. If told that the players expect to journey to Mt. Ghakis, he scoffs and warns them that "there’s nothing on those mountain slopes but barbarians, ice, and death.")
 
 > [!abstract]+ **Clothing From Krezk**
-> If the players have befriended the Krezkov family, they can also obtain sets of cold-weather clothing from the people of Krezk at no cost. ("You have done a great service to us," Dmitri assures them. "Our family is forever in your debt, and I do not doubt that our neighbors will gladly share what they have to help us repay it.")
+> If the players have befriended the Krezkov family, they can also obtain sets of cold-weather clothing from the people of Krezk at no cost. ("You have done a great service to us," [[NPCs/Baron Dmitri Krezkov|Dmitri]] assures them. "Our family is forever in your debt, and I do not doubt that our neighbors will gladly share what they have to help us repay it.")
 ## R3b. The Tyrant’s First Trial
 
 > [!info]+ **Strahd’s Scrying**
-> Each night at nightfall following [[#R2. The Tyrant’s Descent]], Strahd casts _scrying_ (DC 19) in an effort to ascertain the players’ location. When he does, if he believes that Ireena is with the party, he targets her with the spell.  When Strahd is scrying her, Ireena has a cumulative -17 to the save (-5 from Strahd’s knowledge of her; -2 from Strahd’s use of Tatyana’s portrait in <span class="citation">K37. Study (p. 66)</span>; and -10 from Strahd’s use of a lock of her hair he took in [[Arc B - Welcome to Barovia]]).
+> Each night at nightfall following [[#R2. The Tyrant’s Descent]], Strahd casts _scrying_ (DC 19) in an effort to ascertain the players’ location. When he does, if he believes that Ireena is with the party, he targets her with the spell.  When Strahd is scrying her, Ireena has a cumulative -17 to the save (-5 from Strahd’s knowledge of her; -2 from Strahd’s use of [[NPCs/Tatyana Federovna|Tatyana]]’s portrait in <span class="citation">K37. Study (p. 66)</span>; and -10 from Strahd’s use of a lock of her hair he took in [[Arc B - Welcome to Barovia]]).
 >
 > If Strahd believes that Ireena is not with the party, he instead scries the character with the greatest priority, as given below:
 >
@@ -289,25 +289,25 @@ The players can purchase cold-weather clothing from <span class="citation">N5. A
 > * ***Class.*** Decrease a character’s priority by 3 if they are a paladin, wizard, druid, bard, cleric, or other class with a bonus to Wisdom saving throws.
 > * ***Race.*** Decrease a character’s priority by 4 if they are a satyr, gnome, yuan-ti, or other race with advantage on saving throws against magical effects.
 > * ***Knowledge.*** Increase a character’s priority by 5 if they have shared substantial information about their history, goals, personality, or interests with Strahd at a prior meeting (i.e., providing Strahd with extensive knowledge about them for the purposes of *scrying*).
-> * ***Likeness.*** Increase a character’s priority by 2 if they have previously met Escher. (During [[Arc O - Dinner with the Devil]], Strahd asked Escher to sketch a likeness of each character attending, thereby providing him with a picture of them for the purposes of *scrying*).
+> * ***Likeness.*** Increase a character’s priority by 2 if they have previously met [[NPCs/Escher|Escher]]. (During [[Arc O - Dinner with the Devil]], Strahd asked [[NPCs/Escher|Escher]] to sketch a likeness of each character attending, thereby providing him with a picture of them for the purposes of *scrying*).
 > * ***Body Part.*** Increase a character’s priority by 10 if Strahd or one of his spies has previously obtained a body part, lock of hair, or bit of nail from that player (for the purposes of *scrying*).
 >
 > (For example, a barbarian with a low Wisdom score who both met Escher and shared significant personal information about themselves in [[Arc O - Dinner with the Devil]] would have a priority of 13 and a cumulative _scrying_ penalty of 7. By contrast, a cleric with a high Wisdom score who met Escher but shared little about themselves with Strahd would have a priority of 2 and a cumulative _scrying_ penalty of 2.)
 > 
 > If the scrying is successful, Strahd can immediately identify the following locations:
-> * ***Vallaki.*** The Blue Water Inn, St. Andral’s church, Wachterhaus, the Baron’s manor, and the Vistani and dusk elf encampment.
-> * ***Krezk.*** The Baron’s cottage, the Shrine of the White Sun, and the Abbey of St. Markovia
+> * ***Vallaki.*** The [[Places/Blue Water Inn|Blue Water Inn]], St. Andral’s church, [[Places/Wachterhaus|Wachterhaus]], the Baron’s manor, and the Vistani and dusk elf encampment.
+> * ***Krezk.*** The Baron’s cottage, the [[Places/Shrine of the White Sun|Shrine of the White Sun]], and the [[Places/Abbey of Saint Markovia|Abbey of St. Markovia]]
 > * ***Barovia.*** The church and the Burgomaster’s manor
-> * ***Svalich Woods.*** Tser Falls, Old Bonegrinder, Lake Zarovich, Lake Baratok, Argynvostholt, the werewolf den, the Wizard of Wines, Yester Hill
+> * ***Svalich Woods.*** [[Places/Tser Falls|Tser Falls]], [[Places/Old Bonegrinder|Old Bonegrinder]], [[Places/Lake Zarovich|Lake Zarovich]], [[Places/Lake Baratok|Lake Baratok]], Argynvostholt, the [[Places/Werewolf Den|werewolf den]], [[Places/Wizard of Wines|the Wizard of Wines]], [[Places/Yester Hill|Yester Hill]]
 >
 > Even if Strahd can’t immediately identify the specific location where the players are staying, he can immediately identify the region where they can be found (e.g., the town of Vallaki) by inspecting their surroundings. If the scrying spell fails (e.g., because the players are concealed by <span class="citation">Khazan’s Spell Drain (p. 167)</span> at Van Richten’s Tower, Strahd assumes they are residing at Van Richten’s Tower.
 >
-> Whether he knows the players’ specific location or not, Strahd then uses the teleportation brazier in [[Arc P - Ravenloft Heist#P11e. Brazier Room|P11e. Brazier Room]] to teleport to the area nearest the players’ current location. Upon arriving, if he doesn’t know the players’ specific location, he summons twenty **wolves**, twenty **swarms of bats**, and/or twenty **swarms of rats** and instructs them to explore the area (in pairs) to discern the players’ specific location. Strahd learns the players’ location if at least one spy is able to report it back to him.
+> Whether he knows the players’ specific location or not, Strahd then uses the teleportation brazier in [[Arc P - Ravenloft Heist#P11e. Brazier Room|P11e. Brazier Room]] to teleport to the area nearest the players’ current location. Upon arriving, if he doesn’t know the players’ specific location, he summons twenty **[[NPCs/Wolves|wolves]]**, twenty **swarms of bats**, and/or twenty **swarms of rats** and instructs them to explore the area (in pairs) to discern the players’ specific location. Strahd learns the players’ location if at least one spy is able to report it back to him.
 > 
-> If the players are in a permanent artificial structure (e.g., the tower at Lake Barok) or a place where someone lives (e.g., the werewolf den), continue to [[#Strahd’s Greeting]] below. Otherwise, continue directly to [[#Strahd’s Game]].
+> If the players are in a permanent artificial structure (e.g., the tower at Lake Barok) or a place where someone lives (e.g., the [[Places/Werewolf Den|werewolf den]]), continue to [[#Strahd’s Greeting]] below. Otherwise, continue directly to [[#Strahd’s Game]].
 
 > [!warning]+ **Strahd’s Backup**
-> If Strahd is unable to scry a member of the party (e.g., due to a *nondetection* or *private sanctum* spell), he dispatches his spies to search for them. He then makes his way to the skies above Berez atop his **nightmare** Beucephalus, where he waits for any of his spies to return.
+> If Strahd is unable to scry a member of the party (e.g., due to a *nondetection* or *private sanctum* spell), he dispatches his spies to search for them. He then makes his way to the skies above [[Places/Berez|Berez]] atop his **nightmare** [[NPCs/Beucephalus|Beucephalus]], where he waits for any of his spies to return.
 >
 > At Strahd’s command, twelve thousand **bats** disperse across Barovia, with four bats searching each quarter-mile hex shown on the <span class="citation">Map of Barovia (p. 33)</span>. The bats assigned to the players’ hex arrive between 1 and 2 hours after the players’ long rest begins, depending on the players’ proximity to Castle Ravenloft. If the bats can observe evidence of the players’ presence from a distance (e.g., artificial lighting in Van Richten’s Tower, or a player outside on guard), they immediately report their findings to Strahd in Berez.
 >
@@ -315,7 +315,7 @@ The players can purchase cold-weather clothing from <span class="citation">N5. A
 >
 > If a bat detects evidence of the players’ presence or realizes that it has been noticed, it attempts to flee to Berez to report its findings to Strahd. If the players attempt to stop it, run the chase as described in <span class="citation">Chases (<em>Dungeon Master’s Guide</em>, p. 252)</span>, but without any chase complications. (Players who use loud or flashy means to stop one of the bats—such as a spell that deals fire, radiant, or thunder damage—may alert the other bats in the same hex. If they do, those bats immediately report to Berez, rather than continuing their investigation.)
 >
-> Strahd rides Beucephalus to the players’ location immediately upon learning from his **bat** spies that evidence of their presence has been sighted there, arriving at the players’ resting place approximately 1 hour after the bat departed there.
+> Strahd rides [[NPCs/Beucephalus|Beucephalus]] to the players’ location immediately upon learning from his **bat** spies that evidence of their presence has been sighted there, arriving at the players’ resting place approximately 1 hour after the bat departed there.
 ### Strahd’s Greeting
 Depending on the players’ resting place, Strahd uses a different strategy or series of strategies to reach them:
 
@@ -323,26 +323,26 @@ Depending on the players’ resting place, Strahd uses a different strategy or s
 |-----------------|-------------------|
 | <span class="citation">E4. Burgomaster's Mansion (p. 44)</span> | Strahd uses [[#The Bat]], followed by [[#The Visitor]] and [[#The Storm]]. |
 | <span class="citation">E5. Church (p. 45)</span> | Strahd uses [[#The Bat]], followed by [[#The Swarm]], [[#The Visitor]], [[#The Command]], and [[#The Storm]]. |
-| <span class="citation">N1. St. Andral's Church (p. 97)</span> | Strahd uses [[#The Storm]]. |
+| <span class="citation">N1. [[Places/St. Andral's Church|St. Andral's Church]] (p. 97)</span> | Strahd uses [[#The Storm]]. |
 | <span class="citation">N2. Blue Water Inn (p. 98)</span> | Strahd uses [[#The Bat]]. If he succeeds, Strahd then uses [[#The Visitor]]. Otherwise, Strahd then uses [[#The Swarm]], followed by [[#The Visitor]] and [[#The Storm]]. |
 | <span class="citation">N3. Burgomaster's Mansion (p. 103)</span> | Strahd uses [[#The Bat]]. If he succeeds, Strahd then uses [[#The Visitor]]. Otherwise, Strahd then uses [[#The Swarm]], followed by [[#The Visitor]] and [[#The Storm]]. |
-| <span class="citation">N4. Wachterhaus (p. 110)</span> | Strahd uses [[#The Bat]]. If he succeeds, Strahd then uses [[#The Visitor]]. Otherwise, Strahd then uses [[#The Swarm]], followed by [[#The Visitor]] and [[#The Storm]]. |
+| <span class="citation">N4. [[Places/Wachterhaus|Wachterhaus]] (p. 110)</span> | Strahd uses [[#The Bat]]. If he succeeds, Strahd then uses [[#The Visitor]]. Otherwise, Strahd then uses [[#The Swarm]], followed by [[#The Visitor]] and [[#The Storm]]. |
 | <span class="citation">N9. Vistani Camp (p. 119)</span> | Strahd uses [[#The Visitor]], followed by [[#The Storm]]. |
 | <span class="citation">Chapter 6: Old Bonegrinder (p. 125)</span> | Strahd uses [[#The Bat]], followed by [[#The Visitor]] and [[#The Storm]]. |
 | <span class="citation">Chapter 7: Argynvostholt (p. 129)</span> | Strahd uses [[#The Hostage]]. |
-| <span class="citation">S3. Village of Krezk (p. 145)</span> | Strahd uses [[#The Bat]]. If he succeeds, Strahd then uses [[#The Visitor]]. Otherwise, Strahd then uses [[#The Storm]]. |
+| <span class="citation">S3. [[Places/Village of Krezk|Village of Krezk]] (p. 145)</span> | Strahd uses [[#The Bat]]. If he succeeds, Strahd then uses [[#The Visitor]]. Otherwise, Strahd then uses [[#The Storm]]. |
 | <span class="citation">S19. Barracks (p. 154)</span> | Strahd uses [[#The Visitor]], followed by [[#The Storm]]. |
 | <span class="citation">T4-5. Guard Tower, Ground/Upper Floor (pp. 157-59)</span> | Strahd uses [[#The Hostage]]. |
-| <span class="citation">Chapter 11: Van Richten's Tower (p. 167)</span> | Strahd uses [[#The Visitor]], followed by [[#The Horde]]. |
-| <span class="citation">Chapter 12: The Wizard of Wines (p. 173)</span> | Strahd uses [[#The Swarm]], followed by [[#The Visitor]] and [[#The Storm]]. |
+| <span class="citation">Chapter 11: [[Places/Van Richten's Tower|Van Richten's Tower]] (p. 167)</span> | Strahd uses [[#The Visitor]], followed by [[#The Horde]]. |
+| <span class="citation">Chapter 12: [[Places/Wizard of Wines|The Wizard of Wines]] (p. 173)</span> | Strahd uses [[#The Swarm]], followed by [[#The Visitor]] and [[#The Storm]]. |
 | <span class="citation">Chapter 15: Werewolf Den (p. 201)</span> | Strahd uses [[#The Hostage]]. |
 #### The Hostage
 In this strategy, Strahd seeks to leverage the lives of NPCs the players have grown attached to in order to force the players to invite him inside. To do so, he uses his network of spies and his ***charm*** ability to learn which nearby NPCs the players have developed a relationship with. He then kidnaps and charms those NPCs and brings them to a location near the players’ resting place atop Beucephalus. (Strahd doesn’t ride Beucephalus himself if he kidnaps more than three NPCs in this way.)
 
 Strahd might kidnap the following groups of NPCs, or others that the players have grown attached to:
 
-* Milivoj and his two eldest younger siblings: Bogan (twelve years old) and Zondra (ten years old)
-* Anna, Ilya, and Kala Krezkova
+* [[NPCs/Milivoj|Milivoj]] and his two eldest younger siblings: Bogan (twelve years old) and Zondra (ten years old)
+* [[NPCs/Anna Krezkova|Anna]], [[NPCs/Ilya Krezkov|Ilya]], and [[NPCs/Kala Krezkova|Kala Krezkova]]
 * Nikolai, Karl & Stella Wachter
 
 However, Strahd doesn’t kidnap wereravens, occupants of St. Andral’s Church, or any NPC of Challenge Rating 1 or greater.
@@ -358,13 +358,13 @@ Upon greeting the players, the dispatched NPC attempts to relay that "the others
 >
 > If the players again refuse to travel to Strahd’s location, the lurking bat attempts to report back to Strahd. If it does so successfully, or if the bat fails to report back for twenty minutes or more, Strahd uses his ***bite*** to kill the two remaining kidnapped NPCs and leaves a parchment note, written in his recognizably elegant handwriting, in a suitably obvious place across the bodies. The note reads: "They cried out for you before they died—yet you were not there." 
 
-When the players arrive at Strahd’s location, they find him lounging upon a suitable seat with the other kidnapped NPCs sitting or kneeling upon the ground beside him. (Strahd has dismissed Beucephalus back into the Ethereal Plane pending his departure from the players.)
+When the players arrive at Strahd’s location, they find him lounging upon a suitable seat with the other kidnapped NPCs sitting or kneeling upon the ground beside him. (Strahd has dismissed Beucephalus back into the [[Places/Ethereal Plane|Ethereal Plane]] pending his departure from the players.)
 
 Strahd welcomes the players cordially. Should the players show concern for the kidnapped NPCs, Strahd assures them coolly that their friends "shall suffer no untoward harm—at least, should our meeting tonight resolve amicably."
 
 Strahd is willing to guarantee the kidnapped NPCs’ freedom and safety if the players agree to "play a game" before he departs. If the players agree to do so, proceed to [[#Strahd’s Game]].
 #### The Horde
-In this strategy, Strahd seeks to force the players to exit the tower at Lake Baratok by threatening to collapse it. To do so, he summons a horde of thirteen **zombies** from the Svalich Woods nearby and directs them, one by one, to attempt to break down the door. (Because the DC to break down the door is 25, and each zombie has a Strength modifier of +1, the zombies can’t break down the door.) 
+In this strategy, Strahd seeks to force the players to exit the tower at [[Places/Lake Baratok|Lake Baratok]] by threatening to collapse it. To do so, he summons a horde of thirteen **zombies** from the Svalich Woods nearby and directs them, one by one, to attempt to break down the door. (Because the DC to break down the door is 25, and each zombie has a Strength modifier of +1, the zombies can’t break down the door.) 
 
 As the zombies attempt to break down the door, Strahd informs the players that they need only exit the tower and meet with him "like civilized individuals" if they wish for his creatures to stop.
 
@@ -385,7 +385,7 @@ When the players emerge from their resting place, they find Strahd standing a sh
 
 Regardless of the players’ answer, Strahd informs them that "they have called the lightning—but it remains to be seen whether they yet may survive it." Proceed to [[#Strahd’s Game]].
 #### The Swarm
-In this strategy, Strahd seeks to terrorize the civilian inhabitants of the players’ current resting place in order to force the players to invite him inside. To do so, he sends a platoon of eleven **wights**, led by one **wight commander** and joined by two **plagues of rats**, to attack their resting place. When doing so, the wights and rats behave as follows:
+In this strategy, Strahd seeks to terrorize the civilian inhabitants of the players’ current resting place in order to force the players to invite him inside. To do so, he sends a platoon of eleven **[[Factions/Wights|wights]]**, led by one **wight commander** and joined by two **plagues of rats**, to attack their resting place. When doing so, the [[Factions/Wights|wights]] and rats behave as follows:
 
 * Eight of the **wights** attempt to enter the resting place simultaneously from alternate entrances (e.g., window and/or rear doors), aiming to engage any non-party NPCs with their ***life drain*** attacks. A wight can climb the outside of a building at half speed without making a Strength (Athletics) check, but must succeed on a DC 15 Strength check to break down a wooden door.
 * The **wight commander** and remaining three **wights** attempt to storm the resting place from the main entrance, aiming to engage and surround the players.
@@ -515,13 +515,13 @@ If Strahd is invited to enter the players’ resting place, he does so. Proceed 
 >
 > Once no defiant players remain, proceed to [[#Strahd’s Game]]. 
 #### The Command
-In this strategy, Strahd attempts to leverage his control over the **vampire spawn** Doru to force the players to invite him to enter their resting place. (If Doru isn’t alive, or isn’t present within the players’ current resting place, Strahd instead proceeds to the next available strategy.)
+In this strategy, Strahd attempts to leverage his control over the **[[Factions/Vampire Spawn|vampire spawn]]** [[NPCs/Doru|Doru]] to force the players to invite him to enter their resting place. (If [[NPCs/Doru|Doru]] isn’t alive, or isn’t present within the players’ current resting place, Strahd instead proceeds to the next available strategy.)
 
 To do so, Strahd uses one of the following methods, in order of descending preference:
 
 * ***The Lure.*** Strahd lures Doru to a door or window (e.g., by quietly tapping on it) and asks to be invited inside.
 * ***The Request.*** Strahd knocks on the door and calls out to Doru, informing him that his "master has come to call."
-* ***The Command.*** Strahd calls out to Doru and orders him to bring him "the head of your betrothed" or "the head of your father"—"until your friends see fit to practice proper hospitality." (If Gertruda or Father Donavich is elsewhere, but nearby, Doru first attempts to escape the players’ current location, then attempts to track down his given target before carrying out Strahd’s command.)
+* ***The Command.*** Strahd calls out to Doru and orders him to bring him "the head of your betrothed" or "the head of your father"—"until your friends see fit to practice proper hospitality." (If [[NPCs/Gertruda|Gertruda]] or [[NPCs/Father Donavich|Father Donavich]] is elsewhere, but nearby, Doru first attempts to escape the players’ current location, then attempts to track down his given target before carrying out Strahd’s command.)
 
 > [!info]+ **Strahd’s Commands**
 > As one of Strahd’s vampire spawn, Doru must obey all orders Strahd expressly gives him. In addition, while Strahd is within one thousand feet of him, Doru is charmed by Strahd and carries out all of his orders faithfully, without question or hesitation.
@@ -600,24 +600,24 @@ At dawn on the first day after the players inform Kasimir that they are ready to
 
 * First, the party must travel west, toward Krezk. At the Raven River Crossroads, they will take the southern trail, which leads into the mountains.
 * The trail will lead them through Tsolenka Pass, whose frequent and heavy snows often obscure the path ahead.
-* Past Tsolenka Pass lies a gatehouse once guarded by the Order of the Silver Dragon, and an old stone bridge that crosses the Luna River far below. (Kasimir has gone no further than the gatehouse on his previous visits to the mountain.)
+* Past Tsolenka Pass lies a gatehouse once guarded by the Order of the Silver Dragon, and an old stone bridge that crosses the [[Places/Luna River|Luna River]] far below. (Kasimir has gone no further than the gatehouse on his previous visits to the mountain.)
 * Past the bridge, they must ascend the switchback cliffs of Mt. Ghakis, first ascending the mountain’s western edge, then hugging the mountain’s northern cliffs until they approach the mountain’s second-largest peak.
 * There, they will find a hidden trail. Upon following it, they will find the Temple concealed between a pair of frozen cliffs beneath the highest peak.
 
 > [!abstract]+ **Why Not Fly?**
-> If the players suggest flying directly to the Amber Temple, Kasimir informs them that frequent blizzards and storms would make flight in the mountain’s vicinity impossible—and that the roc of Mt. Ghakis guards the surrounding skies jealously.
+> If the players suggest flying directly to the Amber Temple, Kasimir informs them that frequent blizzards and storms would make flight in the mountain’s vicinity impossible—and that the [[NPCs/Roc|roc]] of Mt. Ghakis guards the surrounding skies jealously.
 
 > [!abstract]+ **Kasimir’s Cold-Weather Clothing**
 > If any player asks Kasimir why he is not wearing cold-weather clothing, he smiles wryly and shows them the *ring of warmth* he wears on his left hand. "There are other ways of securing protection from the elements," he says. (He concedes, however, that it protects him only from the cold, and not from the wind or snow themselves.)
 
 Once he and the players have reached the Old Svalich Road, in addition to the information in [[#R1. Recruiting Kasimir]], Kasimir is willing to share the following information if the players swear themselves to secrecy and succeed on a DC 10 Charisma (Persuasion) check, succeeding automatically if the players have given him good reason to trust them (e.g., reuniting Arabelle with her family in [[Arc E - The Missing Vistana]]):
 
-* Four centuries ago, before King Barov II invaded the dusk elf principality of Othrondil, Kasimir was the scribe of Prince Erevan Löwenhart, their uncle, and Patrina his court mage. (Kasimir and Patrina were not direct blood relations of Erevan, who married their aunt, Lorelei.)
+* Four centuries ago, before King Barov II invaded the dusk elf principality of Othrondil, Kasimir was the scribe of Prince Erevan Löwenhart, their uncle, and Patrina his court mage. (Kasimir and Patrina were not direct blood relations of Erevan, who married their aunt, [[NPCs/Lorelei|Lorelei]].)
 * When King Barov II, aided by the treacherous Rahadin, Prince Erevan’s son, conquered Othrondil, killed Prince Erevan, and subjugated the dusk elf people, Kasimir and Patrina lost their homes, positions, and many members of their family. Though Kasimir urged his sister to make peace with their fate, Patrina’s rage continued to simmer for decades. 
 * When Barov died and was succeeded by his son, Strahd, Patrina joined the rebellion against him, determined to drive the invaders out of her homeland. Strahd, however, crushed the dusk elf rebellion brutally and swiftly, leaving the survivors to the Vistani as described in <span class="citation">Kasimir Velikov (p. 232)</span>. Kasimir again attempted to comfort a despondent Patrina, but to no avail.
 * For a time after they arrived in Barovia, Kasimir dared to believe Patrina may have made peace with their fate—but it wasn’t long before she began slipping away on odd, secretive errands, often for days at a time. Patrina refused to speak of where she went on these occasions, no matter how hard Kasimir pushed.
 * One night, less than a week after Strahd conquered Barovia, Patrina vanished from the dusk elf encampment. For the next year, Kasimir often sought to find her amidst the settlements and wild places of Barovia—but to no avail. He eventually came to accept that she had died, and joined his people in mourning her.
-* Shortly after the Mists descended upon Barovia, and four years after Strahd’s conquest of Barovia, Patrina abruptly returned to the dusk elves’ encampment. Though she begged Kasimir’s forgiveness for her long absence, she refused to disclose where she had been, or why she had not returned. A suspicious, but altogether grateful Kasimir welcomed her back into the fold, and aided her in building a new home for herself in the woods not far from the encampment.
+* Shortly after the [[Places/Mists|Mists]] descended upon Barovia, and four years after Strahd’s conquest of Barovia, Patrina abruptly returned to the dusk elves’ encampment. Though she begged Kasimir’s forgiveness for her long absence, she refused to disclose where she had been, or why she had not returned. A suspicious, but altogether grateful Kasimir welcomed her back into the fold, and aided her in building a new home for herself in the woods not far from the encampment.
 * Two months after Patrina’s return, Kasimir learned from a Vistani acquaintance that Patrina had not only become a consort of Strahd’s, but had in fact served as his arcane tutor for nearly a year before. Enraged, he stormed into her cottage, determined to confront her—and found instead the hidden entrance to an arcane laboratory she had built below it.
 * As he wandered amidst the trappings of black magic Patrina had left there, Kasimir began to suspect, with a dawning horror, just what had drawn her attention for the years she had been absent. But it was on the deepest floor of Patrina’s lair that Kasimir found the remnants of her most vile act: the corpses of seven kidnapped and tortured Vallakians, their disemboweled entrails stewing within a cauldron—and Patrina’s notes, written in a royal cipher that only the two of them remembered, that spoke of a potion that would allow its drinker to ascend to lichdom.
 * It was there that Kasimir found Patrina herself—evidently mere minutes away from imbibing the potion that would transform her. Horrified by what he had found, Kasimir demanded Patrina surrender herself and face justice. Patrina feigned contrition—but when she attacked Kasimir with dark magic, Kasimir struck back, weaving the same spells she had taught him long ago.
@@ -630,7 +630,7 @@ If the players have sworn themselves to secrecy, Kasimir can also share the foll
 
 * Two months ago, shortly after Strahd awoke from his hibernation, Patrina sent Kasimir a cryptic dream: a vision of the Amber Temple, a promise of vengeance against Strahd, and a path to the amber sarcophagus where salvation purportedly lay. She whispered that she felt shame for her crimes, and that she wished merely to avenge the deaths of her sisters that had perished at Rahadin’s treacherous hands. 
 * As proof of her goodwill, Patrina told Kasimir of a map case, hidden away in the ruins of Argynvostholt, whose contents would lead him to the Temple’s long-lost location. Though Kasimir remained suspicious of Patrina’s motives, Strahd’s vengeance against the village of Barovia disturbed and alarmed him. With his sister’s dream weighing heavily on his mind, Kasimir journeyed to Argynvostholt, where he found the map Patrina had told him of. 
-* With Strahd’s darkness rapidly spreading once more across the valley, Kasimir set off for the slopes of Mt. Ghakis to reach Patrina’s promised vengeance. The journey, however, proved to be more than Kasimir could take. The first time, a wayward blizzard turned him back; the second, the demonic gargoyles that guarded the Tsolenka Pass gatehouse drove him to crash amidst a snow bluff in an icy chasm. Kasimir returned to his home in pain and shame, desperate to find a way to reach a goal that lay tantalizingly out of reach—and met the players soon thereafter.
+* With Strahd’s darkness rapidly spreading once more across the valley, Kasimir set off for the slopes of Mt. Ghakis to reach Patrina’s promised vengeance. The journey, however, proved to be more than Kasimir could take. The first time, a wayward blizzard turned him back; the second, the demonic [[Items/Gargoyles|gargoyles]] that guarded the Tsolenka Pass gatehouse drove him to crash amidst a snow bluff in an icy chasm. Kasimir returned to his home in pain and shame, desperate to find a way to reach a goal that lay tantalizingly out of reach—and met the players soon thereafter.
 
 If, after he has finished his story, the players ask Kasimir why he lied about his interest in the Amber Temple, he can share one or more of the following reasons:
 
@@ -647,14 +647,14 @@ Together, the pit traps form a diagonal across the road that runs from the start
 Three **druid assailants**, three **berserkers**, and two **rootspike triads** lurk amidst the Svalich Woods nearby, distributed as follows:
 
 * Two druid assailants and one berserker east of the mountain trail
-* One druid assailant and two berserkers east of the lake path
+* One [[NPCs/Druid Assailant|druid assailant]] and two berserkers east of the lake path
 * One rootspike triad west of the lake path
 * One rootspike triad west of the mountain trail
 
 > [!combat]- **Combat - The Druid's Vengeance**  
 > **Combat Level**: Bloody 
 > **Expected Character Level**: 8
-> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4), Kasimir Velikov (CR 6)
+> **Allies:** Ireena Kolyana (CR 2), [[NPCs/Ezmerelda d'Avenir|Ezmerelda d'Avenir]] (CR 4), Kasimir Velikov (CR 6)
 > **Expected HP Consumption:** 58%
 > 
 > ### **Enemies:**
@@ -662,12 +662,12 @@ Three **druid assailants**, three **berserkers**, and two **rootspike triads** l
 > | |3 Players | 4 Players | 5 Players | 6 Players |
 > |-|-|-|-|-|
 > | Berserker | 2 | 3 | 3 | 4 |
-> | Druid Assailant | 1 | 2 | 3 | 3 |
+> | [[NPCs/Druid Assailant|Druid Assailant]] | 1 | 2 | 3 | 3 |
 > | Rootspike Triad | 2 | 2 | 2 | 2 |
 
 
 > [!lore]+ **Rootspike Triad**
-> Following the players’ victory over the Forest Folk in [[Arc J - The Stolen Gem]], several **druid naturalists** journeyed to the ruins of Berez, seeking the aid of the swamp witch Baba Lysaga in empowering their magic. The **rootspike triads** were the end result: trios of druid naturalists with wooden spikes driven into their eyes, bloody runes carved into their flesh, and a bark-like covering across their skin.
+> Following the players’ victory over the [[Factions/Forest Folk|Forest Folk]] in [[Arc J - The Stolen Gem]], several **druid naturalists** journeyed to the ruins of Berez, seeking the aid of the swamp witch [[NPCs/Baba Lysaga|Baba Lysaga]] in empowering their magic. The **rootspike triads** were the end result: trios of druid naturalists with wooden spikes driven into their eyes, bloody runes carved into their flesh, and a bark-like covering across their skin.
 
 The druid assailants have prepared *pass without trace* instead of *darkvision*. When the players arrive, one druid assailant in each group and the two rootspike triads are concentrating on the spell *pass without trace*, concealing each druid and berserker within range.
 
@@ -788,7 +788,7 @@ In combat, the druids and berserkers act as follows:
 
 As the fight unfolds, the druids condemn the players for their "treason" against "the Shadowed Lord"—Strahd—and the "crimes" they committed at Yester Hill in [[Arc J - The Stolen Gem]]. They further warn the players that Strahd, He Who Calls the Lightning, will "bring the wrath of the storm down upon their heads for their transgressions," and that his servants will find and eradicate "those who stand against him, root and branch."
 
-When the last druid dies, they spit that "Ravensbane" will soon punish the players’ arrogance and treachery. (Unbeknownst to the players, "Ravensbane" is one of the druids’ monikers for Baba Lysaga, the witch of Berez. The druid is referring to Baba Lysaga’s plot to kidnap the wereravens of the Wizard of Wines Winery, which the players will uncover in [[Arc U - Dreams of Dawn]].)
+When the last druid dies, they spit that "Ravensbane" will soon punish the players’ arrogance and treachery. (Unbeknownst to the players, "Ravensbane" is one of the druids’ monikers for [[NPCs/Baba Lysaga|Baba Lysaga]], the witch of Berez. The druid is referring to Baba Lysaga’s plot to kidnap the wereravens of the Wizard of Wines Winery, which the players will uncover in [[Arc U - Dreams of Dawn]].)
 ## R4c. The Monument
 The journey from the Raven River Crossroads to the Tsolenka Pass gatehouse is nine miles long and takes three hours under normal conditions. When the players first set off from the crossroads read:
 
@@ -807,7 +807,7 @@ The large hill is Yester Hill, and is recognizable to any player who succeeds on
 
 The silhouette behind the players is Rahadin, who hopes to follow the players to the Amber Temple in order to claim the power he needs to defeat them. If approached, Rahadin swiftly conceals himself amidst the cliffs overlooking the trail. (Due to the heavy snow, Rahadin can’t be found unless the players follow him off the road.)
 
-The shadow ahead of the players is a broken monument to the roc of Mt. Ghakis, built by the First Folk long ago. If a player approaches the shadow or succeeds on a DC 15 Wisdom (Perception) check, read:
+The shadow ahead of the players is a broken monument to the [[NPCs/Roc|roc]] of Mt. Ghakis, built by [[Factions/First Folk|the First Folk]] long ago. If a player approaches the shadow or succeeds on a DC 15 Wisdom (Perception) check, read:
 
 <div class="description">
 <p>The shadow reveals itself to be an ancient, six-foot-tall stone monument. Though time and the elements have eroded its form into little more than a vague silhouette, its avian beak and talons remain unmistakable. Where wings might once have risen, however, there now lie only jagged remnants—stone wounds from which its upper limbs have long since crumbled away.</p>
@@ -822,7 +822,7 @@ Shortly after the players repair or move to depart the monument, they’re attac
 </div>
 
 > [!lore]+ **The Snow Maidens**
-> The snow maidens that dwell amidst the peaks of Mt. Ghakis were once the handmaidens of the Seeker. However, they have fallen under Strahd’s influence and control following his desecration and conquest of the Mountain Fane—the circle of standing stones dedicated to the Seeker that lies near Old Bonegrinder.
+> The snow maidens that dwell amidst the peaks of Mt. Ghakis were once the handmaidens of the [[NPCs/Seeker|Seeker]]. However, they have fallen under Strahd’s influence and control following his desecration and conquest of [[Places/The Mountain Fane|the Mountain Fane]]—the circle of standing stones dedicated to the [[NPCs/Seeker|Seeker]] that lies near Old Bonegrinder.
 
 The players have one round to prepare themselves before the snow maidens attack. When the snow maidens attack, read:
 
@@ -851,7 +851,7 @@ In combat, the spear-wielding maidens and their mounts target the toughest or he
 > [!combat]- **Combat - The Monument**  
 > **Combat Level**: Bloody 
 > **Expected Character Level**: 8
-> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4), Kasimir Velikov (CR 6)
+> **Allies:** Ireena Kolyana (CR 2), [[NPCs/Ezmerelda d'Avenir|Ezmerelda d'Avenir]] (CR 4), Kasimir Velikov (CR 6)
 > **Expected HP Consumption:** 53%
 > 
 > ### **Enemies:**
@@ -886,7 +886,7 @@ Players who choose to seek shelter from the storm can make a Wisdom (Survival) c
 * **DC 5:** The players find a slight rocky overhang above a small depression in the snow, offering minimal protection from the elements. Players who shelter here can rest normally, but must make a DC 10 Constitution saving throw at the end of each hour the blizzard lasts, gaining a level of exhaustion on a failure.
 * **DC 10:** The players find a rocky alcove partially shielded by a stony outcrop, offering decent protection from the wind and snow. Players who shelter here can rest normally, but must make a DC 10 Constitution saving throw with advantage at the end of each hour the blizzard lasts, gaining a level of exhaustion on a failure.
 * **DC 15:** The players find a bulky rock formation that covers a large, dry space protected from most of the elements. Players who shelter here can rest normally, and don’t need to make saving throws against exhaustion from the blizzard.
-* **DC 20:** The players find a well-hidden, spacious cave. Players who shelter here can rest normally, and don’t need to make saving throws against exhaustion from the blizzard. Within the cave, the players find the remnants of an old camp, including decaying remnants of firewood and a small stash of old supplies, including dried rations and a crude grappling hook tied to an old, fifty-foot hemp rope. (If present, Kasimir recognizes the grappling hook as Mountain Folk make.) In addition, a player with a passive Wisdom (Perception) score of 13 or greater, or who explores the cave in greater depth, finds the three-pointed star of the Ladies Three carved into the wall near the entrance—a Mountain Folk marker designating the cave as a safe haven from the weather and monsters of Mt. Ghakis.
+* **DC 20:** The players find a well-hidden, spacious cave. Players who shelter here can rest normally, and don’t need to make saving throws against exhaustion from the blizzard. Within the cave, the players find the remnants of an old camp, including decaying remnants of firewood and a small stash of old supplies, including dried rations and a crude grappling hook tied to an old, fifty-foot hemp rope. (If present, Kasimir recognizes the grappling hook as [[Factions/Mountain Folk|Mountain Folk]] make.) In addition, a player with a passive Wisdom (Perception) score of 13 or greater, or who explores the cave in greater depth, finds the three-pointed star of the Ladies Three carved into the wall near the entrance—a Mountain Folk marker designating the cave as a safe haven from the weather and monsters of Mt. Ghakis.
 
 The players can repeat the check as many times as they choose, taking an additional fifteen minutes to search each time. Each time that they do, each player must succeed on a DC 5 Constitution saving throw, gaining one level of exhaustion on a failure.
 
@@ -924,7 +924,7 @@ Whether a player falls or not, add:
 <p>A distant howl cuts through the storm—far lower and more resonant than the wind itself.</p>
 </div>
 
-The howl belongs to the leader of a pack of eight **winter wolves**, one of which is a packleader with AC 14 and 136 (20d8 + 40) hit points. The players have two rounds to prepare before the pack arrives.
+The howl belongs to the leader of a pack of eight **[[Items/Winter Wolf|winter wolves]]**, one of which is a packleader with AC 14 and 136 (20d8 + 40) hit points. The players have two rounds to prepare before the pack arrives.
 
 In combat, the wolves fight in pairs, hoping to use their ***pack tactics*** in order to gain advantage on their attacks and using their ***cold breath*** whenever they can catch at least two victims in its range. (As servants of Strahd, however, the wolves ensure their cold breath never harms Ireena.) The wolves fight to the death.
 
@@ -938,7 +938,7 @@ In combat, the wolves fight in pairs, hoping to use their ***pack tactics*** in 
 > 
 > | |3 Players | 4 Players | 5 Players | 6 Players |
 > |-|-|-|-|-|
-> | Winter Wolf | 5 | 6 | 7 | 8 |
+> | [[Items/Winter Wolf|Winter Wolf]] | 5 | 6 | 7 | 8 |
 > | Winter Wolf Packleader | 1 | 1 | 1 | 1 |
 
 
@@ -947,7 +947,7 @@ In combat, the wolves fight in pairs, hoping to use their ***pack tactics*** in 
 ## R4e. The Gatehouse
 The journey from the crevasse to the gatehouse is one and three-quarter miles long. It takes one hour and ten minutes if the players are traveling the day after the blizzard (due to the high snow banks), and two hours if the players are traveling during the blizzard.
 
-The players’ arrival at the gatehouse is largely as described in <span class="citation">T1. Gatehouse Portcullis (p. 157)</span>, <span class="citation">T2. Demon Statues (p. 157)</span>, and <span class="citation">T3. Curtain of Green Flame (p. 157)</span>. However, add the following sentence to the end of the description of <span class="citation">T1. Gatehouse Portcullis (p. 157)</span>:
+The players’ arrival at the gatehouse is largely as described in <span class="citation">T1. Gatehouse [[Places/Portcullis|Portcullis]] (p. 157)</span>, <span class="citation">T2. Demon Statues (p. 157)</span>, and <span class="citation">T3. Curtain of Green Flame (p. 157)</span>. However, add the following sentence to the end of the description of <span class="citation">T1. Gatehouse [[Places/Portcullis|Portcullis]] (p. 157)</span>:
 
 <div class="description">
 <p>The tower perches upon the lip of an overhanging cliff, which juts out across the churning fog far below.</p>
@@ -967,7 +967,7 @@ In addition, increase the number of petrified vrocks to four. (If present, Kasim
 > |-|-|-|-|-|
 > | Vrock | 3 | 3 | 4 | 4 |
 
-A player who thinks to present the *amulet of knight’s passage* while within 30 feet of the portcullis can suppress the curtain of flame for 1 minute, as described in [[Arc M - The Dragon's Manor#Argynvost’s Study|Arc M - The Dragon's Manor]].
+A player who thinks to present the *[[Items/Amulet of Knight’s Passage|amulet of knight’s passage]]* while within 30 feet of the portcullis can suppress the curtain of flame for 1 minute, as described in [[Arc M - The Dragon's Manor#Argynvost’s Study|Arc M - The Dragon's Manor]].
 
 The guard tower of the gatehouse is as described in <span class="citation">T4. Guard Tower, Ground Floor (p. 157)</span>, <span class="citation">T5. Guard Tower, Upper Floor (p. 159)</span>, and <span class="citation">T6. Guard Tower Rooftop (p. 159)</span>.
 ## R4f. The Tyrant’s Second Trial
@@ -1004,7 +1004,7 @@ If the players subsequently invite Strahd inside, he offers them a cold, mocking
 > 
 > <hr>
 > 
-> Strahd then descends the cliff, recalls Beucephalus from the Ethereal Plane, mounts Beucephalus, and approaches the foundation of the tower’s cliff. Though the players can’t see his position from the tower or cliffside, they can hear and feel his preparations to destroy them. Read:
+> Strahd then descends the cliff, recalls Beucephalus from the [[Places/Ethereal Plane|Ethereal Plane]], mounts Beucephalus, and approaches the foundation of the tower’s cliff. Though the players can’t see his position from the tower or cliffside, they can hear and feel his preparations to destroy them. Read:
 > 
 > <hr>
 >
@@ -1063,7 +1063,7 @@ If the players subsequently invite Strahd inside, he offers them a cold, mocking
 
 If the players do so, continue to [[#Strahd’s Questions]]. 
 
-Otherwise, Strahd smiles coldly and asks if the players are familiar with the topography of Mt. Ghakis. "The savages of the Balinok Mountains know this peak as a man knows his wife—yet even their havens may become traps for the unwary." His gaze flickers briefly to the cliffs above the cavern, and he adds: "Ghakis especially is a treacherous, ancient thing, her slopes carved from crumbling rock and blanketed by layers of weighty ice. The snow itself is constantly shifting—and the cliffs that support it can be surprisingly brittle."
+Otherwise, Strahd smiles coldly and asks if the players are familiar with the topography of Mt. Ghakis. "The savages of the [[Places/Balinok Mountains|Balinok Mountains]] know this peak as a man knows his wife—yet even their havens may become traps for the unwary." His gaze flickers briefly to the cliffs above the cavern, and he adds: "Ghakis especially is a treacherous, ancient thing, her slopes carved from crumbling rock and blanketed by layers of weighty ice. The snow itself is constantly shifting—and the cliffs that support it can be surprisingly brittle."
 
 Strahd pauses and allows his words to linger before continuing: "It would take but a slight disturbance, I fear—perhaps the shift of a single stone, or the wrong vibration—for the mountain to turn the safest shelter into a silent tomb. Yet I am the Land, and no harm shall come to those who seek safety in Ghakis’s embrace while I will it."
 
@@ -1117,7 +1117,7 @@ If the players subsequently exit the cave, he notes his "delight" that they have
 ***Arcane Sanctuary.*** If the players are resting in a magically-created haven, Strahd approaches them as follows:
 
 * **Leomund’s Tiny Hut.** Strahd casts _dispel magic_ from atop Beucephalus, 120 feet above the top of the *tiny hut*. He then dismisses Beucephalus into the Ethereal Plane, descends in mist form, and resumes his original form.
-* **Mordenkainen’s Private Sanctum.** Strahd steps through the barrier of the warded area.
+* **[[NPCs/Mordenkainen|Mordenkainen]]’s Private Sanctum.** Strahd steps through the barrier of the warded area.
 
 In either case, proceed to [[#Strahd’s Questions]].
 
@@ -1221,7 +1221,7 @@ When the players awaken the following morning, the weather is crisp and cold, wi
 > 
 > In addition, increase the number of petrified vrocks to four. (If present, Kasimir can identify the demon statues as guardians that attacked him the last time he came here, animating and pursuing him when he tried to bypass the gatehouse by means of a rope.)
 > 
-> A player who thinks to present the *amulet of knight’s passage* while within 30 feet of the portcullis can suppress the curtain of flame for 1 minute, as described in [[Arc M - The Dragon's Manor#Argynvost’s Study|Arc M - The Dragon's Manor]].
+> A player who thinks to present the *[[Items/Amulet of Knight’s Passage|amulet of knight’s passage]]* while within 30 feet of the portcullis can suppress the curtain of flame for 1 minute, as described in [[Arc M - The Dragon's Manor#Argynvost’s Study|Arc M - The Dragon's Manor]].
 > 
 > The guard tower of the gatehouse is as described in <span class="citation">T4. Guard Tower, Ground Floor (p. 157)</span>, <span class="citation">T4. Guard Tower, Upper Floor (p. 159)</span>, and <span class="citation">T6. Guard Tower Rooftop (p. 159)</span>.
 
@@ -1234,7 +1234,7 @@ As the players depart the bridge, read:
 <p>To the left, the stark, gray stone of Mt. Ghakis rises far above you; to the right, the earth itself falls away, revealing a several-hundred-foot sheer drop into the misty woodlands below. In the distance to the west, you can see a river feeding into a large lake, its surface glinting a cold, steely gray.</p>
 </div>
 
-The river is the Luna River, while the lake is Lake Luna. 
+The river is the [[Places/Luna River|Luna River]], while the lake is Lake Luna. 
 
 Fifty minutes after the players first departed the bridge, if any player has a passive Wisdom (Perception) score of 15 or greater, read:
 
@@ -1270,14 +1270,14 @@ If a player has a passive Wisdom (Perception) score of 16 or greater, add:
 
 The figure is a male Mountain Folk scout named Kalaris (use the statistics of a **scout**, but replace the ***longbow*** with a pair of ***spears***). 
 
-Kalaris has been sent from Soldav to search for Thiadicem, a Mountain Folk scout who failed to return the previous day. A player who succeeds on a DC 16 Wisdom (Perception) check can identify that the figure, which is wearing a dark gray cloak and a dark headscarf wrapped around its face, appears to have a short blade hanging from its waist and a pair of spears strapped to its back.
+Kalaris has been sent from [[Places/Soldav|Soldav]] to search for Thiadicem, a Mountain Folk scout who failed to return the previous day. A player who succeeds on a DC 16 Wisdom (Perception) check can identify that the figure, which is wearing a dark gray cloak and a dark headscarf wrapped around its face, appears to have a short blade hanging from its waist and a pair of spears strapped to its back.
 
 If a player notices Kalaris, he swiftly retreats from sight and vanishes behind the cliffs.
 
 > [!abstract]+ **Chasing Kalaris**
 > Players with means of flight or teleportation can easily find and catch Kalaris before he can lose them among the mountain ridges. If they approach within thirty feet of him and don’t try to conceal themselves, he draws one of his spears and commands them, in gruff, accented Common, to identify themselves and state their intentions.
 >
-> The players can win Kalaris’s trust by mentioning their interest in Soldav, sharing their goal of defeating Strahd (who Kalaris calls "the Great Shadow"), and succeeding on a DC 20 Charisma (Persuasion) check. The check is made with advantage if the players mention their interest in restoring the Fanes of the Ladies Three, and succeeds automatically if the players show Kalaris the *Spear of the Huntress* after obtaining it from King Dostron’s tomb in [[Arc P - Ravenloft Heist]].
+> The players can win Kalaris’s trust by mentioning their interest in Soldav, sharing their goal of defeating Strahd (who Kalaris calls "the Great Shadow"), and succeeding on a DC 20 Charisma (Persuasion) check. The check is made with advantage if the players mention their interest in restoring the Fanes of the Ladies Three, and succeeds automatically if the players show Kalaris the *Spear of the [[NPCs/Huntress|Huntress]]* after obtaining it from [[NPCs/King Dostron|King Dostron]]’s tomb in [[Arc P - Ravenloft Heist]].
 >
 > If the players win Kalaris’s trust, he agrees to descend the cliffs and lead them to Soldav, following the same path as Kasimir. Otherwise, if the players fail to win his trust, Kalaris brandishes his spear, insists that Soldav "has left the valley in peace since the Horned King first conquered it," and demands that the players allow him to depart in peace. 
 >
@@ -1341,7 +1341,7 @@ A player who succeeds on a DC 10 Intelligence (Investigation) check predicts tha
 > Remember that, due to the heavy snow that covers it, the road is difficult terrain.
 
 > [!lore]+ **The Will of Strahd**
-> Strahd has sent the avalanche to test the players’ speed and ingenuity, weaken them in advance of his visit the next night, and drive them into the cave, where he has hidden the *shard of the Vampyr* for them to find.
+> Strahd has sent the avalanche to test the players’ speed and ingenuity, weaken them in advance of his visit the next night, and drive them into the cave, where he has hidden the *shard of [[NPCs/The Vampyr|the Vampyr]]* for them to find.
 
 The avalanche begins eight hundred feet above the players. At initiative count 0 of each round, the avalanche advances as follows:
 
@@ -1382,7 +1382,7 @@ If the players outrun the avalanche or escape it by magical means (e.g., flight)
 >
 > If they find the players alive, Zia and Corylla haul them roughly onto the snow. Zia then gruffly thrusts the point of her greataxe toward them and demands to know "what could bring Barovians to the shoulders of Sarmizegetusa." (If asked, Zia can explain that "Sarmizegetusa" is her people’s ancient name for the mountain—what the Barovians call "Mount Ghakis").
 >
-> Once they’ve rescued any players (or looted the bodies), Zia and Corylla prefer to direct the players toward a ridge that will lead them down to the swamp below, then depart quietly back into the mountains.  The players can win their trust by mentioning their interest in Soldav, sharing their goal of defeating Strahd (who Zia and Corylla call "the Great Shadow"), and succeeding on a DC 20 Charisma (Persuasion) check. The check is made with advantage if the players mention their interest in restoring the Fanes of the Ladies Three, and succeeds automatically if the players show Zia and Corylla the Spear of the Huntress after obtaining it from King Dostron’s tomb in [[Arc P - Ravenloft Heist]].
+> Once they’ve rescued any players (or looted the bodies), Zia and Corylla prefer to direct the players toward a ridge that will lead them down to the swamp below, then depart quietly back into the mountains.  The players can win their trust by mentioning their interest in Soldav, sharing their goal of defeating Strahd (who Zia and Corylla call "the Great Shadow"), and succeeding on a DC 20 Charisma (Persuasion) check. The check is made with advantage if the players mention their interest in restoring the Fanes of the Ladies Three, and succeeds automatically if the players show Zia and Corylla the Spear of the [[NPCs/Huntress|Huntress]] after obtaining it from [[NPCs/King Dostron|King Dostron]]’s tomb in [[Arc P - Ravenloft Heist]].
 >
 > If the players win Zia and Corylla’s trust, they agree to lead them up the cliffs to Soldav, following a secret path along the ridges known only to the Mountain Folk. Otherwise, if the players fail to win their trust, the two women brandish their greataxes and warn the players to "leave them alone, unless they want to be thrown back in the snow." 
 >
@@ -1402,7 +1402,7 @@ If the players enter the cave, read:
 <span class="credit">"Bodak Lair" by DM Andy Maps. High resolution versions available <a href="https://www.patreon.com/posts/public-version-120933240">here!</a></span>
 
 > [!lore]+ **The Bodaks**
-> Several decades ago, two siblings bearing amber shards named Cassius and Deirdre found their way through the Mists into Barovia. Their shards led them to the Amber Temple, where they accepted the dark gift of the vestige Sykane, the Soul Hungerer in order to resurrect their mother. Both succumbed to Sykane’s corruption, however, transforming into dark, twisted husks with the statistics of **bodaks** before they could escape the mountain or Mists. 
+> Several decades ago, two siblings bearing [[Items/Amber Shards|amber shards]] named Cassius and Deirdre found their way through the Mists into Barovia. Their shards led them to the Amber Temple, where they accepted the dark gift of the vestige [[NPCs/Sykane, the Soul Hungerer|Sykane, the Soul Hungerer]] in order to resurrect their mother. Both succumbed to Sykane’s corruption, however, transforming into dark, twisted husks with the statistics of **bodaks** before they could escape the mountain or Mists. 
 >
 > Cassius and Deirdre still linger in this cave today, each having claimed a separate chamber as their "nest." Though the natural chimney in [[#The Trash Heap]] connects their cavern to [[#R4k. The Ice Caves]], the **shoosuva** that dwells there is too large to descend the chimney to the bodaks’ cave, while the bodaks have no interest in contesting the shoosuva’s territory.
 >
@@ -1428,7 +1428,7 @@ If the players enter the cave, read:
 > Each time a bodak enters or exits a chamber adjacent to the players, a player with a passive Wisdom (Perception) score of 16 or greater hears a quiet shuffling noise echo from that chamber’s direction.
 
 > [!info]+ **Fighting the Bodaks**
-> Cassius and Deirdre have the statistics of **bodaks** (<span class="citation">Mordenkainen Presents: Monsters of the Multiverse, p. 64</span>), but with the following changes:
+> Cassius and Deirdre have the statistics of **bodaks** (<span class="citation">[[NPCs/Mordenkainen|Mordenkainen]] Presents: Monsters of the Multiverse, p. 64</span>), but with the following changes:
 > * Increase each bodak’s hit points to 136 (21d8 + 42).
 > * Give each bodak the following action: "***Multiattack.*** The bodak attacks twice with its fist."
 > * A creature that fails its saving throw against a bodak's ***death gaze*** by 5 or more is reduced to half its current hit points (rounded up), rather than 0.
@@ -1543,9 +1543,9 @@ When the players enter this room, read:
 
 The tunnel leads to [[#The Eastern Nest]].
 
-The carving depicts a thick-bordered equilateral triangle containing an inverted equilateral triangle, which in turn contains a vertical wavy line. A player who has previously read the *Tome of Strahd* recognizes it as the same symbol depicted therein. If Kasimir is present, he can share that the carving is the symbol of the Amber Temple, which Patrina first showed to him in his dreams.
+The carving depicts a thick-bordered equilateral triangle containing an inverted equilateral triangle, which in turn contains a vertical wavy line. A player who has previously read the *[[Items/The Tome of Strahd|Tome of Strahd]]* recognizes it as the same symbol depicted therein. If Kasimir is present, he can share that the carving is the symbol of the Amber Temple, which Patrina first showed to him in his dreams.
 
-Each dangling object is an *amber shard of Sykane* (see the [[Amber Shards#Sykane, the Soul Hungerer|Amber Shards]] appendix).
+Each dangling object is an *[[Items/Amber Shard|amber shard]] of Sykane* (see the [[Amber Shards#Sykane, the Soul Hungerer|Amber Shards]] appendix).
 
 > [!info]+ **Where Are the Bodaks?**
 > If the full party enters this room while the bodaks are active, Deirdre is lurking in [[#The Eastern Nest]], while Cassius attempts to sneak behind the players via [[#The Junction]].
@@ -1644,7 +1644,7 @@ When the pendant first becomes visible, read:
 </div>
 
 > [!item]+ **Ironblood Pendant**
-> This nonmagical iron pendant is shaped like a triangle and attached to an iron chain. The chunk of resin mounted at its center is, secretly, an *amber shard of the Vampyr*.
+> This nonmagical iron pendant is shaped like a triangle and attached to an iron chain. The chunk of resin mounted at its center is, secretly, an *[[Items/Amber Shard|amber shard]] of the [[Items/Vampyr|Vampyr]]*.
 >
 > The first time a player possessing the pendant would be knocked unconscious or die, or if a player attempts to commune with the shard, read:
 >
@@ -1666,7 +1666,7 @@ When the pendant first becomes visible, read:
 >
 > <hr>
 >
-> If the player notes the shadow’s resemblance to the vestiges of the amber shards, it scoffs, noting its disdain for "lesser shades that skulk amidst amber shadows." "They have lost themselves in their imprisonment," the shadow scorns, "rendering their gifts a poison to those who would accept them. Mine is pure—untainted by time’s corruption or the weakness of petty fiends."
+> If the player notes the shadow’s resemblance to the vestiges of the [[Items/Amber Shards|amber shards]], it scoffs, noting its disdain for "lesser shades that skulk amidst amber shadows." "They have lost themselves in their imprisonment," the shadow scorns, "rendering their gifts a poison to those who would accept them. Mine is pure—untainted by time’s corruption or the weakness of petty fiends."
 >
 > If the player refuses to accept the spark, they return to ordinary unconsciousness.
 > 
@@ -1680,7 +1680,7 @@ When the pendant first becomes visible, read:
 > [!lore]+ **The Cursed Pendant**
 > Strahd intentionally placed this pendant here the night of [[#R4f. The Tyrant’s Second Trial]], hoping that one of the players might take it with them to the Amber Temple and accept the Vampyr’s dark gift—thereby giving him a full-blooded vampire under his control. (The vestige of the Vampyr doesn’t know that the pendant is cursed.)
 >
-> The amber shard embedded in the pendant is the same one the Dark Powers bestowed upon Strahd on the day of Sergei’s wedding, thereby allowing him to accept the dark gift of the Vampyr before his brother could be wed. (Due to his prior encounter with the Vampyr’s sarcophagus under Patrina Velikovna’s guidance, Strahd didn’t need to return to the Amber Temple in person in order to accept the Vampyr’s dark gift by means of the amber shard.)
+> The amber shard embedded in the pendant is the same one [[Factions/Dark Powers|the Dark Powers]] bestowed upon Strahd on the day of Sergei’s wedding, thereby allowing him to accept the dark gift of the Vampyr before his brother could be wed. (Due to his prior encounter with [[Places/The Vampyr’s Sarcophagus|the Vampyr’s sarcophagus]] under Patrina Velikovna’s guidance, Strahd didn’t need to return to the Amber Temple in person in order to accept the Vampyr’s dark gift by means of the amber shard.)
 ### The Cave of Daggers
 
 The gap in [[#R4k. The Ice Caves]] bends around the western wall of the entry cavern, then bends west again, soon widening into a tunnel. Read:
@@ -1759,7 +1759,7 @@ If a player peers into or enters the chamber, read:
 <p>Scattered objects dot the chamber: the twisted remnants of armor, shattered weapons, and broken baubles, many half-encased in icy shells. Gold, silver, and other coins lie strewn across the floor, interspersed with glittering precious stones and heaps of white bones. No trophies or trinkets decorate the crater, however—save for a small, amber object that lies at its center.</p>
 </div>
 
-The den contains 3 pp, 107 gp, 389 sp, 780 cp, seven 10-gp azurites, three 50-gp bloodstones, and two 100-gp diamonds. The amber object at the center of the crater is an *amber shard of Yog the Invincible* mounted on a stiff hemp cord.
+The den contains 3 pp, 107 gp, 389 sp, 780 cp, seven 10-gp azurites, three 50-gp bloodstones, and two 100-gp diamonds. The amber object at the center of the crater is an *amber shard of [[NPCs/Yog the Invincible|Yog the Invincible]]* mounted on a stiff hemp cord.
 
 > [!lore]+ **The Shoosuva’s Den**
 > This cave is the den of one of the **elder shoosuva** that the players encounter in [[#R5a. The Twin Falls]].
@@ -1860,7 +1860,7 @@ If the players continue down the trail, or if the players escaped the avalanche 
 <div class="description">
 <p>The cliffside trail continues eastward, rising and circling the base of a cloud-shrouded peak before emerging onto a flat, snowy plateau. Here, where no fog chokes the air, and where the air is crisp and clear, the entirety of the valley opens up before you.</p>
 <p>To the northeast, you see twin spurs of Mount Ghakis snaking down into the valley, each winding ridge reaching toward the mountains that surround Castle Ravenloft far away. Between the two spurs, a cascading river feeds a storm-gray mountain lake nestled within the mountain’s arms, which, in turn, feeds a long, scraggly river that winds around a thin, narrow ridge before vanishing out of sight.</p>
-<p>To the north, the mist-shrouded swamps of Berez cling to the Luna River like a tick. Through the distant fog, the proud manor of Argynvostholt looms above the flooded plains far below, its beacon shining with a fierce, defiant light. Far beyond both, the great expanse of Lake Zarovich extends beneath the base of Mount Baratok, its dark, mirrorlike waters fed by a quartet of mountain streams that flow forth from the titan’s wooded foothills.</p>
+<p>To the north, the mist-shrouded swamps of Berez cling to the Luna River like a tick. Through the distant fog, the proud manor of Argynvostholt looms above the flooded plains far below, its beacon shining with a fierce, defiant light. Far beyond both, the great expanse of [[Places/Lake Zarovich|Lake Zarovich]] extends beneath the base of [[Places/Mount Baratok|Mount Baratok]], its dark, mirrorlike waters fed by a quartet of mountain streams that flow forth from the titan’s wooded foothills.</p>
 <p>To the northwest, past the gleaming beacon, you can see the distant waters of Lake Baratok. Further westward, past the snow-cloaked plateaus of Tsolenka Pass, you think you can just barely see a rolling vineyard at the edge of a dark, shrouded forest.</p>
 <p>From here, you can truly see them for the first time: the walls of mist that rise thousands of feet above the land below. They hem the valley in on every side, extending to the overcast skies that drift far, far overhead. Even the mountains seem small to them—and, from this angle, it seems almost that these walls of mist are leaning *forward*, as if to catch a better glimpse of the ants that dart across the earth far below.</p>
 </div>
@@ -1874,7 +1874,7 @@ Pause for a moment to allow the players an opportunity to interject. If no playe
 </div>
 
 > [!lore]+ **The Ruins**
-> These ruins mark the point where the Order of the Silver Dragon once established a trading post with the First Folk and an outpost from which to guard the Amber Temple. 
+> These ruins mark the point where the Order of the Silver Dragon once established a trading post with [[Factions/First Folk|the First Folk]] and an outpost from which to guard the Amber Temple. 
 >
 > The rectangular foundation to the east marks the main hall, which once provided sleeping quarters and a hearth for knights and squires. The stone foundation to the west marks the knights’ stable, while the depression near it once marked a storage shed used to store equipment and supplies. 
 >
@@ -1920,11 +1920,11 @@ A player who succeeds on a DC 13 Intelligence (Nature) check can correctly match
 > [!info]+ **The Carvings**
 > The nine animal carvings surrounding the three-pointed star of the Ladies Three are a coded "doorbell" system. Each carving, if struck by a blunt object (e.g., the blunt side of an axe), creates a low, distinct, resonant tone that echoes through the cliff, which the Mountain Folk can hear from beyond the secret door. 
 >
-> A character can use their action to tap out a sequence of notes using the carvings on the wall. The correct sequence is: web (representing the spider of the Weaver), fang (representing the wolf of the Huntress), then feather (representing the raven of the Seeker).
+> A character can use their action to tap out a sequence of notes using the carvings on the wall. The correct sequence is: web (representing the spider of the [[NPCs/Weaver|Weaver]]), fang (representing the wolf of the Huntress), then feather (representing the raven of the Seeker).
 >
 > If the Mountain Folk Kalaris, Zia, or Corylla are present, they swiftly tap the correct sequence using the blunt edges of their spears or greataxes, respectively. They then beckon the players toward the secret door beneath the waterfall.
 
-> [!abstract]+ **The Stone Crest**
+> [!abstract]+ **The [[Items/Stone Crest|Stone Crest]]**
 > If a player is carrying the [[Character Creation#Harmony—The Stone Crest|the stone crest]] Barovian relic, it emits a low hum, releasing a scent of pine needles and earthy soil. As it does, a faint viridian light emits from the carving upon its surface. If the player shines the light onto the animal carvings, the web, fang, and feather seem to shimmer beneath its glow.
 ### The Amber-Touched
 When the players have begun making progress in solving the puzzle of the shrine, but before they’ve come to a solution, read:
@@ -2013,7 +2013,7 @@ Otherwise, the Mountain Folk intervene at initiative count 0 of the third round 
 >
 > ***Emotions.*** Scorilo most often feels paranoid, suspicious, irritated, proud, angry, melancholy, impatient, resigned, or thoughtful. Como most often feels jolly, curious, excited, thoughtful, or amused.
 >
-> ***Motivations.*** Both Scorilo and Como want to protect Soldav and prove themselves worthy of their family’s leadership of the Mountain Folk. Scorilo wants to prove his strength in order to take his place at the right-hand side of his elder sister, Diona, while Como wants to prove to his mother that he’s equally as capable as the smarter, tougher Scorilo.
+> ***Motivations.*** Both Scorilo and Como want to protect Soldav and prove themselves worthy of their family’s leadership of the Mountain Folk. Scorilo wants to prove his strength in order to take his place at the right-hand side of his elder sister, [[NPCs/Diona|Diona]], while Como wants to prove to his mother that he’s equally as capable as the smarter, tougher Scorilo.
 >
 > ***Inspirations.*** When playing Scorilo, channel Geralt of Rivia (*The Witcher*), Seto Kaiba (*Yu-Gi-Oh!*), and Vegeta (*Dragon Ball Z*). When playing Como, channel Bolin (*The Legend of Korra*), Steven Universe (*Steven Universe*), and Peter Parker (*Spider-Man*).
 >
@@ -2022,7 +2022,7 @@ Otherwise, the Mountain Folk intervene at initiative count 0 of the third round 
 > 
 > ***Morale.*** In a fight, Scorilo and Como would gladly team up to defend themselves or their home—though Como would attempt to first negotiate a peace if doing so was at all possible.
 >
-> ***Relationships.*** Scorilo and Como are twin brothers, and the youngest children of the Mountain Folk cheiftess Diegia. Their elder sister, Diona, is currently away at the Amber Temple with a contingent of trusted friends, where she is proving her worthiness for the position of chieftess by enduring the Temple’s darkness and corruption.
+> ***Relationships.*** Scorilo and Como are twin brothers, and the youngest children of the Mountain Folk cheiftess Diegia. Their elder sister, [[NPCs/Diona|Diona]], is currently away at the Amber Temple with a contingent of trusted friends, where she is proving her worthiness for the position of chieftess by enduring the Temple’s darkness and corruption.
 
 When the Mountain Folk first emerge, read:
 
@@ -2065,9 +2065,9 @@ If asked, Como can share the following information:
 > [!abstract]+ **The Spear of the Huntress**
 > If any of the players bear *the Spear of the Huntress*, both Como and Scorilo immediately recognize it as the spear of legend. Either brother can share that the weapon was stolen from their people by the Horned Scourge, King Dostron, many centuries ago—though Como is awed that the players have found and returned it, while Scorilo is suspicious that the players have stolen or somehow tainted it.
 >
-> If the players ask about Kavan, King Dostron, the Forest Folk, or Strahd, Scorilo demands that they explain themselves fully before his people reveal any further information. Any answer the players might provide, however, is interrupted by the arrival of Chief Diegia (see below), though Como and any other friendly Mountain Folk are glad to answer the players’ questions later on.
+> If the players ask about [[NPCs/Kavan|Kavan]], King Dostron, the [[Factions/Forest Folk|Forest Folk]], or Strahd, Scorilo demands that they explain themselves fully before his people reveal any further information. Any answer the players might provide, however, is interrupted by the arrival of [[NPCs/Chief Diegia|Chief Diegia]] (see below), though Como and any other friendly Mountain Folk are glad to answer the players’ questions later on.
 
-At any suitable point when Scorilo has just threatened, questioned, or otherwise shown hostility to the players, Chief Diegia (use the statistics of a **champion**) enters the tunnel and reprimands him. Read: 
+At any suitable point when Scorilo has just threatened, questioned, or otherwise shown hostility to the players, [[NPCs/Chief Diegia|Chief Diegia]] (use the statistics of a **champion**) enters the tunnel and reprimands him. Read: 
 
 <div class="description">
 <p>A deep woman’s voice rings out from the far end of the tunnel. "That’s enough, Scorilo."</p>
@@ -2096,12 +2096,12 @@ Chief Diegia is glad to admit the players to Soldav, and to grant them hospitali
 * They comport themselves with honor, and offend none who greet them with grace and hospitality.
 
 > [!lore]+ **The Secret of Soldav**
-> Chief Diegia isn’t fearful that the players might reveal Soldav’s location to its enemies. She knows that Elder Burebis’s protective enchantments—which act as a *private sanctum* spell across the settlement and as a *modify memory* spell to any who depart Soldav with ill intent—ensure that the players could not betray Soldav even if they wished to.
+> Chief Diegia isn’t fearful that the players might reveal Soldav’s location to its enemies. She knows that [[NPCs/Elder Burebis|Elder Burebis]]’s protective enchantments—which act as a *private sanctum* spell across the settlement and as a *modify memory* spell to any who depart Soldav with ill intent—ensure that the players could not betray Soldav even if they wished to.
 
 If the players agree to Diegia’s conditions, she beckons for them to follow, guiding them into Soldav.
 
 > [!abstract]+ **Secrets of the Fanes**
-> If the players express an interest in learning about the Fanes of Barovia, Diegia informs them that "Elder Burebis" is the keeper of the Fanes' memory. "He is old in years, however," she adds, "and will not see visitors unless he wishes to. If you would like me to, I shall send a messenger to his sanctum to inform him of your interest."
+> If the players express an interest in learning about the [[Places/Fanes of Barovia|Fanes of Barovia]], Diegia informs them that "[[NPCs/Elder Burebis|Elder Burebis]]" is the keeper of the Fanes' memory. "He is old in years, however," she adds, "and will not see visitors unless he wishes to. If you would like me to, I shall send a messenger to his sanctum to inform him of your interest."
 > 
 > If the players accept Diegia's offer, she promises to send such a messenger to Elder Burebis once she has brought them to her longhouse.
 ## R5c. Into Soldav
@@ -2111,7 +2111,7 @@ As the players enter Soldav, read:
 <p>The tunnel opens into a mountain crater perhaps a thousand feet across, its walls rising steeply around you like a giant bowl. Snow blankets the ground here in soft layers, broken by a rocky central avenue that splits off into dozens of smaller paths and trails crisscrossed by footprints and animal tracks.</p>
 <p>Nearly two-dozen wooden huts rise from the snow along the crater's edges, their pitched roofs heavy with frost. Elevated stone and wooden terraces, accessible by narrow ledges or wooden ladders, provide access to additional structures hewn from the stone of the crater itself. Other terraces, their recently sown soil carefully cleared of snow, host hardy crops and herbs that sprout defiantly from the frozen earth.</p>
 <p>Across the crater, wooden palisades encircle small pens where handfuls of goats bleat softly. The rocky, muddy central "road" winds between them, ending at a larger longhouse built against the far side of the crater. Smoke curls lazily from its chimney, vanishing amidst a thick layer of white fog that covers the crater's top like a lid.</p>
-<p>The village hums with quiet activity—but at your approach, the rhythm of daily life slows, then falters. A young girl leading a pair of goats toward one of the pens freezes, clutching the animals' ropes with wide eyes, while a trio of men splitting logs lower their axes, murmuring to one another in hushed tones. A group of playing children atop a wooden terrace pause, then stare at you with rapt fascination, while an elderly man sharpening an iron blade stop his hut's wooden step spares only a quiet, wary scowl. Above you, a pair of adolescent sentries peer down curiously from a set of ramshackle wooden scaffolding, a shortbow slung loosely over each teen's shoulder.</p>
+<p>The village hums with quiet activity—but at your approach, the rhythm of daily life slows, then falters. A young girl leading a pair of goats toward one of the pens freezes, clutching the animals' ropes with wide eyes, while a trio of men splitting logs lower their axes, murmuring to one another in hushed tones. A group of playing children atop a wooden terrace pause, then stare at you with rapt fascination, while an elderly man sharpening an iron blade stop his hut's wooden step spares only a quiet, wary scowl. Above you, a pair of adolescent sentries peer down curiously from a set of ramshackle wooden [[Places/Scaffolding|scaffolding]], a shortbow slung loosely over each teen's shoulder.</p>
 </div>
 
 Pause to allow the players a moment to respond. If none do, or at an appropriate time, Chief Diegia spares a nod or reassuring smile for each Soldavian onlooker, each of whom then returns to their tasks.
@@ -2119,15 +2119,15 @@ Pause to allow the players a moment to respond. If none do, or at an appropriate
 If asked, Diegia or Como are glad to provide the following information about Soldav:
 
 * Centuries ago, while the Tauta were still a half-dozen tribes scattered across the Balinok Mountains and the woodlands below, Soldav was the center of their faith—the place where the spirits of the Ladies Three were said to dwell.
-* Over five hundred winters ago, however, Kavan the Merciless stole the *Spear of the Huntress* from her Fane, conquered the Balinok Mountains, and ruthlessly united the tribes beneath his own banner. He took Soldav as his seat of power, and exiled the druids that protested his desecration of the Ladies' sacred places.
+* Over five hundred winters ago, however, [[NPCs/Kavan|Kavan]] the Merciless stole the *Spear of the Huntress* from her Fane, conquered the Balinok Mountains, and ruthlessly united the tribes beneath his own banner. He took Soldav as his seat of power, and exiled the druids that protested his desecration of the Ladies' sacred places.
 * When Kavan reached his twilight years, the valley was invaded by outsiders—men who bore steel blades and devil-horned helmets, led by one they called King Dostron the Hellborn. Kavan died in battle alongside his children, and was buried in a place of dishonor far from the cairns of Yester Hill, where all Tauta chieftains had once been buried.
 * When Dostron died, his forces withdrew from the valley, leaving beyond an abandoned fortress atop a pillarstone mountain amidst the eastern peaks. By now, however, the warriors of the Tauta had made Soldav their home, while the druidic circles once exiled by Kavan had made their homes amidst the trees and earth of the forests below.
-* When the Great Shadow—the one known as Strahd von Zarovich—arrived and built his keep atop the ruins of Dostron's fortress, the Tauta expected him to bring blood and fire upon them, just as he had done to the enemies he had tracked to the valley. Fearful of reprisal, the woodland druids approached von Zarovich in secret with an offer of trade: his promise of protection in exchange for the secrets of the Ladies' places of power—the three Fanes. Strahd accepted—and soon claimed the Fanes for his own with profane rituals of blood and shadow.
+* When the Great Shadow—the one known as Strahd von Zarovich—arrived and built his keep atop the ruins of Dostron's fortress, the Tauta expected him to bring blood and fire upon them, just as he had done to the enemies he had tracked to the valley. Fearful of reprisal, the woodland druids approached von Zarovich in secret with an offer of trade: his promise of protection in exchange for the secrets of the Ladies' places of power—the [[Items/Three Fanes|three Fanes]]. Strahd accepted—and soon claimed the Fanes for his own with profane rituals of blood and shadow.
 * The druids' betrayal rocked the Tauta to their core; for this, they were forever exiled from Soldav. Those that remained in Soldav became known to the Barovian people as the Mountain Folk; those that joined the druids became known as the Forest Folk.
 * Since then, the Mountain Folk—who consider themselves the true Tauta, and the Forest Folk to be sniveling servants of the Great Shadow—have remained largely within Soldav's walls, venturing forth into the Balinok Mountains to gather food and supplies, but remaining careful to avoid the Great Shadow's notice. "The Castle and its servants are ignorant of Soldav's existence," Diegia adds, sniffing. "So long as the Great Shadow believes us to be disparate bands of savages scratching through the snow for morsels, we remain safe from his attentions." 
 
 > [!abstract]+ **Soldav's Protections**
-> If asked why the Forest Folk haven't led Strahd to Soldav, Diegia smiles. "Exile from Soldav is more than merely a word. Ancient enchantments protect us from those who would wish us harm, cleansing their memories of Soldav's location and obstructing their gazes from perceiving it." (Though she won't say so here, Diegia is referring to the enchantments sustained by Elder Burebis, the ancient **storm giant** dwelling in [[#R5f. The Shrine of the Rozana]].)
+> If asked why the Forest Folk haven't led Strahd to Soldav, Diegia smiles. "Exile from Soldav is more than merely a word. Ancient enchantments protect us from those who would wish us harm, cleansing their memories of Soldav's location and obstructing their gazes from perceiving it." (Though she won't say so here, Diegia is referring to the enchantments sustained by Elder Burebis, the ancient **[[NPCs/Storm Giant|storm giant]]** dwelling in [[#R5f. The Shrine of the Rozana]].)
 
 As they proceed through Soldav, Diegia guides the players toward the longhouse at the far end of the crater—"my home, and our meeting place," she explains. When the players arrive outside of the longhouse, read:
 
@@ -2207,9 +2207,9 @@ If the players asked Diegia for information about the Fanes, or if they do so no
 Diegia further informs the players that they have arrived "on a fortuitous occasion"—on the annual celebration of the Night of Clear Skies. Diegia declines to share further information about the holiday, but promises the players with a smile that they’ll receive a thorough education during the evening’s festivities.
 
 > [!lore]+ **The Night of Clear Skies**
-> The Night of Clear Skies is an annual feast-day celebrating the ancient victory of the Ladies Three over the Devourer—a living tide of shadowed, swirling fog that sought to swallow up the valley thousands of years ago, and of which the Whispering Wall by Yester Hill is the only remnant. 
+> The Night of Clear Skies is an annual feast-day celebrating the ancient victory of the Ladies Three over [[NPCs/The Devourer|the Devourer]]—a living tide of shadowed, swirling fog that sought to swallow up the valley thousands of years ago, and of which [[Places/Whispering Wall|the Whispering Wall]] by Yester Hill is the only remnant. 
 >
-> None of the Mountain Folk know that the Devourer was, in truth, the Dreamer—the fourth sister of the Ladies of the Fanes, whose envy for her elder sisters’ worship drove her to seek power from Mother Night and transformed her into the Devourer—or that the vestige of the Devourer was subsequently sealed in an amber sarcophagus in the Amber Temple and, more recently, transplanted into the Heart of Sorrow at Castle Ravenloft by Strahd.
+> None of the Mountain Folk know that [[NPCs/The Devourer|the Devourer]] was, in truth, the [[NPCs/Dreamer|Dreamer]]—the fourth sister of the [[Factions/Ladies of the Fanes|Ladies of the Fanes]], whose envy for her elder sisters’ worship drove her to seek power from [[NPCs/Mother Night|Mother Night]] and transformed her into the Devourer—or that the vestige of the Devourer was subsequently sealed in an amber sarcophagus in the Amber Temple and, more recently, transplanted into [[Items/Heart of Sorrow|the Heart of Sorrow]] at Castle Ravenloft by Strahd.
 ## R5e. The Night of Clear Skies
 At nightfall, the Mountain Folk gather in Chief Diegia’s longhouse to celebrate the Night of Clear Skies. Read:
 
@@ -2235,24 +2235,24 @@ Pause briefly to give the players a moment to speak amongst themselves or otherw
 <p>For a moment, Oroles stands silently before the hearth, his massive form silhouetted against the flickering flames. He raises the staff high—then drives its end against the floor with a resonant thud, the sound reverberating through the structure like the echo of a distant drum. When Oroles next speaks, his deep, rich voice rings through the hall, piercing through the silence like an arrow.</p>
 <p>"Long ago, before the lord of Ravenloft cast his shadow over the land; before the sword of Dostron cleaved across the valley; before Kavan’s folly turned brother against brother, the Tauta wandered the world alone—lost, yet seeking. Our voices rose to the heavens in desperate prayer, scattered and weak like leaves blown by the wind."</p>
 <p>"One night, as the sun slumbered and the moon hid her face, three voices answered us from the wilds. Soft and strong, like the murmur of wind through the pines and the roar of the river’s depths, they called to us. They led us, unseen, but ever-present, through barren wastes and treacherous peaks, to a place of bounty and beauty: Girvisa, our wooded valley, where the rivers sang and the trees danced with the wind."</p>
-<p>Oroles pauses, his voice lowering with reverence. "It was here that we first came to know the Rozana—the Ladies Three who had led us here. They were not as we were, yet they walked among us: the Huntress, who taught us the ways of the spear and bow; the Weaver, who taught us to weave the loom and basket; and the Seeker, who taught us to divine the secrets of the wind and stars."</p>
-<p>He lifts his head, the painted antlers of his headdress catching the flickering firelight. "But the valley, we found, held more than beauty. From the farthest peaks, unseen even by the Rozana, a shadow began to stir—a darkness that crept from the heart of the mountains, rising like smoke but carrying a cold that chilled the bone and stilled the blood."</p>
+<p>Oroles pauses, his voice lowering with reverence. "It was here that we first came to know the [[Factions/Rozana|Rozana]]—the Ladies Three who had led us here. They were not as we were, yet they walked among us: the Huntress, who taught us the ways of the spear and bow; the [[NPCs/Weaver|Weaver]], who taught us to weave the loom and basket; and the Seeker, who taught us to divine the secrets of the wind and stars."</p>
+<p>He lifts his head, the painted antlers of his headdress catching the flickering firelight. "But the valley, we found, held more than beauty. From the farthest peaks, unseen even by the [[Factions/Rozana|Rozana]], a shadow began to stir—a darkness that crept from the heart of the mountains, rising like smoke but carrying a cold that chilled the bone and stilled the blood."</p>
 <p>Murmurs ripple through the crowd, children clinging to their parents’ sleeves. The fire itself seems to dim, its light shrinking as the shadows around the edges of the hall grow stronger. Oroles’ voice rasps through the air, his knuckles growing white as he clutches the staff to his chest. "And so the Devourer fell upon the valley: a great and terrible void that knew no hunger but to consume. Its darkness boiled the skies, veiling the sun and moon, as the trees withered, the beasts fell silent, and the land itself seemed to despair."</p>
 <p>He leans forward, and a new note of strength grips his voice. "But the Rozana, the Ladies Three, would not bow to the shadow. Their voices rang out across the valley, singing with defiance and memories of light. As three radiant stars, they soared to the heavens and met the Devourer in battle."</p>
 <p>His voice grows fierce, and he strikes the staff against the ground, a sharp <em>crack!</em> that resounds through the hall. "For three days and three nights, their battle shook the earth, the skies raging with lightning and fire. But the Ladies’ will did not falter—and with a final note, they pierced the Devourer’s heart, tearing the darkness asunder and revealing the clear skies beyond. The Devourer fell, its broken form cast down to the west, and light returned to the valley."</p>
-<p>Oroles lifts the staff, holding it high. "In thanks, the Tauta raised three fanes to honor the Rozana—holy places where their guidance might never fade. To the Huntress, the Fane of the Forest, where the wind sings her fury. To the Weaver, the Fane of the Swamp, where the waters whisper her name. And to the Seeker, the Fane of the Mountain, where wisdom awaits those bold enough to seek it."</p>
+<p>Oroles lifts the staff, holding it high. "In thanks, the Tauta raised [[Items/Three Fanes|three fanes]] to honor the Rozana—holy places where their guidance might never fade. To the Huntress, the Fane of the Forest, where the wind sings her fury. To the Weaver, the Fane of the Swamp, where the waters whisper her name. And to the Seeker, the Fane of the Mountain, where wisdom awaits those bold enough to seek it."</p>
 <p>As he lowers the staff, Oroles’ voice softens, though it loses none of its power. "And so, every year, we gather on this night—the Night of Clear Skies. We honor their triumph. We honor their gift of light and life. And we remember that even in the darkest times, the voices of the Rozana guide us still."</p>
 <p>For a moment, the hall is silent, save for the crackle of the fire and this hissing and popping of its cherry-red embers. Then, Chief Diegia stands, hefts her mug high in a toast, and shouts, "Clear skies! Bright stars!" The hall answers in an echoing cry, mugs lifted toward the air: "<em>Clear skies! Bright stars!"</em></p>
 </div>
 
-Following the story, Oroles returns to Chief Diegia’s table, removing his headdress and pelt and setting his staff aside. As he returns, he shares his hope that the players enjoyed his story, adding: "I hope I did it justice, just as the Keepers of Voices have done so since the Night was first celebrated."
+Following the story, Oroles returns to Chief Diegia’s table, removing his headdress and pelt and setting his staff aside. As he returns, he shares his hope that the players enjoyed his story, adding: "I hope I did it justice, just as the [[Factions/Keepers of the Feather|Keepers]] of Voices have done so since the Night was first celebrated."
 
 Oroles and Diegia can share the following information about Oroles’ story if asked:
 
 * Millenia ago, the Tauta were a group of nomadic tribes seeking sanctuary amidst a world torn by war and conflict. According to legend, the Ladies Three guided them to the valley—Girvisa, now called Barovia—where the Tauta found a home of peace and plenty.
 * According to the story, the valley held a hidden darkness: the Devourer , an entity of dark fog and endless hunger. Enraged by the arrival of the Tauta, the Devourer rose up and blotted out the skies, threatening to extinguish all light in the valley. Only the Ladies held the power to stop it; together, they rose up to destroy it, thereby returning life and light to the valley.
 * None among the Tauta fully know the Ladies’ true nature, be it fey, divine, primordial, or something else altogether. However, for as long as the Tauta have dwelled in the valley or amidst the surrounding mountains, they have placed their faith in the Ladies to guide them—"even now," Diegia says solemnly, "centuries after we have last heard their voices."
-* No one knows what the Devourer was, where it came from, or where its endless hunger came from. However, according to the legend, the Whispering Wall that has long towered above the west side of Yester Hill rose from—or is all that remains of—the Devourer’s corpse. (Oroles proceeds to ask, offhandedly, whether the players have seen Yester Hill and the Whispering Wall.)
+* No one knows what the Devourer was, where it came from, or where its endless hunger came from. However, according to the legend, [[Places/Whispering Wall|the Whispering Wall]] that has long towered above the west side of Yester Hill rose from—or is all that remains of—the Devourer’s corpse. (Oroles proceeds to ask, offhandedly, whether the players have seen Yester Hill and the Whispering Wall.)
 
 As the conversation continues, and especially if the players mention their experiences at Yester Hill in [[Arc J - The Stolen Gem]], Diegia, Oroles, Como, and Kaldur take an active interest in the players’ prior encounters with the Forest Folk (who they regard with distaste and pity for their corruption at Strahd’s hands), Strahd (who they regard with muted loathing), and Strahd’s other servants (who they regard with disgust). 
 
@@ -2283,10 +2283,10 @@ After the players have had an opportunity to banter with Scorilo, Diegia stands 
 If the players accept, continue:
 
 <div class="description">
-<p>Diegia nods. "Then I call upon each side to place their wager upon the floor of this hall, so that all can see what the victor may win."</p>
+<p>Diegia nods. "Then I call upon each side to place their wager upon the floor of this hall, so that all can see what the [[NPCs/Victor Vallakovich|victor]] may win."</p>
 </div>
 
-If asked, Como or Oroles can quietly explain that each side in a boasting match is expected to wager something of material or martial value, which shall be collected by the victor. Scorilo’s wager is a *horn of silent alarm*, crafted from the curved, polished horn of a mountain ram, its surface a deep, rich brown carved with intricate runes and bound in blackened steel engraved with the head of a howling wolf. At its widest curve, the horn reads, in Druidic runes: *May the winds heed my cry.*
+If asked, Como or Oroles can quietly explain that each side in a boasting match is expected to wager something of material or martial value, which shall be collected by the [[NPCs/Victor Vallakovich|victor]]. Scorilo’s wager is a *horn of silent alarm*, crafted from the curved, polished horn of a mountain ram, its surface a deep, rich brown carved with intricate runes and bound in blackened steel engraved with the head of a howling wolf. At its widest curve, the horn reads, in Druidic runes: *May the winds heed my cry.*
 
 > [!info] **The Boasting Match**
 > The rules of the boasting match are as follows:
@@ -2358,7 +2358,7 @@ As the players climb the steps, continue:
 <p>The face’s eyes open, revealing glittering emerald eyes, and an ancient, resonant voice spills forth from its bearded lips. "The Seeker spoke true, then," it rasps. "You have come at last."</p>
 </div>
 
-The face belongs to Elder Burebis, a **storm giant**. Players who inspect Elder Burebis’s form more closely observe that the roots extruding from the wall have, in many places, bound and pierced his flesh, preventing him from moving.
+The face belongs to Elder Burebis, a **[[NPCs/Storm Giant|storm giant]]**. Players who inspect Elder Burebis’s form more closely observe that the roots extruding from the wall have, in many places, bound and pierced his flesh, preventing him from moving.
 
 ![[Burebis_hi-res.jpg]]
 <span class="credit">"Elder Burebis" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -2368,11 +2368,11 @@ The face belongs to Elder Burebis, a **storm giant**. Players who inspect Elder 
 >
 > For centuries, Burebis dwelled in comfortable solitude amongst the peaks of Mt. Ghakis, away and apart from the squabbles of the Tauta. While Kavan conquered his neighboring tribes, Burebis enjoyed a decade-long dalliance with a nomadic storm giant, Preida, and fathered a daughter, Gira, named for the valley above which he had made his home.
 >
-> Burebis was disturbed when Kavan’s conquest and King Dostron’s subsequent invasion laid waste to many of the Ladies’ holy places, greatly diminishing the Seeker’s power and presence. A prophetic vision, however, reassured him that, one day, his patron and mentor would return to her rightful power—when a group of mortals bearing the secrets of blood and the sun’s sigil would come to him seeking to restore the Ladies’ glory. (Although Burebis saw visions of the items these mortals would bear, he knows not their true natures: the *Tome of Strahd* and the *Holy Symbol of Ravenkind*).
+> Burebis was disturbed when Kavan’s conquest and King Dostron’s subsequent invasion laid waste to many of the Ladies’ holy places, greatly diminishing the Seeker’s power and presence. A prophetic vision, however, reassured him that, one day, his patron and mentor would return to her rightful power—when a group of mortals bearing the secrets of blood and the sun’s sigil would come to him seeking to restore the Ladies’ glory. (Although Burebis saw visions of the items these mortals would bear, he knows not their true natures: the *[[Items/The Tome of Strahd|Tome of Strahd]]* and the *[[Items/Holy Symbol of Ravenkind|Holy Symbol of Ravenkind]]*).
 >
-> Disquieted, but trusting in the vision he had seen, Burebis observed from afar as the Order of the Silver Dragon settled in Barovia, soon thereafter joined by the residents of the Abbey of St. Markovia. He saw the armies of Strahd von Zarovich sweep through the valley, and watched with horrified fascination as the Mists spirited the land beyond the Material Plane.
+> Disquieted, but trusting in the vision he had seen, Burebis observed from afar as the Order of the Silver Dragon settled in Barovia, soon thereafter joined by the residents of the [[Places/Abbey of Saint Markovia|Abbey]] of St. [[NPCs/Saint Markovia|Markovia]]. He saw the armies of Strahd von Zarovich sweep through the valley, and watched with horrified fascination as the Mists spirited the land beyond the Material Plane.
 >
-> By the time Strahd first met Marina Ulrich, Tatyana’s first reincarnation, Burebis’s daughter, Gira, was nearly two centuries old. Far more temperamental than her father, Gira grew enraged when Strahd drowned the village of Berez beneath the banks of the Luna River—and even moreso when the witch Baba Lysaga began to befoul the new swamp with black magic. After observing an omen that foretold Strahd’s death would swiftly follow Lysaga’s, Gira descended the slopes of Mt. Ghakis to the valley below to assault Lysaga’s cottage. Lysaga, however, easily emerged the victor—and enchanted Gira’s skull to create the giant flying skull described in <span class="citation">Giant Skull (p. 163)</span>.
+> By the time Strahd first met [[NPCs/Marina Ulrich|Marina Ulrich]], [[NPCs/Tatyana Federovna|Tatyana]]’s first reincarnation, Burebis’s daughter, Gira, was nearly two centuries old. Far more temperamental than her father, Gira grew enraged when Strahd drowned the village of Berez beneath the banks of the Luna River—and even moreso when the witch Baba Lysaga began to befoul the new swamp with black magic. After observing an omen that foretold Strahd’s death would swiftly follow Lysaga’s, Gira descended the slopes of Mt. Ghakis to the valley below to assault Lysaga’s cottage. Lysaga, however, easily emerged the victor—and enchanted Gira’s skull to create the giant flying skull described in <span class="citation">[[Items/Giant Skull|Giant Skull]] (p. 163)</span>.
 >
 > Enraged by his daughter’s death and the desecration of her remains, Burebis descended to Berez with all the fury of a maelstrom. Old age, however, had robbed him of his strength, and he barely escaped the encounter with his life. Dying of his wounds, but guided by the Roc of Mt. Ghakis—the Seeker’s familiar—Burebis found his way to Soldav, and the Shrine of the Rozana, where the primal roots therein pierced his flesh and sustained him with lifegiving sap. There he has remained ever since, a spiritual center of the Mountain Folks’ village and a living reminder of the world that their ancestors lost.
 
@@ -2391,7 +2391,7 @@ If asked regarding his place in the Shrine of the Rozana, Burebis can further ad
 * Gira soon became convinced that the omens foretold that Strahd’s death would swiftly follow Lysaga’s. Against Burebis’s warnings, Gira descended the slopes of Mt. Ghakis to the valley below to assault Lysaga’s cottage—and died at Lysaga’s hand. "Rather than bury her remains," Burebis whispers, his body trembling with old sorrow and rage, "the witch called upon fell magic to slough the flesh from my daughter’s bones, then placed an enchantment of flight upon Gira’s skull, so that she might ride through the skies upon it."
 * Enraged by Gira’s death and the desecration of her remains, Burebis descended to Berez with all the fury of a maelstrom. Old age, however, had robbed him of his strength, and he barely escaped the encounter with his life. Dying of his wounds, but guided by the the Seeker’s familiar—an ancient raven named Turul—Burebis found his way to Soldav and the Shrine of the Rozana, where the primal roots therein pierced his flesh and sustained him with lifegiving sap. "I have remained here ever since," he concludes somberly.
 
-Burebis can also share the following information regarding the Ladies of the Fanes:
+Burebis can also share the following information regarding the [[Factions/Ladies of the Fanes|Ladies of the Fanes]]:
 
 * With their holy places desecrated by Kavan, King Dostron, and Strahd, and their worshippers weakened and divided, the Ladies of the Fanes have been reduced to little more than spirit, unable to take action or exercise the power they once wielded. 
 * The Weaver’s holy place was the Swamp Fane, which stands near the ruined town on the shores of the Luna River; the Huntress's, the Forest Fane, atop Yester Hill; and the Seeker’s, the Mountain Fane, in a western clearing in the valley's woodland basin. Today, all three are desecrated—corrupted by Strahd’s profane magic, their power perverted and channeled toward the vampire’s use. "Through them," Burebis says, an undercurrent of anger to his voice, "the vampire commands the beasts, earth, and sky of the valley—and through them, he has tethered his soul to the land itself." (Though Burebis isn’t certain of this, he can confirm, if asked, his suspicions that, while Strahd remains bonded to the Fanes, his soul remains anchored to the valley, and he therefore cannot be truly killed.)
@@ -2400,7 +2400,7 @@ Burebis can also share the following information regarding the Ladies of the Fan
 ### Burebis’s Request
 Should the players accept his mission to seek knowledge from the Amber Temple, Burebis asks them to return to him should they do so successfully. "I have lingered long past my time," he rasps, "but I believe these roots have sustained my existence for a reason. I am old and bound, but I possess knowledge and strength that may well be of use to you." 
 
-If the players agree to return to him after exploring the Amber Temple, Burebis sags in gratitude and relief. As thanks, he offers the players a boon to aid them in their travels to and from the Temple. Read the following text, replacing the blank with the name of the character who bears the *whistle of the Keepers*:
+If the players agree to return to him after exploring the Amber Temple, Burebis sags in gratitude and relief. As thanks, he offers the players a boon to aid them in their travels to and from the Temple. Read the following text, replacing the blank with the name of the character who bears the *whistle of the [[Factions/Keepers of the Feather|Keepers]]*:
 
 <div class="description">
 <p>Burebis’s old eyes trace across your forms, eventually coming to rest upon &#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;&#x5f;. "I sense the feel of the Seeker’s magic upon you," he says. "You carry a boon of the ravens, do you not?"</p>
@@ -2435,7 +2435,7 @@ When the players awaken the next morning, Oroles greets them with a breakfast of
 * The temple is an ancient, cursed place, and has stood upon Mt. Ghakis almost as long as the Tauta have dwelled in the valley. It was built by strange mages long ago, who sought to contain dark, twisted things in amber crypts.
 * Many have sought to obtain power or knowledge from the temple; most all have fallen prey to the temple’s corruption, or else fallen victim to the danger that lies within. Though its builders died long ago, the temple remains well-defended by unnatural forces, with strange constructs and undead patrolling its darkened corridors. In addition, an evil miasma fills the temple’s chambers, consuming the vitality of any who seek to rest there.
 * The temple is well-hidden, mounted high in the frozen reaches of Mt. Ghakis and surrounded by deadly cliffs. Although an ancient road once led directly to its front facade, it collapsed long ago, leaving only treacherous paths and narrow ledges to approach it. "The easiest path begins on the southwestern edge of the plateau outside Soldav," Diegia says. "If you follow it, it will guide you to the temple’s doors."
-* The **giant goat** Sangzor guards the only pass that now leads toward the temple. Rumored to have dwelled upon Mt. Ghakis for centuries, if not millenia, Sangzor has sent many pilgrims to the Temple plummeting to their deaths down the mountainside. "It is said that Sangzor senses the evil that lurks in men’s hearts," Diegia says solemnly. "Only if it judges you worthy will it allow you to pass."
+* The **giant goat** [[NPCs/Sangzor|Sangzor]] guards the only pass that now leads toward the temple. Rumored to have dwelled upon Mt. Ghakis for centuries, if not millenia, [[NPCs/Sangzor|Sangzor]] has sent many pilgrims to the Temple plummeting to their deaths down the mountainside. "It is said that Sangzor senses the evil that lurks in men’s hearts," Diegia says solemnly. "Only if it judges you worthy will it allow you to pass."
 * Heirs to the chiefdom of Soldav, each joined by three trusted companions, have traveled to the Amber Temple for centuries, seeking to test their resilience and will against the corruption it contains. "From time immemorial, it has dwelled upon our sister peak," Diegia says grimly, "its whispers gently caressing the dreams of those it seeks to tempt. Each time a chief has accepted its invitations, calamity has befallen the tribe not long after. Now, we test our chiefs before they take the wooden chair—so that if weakness lurks in their heart, it shall be drawn out and be destroyed with its bearer." 
 * Currently, Diegia’s eldest child and only daughter, Diona, is undergoing such a trial, meditating in the temple with her three chosen companions for six days and six nights before she may return to Soldav. Should the players encounter her, Diegia asks them to convey her regards, and her hope that Diona may complete her rite of passage successfully and return home to her family.
 
